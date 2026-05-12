@@ -1,0 +1,486 @@
+I hope that my friends just. As.
+Soon as I. Get some sleep.
+I don't want to go back. You know, it's nice to.
+See you earlier. I was. Like you.
+Know, I did some research, so you should see.
+If it's against the college.
+I didn't know it's a good thing.
+I'm sorry. It's okay. I.
+Would like to invite you to.
+You've got an. Interesting time as it is now.
+I really. Don't.
+Know anything. About that.
+Yeah. So. I'm just going to go home.
+Okay. How did the midterms go last week? Yeah, a few people see if it's open and you all appreciate.
+Take the week off. Go to the modules, focus on the midterms.
+Um, so I have to mention that those that material will replace in May.
+So we're talking isomorphism sessions in May so that you can kind of remind yourself focus groups and stuff.
+Okay. Through the practice of the practice questions I'm through some past exam.
+This is a kind of a fishing session for you. So just in case you haven't seen, there are past papers on the early page.
+And some of those papers have like the the marking scheme and other solutions on that as well.
+So use them because it really, really helps to go through the past papers.
+Do you all do past papers and find them really useful.
+Yeah. And if you'll tutor's going through Paul's papers with you and talk to you about how exam papers are structured.
+Yeah. So you're aware there's some like easier questions and some harder questions on exam paper.
+So the easier questions are there to kind of for people that are going to get ask more questions,
+get harder and harder to kind of force people out into the different grade boundaries.
+So knowing that helps you do a good job in the exam paper because, you know, some of those questions are going to be quite easy and quick to get,
+but you want to make sure you get all those marks and then don't be put off by some of the tougher questions, because that that's a really stretch.
+Okay. Um, and you also my email said on Friday about the group assessment.
+Yeah. So everyone looking forward to the group assessment. Yeah.
+So as a kind of science communication exercise, as I said in the introductory lecture this year.
+I've got some some of my colleagues from around the world that are going to kind of take part.
+So you can interview them to ask them about that. Uh, to what they're doing in kind of nonlinear optics and by photonics.
+Um, so tomorrow I'll kind of go through how the assessment structured, um,
+give you some kind of pointers on how to make the videos and things that you can do and how to structure the video,
+how to edit it, and those sorts of ideas.
+Um, and obviously the international people, we're not actually going to get them over here, but for you guys in Australia.
+So you're going to be interviewing them, um, for teams. Um, so there are a couple of kind of pointers for how to do a team's video.
+I think the sound is one of the, um, trickiest things to get right.
+So I was I'm expecting some tomorrow. One one thing that you can do is to get them to record their voice.
+A voice memo on their phone. Like getting the phone close to them.
+Um, and then they send that to you, and you synchronize it up when you do the editing.
+So anyone kind of an expert or already playing around with video editing?
+You no doing any sort of TikTok videos or. YouTube videos.
+Well so this anyway, so this is to kind of get you into the idea of science communication because it's really important.
+Is anyone thinking about doing science communication? Yes.
+So he's got a sort of career in its own right.
+Now there are people kind of starting up businesses in marketing and things to kind of market science and communicate science and teach science.
+But anyway, as part of the lecture courses,
+it's normally really good fun and you'll get to meet some people actually using nonlinear optics and Brahmins getting for example,
+in the in their research. Okay, so we're now on two laser pulses.
+So you'll also be quite pleased to hear that we're kind of over the kind of crux of the lecture course.
+Now, we've done most of the really, you know, the tricky stuff,
+the stuff on the nonlinear light matter interactions when we calculate the susceptibilities and there's like lots of maths.
+Nothing particularly challenging, but just a lot writing and steps to get through the phase matching.
+Did everyone understand the phase matching side of things? And we did a few derivations there.
+Yeah. So make sure make sure you you're able to do that for the exam.
+But now we're kind of now putting it all back together and starting to put
+all the little bits that we've learned to see how we can use this in imaging.
+So today we're going to be looking at laser pulses. Why we need the laser pulses.
+Properties of these laser pulses. And then we're going to go through some relatively straightforward calculations to show you how you can.
+Calculate different properties of laser pulses and understand how the different specifications of
+the laser pulses affects the intensity of the light and the different applications that we can use.
+So you all remember this slide? Yeah.
+So this kind of this is kind of right at the kind of the heart of nonlinear optics when you're driving your charges close to the equilibrium position.
+You're just shaking the electrons backwards and forwards. And they're seeing this linear or parabolic potential.
+If you can drive a bit harder or apply a higher field, then they start to experience this nonlinear perturbation to the restoring force.
+And you need to hit quite high peak intensities or field intensities in order to pull the electrons this far away from the equilibrium position.
+And as we discussed, um, right at the very start,
+you start to see this non-linearity when you're close to literally pulling the electrons away from the atoms that, that orbiting attracted to.
+And this kind of as the back of an envelope calculation. This occurs at the atomic field strength.
+So this is just a ballpark number.
+If you wanted to kind of estimate how hard what sort of field you have to apply to start seeing significant non-linearities.
+And it's at the atomic of the order of the atomic field strength,
+where you're almost pulling the electrons away from their from the atoms that they're attracted to.
+And I think you'll remember that we calculated this figure.
+Yep. And you can see where that comes from. Yeah. So we're going to start looking at lasers today.
+Um, so we've already talked about what makes them special for science experiments.
+So we've got coherence both spatially and temporally.
+So what's the difference in spatial and temporal coherence. So what does coherence mean in terms of light?
+Yep. Every phase. Yeah.
+So you've got all your kind of photons producing electric fields in phase with each other, and this means all adds up in phase.
+This is part of the property of the laser emission.
+And if we're talking about spatial coherence, we mean across the kind of wavefront across our laser beam everything is oscillating in phase.
+And what about in time? That just means, as we kind of look at how the waves propagate in time or in space,
+in the direction of propagation, everything's oscillating in phase.
+Yeah. So that's a really unique property of the laser beam and the fact that everything's oscillating in phase.
+What does that mean for that kind of. Conditions for it to oscillate in phase.
+So this space temporal coherence that we have.
+So if it's all oscillating in space, all has to have the same frequency, doesn't it?
+So we have a well-defined narrow line width in laser emission.
+Um, and that's the property of coherence.
+So we're going to look at what happens when we start to make pulses and how that affects the line width of our laser beam.
+Um, that means they're very directional. So you can keep them nicely, very well collimated.
+So the thing that makes things diverge is the fact that you don't have that spatial coherence across your kind of optical, um, your laser spot.
+So that that enables us to make the thing very directional.
+We can encrypt, we can hit very, very high intensities.
+And this is why we need them for nonlinear optics.
+We've already talked about this kind of having to hit almost the atomic field strength in in our electromagnetic field.
+We need very intense laser beams to do this in practice.
+And, and I kind of and as an aside, when we start squeezing things down into tiny pulses,
+it also gives us the ability to have very, very good time resolution.
+So lasers, the kind of lasers that you would have used in your kind of undergraduate lab is least in the undergraduate labs.
+Yeah. There's little tiny ones mounted on these kind of optical slidey things.
+They'll be c w laser. So continuous wave. So they're not pulsed at very narrow line width.
+And it's just constant beyond. We're now going to be looking at pulsed emission.
+What happens when we start producing very short pulses of light.
+So we're effectively turning the laser on and off so that we can punch up all that power into short bursts of light that come out with the laser.
+So to kind of give you some, some put things on a time scale.
+So. This is a kind of chart. Different time scales, the different prefixes in front of the time.
+So we've got seconds. So seconds is about the fastest thing that you can resolve with the human eye.
+Yeah. So anything happening? Faster than a few fractions of a second.
+You just can't see. And, um, to sort of give you.
+To put this in perspective, what's the what's the refresh rate of your television or your computer screen at home, like a standard computer screen.
+How many frames per second? 60.
+Yeah. So your standard TV monitor, unless you've got, like, one of those really,
+like, expensive gaming GPUs that allows you to do like 150 frames per second.
+So 60 frames per second is a kind of standard video.
+So and when you look at that with your eye you can't see the frames.
+It just looks like a continuous movie because you don't have the kind of resolution to do that.
+So anything sort of short of like a 10th of a second,
+your eye just doesn't see it because of the way your life looks and how it averages the signal over time to produce the signal you perceive,
+and then move down to milliseconds. So 1,000th of a second.
+So anyone familiar with this? Hate to have to go on a horse.
+Now. It's not the first video ever recorded.
+Um, there was a some like there's some historic event that happens in some gentlemen's drinking club where they were having,
+like a discussion and a wager about an argument over whether all four of the horses feet leave the ground while it's running.
+And this kind of sets off this big kind of. Scientific exploration, and at the time all they had was kind of standard cameras.
+They didn't really have motion that they can take films.
+And even if you could take, I think they just have kind of weird, kind of like old fashioned cinema films, but that the speed was very, very slow.
+Um, so this guy set up this I mean, at the time, 100 years ago, he was like really famous.
+And it was the first kind of high speed photography where he set up a lot of, like,
+still frame cameras, um, a lot of track, and then had, like, pressure sensors.
+So as the horse ran along it set of all the different cameras, um, and he was able to show that at some point during the galloping.
+So like if the horse's feet were above the ground.
+But that was like a groundbreaking, um, thing hundreds of years ago.
+And then we get down to microseconds, which is ten to that. How many minuses?
+Yeah, ten to the minus six. So this would be your kind of high speed photography with a modern high speed camera.
+So this is a bullet going through an apple to go very, very high speed camera.
+And that's the kind of limit of how fast you can film things.
+Uh, what about this 110 to the West Coast?
+Nanoseconds. Yeah, ten to the minus nine.
+Um, so in terms of the inverse here, we're looking at kind of the gigahertz range.
+So this is a kind of computer chip running at the gigahertz.
+But calculations per second would put you in the gigahertz.
+And then what have we got here down the peak to seconds. What's that picture showing?
+Relevant to the electricals. So here these are kind of tiny pictures seen.
+But this needs a kind of molecular vibrations. So we've got the molecular polarizations occurring on the picosecond time scale.
+And this is when we looked at kind of Raman scattering and infrared scattering.
+And that's what gives us the line with the vibrational absorption.
+And then when we get down to a few femtoseconds or sorry below femtoseconds then we've got kind of atomic polarization.
+So exciting electrons to excited states.
+And that's pretty much as fast as you can make anything happen. Yeah.
+Um, and then did you see the somebody got the Nobel Peace Prize for the Attosecond laser a few years ago?
+So somebody developed laser pulses that could be shorter than or shorter than the timescale the electron transitions have,
+and that allow people to actually measure the time dynamics of electron absorption by producing these ridiculously short attosecond pulses.
+So that's just to kind of put us into the kind of timescale we've looked at.
+The length, scale kind of help them scale over microns, nanometers.
+And so but this is looking backwards, looking into smaller and smaller time divisions.
+So if we kind of do our recap back to the start of the lecture course,
+we know that we need to produce electric fields of the order of five to the 11V/m.
+Now we're going to look at kind of putting this into context of the sorts of intensities that you would need to produce that,
+and to start thinking about what sorts of light sources, what sort of laser you would need to generate that field strength.
+So this was kind of something you learned in electromagnetism last term?
+Um, is it a red box because you want to remember it?
+What does this equation allow us to calculate? Even say words like Stephen.
+So when you when you studied this in electromagnetism with Matthew, you learnt about this thing called the Poynting vector, which kind of got no name.
+So in terms of the physical context, it allows you to calculate the intensity.
+Of a light beam in terms of its electric field.
+Yeah. And intensity scales with electric field squared.
+So what we're going to do is we're going to use this equation that we've got this
+half times the speed of light times it's item naught times the field squared.
+And then we can put our atomic field strength in.
+And we can calculate the rough estimate of the type of laser that we need to generate this sort of field.
+So we'll start with the equation that Matthew gave you.
+So the average intensity is four times the speed of light times Simon naught times the field squared.
+Is that clear. Click and we'll see that it's a big enough. So we already calculated that the atomic field strength is five times ten.
+To the 11. Volts per meter.
+So all we need to do is just put those numbers into that equation and see what we get.
+Speed of light times. So I will not.
+Times. The atomic field strength.
+Squares, and you can see that this number is going to be big because tend to be every square is going to be big.
+So. The numbers into our calculator.
+Do a kind of sanity check with our unit. So we've got speed of light as in meters per second and electric field trips are getting so no constant.
+Electric field squares. And that gives us reasons.
+Just a second. Reach out to this guy who just wants.
+Which is what we expect for intensity. So power per area, that's what we mean by intensity.
+That's three times ten to the 20 bits per square metre.
+That's a lot. That's a lot of power. Yeah.
+So if you think about these bolts, it's got a not now because they did a light bulb in a ceiling LED light maybe 20V ten watts.
+So this is a huge amount of power. So how could we achieve that intensity.
+With a lower powered laser. What things can we do? So we've got watts per meter squared.
+What can we do to increase the intensity? And we're working in a microscope so we can focus it down to a smaller spot.
+So if we squeezed the light spatially.
+So if we take it out and focus it to a one micron spot, which is a pretty small spot to focus it down to, not quite as small as we can do.
+So the area of a one micron spot is going to be ten to the 12, ten to the minus six square 10th, -12m.
+So that would be the average have three times ten. Eight walks, which is huge, isn't it?
+If we went even smaller than that, if we said, okay, let's squeeze it.
+We must the limit that we could do so if we had, like a green laser, we might be able to focus it down to 500 nanometers.
+Yeah, so that would be 25.
+The -30m. Let.
+That would require power, 75MW.
+So focusing it down to the smallest diffraction limited scope that we could do for green light just as the ballpark.
+You can see you kind of need a power station to generate the size of a laser.
+We're talking huge, huge, pulsed, huge laser energies.
+It's probably more so than that, but I guess it's the petaflop laser facilities where people are trying to do fusion.
+The clearly, if you want to image something and understand its chemical properties,
+sticking it under that sort of laser intensity is not what you want to do, because there will be nothing left.
+Yeah, so it's just not achievable under normal kind of considerations.
+So we can't squeeze it any more spatially than the diffraction limit.
+So the only other property that we have is to squeeze it in time.
+So our intensity is in meters per square meter.
+So we've kind of hit the diffraction limit by focusing it down to 500 nanometers.
+If we wanted to squeeze it any more to get the intensity higher we have to squeeze it in time.
+So what's our joules per second?
+So we have the possibility to squeeze it temporarily as well as spatially to get that high intensity.
+And that's what we're going to look at in a second. If I'm following this.
+Yeah. So it's kind of analogous to kind of pressure if you take somebody of the same weight.
+So I don't know how have you I'm not gonna tell you my weight, but I'm wearing like big boots.
+If I was to weigh the same and stand on the kind of wet sand with my boots on,
+you could see that the pressure is a function of the area of my footprint.
+If I was then to get some really spiky shoes like this. High heeled shoes and oh, my weight on the heel.
+You can see that we can achieve a much greater pressure by focusing my weight into that really small area.
+So it's very, very analogous. If we take light pulses, if we look at kind of bunching our photons up in time to peak the intensity,
+if this is our broad pulse, the energy of that pulse is the area under the curve.
+Yeah. And the intensity is on the y axis.
+If I squeeze that all those photons into a much shorter time,
+the area underneath the curve has to stay the same, which means the intensity has to go up.
+Yeah. And the key to nonlinear optics is that the nonlinear processes scale with intensity.
+No average power. Yeah. So we can we can keep the average power the same and get very high intensities and hit these nonlinear,
+these nonlinear interactions because they scale with intensity squared.
+Not with average power. Yeah. So this is where ultrafast lasers come in.
+So this is a picture of one we've got in our lab down the corridor.
+This is a. Ring laser.
+This is an optical parametric oscillator being pumped by green pump light.
+We'll talk about this in a few lectures time.
+Um, but the the property of this laser is that it has a cavity that enables pulses to travel around the cavity,
+and only the pulses get amplified within the laser. We'll look at how they work in a couple of lectures time.
+But now we're just going to look at the different, um, properties of these lasers.
+So when you get very short pulses you can measure very fast processes.
+And that's kind of something that comes for free when you're working with these pulsed lasers.
+Um, and the bit that we're interested in is that you can have very high peak intensities at moderate average powers.
+So if you if you look at the average power, it's the area under the curve.
+So this dotted line is plotting the at the time average power.
+You can keep that relatively low whilst achieving very high peak intensities.
+Yeah. So remember the average power or the power. The energy is the area under the pulses.
+It's the intensity that we're interested in. And that's where the peak is.
+And another kind of consideration. Is the bandwidth of each of these parts.
+So we're going to look at the implications of squeezing light into short pulses of what effect that has on its bandwidth.
+And that becomes important when you want to look at spectroscopy and to resolve nonlinear interactions as a function of frequency or wavelength,
+that they take this. So there's a couple of equations that you need to remember to do these calculations.
+So. That's my point.
+So you got the average power output. So this is the time average power of the laser.
+So the area under this dotted line we've got the pulse width which is determined by the properties of the laser cavity.
+And that's the full width half maximum in time of these pulses.
+And it's the full width half maximum of the intensity of the pulses.
+And we'll look at the difference between intensity and amplitude later.
+But the intensity is the thing that you measure in an experiment when you measure the light intensity light onto a photo detector.
+You're measuring the intensity of the photons, and it's the full width half maximum which we used to find the pulse width.
+And then the other property that we define is the repetition rate.
+So how many pulses per second the laser cavity produces.
+And again this is controlled by the physical makeup of how you designed your laser cavity the length of the laser cavity.
+And in practice it's the round path length of your photons traveling at the speed of light.
+You convert that into meters. And that's that, that that controls that reference.
+So there are three. Equations that allow us to calculate everything we need one for the pulse energy, one for the peak power among the peak intensity.
+There in a red box. What does that mean? What do I have a red box.
+If you need to remember it. Yep. So this isn't an equation you'll get given.
+So you need to remember these ones. But actually if you I've written them out in words.
+Because if you look at each of these equations you can see they're pretty self-explanatory, aren't they?
+So you've got the pulse energy. So that's the energy of each house.
+So you calculate that by dividing the average power by the number of pulses per second.
+Yeah. And that's just telling you the amount of energy in each pulse.
+Yeah. It's pretty pretty straightforward. And then you've got your peak power.
+So once you've calculated the energy of each pulse you just divide that by the pulse width.
+Yeah. That gives you the power the peak power of each pulse.
+And then you've got your peak intensity. And that's just your peak power divided by the area that you focus on to.
+So, you know you need to kind of remember these equations. You can pretty much work them out for yourself.
+Yeah. Kind of quite self-explanatory. So let's look at a couple of examples.
+So these are the sorts of questions that we get asked.
+So this is really just a demonstration to show you kind of difference or the importance of the rest right.
+So we've got two lasers and you're being asked to calculate the peak, the pulse energy, the peak power of two different lasers.
+They each have an average power output of ten minute volts.
+So the average power is the same.
+Yeah, but the only difference is they both produce pulses where the pulse width is 100 femtoseconds.
+The difference between the two systems. So this one's used for nonlinear optical microscopy.
+And it has a repetition rate of 80 mega hertz.
+So 80 times ten to the six pulses per second.
+Whereas another laser producing the same average power and the same pulse width.
+Pulse width has a repetition rate of one kilohertz.
+So it's producing a thousand pulses a second. So the properties of these two lasers are very different.
+So it's a kind of the analogy of like somebody firing a machine gun where you've got like the bullets coming out really,
+really quickly like many bullets per minute. But each bullet is very light compared to a tank which fires the same amount of blood.
+The all in one gun. Yeah. So we can do like a calculation just just to show what kind of difference or the importance of the repetition.
+Right. So. So let's first calculate the 80MHz.
+That we've got the pulse energy. So that's the average power divided by the bat rate.
+Ten times ten to the minus three.
+It's 18MHz.
+That gives us 1.1 to 5 times ten to the minus nine joules.
+10.125. Nanotubes.
+Tiny amount of energy per pulse. And we can look at the peak power.
+Average divided by rat rate. So how the county.
+Myself. So the pulse energy. My body comes with.
+We take our pulse energy that we just calculated. I'd like the pulse rate, which is 100 10s plus 15 joules per second.
+That gives us one point to lie.
+It was? Yes. So for an average power of ten minute volts, you can see that we can get really high peak powers.
+Okay. So 1.25kW is a lot.
+Yeah. When you're doing it for a very short amount of time. But we're still hitting that really high peak intensity.
+And our non-linear processes scale with intensity not the average power.
+And that's the key to it. So now let's compare that to our one kilohertz laser system.
+So we got the pulse energy. Once again, it's average.
+If I buy the battery. Again, it's still ten volts.
+This time we're dividing by one kilohertz.
+That gives us ten to the minus seven jewels.
+You can see much higher. Of sandwiches and then at peak power.
+Maybe the pulse energy. With.
+A cold sweat is before. This time.
+Do you see me achieving much, much higher powers by squeezing the light pulses,
+which are much bigger because we're only producing thousands of times a second?
+Yep. So two very similar lasers in terms of their average power and pulse width.
+But the repetition rate is very different. Yeah. So one laser was spitting out pulse 80MHz.
+Yeah. So 80 million pulses per second.
+Whereas the other one is just producing 1000 pulse for seconds.
+Yeah. So it's analogous to this kind of machine gun rattling out tiny pieces of land really quickly compared to a tank,
+which is like blasting out massive chunks of a much lower time interval.
+So the next thing we're going to look at just for those two laser systems is the effect of wrap rate on the time between the pulses.
+So it's very straightforward.
+I haven't put this in a red box because this is just like distance over time calculation show that you'd be able to do this.
+So we know what the speed of light is. We know what the time between the pulses is.
+So it's very easy to calculate the distance between them.
+So back to our hair of the machine gun versus the tank.
+So we know the distance is equal to the speed of light times time.
+So for the 80MHz laser D is equal to the speed of light.
+I didn't buy the rent parade. So one over the back rate gives us time between the pulses.
+That comes out at 3.75m between each pulse.
+And this is something that you can physically observe when you're setting up the laser pulses on your optical bench,
+and you have a laser with a repetition rate of 80MHz.
+One of the things that will come with when we get onto the optical microscopy later,
+you'll I'll explain some of these experiments that we do require two different colors of light to mix together to give us optical contrast.
+So you have to take two laser beams of two different frequencies or two different colors, and you have to overlap them.
+So to overlap them, you have to physically get the two laser spots or laser beams lying on top of each other.
+But when you deal with pulsed lasers, the pulses have to arrive at the same time.
+So you have to temporally overlap the pulses.
+And to do that, you send your two laser beams around the optical table, and then you put in a delay stage like a mirror,
+that you can move backwards and forwards to change the optical path length of one film over the other.
+And you physically measure that at 80MHz, they need to be four meters apart between subsequent pulses.
+So it's quite a long distance, four meters obviously, because like so quick, even a really, really small amount of time.
+But each one over 80MHz gives you quite a long distance.
+And if you do the same calculation. The one kilohertz.
+There is a system. Same speed of light. This time.
+Kilohertz and you see that you get something like 300km.
+So not so easy. Do an optical patch. You just can't do it.
+But what's really cool about this, the one of the.
+So working with the 80MHz systems,
+if you want to measure time because you've got this spatial domain that you can control distance over which the laser pulses have moved,
+you can you can control the time in which the pulses arrive.
+Very, very precisely.
+So you've got your 100 femtosecond pulses only traveling at the same speed of light, because that's the speed that the light travels at.
+And by moving the delay states backwards and forwards by a few millimeters, you have like exquisite control over the timescale.
+You can get down to sub femtosecond timescales by traffic, by moving the states backwards and forwards at a few microns.
+So microns is something that you can adjust by hand. So you've got kind of micron precision very easily with a turning screw.
+And then if you use the speed of light you can actually see you can convert that tiny distance into really, really small amounts of time.
+So that's one of the advantages of ultrafast laser pulses.
+So the next thing we're going to look at is a kind of skipped, say,
+kind of the consequence of squeezing the light into short pulses is that it has an effect on the band width.
+And you did some calculations like this in quantum mechanics last term with Claire.
+I think it's one of the things you did in the first couple of weeks when you went to conservative principle.
+So we'll start by treating this using the uncertainty principle.
+But in a in a couple of slides time, we can see that there's a much more accurate way to do this.
+So you know that the this version of the uncertainty principle says that you can if you know the energy really, really precisely.
+There's a limit to which you can know the time.
+And likewise, if you know the time that something happens really precisely, there's an uncertainty in the energy.
+So this is exactly what happens with our photons in the light pulses.
+If we if we combine them into really short pulses, the uncertainty in the time suddenly got very, very small.
+And that means, you know, the energy shoots up. Yep.
+And this is exactly what we do when we squeeze them into short pulses.
+We know that the intensity of the area under the pulse has to stay the same.
+So we hit kind of high peak intensities. This energy tells us that by squeezing the light into these short pulses,
+there has to be uncertainty in the energy of the photons, which means there has to be a broader width of photon energies.
+And the photon energies is associated with the wavelength.
+So we get a broadening in the wavelength of our laser pulses simply by squeezing them into short pulses.
+And the uncertainty principle shows us that this is a way we can kind of estimate this.
+And so if we take two pulses, one which is broad in time, you can see that the wavelength bandwidth gets narrower.
+And likewise if we take shorter pulses in time it has a broader range of frequencies within it because of the uncertainty principle.
+So we can do a quick calculation.
+So we're asked to compare the bandwidth of a one picosecond pulse created well centered 800 nanometers compared to pulses of the same.
+Width in time centered at 1600 nanometers.
+So we start with the uncertainty principle. One second.
+Is it you? Nanometres.
+We start with the uncertainty principle. Jesus five times ten.
+11. That's 500.
+Gigahertz of bandwidth. And that's expressing the bandwidth of our pulses in terms of frequency.
+Yeah, but we don't like to work with frequency.
+We want to know how that frequency converts into wavelength, because it's the wavelength that we measure when we're dealing with the pulses of light.
+So you have your laser beam, you're shining into a spectrometer,
+and you want to look at the bandwidth of the different wavelengths that you've got within that house.
+And can anyone remember why that's important to compare it for two different central wavelengths.
+You have thought that if you convert frequency of width and frequency into wavelength,
+it will be the same for both those pulses which you know, think.
+That would be your kind of intuitive thought to go to that we'd be wrong if we took that approach.
+Because if you remember. The relationship.
+Between wavelength and frequency is an area.
+So if we look at the relationship between frequency and wavelength, we can see their inverse inversely proportional.
+Let's see the speed of light and constant proportionality. And that introduces a problem because I'm just converting frequency to wavelengths
+in the same way because they don't mean anything proportional to each other.
+So we have to differentiate. So we look at the rate of change of frequency as a function of wavelength as opposed to one over lambda.
+So we get minus c. Wavelength squared.
+Yeah. So you have to remember that. So if you then want to calculate lambda.
+You can see you've got lambda squared in there. Yeah.
+So the bandwidth in wavelength is proportional to the central wavelength squared times the bandwidth in frequency.
+And it's a really kind of conventional error for everyone to forget about doing that when you're doing an exam question.
+So let's look at 800 nanometers.
+So I would band with wavelength, because then going to be 800 times ten times nine squared times the frequency bandwidth,
+which was 500GHz, or the speed of light.
+That comes out at one nanometer. Wavelength is a bandwidth of one nanometer.
+If we took a similar laser that had essential wavelength of 1600 nanometers, six voice essential wavelengths put the same thing, the same calculation.
+I tried to kick it a variable speed. Right?
+Comes out at 4.3 nanometres, so we need more than four times the bandwidth in wavelength to produce those short pulses.
+And later, towards the end of this exercise, will actually see physically where that comes from.
+When we start to look at how the pulses are produced within the laser cavity.
+So the uncertainty principle enables us to kind of.
+It is a rough estimate of bandwidth in terms of in terms of wavelength.
+And as we're going to see in a few slides time, we can then be a bit more precise and even a bit more.
+So I still be calculating precisely the range of wavelengths required to create a pulse.
+And the reason that you mean, obviously the uncertainty principle is true and correct,
+but we're actually going to look at the physical properties of the laser cavity
+and why you need all those different bandwidths to construct the pulses.
+So the kind of if we have to take a look at our optical pulses and kind of mathematically formalize how we would write them out,
+we can write out the electric field in terms of the intensity as a function of time.
+So that's the envelope over which the kind of that sits over our electric field.
+And then we have the oscillating term which tells us how the field is oscillating within those pulses.
+And the key function here we're looking at is is this all is a function of time.
+So how the phase of that pulse changes as a function of time.
+So the intensity of the square root of the intensity tells us the amplitude of the pulse, like the envelope that sits over our pulse.
+And then this blue term phi as a function of time that tells us how the color of the pulse evolves in time.
+So if we've got the fact that we have a phase change across this pulse, what that's going to me is the frequency within the pulse is changing.
+And that's exactly what happens in real life policies when they travel through a media that has dispersion.
+So what did we say about, well, what do we mean by dispersed mean? We introduced it a couple of weeks ago.
+Where does this person come from? Remember different wavelengths experience different refractive indices.
+Yes. If you take like a glass or anything, that's not a whole vacuum.
+Different wavelengths experience with different refractive indices.
+And that means as the pulses propagate through that material, different wavelengths or color components experience different optical path lengths.
+So trying to get pulses to stay together in a real material is very challenging,
+because when we looked at the picosecond pulses at 800 nanometers, you've got one nanometer, a bandwidth that not a great spread of wavelengths.
+But when you're talking with these ultrafast timescales that we're dealing with.
+You can see that just one nanometer, a path that exists through a material that has a non-zero dispersion.
+It's going to broaden your pulse through dispersion.
+So you've got different colors if you want them all to arrive at the same time to give you your perfect pulse because of the dispersion.
+Different wavelengths experience different path lengths and arrive at different times.
+So with normal dispersion, well, the blue colors within your pulse arrive before or after the red ones.
+It was a hit. Remember we said that the normal dispersion, the refractive index, increases with frequency.
+As the wavelengths get shorter and refractive index goes up.
+So what does that mean in terms of your pulses? Which color?
+Which color is going to arrive first? The red one.
+Yeah. So the red photons within your pulse, they all left together at the same time.
+They start traveling through some dispersive material. The red pulses experience a shorter path length in the blue pulses, so they arrive first.
+And that's the effect of dispersion on your pulses.
+And that's one of the real challenges in working and using optical pulses in kind of any application,
+is the second you send them for glasses through any sort of glass and lens, a microscope objective, they get dispersion.
+And it's kind of it's something that we have to work with. So we'll stop there for today because we pretty much run out of time.
+Um, there's a couple more facts that we're going to do some more derivations on this, this topic.
+Um, tomorrow we're going to have the introduction video assessment.
+So we'll dedicate all of tomorrow's lecture introducing the video to my assignment,
+how it's going to be assessed, the group's advice on how to do the video editing.
+The topics that you'll get to pick from today are six topics that you can cover.
+There are 24 of you, and you can have eight groups of four.
+So you each get to do one different topic. Um, and I'll introduce this tomorrow.
+So any questions. Yeah, if we're looking forward to the video assessment.
+If you've all got a small firm. Yeah. So the whole thing is set up to do on a small phone.
+And as I was saying a couple of weeks ago, nowadays with like a modern smartphone.
+The cameras are really good and you can do pretty much any sort of festival recording on a small phone.
+And I think there was some I'm sure it was like some kind of at the iPhone, but there's some film that's been caught on Netflix.
+And then when they filmed that, the iPhone 17, you had this what it's like.
+So that's apparently how you get like an iPhone 17 camera is that you can see kind of cinema quality photography on it.
+Brilliant. So see you all tomorrow. Thank. You.
+So much. Thank you.
+I'm not gonna finish this one.
+So. I just basically.
+Yeah. Yeah. I've.
+I've just accepted that. I used to work.
+Twice. Um, well, so access problems are just, um.
+You. Know, just what do you think?
+Oh, no no no no no.
+I'm not sure, but, um. Oh, thank you very much. Then what is going on?
+Yeah. So. Yeah. So I think I quite like.
+This. I don't.
+You? Never.

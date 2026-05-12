@@ -1,0 +1,522 @@
+Yeah yeah yeah.
+Yeah, yeah. I think.
+Common. Condition disorders.
+Of. You're right.
+Of course, you always give up too much on the weekends. Oh, I got emotional weekend.
+What'd you do? I once was blind. Oh. You didn't?
+Yeah I wasn't. Well, I didn't rain as much support out here.
+Yeah. I'm someone. I mean, this one's covered in scratches from a truck into a bush.
+Um, my knees are also covered in scratches.
+Uh, you know, it's good fun. Um, experimented and thought out on the right.
+Likes. Um, it heats up very quick. True.
+Yeah. Minutes. Anyone else gets anything exciting?
+Very disappointing. Yeah.
+Uh. What?
+Are. You one of the online quizzes on any.
+You said it was dum dum dum dum.
+Yeah. So. Well, it's not just.
+It's there for me to see how well you're doing, but it's also really good to give yourself feedback in terms of understanding.
+So if you haven't done them, I strongly suggest getting on with them.
+We really. Yeah.
+Same recipe. Okay,
+so we've kind of last week we looked at kind of contrast mechanisms how we can
+exploit live matter interaction and to to work out what's inside materials.
+And then second lecture, we went on to look at kind of a fraction of the minute resolving things we did with microscopes.
+And we kind of moved upon. And the angular resolution that you learned when you were doing astrophysics.
+And we kind of reframed that in terms of the microscope objective.
+And the reason we want to do that kind of reminds why what we like to do with angles under a microscope.
+Because they're really hard to measure. Yeah. So dealing with telescopes, you can easily work out the angle that two stars make in the sky,
+but you don't know how far away they are and then how far apart they are.
+In any microscope. We know exactly how far where to go.
+What we want to do is to point exactly how far north we get to sample.
+So we kind of we looked at fluorescence and we looked at absorption.
+Um, and we, we kind of touched upon this idea that the contrast mechanisms that we want to use
+in the optical regime correspond to electrons being trapped inside molecules,
+where we use the, um, infinite, uh, finite square potential.
+Well, and the length over which they're confined is larger than an atom, and it corresponds to kind of sort of 6 or 7 kind of chemical bonds across.
+And when, when, when the electrons are confined on those scales, we kind of we get transitions or excitation levels occurring in the optical range.
+And we looked at how you can have kind of dyes and how you could have fluorescent tags that enabled you to get chemical specificity.
+Yeah. What was the problem with those dyes and tags?
+Yup. The size of. Yeah. The size. So it's appropriate to use a kind of fluorescent tag if you want to label a protein.
+A protein is massive, and it's the equivalent of sticking like a one kilogram GPS tag on a five ton elephant.
+Other molecules are much smaller.
+So if you want to image things like drug molecules, metabolites, fatty acids, then the size, the molecular weight of the die becomes comparable.
+And you're going to perturb what the molecule does, um, by sticking that on top of it.
+And of course there's other applications where you just can't stain the sample.
+So what if you wanted to look at kind of an a human.
+So we talked about kind of dot making to like gnosis from kind of taking biopsies of people's tissue.
+The ultimate goal would be able to kind of scan people to take optical images of people without removing the tissue.
+So if you want to use kind of chemical contrast, your patient isn't going to like it.
+If you have to kind of fluorescently label them, it's just some it's just not an option.
+So here we're trying to understand how we can exploit the physics of light matter interactions to give us some sort of chemical specificity.
+So the colors and fluorescent emissions that we get from these tags and labels,
+the chemical specificity is coming from the biochemistry of how we label different bits, rather than the physics of the light match interaction.
+And here we're moving now into the kind of physics of the light matter interaction that underpins how we can generate control.
+So the goal is we want to exploit. Susceptibility of different materials,
+like citing the materials with different combinations of wavelengths to give us contrast without having to use fluorescent labels.
+So we can look at light matter interaction in the kind of conventional sense where we're going to be considering a linear light matter interaction.
+So we're not moving on to the nonlinear stuff, which is looking at how we deal with light matter interaction in the conventional way.
+We're going to derive polarization and set susceptibility for different dielectric materials using this thing called the Lorenz oscillator model.
+And this is where you kind of waves and optics module that you did in the first year when
+you looked at kind of harmonic harmonic oscillations where it meets electromagnetism.
+We put the two together. And then we can understand how material interacts with light at different frequencies.
+And then start to think about how this term susceptibility links to optical contrast.
+So this is kind of I keep kind of hammering home this equation because it's the kind of fundamental part of light matter interaction.
+So we have this polarization P what's the definition of polarization.
+This polarization vector neighbor remember. It's actually induced dipoles per unit volume.
+Yeah, you remember that. And it's a vector. Um, episodic notes are constant.
+And this susceptibility is the thing that maps the electric field onto the polarisation factor that's produced.
+So both e the electric field and the induced polarization of vectors.
+So we've kind of got this kind of model where we have positive charges and negative charges surrounding those positive charged sentences.
+You clean electric field and that electric field distorts the charge distribution.
+And now we're going to think about what does this mean in terms of light matter interaction.
+So we're going to start kind of digging into this little bit more and seeing how different
+materials respond to different frequencies or different wavelengths of applied electric field.
+And then kind of spoiler or not. Spoiler. I'm just going to give you a little hint.
+In nonlinear optics, this polarization that's induced allows us to generate new frequencies.
+And that's really the fundamental part of nonlinear optics that this polarization vector p becomes a source term.
+And that's, that's that's that's kind of the crux of the whole topic.
+So if we look at light matter interaction that kind of said this a few times, but it's really important to reinforce it.
+So electric field drives electrons.
+So the electrons respond to the applied electric field.
+But in most materials electrons aren't free.
+They're bound to the material in some kind of potential.
+And the potential is kind of something that's unique to that material or environment that the electrons are in.
+And that's something that we use to try and explore what the material is made of,
+come up with unique contrast mechanisms to detect that particular type of material.
+So different materials have different potentials.
+That gives the kind of uniqueness of the material. And.
+Great polarization that we induce depends on the material and the electric field and the stuff that we're interested in.
+The unique the unique properties of that material are hidden within this susceptibility.
+So the electric field is the field you apply from the radiation that you shine onto the material.
+And P is the polarization that you produce. The strength of the response of that material to the electric field.
+And chi is the bit that we want to probe.
+We want to understand what's inside K, because that tells us a lot of stuff about the material, how it's ordered,
+how it's structured, the potential that the charges to Saturn in terms of what type of materials that it is.
+And the way we're going to explore this is by considering electrons in materials to behave like a driven harmonic oscillator.
+So you remember the harmonic oscillator from stage one. Yes.
+So we're going to model the response of electrons to oscillating electric fields as if they're harmonic oscillators.
+So. The next thing we need to think about is this single charge radiation model.
+So in electromagnetism you you learn about electric fields and you.
+I'm actually in the exam or, um, midterm test me.
+You asked to kind of field lines with different charge distributions things.
+Is that one of the things you've got set.
+So for a point positive charge you would have field lines radially coming away from that positive charge center.
+The field lines are pointing away from the positive charge because they charge in the direction that a positive test charge would move in.
+Are you quite happy with these straight lines coming out from that positive charge?
+Yeah. It's nothing new. And then you get kind of concentric rings of lines of equipotential that go around at 90 degrees to fill lines.
+Yep. To where it becomes interesting and where we start to think about kind of electrodynamics rather than electrostatics,
+is what if we consider just shifting that positive charge that we've got our charge distribution?
+If we're able to just kind of reach in and just yank that charge away from where it was very quickly,
+because we have to get continuity of the field lines,
+if we suddenly shift it up in the vertical direction suddenly, because the continuity of the field lines,
+we're going to get a distortion in the field line as a distance away from the charge.
+And if we kind of allow that to evolve with time, we get a wave traveling out away from the positive charge.
+Yeah. So if we then take our charge rather than just shift it once, if we grab hold of it and just shake it up and down,
+we're going to get a rate that a wave traveling along the electric field lines in a way that that charge is emitting radiation.
+Yeah. So it will make sense. So you can see if it's moving up and down.
+We've got these sinusoidal waves traveling along the field lines as we move away from.
+Sorry. You said it was a driven oscillator. What's causing the driving?
+Well, we'll get to that in a second. So at the moment, the driving is my hand wiggling this charge up and down.
+That's in a second we'll look at most obviously it's the light which is driving it up and down the electric field of the light, which is a sine wave.
+So at the moment we're just doing this kind of thought experiment where we can physically
+reach in and wobble this electron up and down with a kind of sinusoidal displacement.
+And we get this field being emitted. So let's look at what happens in a material.
+So you've covered dielectric material. So dielectrics are insulators that can be polarized by an electric field.
+So without any field being applied we've got all the atoms shown by these little red dots with the gray clouds around the baby electrons.
+And everything's nice and symmetric. We get this kind of circular spherical charge distribution around our positive charge centers.
+And everything's at its equilibrium position. We then apply an electromagnetic wave.
+So the electromagnetic wave is the driving force.
+So the charges experience a force when they're in an electromagnetic field.
+And our electromagnetic field is oscillating up and down.
+So we're literally driving them at sinusoidal frequency.
+Everyone happy so far.
+But the bit we have to consider is that each individual cloud of charge around those positive charge centers is emitting its own field.
+Yeah, because we're checking them up and down in that electric field.
+Each positive, each charge, cloud, ridge, electron around that positive charge center is emitting its own electromagnetic radiation field.
+Yeah. So what does that mean? What's what?
+What are we going to experience? So the electromagnetic wave coming through.
+Experience is an internal field where the phase of that internal field isn't necessarily in phase, but the drawing field.
+So it has an effect of reducing this overall slowing effect on the field.
+Yeah. So.
+Going back to this kind of polarization effect. We've got this linear restoring force.
+So we have as we move the electrons further away from that positive charge center.
+The restoring force increases linearly. So with the harmonic oscillator you have the spring force okay.
+And as you increase x this restoring force increases.
+What's the relationship between potential. And force.
+In this case. Anyway.
+So you're you're restoring pools is the rate of change of the potential that the field sits in.
+So the relationship between the potential and the restoring force is the integral as a function of x.
+Yeah. So we have a linear restoring force. We want to plot potential.
+And what does that look like. So we integrate F with respect to x and we get half k x squared.
+What does that look like. How would you describe this function. Yeah.
+And a parabola. Yeah. So it sat in a parabolic potential.
+Yeah. So you're all familiar with this idea that the relationship between potential and force.
+That the force is the rate of change of potential. Yeah.
+You're happy with this idea? A bit like the grid, the contour lines on a map where you get the of contour lines closer together.
+You have a steeper gradient. Yeah. You're familiar with this level.
+So this is the relationship between our restoring force and the parabolic potential.
+So you can kind of imagine your charge as a kind of kind of ball rolling within this field.
+And it's got a driving force that's pushing it away from the equilibrium position.
+But the further it gets, the greater that restoring force gets pushing it back to the same equilibrium position.
+Yeah. You're looking a bit kind of confused.
+Does this all sound familiar?
+Okay, so this this is the kind of the basis of kind of resonance that you covered when you were doing harmonic oscillation last year.
+And it's back to this idea of we can kind of model this of kind of pushing somebody on a swing.
+We have a resonance that the body on the spring swing wants to move at, which is a function of the length of the swing.
+So if we do in a very low frequency, you just push the person and you get this kind of constant offset, this displacement.
+Yeah. If we push them on resonance where you kind of push and then wait for them to come
+back and then push again where you're driving them 90 degrees out of phase with,
+with the the force is 90 degrees out of place, just displacement.
+We're on resonance. And then we go to this point where if you try to push them too quickly, you're just kind of shaking them.
+The person on the swing can't respond that quickly. Yeah.
+And you just end up kind of shaking them. And there's zero displacement. Yeah.
+So we kind of introduced this idea or recapped this idea you should be pretty familiar with out to about it.
+So when you're a high frequency, you're kind of shoving down 180 degrees out of phase of imperfect opposition, and there's zero displacement.
+Yeah. And we we kind of covered this. So in red we've got the amplitude as a function of frequency.
+And then in blue we've got the phase between the driving force and the displacement.
+So we've got zero phase 90 degree phase and then 180 degrees out of phase.
+Yeah. Unfamiliar one happy. So we apply this exact kind of approach to the electrons sat around the column around the atoms.
+They have this linear restoring force, a power parabolic potential.
+And this forms the basis of the Lorenz oscillator model, so named after a Dutch physicist.
+Hendrik and Tim Lorenz.
+And really, all it is, is taking this idea that you have your your electron clouds attracted to a nucleus.
+And we multiply this as a linear restoring force, which, as we're going to find out later, is not it's just an approximation.
+But we can model this in exactly the same way as you would consider a mass on a
+spring with some kind of damping or frictional force applied to that system.
+Yeah. So this is the the model system.
+That you covered in your first year. We're really just saying we got this electric field applying a force to these negative charges.
+We have a restoring force. They want to come back to the positive charge centers that spring.
+And then we have some damping introduced, which is how the charges interact with the material and the other charges around.
+So you familiar with the equation of motion for harmonic oscillation.
+So we've got the. So the driving force is the electric force.
+So it's the charge times the applied electric field.
+And that's equal to the restoring force trying to bring charges back towards the positive center.
+And that's given by this equation here where omega is the omega naught is the resonant frequency, R is the displacement.
+And you should be familiar with how you calculate the resonant frequency for mass of a spring square root,
+the spring constant divided by the mass of the particle.
+Yeah. And we've got a frictional damping term which is proportional to the first derivative.
+Displacement, uh, over time.
+So what's that tell me is important to. Velocity.
+And then we've got the acceleration force of the particle.
+So if this is your kind of standard equation of motion harmonic oscillator.
+And this is kind of the starting point for kind of how we derive.
+How are we hoping to get to an equation that tells us how the susceptibility of this material changes as a function of the driving frequency.
+So did you solve this equation in the first year? Yeah.
+What sort of equation is it? It's a differential equation.
+Yes. So we want to solve it. One of the ways to solve is by simple differential equation.
+The way to solve it is to propose a solution.
+And in this case we want to look at the solution as a function of displacement is equal to the equilibrium position times I.
+I'm e to the I omega t or j omega t, so that's a sinusoidal wave function.
+We know it simply. We pick the sinusoidal wave function as our solution, because we know that the electric field has the form of a sine wave.
+Yeah. And by the way, are you happy with with the replacement of I with J.
+You've come across this before and we do this because in electromagnetism I often refers to currents and things.
+So we just use J because there are other things that kind of start when we use j for such it starts confusion over currents.
+So to go about solving this.
+So we've got em all down to our last, um, jammer.
+So you have him with the notation of dots. Dots?
+Yep. If we're happy. Yep. Perfect. Just say you're writing out longhand.
+It's, um. Not squares. Um.
+To the driving force. So we're going to take.
+Uh equals uh not e minus J omega T is our solution.
+So the first thing we're going to do is just jot down all adult and, uh,
+double don't going to be because that'll make it easier when we substitute everything in the order of what is going to be minus J Omega.
+I know he likes j Omega t and r w.
+It's going to be j squared minus Council.
+What happened? And we then just substitute that into the equation.
+So we're going to substitute in. All double dot and, um, so forth, and then right out in full.
+Yeah. Damping constant, um, minus J.
+To most. That's all equal to him.
+Yep. So we can then rearrange simplify that.
+And what's quite handy is that each one of these. Is equal to.
+Oh, yeah. You see what's happening there?
+So we can then rearrange this. Oh, and we can put that as a function of frequency.
+Simplify it. From following pretty straightforward mathematical methods for solving a differential equation.
+And now we have an equation that gives us the.
+Displacement are as a function of applied electric field and the frequency that we draw.
+I think it's uh, and for this, I kind of rearrange this in such a way that I've gathered together the omega naught squared,
+the resonant frequency and omega of the frequency that we're driving it to,
+and that just, um, it's quite handy way to write it,
+because this is the difference between the frequency that you're driving the system and the resonant frequency.
+And this is quite often referred to as the detuning to and how far you are of resonance.
+So what happens when omega is equal to omega naught?
+Displacement is its maximum. Yeah, you'll see that.
+So that's why it was just convenient to lump those two things together.
+So we solve the differential equation by picking this solution.
+And I guess you might kind of think well how did he know to pick that solution.
+And it's always a bit of a trick to know what solution to pick one is only a differential equation.
+But we've chosen this one because this is the one that we want the solution for.
+Yeah. So we make this assumption that our electric field is going to be of the form of a sine wave.
+And that's why that equation for sine wave has one of the solutions.
+Yeah. So I guess in theory, if you had another electric field that you were applying, which is like a triangle wave,
+one square wave, and you wanted to know the solution, you could do exactly the same.
+Would it be a nightmare? Yeah, but it's because our electric field is going to be a sine wave at frequency omega.
+That's why I picked that solution. Everyone follow.
+And you've seen this trick before. Know you've people nodding.
+So now we've got this solution to our equation of motion.
+We can then stop rearranging it so we can rearrange it for the charge displacement or.
+So we can now get our on its own on the left hand side.
+And we've got this function say o as a function of frequency.
+We can see how the amplitude of displacement varies as a function of frequency.
+And it's all down to this tuning term. So as the difference between omega naught and omega increases, all get smaller.
+Yeah. The next step we're going to do is we want to look at the electric dipole moment.
+So mu is equal to q times the displacement.
+Um so we can then substitute in that give and rearrange.
+So we've now got an extra Q on the right hand side.
+So we've now got the electric moment as a function of frequency.
+We're trying to get to the point where we've got the susceptibility all on its own on the left hand side,
+and the next step is to look at this alpha, the polarized ability of a single atom.
+Yeah. So we now substitute this guy in. That just means we lose the E on the right hand side.
+So we've now got alpha as a function of frequency the polarized ability of a single atom.
+And as we've mentioned, unless you've got an isotropic material which which we don't really have very often, it's going to be a tensor.
+So you've got all these elements inside alpha.
+And this just tells you how easy it is to polarize this particular one atom in its environment for an applied electric field.
+So you can break down alpha alpha and move into X, y and z components as you can with your electric field.
+And this everything contained in here tells you how the two map onto each other.
+So when you apply electric fields at different polarizations and measure the
+response that tells you about how things are orientated within your materials,
+and then we can move finally towards the polarization vector p as a function of frequency.
+And this is the polarization per unit volume. So we're summing over all those individual polarizations over Apple TV.
+So we then move to this equation. And we know that the relationship between p and electric field is is given by this constant
+Silom not multiplied by the polarized susceptibility tensor which is what we want to achieve.
+So again we can then insert. This into the previous equation.
+And then we then end up with a relationship. Our electric susceptibility as a function of frequency is given by this equation.
+And I can follow that. Yep.
+So we just sold the differential equation to give us the the dependence of the displacement on frequency.
+And once we had that it was really easy to then move towards the susceptibility.
+Yeah. So the displacement tells us how the strength of the dipole moment is just.
+Um we moved from the top. We moved from the.
+Um. The dipole moment through to polarized ability of a single atom, and then the polarized political unit volume.
+And that lets us arrive at time. Yeah. If we follow.
+So we've now got this relationship for the electric polarized ability.
+And it has a little E on it because we're just considering with the electric polarized ability.
+So how easy it is to polarize the electrons in our material.
+And it's we're gonna find out in a minute.
+There are other types of polarized affinity that we shouldn't exploit to give us different properties of the material.
+So. Oh, and finally, just sometimes people take this constant that we have out the front of that equation and call it the plasma frequency,
+and that plasma frequency is the resident frequency, that free cloud of electrons, which was like that.
+But that's that's just a little aside. So we can plot our electric susceptibility this time in a bit more detail.
+So we've got the same kind of graph that we looked at before. We've got the DC displacement.
+If you apply a static electric field to your material you're just going to displace the charges by giving them out.
+Just like when you push the person with a kind of static force, they just get displaced by a certain amount.
+If we drive our electrons on resonance, which means that the driving force is 90 degrees out of phase displacement,
+we want resonance and we get the biggest amplitude and the biggest susceptibility value.
+So here omega naught is equal to omega. So the thing on the bottom is just this guy this term here.
+And that's that's the maximum value that we get.
+And then if we go way up to much much higher frequency, we're driving at 180 degrees out to phase with a displacement.
+The system can't respond. And we don't get we don't get any response.
+Susceptibility then just drops off. So we have a graph that tells us how easy it is to polarize the material as a function of frequency.
+Yeah. So for given materials depending on the environment that the electrons are in.
+And that's the that's the properties of the dielectric material, the properties of the molecules and the molecular environment.
+That's what governs how easy it is to drive a polarization given by this frequency.
+Everyone follow that.
+So pretty straightforward, starting from the kind of theory with harmonic oscillators and then moving kind of through the same derivation,
+solving that differential equation.
+And then really just starting from the displacement, or just using some very simple equations that allow us to get to this point.
+Yeah. So the one that we derived was the electric polarize ability.
+We looked at electrons contained within the parabolic potential.
+As we're going to learn later. There were different types of polarize ability that we can exploit to get a light matter interaction.
+So the electric polarization this is time along the x axis.
+So we've got ten to the -15. What's what.
+What are the units of ten -15 seconds. It's that femtoseconds so of on the scale of femtoseconds.
+We have electric polarized electronic polarizations.
+And if you remember when we were talking about the kind of the person on the swing and we would kind of say that it has a resonant frequency,
+that it likes to respond. And if we try and shake the person too quickly, they can't respond fast enough.
+This is exactly what we're looking at here in terms of charges.
+So if we look at just electrons on their own, electrons can respond very quickly to a driving force because they're very light.
+Yeah.
+So electronic polarization by just taking an electron and just moving it, that's about the fastest thing that has that fastest thing that can happen.
+So it's on the scale of around kind of femtoseconds to maybe 0.1 of a femtosecond.
+So that happens very fast. The next type of polarization that we're going to have that comes along is atomic polarization.
+So this time, rather than just taking an electron and shaking it backwards and forwards,
+this time we want to take atoms that are contained within the potential molecules and shake the atoms.
+So this happens, as you can see on a slower timescale, because the atoms have much more mass than the electrons, a lot more mass.
+So if you want to kind of go back to this analogy, if you kind of physically pushing this thing on the spring with the electrons,
+it happens extremely quickly with the atoms that have been slower because the charges associated with moving an atom contains forward mass.
+Yeah. So if this happens of the order.
+So somewhere, somewhere around ten to the -12 seconds.
+What's ten to the -12? Repeat.
+Picoseconds. So atomic polarization happens on the order of picoseconds.
+And then moving it down to slower times we have orientation polarization.
+So this is kind of taking molecules and rotating them changing that orientation slower.
+Still sit down to kind of ten to the -five seconds.
+And then when we get to kind of of the order of many, many seconds like ten, five seconds, we're talking about kind of um, electro polarization.
+So actually inducing kind of charge collection on plates, for example.
+So we have this time scale showing how different interactions from different oscillations are affected by the time scale.
+So if we think about this graph, can you explain how this relates to the wavelength dependence of each type of contrast mechanism,
+whether it's ice related, visible or infrared absorption in materials?
+So if we were to flip, let's say we want to just change this axis or if we will, if we convert time to frequency.
+So frequency is inversely related to time. If we now flip that x axis.
+So we've got the same graph. But we're now plotting on a different scale.
+So a log scale. So we've got ten to the -15 a femtosecond.
+If we flip that into frequency we can see that those electronic transitions occur in the UV to visible range.
+So we've already calculated that if we're driving electrons connected to atoms.
+And we did the hot looked at the hydrogen model. We calculated that comes out in the UV.
+I think it's like 122 nanometers. If we can find these electrons into a into a larger potential well, in a atom,
+a molecule where the atoms have these poly bonds between them, we can get absorption in the visible range.
+And if we look at the atomic polarization.
+So we're actually kind of shaking atoms or bonds within molecules, we can now see that this happens on the infrared time scale.
+Infrared wavelengths go urging into the microwave range.
+And then these kind of orientation ones happen on the kind of.
+Millimeter which a micron length scale. Yeah.
+So this kind of links in to tell us how the kind of the president system that we're looking at,
+how that relates to the frequency that we drive the system out.
+So these electronic polarizations that we've said that gives rise to color through absorption like dyes.
+We have an electronic absorption. We can pick molecules that have colors to enable us to look at the sample.
+We can excite fluorescence. And this gives us a very good contrast mechanism in the visible.
+But there's no chemical specificity. So the atomic polarization where we have atoms connected together with spring.
+This happens in molecules. And this is a property of those molecules which is unique to those molecules.
+So if you take like your molecule and you might be looking for something like ordinary water or some sort of carbohydrates within your sample,
+you have a unique pair of atoms bound together, which is unique to the molecule.
+And the frequency at which they oscillate at is something that tells you about the chemistry of that molecule.
+Yeah. So when we're dealing with electrons,
+the electrons don't really tell us anything about the molecule that they're in other than the length over which they can find.
+Whereas the wavelength for atomic polarization tells us a little bit more.
+It gives us a unique response that depends on the combination of atoms in that molecule.
+And that's what we're going to look at in a second. So we've looked at linear or conventional light matter interactions.
+We derived the polarization of susceptibility as a function of frequency using the Lorenz oscillator model.
+And now we're starting to look at how this links to contrast.
+So understanding how these polarization mechanisms relate with wavelength and how there's different wavelength ranges.
+That is something about samples. So electronic resonances don't contain anything that tells us about the sample as much once ago.
+So now what we're going to look at is a different mechanism.
+I completely lost my point to the.
+Okay. So now we're going to quickly get. We can get headstart on tomorrow's lecture because we get a long one.
+So now we're going to start to look at how we can access chemical specificity, which is really the goal that we want to achieve.
+So shaking electrons gets a very nice strong response in the optical part of the electromagnetic spectrum.
+But as we've looked at, the response of those electrons isn't tied to the chemical environment that that those atoms are in.
+All it tells us about is the length scale over which those electrons are confined.
+And that's not that doesn't tell us anything about the molecular properties of the molecule,
+other than certain combinations of bonds that could give rise to that length scale of confinement.
+So now we're going to look at how we can move on to the next polarization that we
+looked at the atomic polarization to see how that gives us chemical specificity.
+So we're moving on to this this range called vibrational spectroscopy.
+Um do you like my cartoons? Start this lecture, by the way, with the stupid touch.
+So this idea is if you listen to molecules carefully, they'll tell you everything.
+So this is kind of so one of the ideas behind vibrational spectroscopy, you get this very weak interaction.
+And if you know how to tune into and listen to that vibrational interaction of the bonds, you can learn about the chemical makeup of your sample.
+So we're going to introduce this idea of molecular vibrational resonance,
+kind of setting the scene for how we want to do this with nonlinear optical spectroscopy.
+And we're going to introduce the two types of vibrational spectroscopy.
+One is infrared absorption. And the other is this thing called Roman scattering.
+We're going to look at the fundamental principles. Look at some examples of how you can use this to get image contrast.
+And then we're going to look at well we're going to kind of slag it off really.
+We're going to explain why people don't use this for an imaging contrast mechanism.
+The limitations of it. And obviously this leads on to why we want to use nonlinear interactions to enable us to do imaging much better.
+So this is the recap of what we just covered.
+So obviously this would be like tomorrow's lecture. But we don't need to recap because we've just done it.
+So we just derived this guy the electronic susceptibility.
+And then we ended on this slide kind of saying this is where the electronic polarizations happen.
+This is where the vibrational polarizations happen.
+No chemical specificity. This is where the chemical specificity is at.
+Yep. In the in the atomic polarizations. So vibrational spectroscopy is a massive field of research and kind of chemistry biology biochemistry.
+It's kind of where physics meets chemistry and biology.
+So the key is that bonds between atoms vibrate and the frequency at which they vibrate is unique to the molecule that they're in.
+So by probing these, you do get a vast amount of chemical information about your sample.
+So the electronic polarizations that we were thinking about probing when we were looking at dyes and fluorophores,
+there's no chemical information in that physics like matter interaction, whether it's vibrational spectroscopy.
+When we're probing the vibration of atoms and molecules, everything is linked to the chemistry of the molecule.
+Yeah. So chemistry is relevant and chemistry level.
+Yeah. So chemistry is all about bonds between atoms and how they link together with molecules and how those molecules interact.
+So the idea is we want to harness that live matter interaction to get contrast.
+Because by doing this we get this kind of chemical fingerprint of our sample that we can use to get
+really nice information about sample on the microscopic scale that we can get with dyes and presents.
+So let's look at atomic polarization.
+So it's the same equation that we looked at before.
+Except this time instead of taking electrons and dragging them away from the charge center by applying an electric field,
+this time we're taking two atoms. So we've got two heavy charges bound together by.
+We can have both as a spring. So.
+We've got two atoms with an equal electronegativity.
+So two atoms of different different charge. And we have a spring between them.
+And that's the spring. We're modeling the chemical bonds between those two atoms.
+So that has a unique strength depending on what type of bullet it is.
+And the vibrations of the atoms result in the position of the nuclei and the electrons following those atoms.
+Yeah. Of the nuclei. So you've got these negative charge clouds.
+Again we're interacting with the electrons.
+But because the electrons are bound to the atoms, if they're vibrating back and forwards by these two masses on the spring.
+So the natural clouds and as we've already looked at this vibration, you know,
+this polarization through atomic and atomic polarized quality happens on the picosecond time scale.
+So if you're ever unsure, electrons are the lightest particle charged particles that we've got.
+That's the fastest interaction that you can have. So that happens on the femtosecond time scale.
+The next the next unit down is picoseconds.
+That's what the atomic polarization happens at. And the reciprocal of picoseconds falls in the infrared frequency range.
+So if you convert picoseconds into a frequency you get in the infrared range.
+As I said we've got two mechanisms IO and Raman. So for infrared absorption, you have, um.
+Changes in the shape of the molecule. Stretching. Bending, rotation.
+And these all give you unique unique vibrational transitions.
+So this one is the next one. So I've been to lots of conferences on vibrational spectroscopy.
+And the kind of classic thing that people talk about is a kind of water molecule.
+And they kind of say, imagine my head is that the oxygen in my hands is hydrogen.
+You've got all these different stretching modes, the talks that I can come to that they can rock.
+And you get all these like professor standing up there, these like weird dance systems which play with different lots of motions that you can get,
+but you have a whole combination of stretching, bending, rotations around the bonds.
+And each one of these corresponds to a displacement, and it has a unique spring constant associated with it.
+And then the ratio between the masses of the two atoms.
+Also is is something that specific to that particular comet.
+So you have these unique resonances for molecules that give you a huge amount of information.
+So if we're talking about infrared radiation, we get a change in the dipole moment.
+We've moved the atoms from that kind of equilibrium position.
+We push them out to the non equilibrium position. We get this absorption in the information in the infrared range.
+We have a change in the dipole moment as it vibrates or rotates.
+So it only occurs when the incoming infrared photon has sufficient energy.
+Because we're dealing with the kind of quantum mechanical scale.
+So we have these allowed vibrational states where we have the change in energy is equal with my pentagon is equal to h f.
+Yeah. Are you happy with this quantum mechanics.
+So going back to the Blonsky diagrams, if we we've got the solid blue lines, has the electronic energy levels,
+and then we've got the thinner number of lines as the vibrational energy levels.
+So we can plot these infrared transitions on the same diagram.
+And as we kind of hinted at when we were looking at fluorescence,
+it's the relaxation for these vibrational states that gives you a shift in wavelength.
+That means you get presents emitted at different ways. Right. Yeah.
+So. Electronic transitions.
+Much bigger energy difference. Long arrow.
+More energy. Higher frequency in the optical range.
+Short arrows of the vibrational transitions.
+Much lower energy occurring in the infrared range. And that's what the arrow.
+Shut up. Yep. And then rotational levels.
+Even smaller still. So we go back to the harmonic oscillator, which we just looked at.
+So I don't need to explain what's going on on this slide. But this time instead of taking an electron bound to an atom,
+we've got two atoms of two different masses, M1 and M2 bound together by an atomic bombs.
+And we model that as a spring with constant k and we can get this parabolic potential.
+So exactly the same situation where our resonant frequency is equal to k divided by the mass square root it.
+But this time. We've got two masses, so we have to take something called the reduced mass, which is just m1 times m2 divided by m one plus m2.
+And that's how you model harmonic oscillator with two masses connected by a spring.
+Did you cover that last year when you looked at how might you have few people using.
+So should be familiar. So if you know the masses.
+And, you know, the spring constant. You can work out the unique frequency that you expect to get for a particular point.
+And we've got this thing called the periodic table.
+And that allows us to calculate or work out the mass of all the atoms that we're going to come across.
+Yeah. So if you know the mass of your atom, we know the mass of one atomic mass unit, and we can work out the mass of our two atoms.
+And hopefully people have also measured the spring constants for a particular bond.
+So for a single bond it's around five times ten to the five grams per second squared.
+Double bonds twice that and triple bonds three times that approximately.
+So knowing you've got this kind of periodic table of masses and you know the spring constants,
+you can work out approximately the vibrational frequency or infrared absorption that you expect to get to particular chemical bonds in a molecule.
+And these are relatively unique. So you get this unique fingerprint absorption for a given molecular species.
+I think we've come to the end, so we'll pick this up tomorrow. Has anyone done the kind of astrophysics model which was.
+I guess you haven't because you picked this one.
+So if anyone was interested in astrophysics, this is also used in astrophysics, where they look at kind of infrared absorption of molecules in space.
+And you can see the lines missing. And it tells you what stuff made of what the sun what the light pass through.
+So here we're really probing the chemistry.
+So instead of just looking at electrons bound to atoms, which don't tell us anything about the chemistry here,
+this unique combination of M1, M2, and K tells us something about the chemistry.
+And we can look at how this works in a bit more detail tomorrow. Okay.
+So see you tomorrow. So this just this sheet of paper is just the right.
+One. And.
+That's what I. Like.
+Did you get your voice? Yeah. Yeah. Did I.
+Really like that? Yeah. Yeah.
+I don't think you don't want to do that.
+Uh, I just thought you might ask the question.
+I don't know, because I'd rather not.
+Okay, so tutorial tomorrow.
+Thank you so much. I want to say something I have.
+To say for the first time, I got to do my opinion.
+I just like how you use your time to work something out.
+Yeah, and I just look at these.
+Or you transform opinions. Like image validation.
+Yeah, that's been quite, quite interesting. Has I'm sure people come for analysis,
+which is one of the properties in terms of is there's so much work being done
+on kind of image analysis for medical images and machine learning and stuff,
+but it will be quite interesting to see how the virtual actually looks.
+So to us, how it kind of appears on the problem for us.
+So I.

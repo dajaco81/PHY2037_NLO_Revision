@@ -1,0 +1,513 @@
+If you go. Yeah. And I sent you here if you want to have a statement, like if you just click on the screen and we'll see because I'm not.
+Having a set in front of a computer is another so pretty cool thing to do.
+And I like using the mouse just to. See what.
+We can see. So let me show.
+You something. Did you see one of the ones that I was almost like doing that thing where you kind of do a closeup of the person.
+You can mouse things on the keyboard, for example, of the screen.
+And then I could just do one thing. Yeah, yeah.
+I imagine it. It's so. And you just get as much as you can.
+Yeah. Get very quickly in this place. Yeah.
+You. See, the numbers are dwindling as we get closer to the end of the natural course.
+We're nearly there. There's only a few more lectures to go, but this is the critical one which was to come together.
+There's nothing quite challenging. It's just been resolved. You know.
+It's. Not.
+Quite the choice of the MSC project. How are you going to use it?
+Code? Oh, you have to go with it as well.
+Yeah. Oh, no. I really like coincidence.
+It's the same. Okay.
+So I'm going to start with a recap. So as I was just to say I know we covered already kind of fundamental concepts of nonlinear optics.
+And eventually this is where the whole lot starts to come together.
+And you can start to see how the little pieces that we've covered together to show you something that's really quite cool.
+So what's a red box mean? Is it make sure you remember.
+Yeah. So we should be now very comfortable, um, with the idea of the limitations of conventional microscopy.
+Now it's a trade off between resolution and scattering. So how does optical resolution scale waves.
+Mental law wavelengths. So we want to use.
+The diffraction limits. Yeah. So we've covered this.
+This is like one of the fundamental things about it.
+When you were looking at like space telescopes then a growth rate in terms of kind of optical imaging
+down high numerical aperture lens that we've converted from angular resolution to distance resolution.
+Lens scattering, on the other hand, scales with wavelength with one over wavelength to the power of both.
+So you can see just going a little bit shorter wavelengths to get a bit more resolution is going to give you a big increase in scattering.
+So you double the double the wavelength. How do you reduce the fact that you reduce the amount of scattering 1660.
+Yeah two purple. So those two things are at odds with each other.
+And even if you did have the ability to kind of not not worry about scattering the polarization mechanism,
+how does that how's that linked to the wavelength.
+If we weren't bothered about losing resolution, and we just wanted to go to longer wavelengths to reduce scattering,
+why does the polarization mechanism not allow us to do that thing that gives us the contrast?
+To that. It's the contrast mechanism, the energy transition that you're looking at that governs the wavelength that you need.
+Remembers a lot of these these things are quantized. So if it's optical absorption of photons.
+You. You need to tune your excitation wavelength to give you the color contrast that you're trying to do,
+whether it's infrared or whether it's electronic absorption of human, for example, that's fundamentally linked to the excitation wavelength.
+Fluorescence requires labels, so it's not a limitation.
+What's not? Why is it not always good to label stuff?
+Yeah. So it's like, remember that analogy put the transit van on top of the elephant.
+It's not going to behave like we are in the Serengeti.
+And you perturbed the system. And you're not driving it in the way that it needs to behave.
+If we want to use absorption as a contrast mechanism.
+And he would talk to the nation was one example. You need different sections.
+You're measuring doesn't come through. Yeah. So you need to have like a clear image on the outside of the sample.
+And this is why we cut it into a thin section. Infrared intrinsically has poor spatial resolution because of infrared wavelengths.
+Raman scattering in principle can overcome this because you can access the infrared transitions at any wavelengths that you like.
+Remember we look at the shift. So in principle we can pick whatever wavelength we want.
+What's the downside of Roman scattering. Yeah it's very rare.
+It's weak. And that means we can't use it for high speed imaging.
+So the confocal detection is kind of critical.
+We want to get 3D high resolution imaging.
+The big problem is only the photons from the focal plane that we're interested in that don't get scattered, make it back to our pinhole.
+Scattering completely hammers the depth resolution as confocal.
+And this is why we want to get away from confocal detection. So if we can use nonlinear excitation.
+And this is another fundamental kind of point of nonlinear microscopy, because the signal scales with this,
+with the second or third power of the intensity, we only generate it right at the focus where we can get these really high intensities.
+And that enables us to do away with the pinhole. And this gives us several advantages.
+Instantly we're using 2 or 3 times the excitation wavelength.
+So the scattering itself is reduced. Like the law that we generate fix for our sins.
+For example, the non-linear conversion of those long wavelengths enables us to excite the contrast mechanism,
+the polarization that emits those who say green photons, those green photons, are going to get scattered.
+And often we don't have because they're not going to go through a pinhole.
+We just got a large lens that focuses them down gently onto a detector.
+We don't care how that emitted light is scattered, it's only the excitation light that we care about.
+And that doesn't get scattered because it's a 2 or 3 times the wavelength.
+So scattering doesn't affect. It only affects the excitation of.
+And our wavelength is longer and it doesn't.
+We don't care how how the detection light is scattered. So we decoupled the excitation from the emission wavelength enabling us to go much deeper.
+Then the first thing you think is, well, if you go into 2 or 3 times, the wavelength is sacrificing 2 or 3 times the spatial resolution.
+This thing that I've called the nonlinear squeeze.
+We looked at how we can recover a factor of root two and root three in terms of the spatial resolution,
+because that Gaussian gets squeezed by the nonlinear dependence. Yeah.
+We looked at parametric and non parametric processes in the microscope.
+So in a red box that's something you need to remember which ones are parametric and which ones are non parametric.
+The ones that are parametric. We have to think of phase matching.
+So we have to look at how that affects how the light generation is coupled to the input fields.
+If it's non parametric we've lost that that coherence that temporal coherence because of this vibrational relaxation process that happens.
+Yeah. So the photons they're emitted don't have any coherence with the photons that generated that signal because of that time tonight.
+Yeah. That's really important.
+We then looked at this thing called the Fury Phase shift.
+Named after Louis Cuvee, um, who discovered this high phase shift across the focus of the lens.
+And this has implications, if we remember, because of this phase matching graph here.
+So delta k is the phase mismatch, L is the interaction length.
+And the focus the focal depth of our lens is how we control L.
+So we want L to be small. And we don't want the phase match times L to get to this point.
+What happens at this point Pi. Yeah.
+So the signal generator goes out of phase with the excitation light.
+And we don't want that to happen. So we need to keep L small.
+And then we looked at second harmonic generation. We said that omega one is a factor of two different from omega two.
+So we can just about cope with that. Um, actually phase shift gives us a factor of pi for each wave.
+Uh, each input wave. And we said the L has to be smaller than half the wavelength.
+And that's achievable. Yeah. Where it gets where the scary phase shift starts to become a problem is with third harmonic generation.
+This time there's a factor of three difference between the input and the output wavelength.
+So delta k is much larger already. And we've got three lots of the gooey phase shift.
+So now L has to be a third of the excitation wavelength.
+And that's not so easy to do. You just can't do it. Yeah.
+So we only get second half of third harmonic signals.
+And interfaces will get very very thin effect.
+Yeah. So we get this kind of. Interface selective property of the image.
+And I think we got to about this far where we said another third order process.
+But this time it's not third harmonic generation.
+It's something for wave mixing where this time we get two lots of omega one minus one lot of omega two.
+So it's minus omega two because we're interested in the complex conjugate of omega two.
+And we get this situation here. And the nice thing about this is that the two we face, it partially cancels out.
+So it enables us to do a third order process without having to worry about only looking at very thin objects.
+And the example that I showed you was if you come across graphene before, you know it was graphene.
+Yeah, it's just one layer of like that hexagon shaped array that you get in graphite.
+So single layer it gets, you get some really interesting properties of graphene.
+And one of the interesting properties is that it has a flat band structure.
+So you're currently doing this um looking at dispersion curves with Steve.
+Yeah. And in condensed matter and you look at omega and K graphene has a flat band structure.
+So you just get a straight line that continues.
+And that means that basically every photon you throw at it is going to be an optical resonance with that with the transition.
+And we were able to image a single layer of graphene, single layer graphite, graphene with full wave mixing.
+And the phase matching isn't a problem.
+We get this extremely strong signal generated, and it's because this transition from here to here is in electronic resonance.
+So which is shaking electrons backwards and forwards? Uh, omega two.
+And that gives us very strong signal.
+But I also said and this was a kind of heads up for today, we can also arrange the arrows in this arrangement and they would still add up.
+So the omega three is turning at one minus omega T.
+And what did I say to look out for. What does that look like. If if two omega is an electronic transition, what might this be on a Blonsky diagram?
+So this would correspond to an infrared transmission or a molecular vibration.
+Yeah. So that's what we're going to look at today. So this is I kind of said this is the good stuff.
+Now this is like we finally got to the kind of culmination of everything fits together so that we can look at
+doing basically vibrational imaging without all the disadvantages that you get with infrared and Roman imaging.
+So is the kind of bit of a mouthful coherent anti Stokes Roman scattering um which has.
+Actually move cars. That's why they remember the cars movie.
+Yeah. So I put this on quite a few posters because it's like cars and it's giving you vibrational spectroscopy of things.
+So it's all about speed. So as we as we talked about in various times, infrared is limited by the spatial resolution and water absorption.
+It doesn't work very good in biological tissues. Roman could be great, but it's a really weak effect.
+So it's just not fast enough if you want to do megapixel imaging.
+So a lot of the stuff that we do in our research field is trying to speed this up using nonlinear optics.
+So here we've got now going to see how we can use nonlinear optics to overcome the shortcomings of infrared and Raman.
+And I'm going to introduce you to this idea of coherent answer. So it's Roman scattering which is a field I've been working in for nearly 20 years.
+And we're going to look at kind of the optimal laser parameters that you might need.
+Ready for the next lecture on laser sources. So if we go back to this kind of motivation, why do we want to here?
+Biologists have been using fluorescence to image stuff for decades and they get some lovely images.
+Um, so it's always important to think, why would we not want to use this technique?
+That works well? And it comes down to this idea of kind of molecular tags.
+So the fluorophore itself is very small compared to a protein, but it's quite big compared to things like fatty acids and drug molecules.
+So my analogy was if you took an elephant and you put a one kilo GPS tag on it,
+that would be the equivalent of fluorescently labeling a fatty acid or a drug molecule.
+But if we were to compare tagging the fatty acid with the label, it's like a it's full transit on the elephant.
+So it's not going to make its way around the Serengeti in the way that it would without the transit van.
+And we're not going to be tracking all the other elephants. Um, and we're not going to be understanding how they behave.
+So I've got a demonstration. Because I couldn't get any elephants.
+We've got these. Does anyone remember these hacks for toys? Has anyone come across these before?
+So we've got two hacks books instead of elephants, and one of them has got a kind of big dollop of blue tack on to mimic the transit van.
+SAT on the elephant. So I don't know how well this is going to work. The old man uses.
+So this was this one story side effect.
+So the idea is this is mimicking a kind of molecule as it diffuses through like a membrane through like an extracellular matrix.
+And if we compare that to the one without the tag I see the one with the tags doing quite well.
+So got stuck. So you can see that moving that kind of if we were considering kind of molecular diffusion,
+the orange one that hasn't been labeled is whizzing around, but it doesn't get stuck.
+And the purple one has been labeled moves much slower.
+Did that work? Yeah. So that's kind of a fun demonstration.
+But it's just to demonstrate that tagging molecules does perturb how they behave and how they interact.
+And the other part that we have doesn't really fit with transit vans and Blue Tack.
+Is that the fluorescent dye that you put on that.
+Will also change the charge of the molecule. And its kind of.
+So in addition to kind of mass and how the mass is going to affect how it diffuses, we've also changed the actual chemistry of that moment here.
+So it's also going to behave very differently.
+So that's kind of setting the most basic motivation behind doing it is much harder way obviously for us some tagging simple optical system,
+the reason tags exist and we can do it that we want to do it without them because we want to understand how molecules behave when they're not tagged.
+So the idea is to go to vibrational spectroscopy.
+Um, so here with two, we're trying to tune in or listen to the molecular vibrations to give us a unique.
+So I'm just checking optical signature.
+I'm really I'm checking. Unique optical signature from the molecules.
+And there's two ways we can do it. We can do it with direct infrared absorption.
+Where we go from the lower energy state to the excited vibrational state that's directly shining infrared light onto the sample.
+That's a very strong optical process. But the problem is everything absorbs in the infrared.
+You can't use glass lenses. Water absorption becomes a huge problem.
+And we lose the spatial resolution because we need to go to wavelengths much longer than a micron to hit these resonances.
+Vibrational. Another vibrational spectroscopy is Roman scattering.
+So this time we use an inelastic scattering of light from these molecular vibrations.
+And we did the derivation to show where this comes from. We looked at this kind of perturbation in the polar ice ability as the molecules vibrate.
+And we saw how that gives us the spectrum. But the problem here is the sensitivity.
+So if we looked at Rahman scattering, um, we need a change in our polarized reality for this to happen.
+And the real problem for imaging is that this is a relatively weak offer, very weak effect.
+So if we take fluorescence microscopy as a benchmark, because that's the thing that we'd like to replace.
+So this is a mouse brain section that's been stained with lots of different fluorescent tags to highlight different molecules within,
+within the brain tissue. And we we've taken lots of.
+I also listen images and then call them all together to give us a whole map of the mouse brain.
+And each one of these tiles contains about 500, 500, 12.512 pixels.
+So we've got kind of a quarter of a million pixels per tile, and then we've got several million pixels across the image.
+So with for instance, microscopy based on the signal strength that we get,
+we can spend about one microsecond maybe maybe less than one microsecond per pixel.
+So you can see it microsecond per pixel.
+We can do one of these tiles pretty much on video right. So you can go very fast scanning the tissue, generating the picture very, very quickly.
+If we compare that to ramen and at the very best situation with the strongest kind of bands that you want to image,
+we're talking seconds per pixel, probably one to 10s at least per pixel.
+So we're looking at a factor of ten to the six slower than fluorescence.
+So if you want to increase a signal we need to get a factor of 10 to 6 a million fold increase in imaging speed.
+And because Ramen is linear with the excitation intensity,
+if we wanted to increase the excitation intensity to deliver this ten to the six bonding speed, we'd need a million times more photons.
+And obviously, if you go from kind of ten millivolt laser up to a kilowatt laser.
+It isn't going to be imaging the sample. It's going to be burning a hole through it and into your lap.
+Yeah. So we can't achieve the increase in speed.
+Just be cranking up the size of the laser and several photons at it.
+So obviously. This is where the optics comes in, and it's where this technique come.
+Cause is extremely useful because it gives us this increase in speed.
+So we looked at these third order interactions.
+I remember saying if you if you factor in all the positive and negative frequencies, there are 44 different components in the third order response.
+But the only one that you need to remember is this one and this one.
+So the one highlighted in blue, in the red dotted circle is the four wave mixing interaction that we've just looked at.
+And it goes back to this idea here where we've got our whole wave mixing.
+Two. Lots of omega one minus one. Lots of omega two.
+Yeah. And if it's arranged in this way, this transition with resonance with is an electronic transition.
+So we're shaking electrons and we get a particularly strong response if we have an electronic residence.
+But even if you don't have an electronic residence you can still shake the electrons at that frequency.
+And then if we don't hold the kind of get the diagram into this fashion, which then adds up to exactly the same difference between omega one,
+two, and three, we can make this guy here resonant with a vibrational transition that allows us to increase the signal.
+So this technique was invented until first discovered by this guy called Andresen.
+She's the head of chemistry now in Constance University.
+But at the time he was working in America, um, in the southwest, before a treaty with Sonny Z.
+And in 1999, he published the first paper in Physics Review Letters, demonstrating that you could use an anti Stokes Raman scattering for imaging.
+But he wasn't the first person to discover cause.
+So Carlos was able for way mixing have been around since pretty much the very shortly after the first lasers were generated.
+And there was a bunch of people working for the Ford Motor Company, um,
+and they were interested in using vibrational spectroscopy to measure the temperature of combustion gases in engines and things.
+Um, and they use this nonlinear interaction. They didn't have pulse lasers back then, so they were using very powerful continuous wave lasers.
+Um, and they demonstrated that you could use this to set up to do vibrational spectroscopy on gases.
+And it was quite funny, quite amusing, because they didn't they didn't call it cars.
+They didn't come up with the acronym states Roman scattering. They called it something else like for wave mixing, Brahman something or other.
+But I just think it's a bit of an irony that they were working for full company making cars, and they didn't think of calling it that.
+Um, so anyway, interest on everybody, well, um,
+and he was the first person to discover this or to actually read discover causes of causes and process and apply it to optical microscopy.
+So it's this, this, this difference between the two excitation wavelengths.
+And you tune it so that the difference in frequency between omega one and omega two, you tune it.
+So the difference is matched to a particular vibrational resonance that you want to use to generate image contrast from.
+And if you do that, another way of thinking of it is if you take your your two omega one and omega two,
+and we now refer to them as the pump and the Stokes beam, because we don't just call them that, make it two.
+So Stokes is the one which is equal to the to the ROM and emission that you would have got if it was spontaneous from it.
+And the pumping is the one that sites out to this virtual level.
+But if you if you think about what would happen if you sent in two optical fields together,
+where the frequency difference is matched to the vibrational resonance that you want to imaged,
+they're going to interfere with each other and you're going to get beating fields.
+So if we add these two waves together, we get this beating field between them.
+And that beating field is the frequency of that infrared transmission.
+And that's where the resonance comes from. So we can drive this vibrational resonance coherently by the peak field between those two excitation waves.
+And by doing that we excite the population to the first excited vibrational state.
+And then our second pump photon, or our second omega two photon instantaneously comes in and causes the Stokes emission.
+Anti Stokes anti Stokes emission shift light coming out.
+And that's that's how we do cast microscopy.
+It enables us to do very fast imaging.
+But we've made a couple of sacrifices.
+So instead of getting the whole spectrum out we focused all of our excitation onto one particular vibrational mode.
+Um, and in this case we use the two vibrations in lipids.
+Um, and lipids work very well because you get a lot of them.
+You got a lot to say. One particular lipid, lipid molecule, you have quite a large number of you.
+So you get strong signal lipids or something if you remember that are quite small.
+And we don't want to be tagging them because their molecular weight is about the same size as time.
+So this technique is found really great applications imaging lipids.
+Um, and in this picture we've done a video right 3D imaging of lipids in skin.
+So this kind of thing that kind of looks a bit like a parade as we go down through depth is something called the sebaceous glands.
+And it's like the thing that you get in skin then it's oil. So that thing underneath the skin is full of lipids.
+And that's why we can image it. And then we can map the lipids that being secreted out to the skin using this technique.
+You also find lipids in brain tissue.
+So if you come across myelin. So, you know, you get these neurons in your brain where the electrical signals travel down.
+They're insulated with something called myelin, which is a lipid.
+Um, so we can use that, use these that contrast to map out the neurons within the brain by tuning in to be kind of to contrast.
+And this is a nice kind of analogy to the previous couple of slides where we looked at the recently labeled mouse brain.
+So again, we pieced together lots of small tiles and we could image the whole brain 210 million pixels in around 30 minutes.
+So we can do this on the same sort of time scale that you can do with fluorescence microscopy, which is great.
+And we've also been playing around with kind of high speed imaging. So we do seven frames per second.
+And we're looking at. It is quite complicated.
+So this is a plant. It's a leaf. And this kind of blob on top of it is a fungus attacking the leaf.
+And then it kind of the fungus sends this kind of little sheet down into the leaf, which is this side here.
+And then because plants don't have a kind of immune system like we do,
+they don't have like blood vessels driving around with immune cells in the plant has to respond to an infection locally.
+So what we're looking at here is you see these little yellow droplets.
+So this um line that we're looking at is the plant cell hole.
+And what we're seeing is the plant sending little packets of stuff to reinforce the plant cell to try and contain the infection.
+So this is really cool because we can we can visualize this kind of flow of material building up the plant cell wall in real time.
+So that's just showing you things that you can do with label free imaging.
+But we have to remember we've sacrificed the full spectrum. So we've chosen to focus the light coherently on to one particular vibrational mode.
+And we can use that to map outlets at very high speed.
+So when we're doing. Microscopy.
+Um, it's important to be able to calculate the wave numbers that we want to hit.
+So if you want to, if you if you look at the Raman spectrum of the molecule you want to image,
+you need to find a pixel peak in that molecule and then tune the difference
+between your pump and the Stokes laser so that you can hit that vibrational mode.
+And that's given by these two equations here.
+So this one is very similar to the Roman one is the Roman equation that we looked at previously.
+But we've just rearranged it so we can calculate the Roman frequency as a, as a factor of the pump and the Stokes wavelength.
+And then the second one that we need to do is to be able to calculate what the anti Stokes emission wavelength is masking by this equation here.
+Yeah. So you can see where these come from. They're pretty straightforward.
+It's just applying this frequency shift between these three wavelengths.
+And knowing that the anti Stokes signal comes out at two omega P minus omega s.
+And then I've rearranged it in terms of wavelengths. Yeah.
+So to give you some examples like sort of a good practice question.
+So we've got two synchronized ultrafast lasers used here from an microscopy.
+Generate contrast of the two stretching mode, which happens to be at 2900 numbers.
+One of the laces is fixed at 800 nanometres, and then we need to calculate what the other one needs to be tuned to be to hit that vibrational mode.
+So that's pretty straightforward calculation. But we'll go through it just so you can see how it's done.
+So the first part you'll see that okay. Okay.
+So we use our equation. Vibrational frequency is one over the wavelength minus one over the Stokes wavelength.
+Told the laser is fixed at 800 nanometers.
+Don't know the stones, but we know that vibrational frequency is 20 900cm³, so we can rearrange our equation if us Stokes wavelength.
+So now we've got everything we need to put the numbers in.
+Hundred nanometres minus our wave number.
+But we need to convert that back into meters. And that's really important.
+Yeah. So we've given the vibrational frequency in centimeters.
+But remember everything else is in meters. So we have to be consistent with these units.
+So the numbers in. One over 960,000.
+It's just. 1042 nanometres.
+And just as a kind of sanity check when you're doing like an exam question.
+If the answer was to come out at like ten microns or a kilometer, you would know it was out there and you made a mistake somewhere.
+So with the kind of Roman calculations, you know, that you're only looking for,
+say, a 200 ish nanometer difference between the companies don't speak yet.
+When we calculated Roman shifts, we were using like a 75 laser, and we're expecting to get light out, like 800 and something.
+So if it comes out, like, significantly different and not an optical wavelength, you know, you've made a mistake.
+Yeah. On a standard kind of exam practice, always think about the answer.
+Never trust your calculator because it's different if you've got room numbers because you press the wrong button.
+And the second part is calculating the wavelength of the emitted car signal.
+So we put our numbers in. And if the wavelength.
+In and it comes out four, 6 or 9.
+What's another sanity check that you would be able to do if you are calculating this?
+So this is the anti Stokes emitted signal. What do you need to check.
+What are you expecting with the anti Stokes emission. Remember Stokes ignition is a red shift.
+Anti Stokes emission is blue shift. Say you've been given the pump wavelength at 800 nanometers.
+Where do you expect the anti stokes signal to come out at just shorter.
+So if it comes out longer than 800 you know you made a mistake. You expect it to come out shorter than 800.
+And also you expect to get the same shift in the other direction.
+Then you had pumping and you didn't see the company.
+Stokes. So it's the same difference between.
+This one an eight hundreds. It is between this one now.
+Yeah. So just a quick sanity check that we need to do when to checking your exam questions before you move on to the next one.
+Okay, so there's cause it's brilliant and it's got really cool acronym and links up that nice cartoon,
+um, film picture that you can put in your posts and stuff that people laugh at that was expected.
+This clip around like that, there's a bit of a problem with cars in that.
+This arrangement of the photo of the two photons.
+Corresponds to electronic resonance. Everything contains electrons.
+Yeah. So you can't think of any material sample that doesn't have any electrons in it.
+So whenever you're doing cause microscopy, whether it's in gases or in a microscope to do the images,
+what you're interested in is looking at this transition here.
+And you want to be able to selectively tune to different Roma transitions and use that as optical contrast for your images.
+But what you can't get around is the fact that everything that you're imaging contains electrons.
+So this configuration of the excitation diagram you're always going to be shaking electrons.
+So you have always have this background in your image.
+And what we're hoping is, is that the Roman signal is stronger than the electronic signal.
+And it's not always the case. So a few years later, what you said, just nine years after Andreas published the first cause paper.
+Microscopy paper, um, from the same group, this sunny Z guy.
+But it moved to Harvard by the time he did this. So he he got everyone thought his paper on cause microscopy was so great.
+He then offered a job as a professor at Harvard. Um, and then this guy Christian Project started working for him.
+And they developed this alternative to coherent and Stokes Rothman, which is stimulated Raman scattering.
+I like Christian, if you have the turf locks up and exits up out where the canal meets the sea.
+So it's very good in the summer, and you can only get that by driving all the way up, walking the rest of it.
+But we had a conference, and the conference data was there, and Christian was like, He's German, he comes with Feria and he likes beer.
+And he was quite impressed with the English pumps. And he asked if he could have a go behind the glass of his own kind, and he liked it.
+So I love that photo, Christian, because now he's now in California,
+a startup company selling instruments using this technique for doing like, um, HD imaging.
+Anyway, so what Christian came up with is to look at a different nonlinear problem and process that doesn't rely on for wave mixing.
+And it's called stimulated Romanesque afternoon. And it's very it's the kind of vibrational analogy for stimulated emission in lasers.
+So instead of driving the light between an excited kind of electronic population,
+you still take your your own makeup on and you go make a tea and you tune.
+And so that frequency match the frequency difference matches a vibrational transition that you want to excite.
+And what you find is when you send your pump in your stokes, you're going to want to make a tube into the sample.
+If you have this vibrational resonance in the sample, match the the difference between omega one and I make a tube.
+You'll get stimulated Raman emission. So you send in your your green photon your omega one and you simultaneously send.
+Did you red photon U omega two. If this Raman mode is present, the green photon gets absorbed and you get two red photons emitted.
+So it's very similar to the lasing process but based around vibrational transitions instead.
+So the reason we want to do it in this more complicated fashion is because there's no electronic background present.
+So it's more sensitive to molecules that give you a weak signal.
+It's a bit trickier to detect. So remember when we were looking at non-linear absorption and we were looking at dyes and haemoglobin.
+And I introduced this idea of modulation transfer detection.
+So we modulate one of the laser beams say the red one.
+We switch it on and off. So each one of these lines is an optical pulse.
+And we're switching it on and off for a few megahertz.
+And just like for the absorption, this from and scattering can only take place when both the pump and Stokes beam switched on.
+So if you then measure the intensity of the green beam, remember the green one is the one that disappears and you get two red ones produced.
+You'll get a dip in the intensity of the green beam.
+Only omega one. And we detect that. And what's this device called?
+Anyone remember from last week? It's a locket amplifier.
+And it's really just the posh, very expensive. They cost about ten grand.
+It's a very posh way to detect amplitude modulated radio signals.
+So you dial in the frequency that you're modulating this beam at.
+And it just amplifies signals at that frequency.
+You don't actually have to dial up, because the device that you use to create this modulation has an output,
+and you just plug estimated to the input here,
+and it locks into that frequency, and then it gives you the voltage corresponding to this to the amplitude of your signal.
+And it works really well this time. So if we compare kind of a car's image.
+So this is looking at these are cancer cells. And we've tuned to the lipid peak.
+So we've got cancer cells. And the last line objects are lipid droplets within the cell.
+So cancer cells have all cells have lipid droplets in the food.
+So if we look at the cars the image of these cancer cells when we're tuned to the car to residents,
+you say that everything that you're looking at is lipids.
+When you tune away from the lipid residents, you see that the lipid droplets go dark and you're still left with the kind of the rest of the image.
+And that's just where you're shaking electrons at that kind of non resonant frequency.
+And we still get a signal if we take exactly the same image or quite at the same time at the same cells.
+And we tune off the resonance. For SARS you get nothing.
+So there's no background, you get background free image and it works much better and it's much easier to do.
+Is it a parametric process or is it parametric process?
+Go back to this diagram. What's a parrot?
+What was the definition of a parametric process? Yes.
+So to sit you have this optical process and the quantum state of the system is unchanged.
+And no energy has been left in the, in the system. Well, well.
+So this is, this is before happens and this is after it happens.
+What's happened here. Monarch molecules are left in the first vibrational excited state.
+So has the quantum state changed? Yeah.
+So it's a nonparametric process. So we don't have to worry about that phase matching and the Curie phase shift.
+We don't really care because it's a non-parametric process. So that makes it a lot easier to do it in real setups.
+So the final thing we're going to think about, well,
+kind of when we move on to the kind of types of lasers that we want to do to excite
+these processes is when we've previously looked at non-linear interactions,
+we talked about kind of squeezing the light into short pulses to increase the intensity.
+So intensity is watts per square meter. You can increase that intensity by making the area small of a square meter.
+And so focusing down to a tiny spot gives us a stronger response.
+And the other kind of note that we get to turn to increase the intensity is to reduce the time width of the pulse.
+So what's our joules per second. So if you make the duration shorted you boost up the intensity.
+So if you want to just purely go for the strength of the signal,
+you want to use the shortest pulse possible and the shortest kind of pulses that you might use um,
+in a laser that you can generate nicely is about 100 femtoseconds.
+But the downside is we know that the bandwidth of the pulse is inversely proportional, proportional to the width.
+Yeah. So you make your pulse shorter at time the bandwidth goes up.
+So if we then want to use this to excite Roman transitions, we'd be exciting a whole bunch of Roman transitions all at the same time.
+Yeah. So if we look at this, this is the band that I was talking about earlier this quarter in three.
+If we use one femtosecond pulses of 800 nanometers, the bandwidth is around ten nanometers.
+You know how to calculate this now. You're not able to resolve individual peaks.
+And we want to be able to tune to individual Roman peaks so that we get the chemical specificity.
+So it's no surprise that the Roman linguist is about the order.
+Peak seconds. So remember when we looked at the kind of origin, the polarization method?
+We've got our electronic polarization happening on the scale of femtoseconds.
+And our vibrational transitions happen on the scale of peak seconds.
+So it's the line with the line width of your Roman peaks controlled by the time scale that they happen on.
+So they happen on the picosecond time scale. And that means the line width is around not all of your nanometers.
+So we need to use picosecond excitation pulses in order not to be.
+So I took a whole bunch of those people at one time. Does that make sense?
+Yeah. So we need to use picosecond excitation for vibrational nonlinear experiments unless we want to excite a whole bunch of them in one go.
+So for some experiments it's actually helpful to excite.
+A whole bunch of them all in one go. And in fact, in one of our experiments that we're doing.
+We're exciting all of this in one go with ten femtosecond pulses.
+I can I might tell you about the envelope in the exam. So the bit that you need to remember is to resolve individual peaks.
+You need picosecond excitation to match the line width of the Roman band you want to use for contrast.
+And you now know how to calculate the Roman light, the color shift and the Roman shift for pair of excitation lasers.
+So that's kind of the end of non-linear microscopy.
+So we've. Looks at more. We've come to the quick recap.
+I've kind of gone over this to kind of re highlighting the limitations of conventional
+optical imaging so that you can understand and explain what they are and more importantly,
+understand how they can be overcome with nonlinear optical imaging.
+So it decouples the excitation wavelength from the contrast mechanism that you're using.
+It decouples the excitation wavelength from the scattering properties of the material.
+And you gain back factor of one over 3 to 1 over three in the resolution because of the nonlinear squeezing effect.
+And now we finally looked at how we could obtain Roman imaging on a time scale comparable with fluorescence microscopy.
+So we can do it in biological systems. So people do do imaging of Roman because they're spending 10s per pixel.
+It literally takes a day to acquire one image.
+So that's okay if your sample isn't going to go off.
+But if it's something that's made out of biological material, hydrated and drawing by the time you finished it.
+So this is why we go to from and so we can do our video ray optical scanning with vibrational contrast.
+And if anyone's interested. Particularly if you're doing your video on one of these techniques.
+I review article it only by Hervé.
+I think some of you are going to be interviewing this week, um, where he he wrote this review article looking at the different detection modalities.
+Okay. So any questions? So if you haven't but like a chat with me about your video yet please do.
+Do you have you have e-mailed something somebody said about when you said she was that.
+Yes. Um. That wasn't I can't make that on Tuesday.
+Oh I cannot, I've sent you an invite. Yeah. There was another group email me about when I was you guys, so yeah, I can't.
+I've got me taking time to tell exactly that is talking to you later today.
+Oh, you making me meeting Nick? It's real. Nothing. Oh, okay. So what are you doing at the end of today?
+To make sure I've got microphones and stuff.
+Do I hang back for a second and we'll come up with. Yes. You're meeting at three tomorrow or Wednesday.
+Okay. So. Yeah, we'll just we'll.
+Okay. See you tomorrow. I don't. Know.
+What do you want me to say?
+I'm sorry. Yeah, I just I'm not sure.
+I'm. Sorry.
+Okay. So.
+You're. Good.
+Yeah. I'm just sort of.
+I guess I see. You and I just, like.
+Are you okay? Yeah.
+Yeah. Oh, great.
+We hadn't even three minutes ago to see what worked for us.
+Yes. Yeah. See how I can go through these awesome tips on how to do this.
+And the first thing is to undo as well as derivation script.
+So we're just doing like. Uh oh.
+The easiest way to make your password. So what do you think?
+So yeah. So you don't want everything.
+Oh, okay. Yeah. Because we want it to, like, talk about what we can ask.
+And. Yes, I really thought it.
+Was contrast to show your face. Okay.
+I'll see you. In my office on two, one.
+Two. Four. Two. Yeah. Yeah.
+Okay. Just.
+Me and West on the screen. Yeah.
+Have you all like, there's been, as far as I can say? 4:00 today.
+I'm so excited. Yeah. Oh my gosh.
+Oh, yeah. I think it between two.
+Oh, I had the sushi legislative Wednesday. So, um.
+Sorry, I can skip. I think we should get something.
+I. Thursday of Thursday.
+Yes. Friday. Me? Yeah. What is less?
+Could I have loved something great? But. Yeah, first of all, 1 or 2.
+But us. Yeah. I think worst case scenario,
+it would just be a bit of a lecture that after this I to do a notebook probably about 12 or 15 minutes at least, or 30, which would be.
+Yeah. Tough one. Yeah. So it starts off one might think so.
+So you want to do you want to talk. You want to find the. Meeting Ruby in half an hour after a preliminary chat.
+What's your email? Uh, between four and. If you got another that.
+Sorry if you've got another question. So tell me, do we have to?
+What if. Who's my friend who's contactable and do stuff down there, quote unquote the.
+We have a pizza. Okay. I'll just invite you to the.
+My concern is that we. Yeah, this is a concern.
+Um. Hey, are you on the road? Uh, yeah.
+I mean, if you if you don't if it's not fairly easy to work with.
+No, I'll say no. Well, go on, Charlie, you can go.
+Okay. Simply. Add to the pile.
+Why not? And what I might do is just a sign that you all know that Dan's contacted me.
+Oh, um, he's just not on campus. Oh, I see.
+Okay? Yes. Yes. See you later.
+Thank you very much. Thank you. I'm.

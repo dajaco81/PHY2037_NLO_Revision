@@ -1,0 +1,477 @@
+Huh? Yes.
+I'm the resurrection. Yeah.
+It's like that's, you know, solid, isn't that? But I'm supposed to, like, do something that.
+Is. Mindless work.
+It's like, I don't know, makes you feel so excited.
+Or maybe the whole thing. There was, again, some slight.
+Yeah, it's probably because there's so. Many of you guys emailed your interviewees yet?
+It's actually. Yeah. So you guys know. Her name.
+But. Sarah. Yes. Sarah. Um, paintings?
+Uh, yeah. That's all. Go. Well you contact with.
+And. Anyone else contact with that interview if you guys got off on.
+How you got her. Yeah. Yeah, yeah. If you go back, then. Yeah.
+When? Well, like, you got a whole bunch in.
+Fantastic. Yeah.
+You're like. Yeah.
+I mean. I'm not trying to.
+Be like. Oh. Yeah.
+You know, sometimes. Yeah.
+Yeah. Yeah.
+Yeah, yeah, I. Mean.
+That's a good reason to do the most important thing like, you know.
+So. I, I have so many questions.
+Okay. You're going have a good weekend. Yeah.
+No, I think that's it's nice to finally see the sun. It feels like spring is finally around the corner.
+So just ask a few of you about your project. I just wanted to check everyone's management email because in that interview.
+And yet I know a few of you have and you got not done it yet.
+But we definitely. Who's got next time, by the way? So you need to email him quite soon because he's really busy and it takes a long time to like.
+But if you've got Nick, make sure you contact him and ask for all of them.
+Make sure you contact them straight away. Right.
+So we I think we started lecture 11 on ultrafast pulses.
+Yeah. So we kind of didn't get all the way through. And then we stopped so I could introduce the um, video assessment.
+Um, and now you guys are started on that.
+Okay. So let's see how far we got.
+So we kind of recapped this idea that you have to drive the electrons pretty hard to see any non-linearity in their story force.
+Yeah. And for most processes where there isn't a really strong resonance,
+you have to be almost pulling the electrons away from the atoms that molecules they're attached to.
+And for that you need to apply an electric field almost of the order of the atomic field strength.
+Yeah. You'll remember why. Yeah.
+So we just we used this little couple of years ago to calculate the kind of back of the envelope estimate for chi2 and three of that really small.
+Um, so we then started to look at what sort of lasers do we need to generate these type of electric fields.
+Can anyone sort of if you have to describe well what sort of powers do we need to generate these electric fields.
+Another way to kind of sort of ask the question as we we're looking at pulse lasers.
+Um, we looked at the difference between continuous wave and pulse ignition.
+Why wouldn't you want to do this with continuous wave? What were the average powers that we kind of set with?
+What was a component of figures? The average power. Is like 20W/m², some ridiculous amount of power we'd need to do.
+Um, so we went through this kind of back of the envelope calculation and we said, well, we can squeeze,
+we can focus the energy, we can get higher intensity intensities once per square meter.
+So we can focus down to a really small spot to increase the intensity.
+We're limited by the diffraction spot that we can focus down to.
+So the only other parameter that we've got to squeeze the light in is in time.
+Yeah. So this is why we're using very short pulses. So we introduced this idea of taking our laser light.
+And the key here is that we can have a relatively or.
+Actually relatively low average power, but we can hit really high peak intensities and intensities.
+What the units of intensity. How a per square meter al per unit area.
+We could hit very high energies in these pulses by squeezing them in time.
+Yeah. So power is joules per second.
+If you make it deliver that amount of energy in a really tiny amount of time.
+You can hit really high peak intensities or pulse energies.
+And the reason that this helps us in non-linear interactions,
+this is no good for kind of conventional optics when we're dealing with fluorescent or conventional high or Roman.
+The reason, the reason it works and we can do this for non-linear interactions is because it scales non-linearly with intensity.
+So for the same amount average power, you can hit really high peak intensities.
+And your nonlinear process will scale with the square or the third power of that intensity.
+Yeah. So if we were just dealing with. A linear optical process.
+This dotted line would just give us like a time average intensity or the area on these peaks,
+but it's because we're squeezing into such short pulses that we can hit these, these high intensities,
+and we get an overall gain in the signal that we generate,
+because we're dealing with non-linear processes that scale with intensity normally rather than the average power.
+So we looked at these. These are the kind of t. Parameters and pulses.
+So you've got your pulse energy the peak power. And the peak intensity.
+And these depend on the average power, the pulse width and the repetition rate.
+I'm not giving you these equations right in a red box.
+Because yeah, you're going to need to use these. Yep. And these ones it's not you know these on kind of rocket science.
+You can kind of work out what, what the average um,
+the relationship between average power and pulses per second in terms of percentage to kind of see where they come from.
+And I put the units in now as a kind of sanity check.
+So the rent rate we looked at, the number of pulses you deliver per second, it's the same amount of energy that you're delivering on over time.
+Average duration. It depends how we're kind of splitting those pulses up.
+And I kind of showed you this analogy, kind of a machine gun firing thousands of bullets per minute compared to a tank,
+which is like one big bullet every couple of minutes.
+So you're kind of delivering the same amount of blood, but just in a very different way.
+Yeah. So this guy, you've got huge peak intensity.
+If this was the kind of optical pulse analogy, um, and then we did some calculations to work out effective rep rates.
+A pulse, energy and power, two very similar lasers, but we just different rates.
+And we went through that and I think we've got to get this far.
+I look to kind of this idea that you can try controlling the optical path, like something like a delay stage.
+You can control the optical path length quite accurately of a few microns.
+And that gives you kind of sub femtosecond temporal resolution for overlapping your pulses.
+And you can do some really cool time domain measurements. Um, we then did a calculation on that.
+And then did we get this for. So we're starting to look at bandwidth.
+And as we kind of said in the introductory. Section of the lecture course, whose principal did we use to look at the kind of relationship?
+Between the time of impulse and the energy impulse. Yeah.
+So Eisenberg's uncertainty principle.
+When you squeeze the line into a really, really short, very short time length kind of quantum mechanical timescales,
+the uncertainty in the timing of that both of those photons gets really small.
+So the uncertainty in their energy gets much bigger.
+And this is why we have a broad bandwidth in frequency but very short pulses.
+And you can see they're inversely related. So a narrow pulse in time has a broader range of frequencies required to generate that pulse.
+Well within that pulse that you measure. And I think we go about this far.
+We use the uncertainty principle to compare the bandwidth from one picosecond pulses into two different wavelengths.
+And I think I reminded you of this relationship here.
+So it's not a straightforward linear relationship between the wavelength and the frequency bandwidth because they're inversely related.
+So we have to differentiate them. And this gives you this kind of counterintuitive situation where the central wavelength affects
+the bandwidth in frequency wavelength that you need to produce a certain width of pulse.
+Yeah. So that kind of surprised people when you when you looked to you could have one,
+two different sets of one picosecond pulses that each have according to the uncertainty principle
+you put one picosecond into here you get the same uncertainty in energy for those photons,
+which means you have the same uncertainty in frequency of those photons.
+But when you convert that into the bandwidth in wavelength,
+you needed a much broader bandwidth for the 1600 nanometer pulses needed for the 800 nanometer pulses.
+Did that seem a bit weird? Did you expect him?
+So it comes from this relationship. And then right at the end of this morning, I'll spend the afternoon of this afternoon's lecture.
+We'll actually see that this really does make sense. Writing the uncertainty principle and the Fourier transform and how pulses are generated.
+So this this affects how the pulses are created, which is what we're going to look at in a couple of lectures time.
+So we've done this one. Did we get to this point. So you can join the recap.
+So I keep thinking we haven't done it but this can recap.
+So if we have our electric field as a function of time we have that intensity,
+the electric field constant of the square root of intensity which is your amplitude.
+So that gives you the envelope this kind of shape of the pulse as a function of time.
+And then we have the phase as a function of time in blue, which tells us how the color of the pulses changes with time.
+Yeah. So how the frequency evolves across that pulse.
+And why was that important? What happens when we put these short pulses through real materials?
+It's a phenomenon that begins with deep. Dispersion.
+Yeah. So we know from dispersion that different wavelengths experience a different refractive index light different different.
+They each experience a different path length index goes up with shorter wavelengths,
+which means the red end of your pulses tends to arrive before the blue end.
+If you've got a dispersive medium, which in those cases we do.
+So I think we did I stop here. This is how far we go.
+So. Hoses come in a cuff, a couple of different shapes and sizes,
+and the precise shape of your pulse depends upon the properties of the laser cavity that produce those pulses.
+But just like with the airy disc, it's quite convenient to use a simple Gaussian as a kind of estimate for your pulse shape.
+So not all pulses are Gaussian, but it's just a good approximation as a lot of things we see in it kind of physics.
+A Gaussian shape is quite a useful function to to fit to your data, and it allows you to fit your curve to your data.
+And from that fitted function you can extract things like the full width half maximum or the standard deviation.
+So your Gaussian function is determined by the standard deviation just because the way it's written.
+But what we actually want to kind of ascertain or extract from the pulse widths is the full width half maximum.
+So you're familiar with the relationship between the full width half maximum and the standard deviation of a Gaussian.
+People looking blankly. Do you want me to go through it just to remind you how it works?
+So it's really straightforward. It's nothing kind of secret about it.
+Um. So if we've got electric fields and we're fitting an electric field shape with a Gaussian to our pulses.
+E to the t squared to sigma squared.
+Yeah that's just the shape of Gaussian. We've all seen that before.
+This guy.
+The standard deviation isn't very nice to work with, because when you measure pulses, you're going to be measuring the full with half maximum.
+Our. You function.
+What we're interested in. Point at the full width half maximum of our pulse.
+And the thing that we get from app.
+Config creates or defines a Gaussian is defined by the standard deviation, which is so useful to use in terms of characterizing an optical pulse.
+So how do we convert between standard deviation and forward half maximum direction.
+So we seen this before. So at the point where we've got the full width half maximum, if this is our.
+Electric field maximum. At that point, the value here.
+He's going to be in for over two. Definition full width half maximum.
+So we could just substitute in. Half.
+But you have old. This tea now becomes tea half because it's the point at which is half the maximum.
+In terms of sigma. What do we do to get the exponentials?
+Yep. So you take a look at both sides. Like, why have I got to love two on one side?
+Not a lot of heart. You lost the minus sign?
+Yeah. So negative log of a half is log to. So now we can rearrange it to give us the time off of the pulse.
+Of the amplitude. We want the full width half maximum, not just half of it.
+Just have to tune that. So we've now got the relationship between Sigma.
+Of maximum. And then if we wanted to, we could apply that to our electric field function.
+Now put it in terms of full width. Half maximum. There's two cans.
+You know that. I've just arrived. All I've done is just arrived.
+The thing that's on the board. So you can. You can see where it comes from. So it's not gonna fall back to that.
+And everyone follow that. Yeah.
+So converting between standard deviations of Gaussians and full width half maximums is something we're going to do a few times.
+And we're going to we're going to apply in terms of spatial resolution and pulse widths.
+And I'm just going to assume that you understand the relationship between them. And you can calculate that.
+So the gal said it's a nice approximation. Um, who's to use?
+Because it just gives us a much nicer function to work with.
+Okay, so the Fourier transform is a function that allows us to move between the frequency and the time domain.
+And we can use this to give us a much more accurate measure of the relationship
+between the band width and wavelength of a pulse and its time duration.
+So remember the uncertainty principle is just an approximation.
+It's pretty accurate, but it doesn't give us precisely the relationship between the bandwidth and the time of the pulse,
+because it's the precise bandwidth versus time width of a pulse depends on the precise shape of the pulse.
+So we're going to stick with Gaussians because it's a really nice easy function to work with.
+Um, and you should all be familiar with the Fourier transform function that allows
+you to move backwards and forwards between the frequency and the time domain.
+Yes, you've all covered the Fourier transform, haven't you, Max?
+Already? So this is a give. Maybe I'll show you something new that you can do with that.
+And hopefully this will make you think of actually for a transform it's quite a useful function.
+Um, I think did I tell you at the start of the lecture course that it's probably the most useful piece of maths that I never understood at the time?
+So what I'm showing now, at the time, an electrical circuit for a boy, that's what they me about this.
+And then when I came to use it up a few years later, I was like, oh yeah, I wish I'd understood that at the time.
+Um, so a really handy one to remember is the Fourier transform of a Gaussian.
+So if you're going to remember a handful of kind of standard Fourier transforms,
+as I've kind of hinted at already, we use a Gaussian function as a kind of estimate for lots of different things.
+So knowing the standard that the standard integral or the standard for a transform of a Gaussian is a really handy one to measure.
+So if you take the amplitude of your pulse, so the amplitude as a function of time as the maximum amplitude as a,
+as a Gaussian function with a standard deviation. Shove that into this function and then you'll get this out.
+Yep. So that if you all calculated the standard for a transform of a Gaussian in, that's your course in mass.
+It's a really common one that you need to remember.
+Um, but it's also important because it's quite a common one.
+And I'm doing this for a transfer. We did not need to calculate.
+She's a bit of a pain and we're not really focusing on the maths here.
+If you needed it in the exam, I'd give it to you on the front page as a standard integral.
+Yeah. So everyone happy with that. So if you need it it will be in the exam paper.
+So what we can do is we can use that relationship, the Fourier transform, to calculate something called the time bandwidth product.
+So different shapes of pulses have different values of the time bandwidth product.
+So Gaussian pulses it's a common which the common shape to use the time bandwidth product is two log two over poly 0.441.
+So this is a more accurate version of the uncertainty principle.
+But rather than calculated through quantum mechanics, it's calculated through the aura transform.
+So you use the Fourier transform to calculate the relationship between the time width of your pulse and the bandwidth of your pulse.
+And then by dividing the two, you can calculate the product of them.
+And then that allows you to get this accurate measurement of the relationship between the two.
+And this tells you that the pulses which are transform limited.
+So transform limited means that they have no dispersion.
+So all the wavelengths are arriving at the same time.
+So there's no dispersion in that pulse. And it has the shortest time with for a given bandwidth of light within that pulse.
+And this is the accurate calculation that tells you, for a given bandwidth of light, that I've got the shortest pulse that I can achieve.
+If I get rid of all my dispersion, this is the shortest value and it's given by that number.
+Carnival. Can anyone see how we arrive at that number?
+That we're going to go through the derivation. Just to kind of convince you.
+So this number is something that's kind of given in textbooks and technical manuals, and people kind of take it for granted, but we have to prove it.
+Um. So we're going to prove.
+Time bandwidth product. Calkins.
+0.44. Okay, so we take our pulses in the amplitude and the time domain.
+Use our standard for transform.
+Remember, this is something that will be given to you if you ever needed it in an exam.
+So this is kind of our starting point for derivation. That's something that we just given.
+That's a starting point. You could obviously you could do that for a transform at any function to calculate its own bandwidth for that.
+So we can then rearrange this to make it a bit easier.
+We don't want to work in Omegle. We want to work in frequency at.
+So who'd we get to? I asked. So we've now got relationship for our pulse amplitude domain.
+In amplitude in both time domain and frequency domain.
+Do we measure the pulse width? Its amplitude.
+What are we measuring when we're measuring light signals onto detectors?
+It's the intensity. It's watts per square meter.
+So you have to remember this. This derivation only works if you convert to intensity.
+So that was amplitude need to convert to intensity.
+So we can write the intensity.
+Where the amplitude. I know is our peak amplitude and it's very similar,
+but just with the two in front of it because we squared it, we do the same in the frequency domain.
+Where that guy. To inform you.
+Yes. So now we want to calculate with half maximum.
+We do exactly the same trick. I over.
+I know she'd be a half because with converting with half maximum.
+Because that's what I delta t is going to be. We've now got.
+This is the half width of maximum value calculated because it's the delta T.
+And we do the same in the frequency domain.
+Delta f. Looks both solid again.
+So we need to remember to convert to the full width half maximum because that was just half of the width.
+Also if you remember. So when we have our Gaussian. Delta T is just half of what we're after.
+Of maximum. Just the fact of Turin.
+To. Yes, I can see the whole thing, but it's hard to look at the screen and see the Burlington at the same time.
+So I think if I kind of back to work as.
+And finally what we wanted to calculate was the time bandwidth product.
+Excuses to go to the house was cancelled.
+You just have to. They're from Florida, so nothing tricky there.
+Just a lot of steps. Um, if you needed to do it in an exam, I give you the Fourier transform.
+Yeah. Oh, sorry. What happened to the Pi? Over Alpha?
+It's all right. When they cook at home.
+We're unknown. Left or right, because it has plowed through.
+Yeah. Yeah. So I was just wondering if, uh.
+Yeah. Well, got to say, when we go to the home of.
+That is the maximum.
+So I bought times Pi Alpha. Is your amplitude so average?
+Yeah. I should have highlighted that. You have spotted that everything in front of the exponential.
+Is your amplitude. So you take the whole log on onto the left hand side.
+Eyes one on your five. Alpha is two.
+Yeah. Yeah. That's it.
+That's it. I should highlight it just to show you my time. Is that clear?
+Yeah, that that's one that you ought to be able to reproduce a classic kind of exam question.
+So once you know what the time bandwidth product is, it's really straightforward to apply it to solve problems.
+So in this example. Use the time bandwidth product to calculate the bandwidth of one peak second process.
+At 800mm. So we know that a time.
+And with products you can see on.
+50s ten to the -12 seconds. One.
+He's turned a three. But then we have to convert that into wavelength.
+Would. That bandwidth hurts.
+That comes out, you know, four times 10 to -9m.
+Nine metres. So that's telling us that full of one picosecond pulse, if it's transform limited or if there's no dispersion,
+it will have a bandwidth over the quieter bandwidth of .94 nanometers to generate that pulse.
+So we've looked at pulse widths, starting with something that you've seen before, the uncertainty principle.
+So we've used quantum mechanics. And it's a nice demonstration of quantum mechanics because.
+Because the timescales that we're squeezing the light to is kind of on the quantum mechanical scale,
+I think actually tells us pretty, pretty accurately what the pulse width is.
+We've then mathematically shown that the Fourier transform gives you the precise bandwidth of your pulse for a given pulse shape.
+And now we're going to see kind of where it all comes from, from a kind of a hand-wavy explanation of how the light comes to the generator.
+But it's not really that hand-wavy it's cool. This is precisely how the pulses are generated.
+So if you this is a kind of visual representation of kind of optical pulse formation.
+So we're now kind of approaching it from the other end.
+How you would go about creating these pulses. So you know that you need a bandwidth in frequency, a wavelength to create short pulses.
+And we can think about this in terms of interference.
+So we know that if we've got different if we've got one wavelength of light.
+So let's just look at this red wavelength omega one.
+It's got its own. It's got a single frequency components. If we just had a whole bunch of red photons.
+Yeah. And they were coming from a laser and the lasers temporarily coherent, what does that mean?
+It means the electric field of all the photons is going to be in phase.
+Yes. If we ignored all the other colors and we just look at this one sine wave, if they're all perfectly in phase,
+all the peaks and troughs match up, there's no destructive interference and you just get this coherent laser beam.
+It doesn't cancel itself out. As you travel through space.
+Everything stays in phase. You've got this nice monochromatic laser beam.
+But if we then say, okay, so I've got my red photons, they're quite happily all coherent together.
+I'm now going to get another color of laser radiation at omega two.
+These slightly orangy ones, they have their own phase and they're all in phase.
+They're happily oscillating in phase. Everything adds up.
+And the same for the yellow, the green, blue and the purple one.
+But if we consider a superposition of all of those wavelengths.
+So we start adding them together. If we look at the point where all the peaks of the different wavelengths light up,
+like time equals naught, you can see you're going to get constructive interference.
+Yeah. So we get a strong electric field where all of those guys line up.
+But as you start to move away from this time that I've defined as time equals zero, if you look at the peaks, you can see they start to go out phase.
+Yep. And this is how you generate very short pulses.
+You take a broad bandwidth of wavelengths, and you add them together in such a way that when the peaks are all lined up, you generate pulses.
+And when. The peaks and troughs are an empty phase.
+Everything cancels out and you get nothing and complete destructive interference.
+So if you just kind of look at the picture of kind of the amplitude where everything's lined up, we get a strong,
+coherent signal as we start to move away from the time equals no, you can see the second drops off, the intensity drops off.
+If I was to add in more and more different frequencies, and maybe there was an omega seven which has an even longer wavelength,
+you can see as you start to increase the bandwidth of the pulse,
+the width of the pulse gets much shorter because the destructive interference cancels out the signal much quicker in time.
+Yep. So this is kind of validating the uncertainty principle in our time bandwidth product.
+And it's also if you think about it a bit more carefully,
+it also tells us that this is why you need a different bandwidth in wavelength for pulses sent to the different wavelengths,
+because to get to the point where you get this destructive interference, the fields have to go out of phase,
+and for a longer wavelengths wavelength that takes a bit longer for that destructive interference to happen.
+Yeah. So if you're dealing with a blue laser where the where the bandwidth is very short and you've got lots of peaks and troughs,
+the destructive interference happens very quickly along the timescale.
+Whereas if you go very long, slow kind of infrared wavelength in time, you have to go further distance before you get to that kind of band phase.
+Yeah. So that kind of also matches up with this kind of mathematical explanation of why you can't just use delta F and convert into delta lambda.
+Does that kind of make sense? Yeah, and it's quite nice how the uncertainty principle matches up the Fourier transform.
+And my kind of picture of how electric fields cancel out.
+So the final thing we're going to look at about pulses is this thing that happens when you get dispersion.
+So. It's back to this idea that different frequencies experience different refractive indices.
+It's very hard to keep your pulse together when it's travelling through anything other than air or vacuum.
+So as as the frequency goes up, refractive index goes up.
+The blue light experiences a longer optical path length to a rise later than the red light,
+and pulses that have gone through dispersion have been dispersed.
+They're called chirped pulses. And the reason they're called chirped calls this.
+Is because the pitch, if you were looking at these kind of would sound with the duration over that pulse,
+the pitch of the sound go up and it sounds like a kind of bird chirping type sound.
+Yeah. So that concert pulse pulses just been the kind of analogy to to sound if you're dealing with sound waves.
+And you also get another example of kind of dispersion when you hear thunder, what does it sound like?
+You heard them do an awesome note to make a noise of thumbs up.
+It's like a long rumbling noise, isn't it? But what generated the sound that gives you the thunder that you hear?
+It was lightning, wasn't it? So if you are right where the lightning struck, it would be like a really sharp instant kind of noise.
+Yeah, but the electrons like line was in the air to the ground.
+That's not a long, drawn out process. It happens really quickly, and there'd be some really high frequency components or some crackles in that.
+But by the time it traveled through the air, that pulse of sound has been dispersed.
+And you also get echoing effects.
+And that's why it turns into this kind of rumbling noise, because there's this kind of short pulse has been kind of stretched,
+and the high frequencies are brighter later than the low frequencies.
+And that's also why you kind of get this delay that you hear that you see the thunder, and then you wait and you can count seconds.
+And the further away that the lightning goes, the more dispersed that pulse is, not the time it reaches.
+So just to give you a kind of insight into how people deal with this.
+Pulse compression is a big thing in nonlinear optics.
+There are lots of different methods that people like to come up with to try and keep these pulses together.
+So your laser cavity contains optical elements made of glass, made of lots of different crystal lenses.
+You've got the laser medium. You have to send these pulses through dispersive material.
+So there are a couple of different strategies that you can use to try and push them back together.
+So they get dispersive optical elements. You can send your pulses onto a diffraction grating.
+So you split them up into color and then sent it onto another grating,
+and then you've stretched out your pulse so you can send it back to compress your pulse.
+And the angle at which you turn these two gratings.
+Two affects the path lengths that the red, green and the blue light see.
+Yeah. So each of these gratings splits the light up into its different colors.
+And you can see the angle of these two gratings here. You can see the blue light follows a shorter path than the red light,
+allowing you to compensate for the chirp and then create pulses so that you've you've reversed the effect of the chirp.
+And you can also do this with prisms as well.
+So again you can have a prism set up where you can change the path length between the red, green and blue light to affect.
+To compensate for the effects of depression. Does that make sense?
+Yeah. So in terms of the dispersion compensation, um, I wouldn't expect you.
+There's no kind of calculations we're going to do.
+You just need to understand how you can use describe gratings and prisms and set them up such that the, the dispersion within these devices,
+we can use it to geometrically give us negative charge within our pulse to compensate for the optical positive difference.
+Yeah. That makes sense. Okay.
+So that's the end of the lecture on the pulses.
+So you can now do these following things listed on the slides.
+And we're just going to get preview tomorrow's lecture.
+This is quite a long one.
+Well we're now putting it all together into a microscope to see how we can generate images with these non-linear interactions and more importantly,
+why we would want to do this. So we're going to see how we apply it in a microscope and think about how it allows us to overcome
+some of the limitations that we had when we looked at optical imaging a couple of weeks ago.
+So if we go back to the kind of fundamentals of kind of diffraction, diffraction limited resolution and depth penetration,
+which is limited by scattering, I think I kind of left it by saying, well,
+there's this fundamental tradeoff between scattering and spatial resolution.
+So spatial resolution is determined by the diffraction limit.
+So it's proportional to wavelength.
+So if you want to see smaller things or smaller separations between objects, you want to go to the bluer end of the spectrum.
+But if you want to go deeper into object into objects, you want to limit the scattering efficiency, because scattering favors red light.
+So red light is scattered far less than blue light.
+But then you've got this kind of fundamental mismatch between being able to see small things and deep into things.
+And likewise the polarization mechanism, if it's fluorescence or absorption or infrared transitions,
+the polarization contrast mechanism dictates what wavelength teams.
+So now we're going to look at how we can overcome that with nonlinear excitation.
+So you should remember kind of confocal fluorescence.
+Um are you all familiar with this diagram. Could explain how it works.
+And maybe draw one of these diagrams and explain how it works. Yes, that's something to practice.
+So one of the big drawbacks of microscopy is that you get kind of blurring with out of focus objects.
+And the way we get round this is this confocal detection. We put a pinhole in front of the excitation light.
+The light gets focused through that pinhole. It goes into our microscope gets focused on the sample.
+And then the light, the pass through the pinhole gets focused to this black line which is the focal plane.
+The light emitted from that focal plane comes back through. The objective gets reflected by the mirror.
+And then only light from that along that black ray diagram makes it through the detection pinhole.
+So. So objects from above and below the plane of interest should get rejected by that pinhole.
+And that allows us to get a nice, crisp image of a layer of cells through a mouse kidney that we're looking at here.
+Is that over here? Remember how this works. We then looked at this issue that if you get scattering so Rayleigh scattering which
+scales whatever wavelength to the full if you want to look at that chunk of tissue.
+The scattering really messes up your pinhole detection. So light that's been emitted from the focal plane if it undergoes 1 or 2 scattering events.
+It misses the pinhole. So this causes a real problem in terms of depth penetration.
+So you have to crank up the laser power just to be able to detect enough of the non scattered photons that make it whole.
+And then you start kind of you end up with something that's not that noninvasive because you're burning the sample.
+So we have this mismatch between scattering and spatial resolution.
+So spatial resolution favors short wavelength blue light scattering favors a long wavelength red light.
+Yeah. So there's a mismatch between the two.
+This is where the kind of nonlinear, or the first advantage of nonlinear nonlinear optics comes into play.
+So the nonlinear signals that we produce scales nonlinearly with intensity and intensity.
+We know we can increase intensity by squeezing the light into a small spot.
+So it's power watts per meter squared. So if we focus our light.
+So back to this idea of our hairy discs and our point spread function, we focus light down.
+To a small spot. Well, we've got some, like 88% of the light in this tiny red central desk.
+If we if we excite a nonlinear process in this way through a high focused beam, what we see is we don't get some signal,
+doesn't respond in the same way as a linear one would respond to the excitation intensity.
+We don't get the signal generated within the airy disk.
+We get the signal generated within the square of the airy disk.
+So for the second order process, it's generated in a function that looks like the airy disk squared.
+So this has this really,
+really helpful property of allowing us to only excite these nonlinear processes right at the very focus of our microscope objective,
+where the intensity is really high because it scales with intensity squared or intensity cubed, not intensity.
+So if we look at the first example at nonlinear contrast to photon excited fluorescent.
+So it's a fluorescent process. So remember for fluorescence we've got a what's the name of this diagram which powers physicists.
+To Blonsky. So we cut out your Blonsky diagram.
+Full fluorescence. Go me the blue photon we get.
+I've missed out the squiggly line of the non radiative transitions here, but we get a green photon coming out.
+If we were to look in the z direction, as we focus our light through a kind of tube or your fluorescence compound,
+you'd excite the fluorescence in this whole kind of hourglass shape of the microscope focus.
+It's brighter in the middle, but you still get fluorescence emitted from the out-of-focus region of that excitation.
+If we then compare that to two photon fluorescent. So here it's a second order nonlinear optical process.
+We take two red photons, each of half the energy of the blue photons required to excite the fluorescence transition.
+It's a second order process. It scales with the intensity squared.
+We're still exciting the fluorescence transition and emitting some green photons, but it's a second order process.
+So it scales with intensity squared. And now if we look at our point spread function or an hourglass,
+we only get the fluorescence generated right at the very focus where the intensity is high enough to give us this nonlinear interaction.
+So we've said that for the nonlinear interaction you have to really be pulling the
+electrons almost away from the atoms that connect to these high electric fields.
+This only happens right at the very focus.
+And this these processes scale with intensity squared. So it's squeezing the the focus here.
+So when when we did the Gaussian derivation a second ago, we went from amplitude to intensity.
+And I squared the Gaussian that has the effect of squeezing that Gaussian.
+Yep. So this is a kind of diagram of how what happens.
+And here's a very famous photograph by a guy called Brad Amos, which kind of pioneered nonlinear fluorescents in the 90s and early 2000.
+And he's take from this really famous photo where he's taken two microscope objectives shining light into, uh, the cuvette of fluorescent dye.
+Um, the top one is a linear laser, which is blue, and the bottom one is a pulsed laser, which is exciting the dye at double its excitation wavelength.
+And he can this. He gets a bit noisy. Everyone pitches this photo without saying who took it.
+And I think, well, when you speak to him,
+it took him months to work out how to do this because he had to filter out all the on his loads of blue light,
+and it took him ages to set it up so you can see it all.
+But here you can see the classical kind of hourglass of the fluorescence generated from the blue laser.
+You can see you get a lot of out-of-focus light generated.
+And then here's the tiny kind of beam waste the focal spot, and then the signal dies off.
+As you come out the other side, you can see you're exciting all the way through that kind of hourglass point spread function,
+which is why we need the confocal detection.
+If you then compare that to the nonlinear excitation of the same dye, but at twice the excitation wavelength,
+you see a tiny spot right at the focus, and that's the only place the signal is generated from.
+Yeah. So this is a real advantage for imaging Das because it means you don't need the pinhole.
+Nonlinear signal generation is intrinsically confocal.
+The signal is only generated at the focal spot. And you can scan that focal Scott around in 3D.
+And you don't care how the light scatters. Yeah. So that's the kind of the basis of the basis of the first advantage of exciting things.
+Nonlinearly.
+Because you know that you only generate the signal at the focus, and the light that you're shining in is twice the wavelength of the light.
+You need to excite that first. So the light being focused in intrinsically gets scattered a lot less.
+Yep. So we know that scattering scales with wavelength one over the fourth.
+So if you double the wavelength you go from 1 to 2. Photon fluorescence.
+How many times do you reduce the amount of scattering. Uh, four.
+Yeah. So how many times is that? 16.
+Yeah. So you almost know you've achieved a depth penetration increase in terms of scattering by a factor of 16, which is the rate again.
+So tomorrow will continue with this one.
+And we'll see what other benefits you get by exciting processes with short pulses in a non-linear fashion compared to the linear stuff.
+Okay, it's the same time tomorrow. That's not the same time as it's an hour earlier.
+1230 tomorrow. I think one of the groups emailed me to see if I was available to have the chat about your interview.
+I've got a tutorial straight off this time, so maybe sometime tomorrow I'll try to email.
+Okay, see you tomorrow. Thank. You so.
+Much for your time. You're welcome.
+All right, I.
+Still have to.

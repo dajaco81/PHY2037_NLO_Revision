@@ -1,0 +1,540 @@
+This is. This is really. If you like.
+Oh. So sorry. I did not work there, but.
+No. I mean, it was like.
+Oh, yeah. Oh.
+Yeah. Oh. Yeah.
+So they said. Something.
+Like that. I think.
+There's. Just. Something.
+Over. There. But it's just.
+Yeah. And also as again guys think we can even really interesting.
+In a little bit. So I think they got to if we can go to you guys during the weekend.
+Nothing. So chair revision house you know.
+Yeah. Pretty difficult to get out but it's a great so so years.
+And then we did the introduction to the lecture course last week.
+We kind of I gave you an overview of the film video optics and imaging.
+And then I covered some of the prerequisite material from electromagnetism quantum and from your first year.
+So you can actually reach all the way to a year ago to when you did waves.
+And okay, particularly the harmonic driven harmonic oscillator stuff.
+Yeah. And then this week we're actually going to start delving into the actual topic itself.
+And we're going to start by looking at all possible imaging starting with contrast.
+And this I think is my favorite lecture of the lecture course. You're going to find one.
+Okay. So we're going to look at kind of in a bit more detail what we mean by image contrast.
+And we're going to start to kind of look at some of the light matter interactions that we can exploit to provide contrast of the image.
+Um, particularly as I mentioned in the introduction, we're going to focus on microscopy.
+Can anyone remember why we focus on microscopy.
+This that chuckles. To do with nonlinear optics.
+So as I kind of hinted, you need to hit really high light intensities.
+To excite nonlinear optical processes. And one of the ways in which we do that is to focus the light down to really small spot.
+So that's why these methods lend themselves to to microscopic applications where you can achieve this very tight diffraction limited focus.
+So we're gonna look at some applications of microscopy. Then we're going to start to look at the physical origins of color.
+So we've already kind of looked at this idea. We've said boys cross green and it's because it's got a chemical inside it.
+What's the name of the chemical that makes cross green. There's a sea.
+Overfill in the coal plants in the plant cells.
+So we're going to look at actually what is it about particular molecules that gives them color, that makes us be able to see them.
+And then we're going to look at something called labeling. So how we can obtain controls by labeling.
+And as I kind of alluded to in the introduction, you should all be familiar with this equation from last term.
+What's this capital P called. Induced polarization.
+And it's a vector. Yeah. So it's a vector field that tells you how your applied electric field,
+how it induces a polarization or displaces the bound charges within that material.
+And epsilon naught is a constant. And what's this funny shaped Greek character here.
+Name of the letter in the Greek alphabet is chi. And what does it physically do in that equation?
+So when you looked at this with Matthew last term, he probably kind of glosses over this and says,
+we're going to assume that the material is isotropic,
+in which case it's a scalar quantity, and it really just tells you forgiven electric field how easy it is to induce a polarization.
+But what we're going to find out is that this thing is actually a property of the frequency of electric field that you're driving at.
+So it depends on the wavelength of the light or the frequency of the electric field.
+And it's also a tensor element. So it controls how this vector maps onto this vector.
+So as we begin to look at if your material is organized into certain orientations,
+the optical properties change depending on the axis at which you apply the electric field, which is kind of what you'd expect.
+So we'll look at that in a bit more detail.
+So in terms of this lecture course, it's the kind of tells us the difference between the different materials.
+We're showing an electric field on that, on the material in the form of an oscillating electric field from a laser beam.
+So from photons and it's the P that we measure and we measure p knowing what E is,
+we try to work out what's inside this chi tensor, because that tells us about the material and how it responds.
+And that's how we learn about the material. So if you think about imaging so particularly in science.
+This can kind of become a little bit more specific about what we're trying to achieve.
+So you can kind of write a list of reasons why you would use imaging scientifically.
+Say you want to see things. Too small to see.
+Bye. So this is a zoo, plankton and a marine organism.
+And it's less than a millimeter in size. So this thing's too small to understand and study just by looking at it with the human eye.
+I said we need magnification. Other examples where you've got things that are too far away to see.
+So this could be like in astronomy where you want to look at planets and distant galaxies.
+So you need optical systems to bring them closer.
+And also we want to be able to see things that don't absorb or emit or interact with light in the visible range.
+So as we kind of discussed last week, we we're used to we've evolved to kind of interact with the world around us based on this really narrow,
+tiny, tiny window in the electromagnetic spectrum, which we call visible because it's what we can see.
+But as we're going to explore in this lecture course,
+there are lots of there's a vast range of the electromagnetic spectrum, all of which interacts with material.
+And we want to design optical imaging system to enable us to visualize how these different regions of the spectrum interact with these materials,
+and we can exploit that to access molecular composition structure in water.
+We want to look at the distribution of molecules in biological tissues, for example,
+in both space and time, to see how things evolve, how they interact, how they're orientated.
+And this is this kind of. Trendy name warfare.
+Chemical contrast is a combination of kind of morphology, how things are structured and the chemistry that underpins that structure.
+And this is quite nice image. I quite like this one.
+It's a zoo plankton kind of mining microscopic thing with wings that whatever they're called,
+these kind of feel able to kind of swim through the water.
+Um, and what have, what can you see in this organism?
+There's light shining through it. So we're looking at life being transmitted through this organism.
+What would you say? What's generating the contrast in this image?
+There's certain regions of the organism that are black.
+Yeah. So the oil has got pigments in it to detect light and it's absorbing the light.
+So that's why it is black because it's not being shone through.
+We've got other regions within the organism that are completely transparent.
+Yeah. Does that mean it's empty? No.
+So it doesn't necessarily mean it's empty. It just means it's not interacting with the light.
+Then we've got regions here that are clearly coloured.
+And what might be the cause of this colour in this. This is its kind of digestive system running down here.
+What might make that coloured. So pigments.
+So it's probably something like chlorophyll because it's been eaten kind of by plant material within floating around within within its environment.
+So that's why it's colored. And then we've got these other regions where it's white.
+And what causes this white appearance in the sample?
+Reasonable. The clouds were white when we looked at that picture the other day.
+So this is like scattering. So we've got loads of stuff in here.
+Are various interfaces with the different refractive indices,
+and it's causing the light to be scattered in all directions independent of its wavelength.
+And that's what makes it white. So we're going to kind of this was a kind of we looked at this analogy on the first kind of lecture course.
+One of the nice pictures,
+because it shows kind of chemical kind of contrast of the grass absorption of the camera flame as well framed as well as black,
+and then the scattering effect in the sky, which creates the, the orange and the white colors in the sky.
+So this is kind of showing how transmitted information gives rise to contrast.
+But as I kind of said, there are by accessing different wavelength ranges or different instruments, we can.
+Optical imaging enables us to see chemical contrast or differences that were invisible to the human eye.
+So this is a quite a since kind of drones, a kind of, I was going to say taken off the beaten path, isn't it?
+So, um, yeah. Since drones have become very popular, this new field in the kind of chemical industry has become really kind of interesting,
+where people have developed optical instruments that they can put into drones.
+And by looking at various different wavelengths, both the visible and beyond the physical,
+they can look at subtle differences in chloroplast absorption that tells them about the
+kind of health or properties of the plants that they're looking at within the fields.
+And this is this is becoming really kind of useful.
+So the farmers can kind of kind of pay people to fly drones above that field.
+They look at this kind of remote sensing application where they look at a broad
+spectrum of electromagnetic radiation and then analyze it spectroscopic,
+and they can map out regions of the field,
+looking at the different ratios of the of the pigments within the plant that can tell you about where the health of that crop within the field,
+whether it needs watering, whether it needs adequate chemicals.
+And then the really cool thing that people have started doing is they take this map well, they fly the drone across the kind of crops sprout,
+and then it links up with the GPS in the crop sprayer, and it tells it exactly what the dose on a certain part of the field so you can limit.
+Chemicals are expensive for the farmer, so they'd like to use less of them.
+And they're also bad for the environment. So using less is best is good for everyone.
+So these maps can kind of tell the crop sprayer automatically where to deposit more or less of the stuff that that's sprayed on the field.
+So this is just an example of how we look at plants.
+And we can see that green without the limited range of the electromagnetic spectrum that our eyes are sensitive to,
+but hidden within that signature, a really subtle details about the chemical properties of the tissue.
+So by zooming in to kind of the kind of wavelength range that's important, and then analyzing that with optical instruments and computer code,
+we can see things that are just invisible to us and kind of stretch the color scale across the red,
+blue through to the green to really highlight differences that we can't see to the human eye.
+So seeing small things is clearly very important as well.
+So we we it's everyone put your hand up if you've not ever looked down a microscope.
+You end up if you have. Yeah. Friends. Everyone is kind of familiar with what a microscope is, what it does.
+What did you what were you looking at when you looked under a microscope?
+Anyone care to share? Yeah. Tissues from a vegetable.
+Some tissues from a vegetable. You said that like a secondary school experiment.
+Was it like onion cells? Yeah, yeah. So you compare onion, and you look at the kind of the cells and how they're organized within the tissue.
+But the onion. What did you see when you put the onion skin under the microscope?
+You see the cells? Mhm.
+And were they colored. Stained. Uh they can stage.
+Okay. Perfect. So we're going to look at staging in a second. Did anyone look at unstained onion skin.
+I see you all got given stained skin. So if it wasn't stained, you wouldn't see anything.
+So the reason we use a microscope is to look at small things like biological cells.
+Um, and we're going to the idea is that we use the magnification of the optical
+system to enable us to see things that are too small to see with the human eye.
+And we're gonna be covering this topic yesterday, yesterday, tomorrow,
+when we start to calculate the diffraction limit for a given optical system for a given wavelength,
+and we're going to define something called optical resolution.
+Um, and as I said, we need a tight focus for most applications of nonlinear optical imaging.
+So that's what we're going to focus on microscopes.
+Um but today we're looking at molecular contrast how we get contrast of stuff inside our microscope.
+Second, back to this idea of contrast. There are a couple of different ways that we can define kind of contrast or imaging modes.
+So you can either look in reflection or transmission.
+So reflection is when you take a torch or a light source like the sun or the light in the rooms that the light shines on the object.
+And what we see is the stuff of the wavelengths that get reflected back.
+So when we're looking at how the white paint on the wall, for example, reflects all of the light back,
+and that's why it appears white, that's the edge around the board is black because it's absorbing all the wavelengths.
+It doesn't reflect anything. Or we can look in transmission, which you're going to explore later,
+where you might be looking through a stained glass window and you're seeing the light that's coming through the window.
+And it's colored because different wavelengths have been absorbed.
+So you're seeing what's missing, what's been absorbed by the sample. And again, here's a kind of example in just kind of reflection mode.
+Imagine if we were to take an optical image of somebody in an airplane for example.
+We would see that clouds and we can't see what's inside that pocket.
+If we were to then move to the transmission image, and here we've moved beyond the optical region, we've gone into the infrared.
+And the reason we've gone to the near infrared range is because in the infrared the clothing becomes transparent.
+And what we're seeing is the kind of outline of the absorption of a well,
+in this case, it's a gun in that patient, in the patient in that person's pocket.
+And the source of light is the body.
+So the body is emitting infrared radiation. And we have an infrared camera that enables us to create an image in the infrared.
+And you can see that we get completely different contrast by moving from reflection to transmission and from visible into the near infrared.
+So being able to move into different wavelength ranges enables us to look at completely different properties that we couldn't see with the naked eye.
+And the reason that we can see these different properties of the object is because this chi
+tensor that we looked at behaves very differently depending on which wavelength right you're in.
+So moving from the visible into the infrared completely changes the type of optical interaction or contrast that we can see.
+So another type of admission that we might want to use in terms of imaging and microscopy is fluorescence.
+So in this case we take some molecules that have this property.
+And we can look at look at this in more detail in a second.
+You shine light of one wavelength onto these molecules and then they emit a different wavelength sometimes in the visible sometimes not.
+And this gives us a kind of unique optical tag or signature that we can use to map out the location of this subset of fluorescent molecules.
+And then of course, finally we've got scattering. So scattering in itself is a contrast mechanism.
+So this guy's trousers and t shirt here white because they're scattering all of the light uh across the invisible range equally.
+And that's why they feel white. So if we look at absorption to start with.
+So this is a kind of stained glass window in a church window or a door or something.
+And we've got panels of glass which are transparent which don't absorb any light.
+And then we've got colored panels of glass which contain pigments that absorb specific wavelengths.
+So they only transmit certain colors, and that's what makes them colored.
+And this in itself is a kind of contrast mechanism that we can exploit.
+Imaging. So somebody mentioned that you kind of stained your onion cells.
+So you were to take the onion cells and and delight them so that you can see some color and contrast within the image.
+And until I guess, taken up with different parts of the onion cell, enabling you to see some contrast and structure within it.
+So wavelength selective absorption gives rise to color, but it also occurs outside of the visible range.
+So we can go to the near UV at the uh high end of the visible range which gives rise to absorption.
+And this absorption takes place through the excitation of electrons.
+So exciting electrons from the ground state to the first excited state or higher.
+So that's how the photon gets absorbed. And that's we're going to calculate in a second that gives rise to absorption in the visible to the UV rays.
+If we're thinking about infrared absorption. So things absorb light in the infrared.
+You know that things can absorb heat. So light comes in from the sun in the near infrared and it heats up.
+Objects or objects get heated and absorb infrared radiation.
+Here we're not exciting electrons. So the electron energy is far too high to to look to absorb in the infrared.
+Here we're looking at exciting molecular vibrations.
+So we take the molecules and the bonds between the atoms.
+Initially that kind of sat still UV and excite and I ah photon comes in and excites vibrations within that bond.
+And the photon gets absorbed and the Bowman's gets excited into its into from the ground state the first excited vibrational state.
+So these are the contrast mechanisms how we get the color involved in the absorption.
+And if we look at the kind of some of the kind of maths behind the absorption, we have this.
+Um, a called absorbance. And it's the log.
+It's defined as the log of the ratio of the incident intensity divided by the transmitted intensity.
+And it's just the coefficient that tells us for a given wavelength of light, how much stuff makes it through.
+So you get this factor A, and it's the log of the ratio of the stuff that went in over the stuff that comes out.
+Yeah. So and it's done this way up because if if you get less light transmitted, you've got more absorption so that a absorbance gets bigger.
+Yeah. So you can also get a transmission version of this where the other.
+Well if we're looking at absorption solvents and our absorbance is given by this equation where we've got the concentration of the stuff.
+Eight. Extinction coefficient of the stuff that's doing the absorbing and then the thickness of the sample.
+The distance that the light travels through the material.
+So you can see that the absorption is a combination of the concentration of molecules that you want to image,
+the intrinsic property of the molecule in terms of how much light it absorbs per molecule,
+and the optical path length that the light has to travel through that material.
+So if we wanted to create an image where we want to be able to work out how much of the molecules are in the sample that we want to map out,
+we need to have a very well defined thickness of the sample.
+So in this case it's a glass window and everything is about the same thickness.
+But for example, if we didn't know this was a window and it was, you know, the thickness of a window, well,
+we've got the kind of dark red region within the glass and then the very light pale red region in the, in the glass.
+We don't actually know whether this panel of the glass here is like three times thicker than the glass over here,
+or if it's just got a lower concentration of the compound that causes the absorption here.
+So it's very it's a very good method if you can take your sample and create a thin,
+well defined thickness of that sample so that you know that the only variable is the concentration of the thing that you're looking for.
+Yeah. So it's a great technique. And this is what you did when you looked at the onion cells.
+But as we're going to see if we wanted to look let's say instead of taking a slice of something,
+if you wanted to look at patients, um, a generic look at their eyes,
+for example, you wouldn't really get many patients volunteering to have really thin sections of something they wanted to keep and carry on using.
+So that's one of the disadvantages of absorption in that it has to be a relatively thin section,
+not only because if it was too thick, you wouldn't get any light out the other side. But also to be quantitative, we need to make it quite thick.
+So let's look at how. Yeah we've looked at this idea of molecules.
+Some molecules are colored. Some molecules aren't.
+Let's look at this kind of thing in a bit more detail and work out why some
+things are colored and why some things are pigmented and why some things aren't.
+So last Tuesday we revisited, um, absorption, hydrogen absorption.
+And we took this calculation to show that for a hydrogen atom,
+the energy between the ground state and the first excited state of that hydrogen
+atom is given by the equation that you that you derived last term with Clare,
+and it's 13.6 electron volts per.
+And if you remember that one. Yeah.
+It was only last Tuesday wasn't it. And we went through the calculation.
+And then we said for hydrogen exciting it from the ground state.
+The first excited state, a photon with that energy is about two is 1.2 122 nanometers.
+And that's in the UV. Yeah. And I kind of said, forget about that.
+It's in the UK. It's not going to be very useful. And the reason we don't like to, to use this for image contrast is because in this region, hydrogen,
+for example, 122 nanometers right into the heart, you've pretty much everything absorbs UV light.
+So this is why ultraviolet rays from the sun is very harmful,
+because they and all the molecules in your body, unless they're protected by pigments, absorb this energy.
+And this is what leads to some of the, um, cancers changes in the skin if you don't careful.
+So everything absorbs in the UV and you kind of think that's brilliant.
+If everything absorbs in, the UV will get control of everything.
+The trouble is, it makes it very difficult to build an optical instrument that can visualize this.
+So everything glass, the lenses in your microscope all absorb in this UV range.
+I'm building an instrument that can image and create an image in the U.
+V is actually extremely difficult. So quartz is a type of glass, um, which has a cut off at 600 160 nanometers.
+So you can kind of just about work in that wavelength range, but it's still extremely problematic.
+So we don't want to work in the UV mostly because everything absorbs in the UV.
+So we don't really get a lot of useful contrast because everything would absorb.
+So we want to work in the visible where we get this kind of selective absorption.
+So at the kind of interface between UVA and the visible ray, this is where stuff starts to get interesting.
+This is where some molecules absorb photons and some don't.
+Enabling us to actually get contrast and see structure. So we looked at hydrogen absorption.
+So we literally looking at atomic absorption exciting from the ground state to the first excited state of atoms.
+So as we said everything has atoms. So you don't regenerate in contrast here.
+So we have to think about what properties of a molecule can we use to give us transitions that happen in the visible range.
+And we did this calculation on Tuesday.
+I kind of said, okay, we're gonna use this model that you learned in quantum with Claire.
+And you came up with this 1D infinite square.
+Well, and using this as an approximation,
+we can work out what sort of length scale we need to confine electrons to, to give us absorption in the visible.
+Does anyone remember roughly what it came out as? So we I think I use green 500 nanometers as I kind of to estimate the length range.
+What was the length range? Roughly. It was around point seven nanometres, wasn't it?
+And as I said, this is much bigger than an atom.
+So we're looking for molecules or structures that have this unique property that you
+have electrons that are confined over a much larger length scale than single atoms.
+And the types of molecules that have this are ones that have something called conjugated carbon carbon bonds.
+They don't do chemistry at any level. We hand up to chemistry a high level.
+Doesn't matter if you didn't. We're not going to do any chemistry. But those you guys should be quite happy with this idea.
+You've come across pi bonds. Yeah. Does that does anyone else come across polygons before.
+Oh, you all now said pipe bombs at this particular type of chemical bombs.
+We have, for example, carbon carbon double bombs.
+And you have these outer plane orbits where the electrons can occupy.
+And the electrons in these particular orbits can become delocalized.
+So when you get carbon carbon double bonds, the electrons associated with these pilots are allowed to exchange between the two atoms.
+Yeah. So they become delocalized. So if you just have two carbon molecules, once you carbon bonds next to each other in a molecule,
+you've got the carbon that the electrons from the two carbon shared in these pions.
+So we've delocalized the electron the electrons from the atoms.
+And if you take a chain of these carbon carbon bonds so you alternate between carbon single and a carbon double bond,
+the electrons in these pi bonding orbits then become much more delocalized in the atoms,
+and they become delocalized across a much larger length scale.
+So by taking atoms or molecules and putting them together into these conjugated carbon double bond structures,
+we can then have a situation where the electrons are delocalized over a much larger length.
+And this is how we we get optical absorption in the visible range that gives rise to color.
+So as an example of a particular, um, type of pigment called fluorescent, um is a collection of full um carbon rings.
+And it absorbs in the visible that's around 500 nanometers.
+So just to do a quick kind of back of the envelope calculation.
+In a wake up. We're just going to demonstrate this kind of analogy that we can use.
+So the the one, the infinite potential.
+Well, it's just an approximation. But in most situations it turns out to be pretty accurate.
+So this molecular this this molecule fluorescent, which has a whole bunch of these conjugated carbon carbon bonds across this dimension here,
+we know that it absorbs at a peak wavelength of around 500 nanometers.
+So for nine fold, to be precise.
+And this is the energy associated with exciting the molecule or the electron delocalized across these pi bonds from n equals one to n equals two.
+So we can very simply estimate the size of the molecule using the equation that Clare gave you last term eight times the mass of an electron squared.
+And we're going from e and one to n two and two.
+In that we get four. And squid one is just one.
+It equals three squared. And we can rearrange.
+That will help. Rooted.
+0.4 times ten -90.
+It's a point seven times ten to the -ten meters.
+That's it. Just got back of the Imperial calculation based on this relatively simple
+approximation that each week that we've applied using the 1D infinite potential.
+Well, um, I'll upload this onto the early, so I'll scan the PDF and then make it available inside the lecture notes.
+And so you have access to that. And then if we kind of people have studied these, these molecules using kind of x ray scattering methods,
+and it turns out it's a pretty accurate estimate using with my point of.
+That was so. Yeah. It turns out that simple approximation is relatively accurate.
+Yeah. So it's the localization of the electrons across these points.
+Conjugated double bonds gives rise to optical absorption.
+So not many molecules have this kind of property that they have this combination of single and double carbon bonds.
+And that's why most stuff that we look at under microscope isn't colors.
+But some things are. And that's how we make use of it. And obviously there are lots of examples of pigments occurring naturally.
+And it's not by luck that we get these things. These things have evolved.
+So the clue the chlorophyll in plants, for example, the rich,
+the reason that it's got these double bonds in here comes conjugated to absorb the
+energy so that it invert that energy into chemical potential so the plant can grow.
+And that's how we get photosynthesis. And then there were quite a few naturally occurring pigments, um, in mammalian biology and in human biology.
+And these pigments like beta carotene for example, like one point carrots in order to develop to,
+to, to um absorb light in such a way to protect chemical reactions from optical excitation.
+So there are lots of other pigments in plants, not just chlorophyll, other pigments that kind of come in if the light to brighten up the plant,
+to produce more of these pigments, to absorb some of the excess photons so the cloak has them get damaged.
+So all these things have evolved over millions of years, and it's really quite clever.
+So kind of evolution is kind of exploiting quantum mechanics to be able to absorb photons at specific wavelengths, to do specific functions.
+So imaging pigments, particularly pump ology, is a kind of whole study in itself.
+So when I was showing you that kind of picture of the the drone imaging the field and the subtle differences in the absorption,
+plant biologists understand that these different pigments that the plants producing are telling us whether the plant is it needs more light,
+it is less light. It's under oxidative stress, like it's it's being attacked by pathogens, for example.
+So these pigments have evolved to do various jobs in biology.
+And we can explain how they work through quantum mechanics. But it's all happened naturally to be quite cool.
+Anyone familiar with indicators? Litmus paper. If when everyone come across this.
+Yeah. So ever wonder how the color change happens? Did anyone explain how the color change happens?
+So, and those of you that did chemistry, did you do those kind of titrations where you kind of have this like liquid and then this
+long thing where you drip stuff in and then you keep dripping and it suddenly changes color.
+So the physics behind this is that you've got so again, in kind of litmus paper and again,
+in these kind of titration experiments, you've got molecules that have these kind of spin on that for a fluorescent molecule.
+We looked at it's got these like combination of rings with conjugated double C bonds.
+And it absorbs wavelengths. So a certain color depending on the size this L this region that you can find the electrons to if you take a molecule.
+And this happens a lot. It's the chemistry. Really clever. So when you take this kind of um compound and it's neutral, it looks like this.
+When you, when you put it into a high page, the H falls off or gets pulled off the end of the molecule.
+And that changes the kind of potential that the electrons are in.
+So the L changes slightly. And that's why you get a color change.
+So likewise here when you get the acidic environment and you get an extra h added onto this nitrogen,
+again it changes the chemical potential, a slight shift in L and you get a color change.
+And that's why we get this kind of color sensitive chart that tells us how the pH is affecting that molecule.
+And it's all to do with the kind of quantum mechanics of how the electrons are confined.
+Any questions on that so far? Up against the good bit now.
+So moved on to fluorescence. So we've talked about absorption and we've talked about light emission.
+And I was uh a Polish physicist called Blonsky that came up with this diagram, which is kind of stuck.
+And it's how we define or how we draw or shape schematics with optical absorption and emission.
+Um, and it's this thing called the Blonsky diagram.
+And we've already looked at kind of parts of the Blonsky diagram when we've been
+looking at kind of electron transitions from the ground state to the excited state.
+We just had two lines. We've got an n equals one up to n equals two.
+Well that's exactly what we're looking at here. Except the Blonsky diagrams can take a bit more information.
+So we've got our solid lines in at the bottom here.
+So this is zero the ground state. And this is one the excited state.
+The solid lines correspond to electronic states.
+And then the not so solid lines the thinner lines correspond to vibrational transitions.
+So within a given electronic states you've got lower transitions.
+Can be excited through the infrared, so you can go from the ground state in a certain electronic level up to the first or higher vibrational states.
+Or you can go up from the electronic state all the way up to an excited electronic state.
+So the solid lines that we've got on the Blonsky diagram correspond to transitions where photons are involved.
+So solid lines are optical transitions. So if Yano is going up you've got photon which is absorbed.
+So you're exciting if we've got an arrow going down.
+So we're at the excited electron state and we go down to the ground state.
+So the the system the molecule has lost energy.
+And that energy is emitted as a photon. And in this example it's fluorescence.
+And what makes a molecule fluorescent is that it emits light at a different wavelength to the one that we shine on it.
+And the way this happens physically is you go from the ground state, you excite your electron up,
+and you excite it with more energy than the first excited state of the electron.
+So it goes all the way up and it's excited an electronic state.
+And this caused the molecule to vibrate.
+But the molecular vibration quickly relaxes and it loses energy to the molecule through each like thermal dissipation.
+We're now sat at the excited electric state.
+And then eventually that electron gets fed up with being up there, falls back down to the first to the ground state, and we get photon emitted.
+And it's a slightly shorter wavelength because we've lost some energy to the vibrations of the thermal relaxation.
+And we get a longer wavelength for lower energy photon emitted.
+And that's what we call for resonance. There are other things that can emit light.
+So phosphorescence is another um, method of emitting light at different wavelengths.
+But this is a bit more of a complicated system where you get like another pulse molecule
+and you get this kind of transition of energy to a different part of the molecule.
+There's more thermal relaxation, and then we get light emitted and even longer wavelengths.
+Um, and this is kind of phosphorescence. Have you ever had these kind of stickers that you stick on your bedroom wall,
+and they kind of absorb light from your room, and then when you turn the light off, the glow.
+So is everyone. We've all come across these things. So this is phosphorescence.
+You kind of stole energy in them. And it's a much longer, slower process.
+And that's what's known as phosphorescence or something. And there's also luminescence which is like similar as well.
+But we're going to focus on fluorescence. So solid lines are optical transition transitions.
+Wiggly lines into some wiggly lines in the diagram are known optical transitions.
+And this is through molecular vibrations and energy dissipation through heat.
+So let's look at fluorescence. So fluorescence is a really widely used method for generating optical contrast.
+And the reason people like it is because not many molecules occur naturally.
+Emit fluorescent. You can take a specific subset of these molecules that happen to have this fluorescent property.
+In plants, for example, plants are full of things that for us, because plants have been designed to absorb light, to interact with light.
+And if you put a plant, a slice of plant tissue under the microscope, excite it with with blue what UV light.
+And then put filters in different colors. You see all different sorts of structures that have different different fluorescent molecules in them,
+that most stuff that we look at doesn't offer us. A nice example of a fluorescent molecule is something called quinine.
+Has anyone come across quinine before we come across quinine.
+So tonic water. Yeah. So does anyone.
+Does anyone like drinking gin and tonic. So I've got one.
+So this is why it's my favorite legend. Because there's an excuse to drink tea and tonic.
+This is actually alcohol free gin and tonic until you try tonic.
+If it wasn't genuine, if this was like an IV before Christmas, I'll be drinking a real gentleman.
+So does that you. You'll know what you will.
+Drunk gentlemen. Have you ever drunk gin and tonic in the club?
+Well, if you did, you're familiar with these things called black lights.
+You know, when you go to a club and they've got the fluorescent stuff on the balls?
+So if you drink gin and tonic in a nightclub under UV light, it glows quite brightly.
+And it's not the gin, it's the it's the quinine, which gives it that kind of bitter tonic, like the bitter flavour in the tonic.
+So if you look at the ingredients on the gin and tonic and I'll be disappointed, this one doesn't have quite an impressive date.
+But there's quinine in there, and it needs to be used for managing malaria treatment. Um, and that's why they put it in tonic water.
+So what you'll notice is there's only two of these double rings which are conjugated, which means it absorbs in the oven.
+So the length L that it's confined to is shorter than the length L we looked at when we looked at the previous example.
+So it's not going to absorb light in the visible.
+It absorbs in the UV, but it turns out that it does emit light in the visible after it's absorbed that UV.
+So let's get you to try. There's not the gin that fluoresces.
+It's the Quentin in the tonic water. So you can see this is a u.v. torch.
+And you can see that it from us is blue. Yeah.
+So we're like two lines and it's not working. So you can see.
+We get this blue emission from the gin, from the tonic in the gin and tonic, which is caused by this effect of presence in the in the quintic.
+Has anyone seen that before? It's quite well known.
+I thought it was quite well known today. So next time you go, which nightclubs always go to an extra?
+What they call these days. Do you not go to nightclubs like which clubs you go to?
+I'm. Peace time. Peace? Yeah. Do they not have you realize?
+They did when I used to go to them. So what are the other clubs that people can actually use?
+The cabin. Today. How do you realize what they go?
+Well, I know something like that happened. Yeah, the gin and tonic.
+It started from the other. Side later on.
+Um, there are other things that you can get. That glow in the dark that you can drink.
+So I'll show you how to make some cocktails. So moving on to my microscopic control.
+So remember we were talking about onion skin. Um, this is an onion skin.
+This is these the cheek cells. So the other thing that you might have done at school, did you put, like,
+a small in your cheek and then put it onto a slide so you can see the cheek cells.
+So if you look at biological cells. Through a normal light microscope.
+There's not a lot to see that. Transparent.
+Colorless. I don't contain any tonic water, fluorescent or other things to my cheeks, or do not contain a tonic water.
+If you haven't applied these compounds, it would just be colorless.
+So one of the things that we want to try and do,
+one of the goals in microscopy is to make the thing that we want to see the parts of the cell that we're interested in.
+We want to make it stand out. We want to make it colored. So this is where labeling becomes interesting.
+And somebody mentioned earlier I taken the onion skin and stained it with something.
+Do you remember what stain you used? ID.
+Yeah, so hygiene is quite a common stain.
+It has colour and structure and enables things to be kind of stains them brown.
+So there are various other methods that biologists have developed to stain tissues and cells so they can see contrast.
+One of the most widely used methods in biology is immunofluorescence labeling.
+So they take molecules very similar in structure to the fluorescent that we looked at and the quinine.
+And using some clever kind of antibody chemistry, they can put the fluorescent molecules onto an antibody.
+And then the antibody through the type of blood chemistry that binds itself selectively to certain things you want to look at.
+And then you can make the cell fluoresce in these beautiful colors showing different structures.
+So in blue we've got the nucleus of the cell.
+So there's a fluorescent label that's been antibody conjugated to stick to compounds about the DNA in the nucleus.
+And when you shine UV light on it it's blue.
+The green fluorescent a different fluorescent chemical on a different antibody sticks to something called the cytoskeleton,
+which is like the scaffolding, the host cell out of salts set up.
+And that that fluoresces in green.
+Um, and then these little red specks, um, these are probably something called mitochondria, which like the energy centers within the cell.
+And this is got something you shine the UV light on and it's red.
+So all these different molecules emit, they all absorb the same UV light.
+They emit different colors. And that's how you see things. Another example is something called hematocrit an acid staining.
+And this is used. This is the gold standard still to diagnose cancer.
+And you take two dyes these on fluorescence. These just absorb.
+And they the light that gets transmitted through these pigments appears pink and kind of a purple color.
+The nuclei get stained with the heme a toxin. And that stains them that kind of bluish purple color and f.
+And the connective tissue between the cells gets stained with the acid.
+And that gives it the light gives the pink color. So this is a kind of piece of skin.
+And you can see the kind of cells surface stained purple.
+And then you've got the connective tissue topology stuff underneath which you can send pink.
+And this is a kind of standard method called histo pull up histopathology staining with ancient
+ink even toxin and is using and this is how pathologists are used to diagnosing cancer.
+So they'll take a biopsy from a piece of your tumor. They'll take it out.
+They'll slice it into a very, very thin section and then stain it with these guys.
+And you get this kind of stained glass window effect. And these methods are still the gold standard for diagnosing cancer.
+And they were developed back in the Victorian era. So the Victorians were the first to kind of microscope slides and realized
+they could stain them with different chemicals to reveal cellular structure.
+I mean, I'll be showing you some, some kind of results where we've been looking at this at the end of applications in nonlinear optics.
+So here the chemistry is what drives.
+It's chemical contrast. So the chemical selectivity comes from biochemistry.
+The clever tags that you put on the biochemists at work have worked out which antibodies states the thing that they want to look for.
+And we're not really using any physics here. The physics is hidden within the molecules, but we're not using physics to get chemical controls.
+We're using biologists and chemists that know that they can specifically stain certain parts of cells and tissues with these antibodies,
+and we're not doing any clever physics to listen to what. So the photons that come out.
+So labeling is widely used.
+It works extremely well and it's very effective. But it's not always appropriate.
+So if you look at the kind of size of different molecules, they're defined by something called molecular weight which is the number of grams per mole.
+So you know what a gram is do your mole is it's like a number Avogadro's number of atoms or molecules.
+So if we look at proteins, one mole of protein would weigh between 10g and 100kg.
+Yeah. So these are big molecules. If we then think about a fluorescent label there are around 350g per mole.
+So if you were to stick your fluorescent tag on a protein,
+the protein isn't going to notice it because the protein is ten is 10,000 to 100,000 molecular weight and the tag is only a few hundred.
+So it's not going to affect how the protein behaves.
+If we want to look for things like drug molecules and fatty acids, these things are smaller than the tag that you're going to put on it.
+So it's going to change how it behaves inside the biological system.
+And I quite like this analogy.
+So if you think about kind of people monitoring kind of elephants in Africa and now stick like a one kilo GPS tag on top of a five ton elephant,
+one kilos, quite heavy thing to carry around. If you're a five ton elephants, you're probably not even going to notice it's there.
+So when the kind of park ranger gets his I-pad out and kind of tracks where the elephants are,
+they've probably tagged 1 or 2 elephants within the herd,
+and then they can monitor the movement of those particular elephants, and they're kind of making the assumptions.
+They all stay together so they can see what the herd of elephants are.
+If we took the analogy of sticking a fluorescent tag onto a fatty acid or a drug molecule,
+it would be the equivalent of sticking like a transit van on top of the elephant.
+So this time the elephant is going to notice like a van sat on its head.
+And when you track the elephant moving around the Serengeti, it's not going to behave like all the other elephants in the herd.
+So what you're going to observe isn't the natural nature of those molecules that you want to image.
+So that's why it's quite useful to try and generate contrast of small molecules without having to tag them.
+If you want to see proteins, it doesn't really matter at all what you stick on to it in terms of optically active molecules,
+because they're tiny compared to protein.
+If you want to look at really small things, these things are too small to be optically active in the visible way that we looked at.
+And this is why we need to explore other approaches.
+Now, looking at physics to try and get some interaction between the photons and those materials.
+So that's a kind of summary of what we covered.
+So light matter interactions that lead to optical contrast.
+Those molecules absorbing pretty much everything absorbs in the UV, but very few things absorb visible.
+We can label things to get contrast, but it's not always appropriate.
+So we're going to start looking later at how we can exploit this light matter interaction to read what's hidden within collide,
+to get more information out of the molecules, to understand what they're made of, and get help with the contrast.
+Got it. Just finished on time. Any questions for you?
+Okay, so see you tomorrow in the next 10s. All. Right.
+Oh, well. I don't.
+Know. I always thought there was, you know, in two days time, I.
+Yeah. Yeah, yeah.
+Yeah, yeah, I think so.
+I think so then I.
+Think. We should just.
+Have a cow. Cows. So that's why.
+I was like yeah. So how about your about that.
+Yeah. So that one is important but it's not quite straightforward to get on.
+Yeah. Yeah. It's just opponents as. Well okay.
+Yeah. Uh, the little lady banks.
+So, um. Oh, what is that?
+There's no, it's not very important. So it's going across multiple ones.

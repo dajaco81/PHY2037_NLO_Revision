@@ -1,0 +1,485 @@
+I don't. Have.
+My ticket. I.
+Don't. Have.
+Much. Time.
+I have. This one right here.
+I know it's a different time.
+I know that it's. Important.
+How's it going, guys? Ready to get started?
+So, before we crack on with that face matching, uh, Snapchat is giving you a heads up about the group assignment.
+Um, so I'm getting maybe a net to dedicate to week seven.
+Well, I'll introduce the briefing. What you expect to do, um, and how you're going to do it.
+Way just to give you a heads up. So as we kind of said in introductory session, it's a kind of assignment in science communication.
+So you guys are going to be the kind of science communicators or journalists.
+Um, you get to interview a real life, um, expert in that field.
+Um, so this year, to kind of make it more, a bit more exciting.
+I've rotated some of my colleagues from outside of Exeter.
+Um, so there's this guy from France who's a professor.
+He's using nonlinear optics to diagnose cancer.
+Um, I know a guy in Australia is using ROM and scattering, scattering and infrared spectroscopy.
+Um, to look at the molecular comment of Molly's, which is quite exciting.
+Um, and then a lady from um, from the UK Royal National Research Centre in the hall.
+Welcome to complex near where Diamond Light sources is using from and another infrared methods to look at historical work, which is quite so I take.
+And then we've got professor Nick Stone and Doctor Gardner for physics here,
+who are using Roman to diagnose cancer and other health care applications.
+So you guys are going to get to interview them. You get to research their top research.
+Never say what they're doing, read the papers.
+And then the idea is that you provide them with a list of the questions that you can ask them, and then you do an interview and make a video about it.
+But we'll talk about this in detail later. But just to give you a heads up, you need to get yourselves into groups of four.
+Um, and you'll work as a team of four. And the marks that you get for that assignment is the same mark across the board.
+Um, I'll send out an email just to kind of say start, get yourself into groups of four, and then ideally by week seven,
+you'll be in your groups before anyone that doesn't have a very consciousness on you and just the people that could point in groups.
+Okay. So we started looking at the couple ways equations and how that leads to this phase matching yesterday.
+Um, so as a kind of recap, we derived this equation, this wave equation, the nonlinear first equation that you did last term with Matthews.
+But the idea is we introduce. This non-linearity by the equation for the displacement vector.
+And we we kind of make the assumption or the knowledge built.
+The non-linearity comes from the fact that P depends nonlinearly on E, and we were going to introduce that into the equation.
+So just to recap this because it's quite important how it works.
+We'll just go through the derivation once again. So as with the original wave equation you start from the position of one of Maxwell's equations.
+The relationship between the kind of e and the rate of change b.
+What was the next step? You did something to both sides.
+Yeah. Yeah. We take the curl of both sides of that equation.
+And the reason we want to do that is because then we get, uh,
+b and we're trying to force the equation into just being an electric field by taking the curl be.
+That gives us a chance to use another one of Maxwell's equations. Well we can replace b with e.
+So we we allow it to be nonlinear through this equation.
+And we expect that p.
+Has no linearly. On E.
+So that's the that's how we introduced the non-linearity into this equation.
+This is up to substitute for p in terms of e we take two out of equations.
+And then we combine those, which allows us to provide the people to sign in law times, the exchange.
+So we take that into our. Equation and we get.
+The terms e d.
+We then substitute in this going into here.
+Then we can rewrite this equation in terms of e t.
+Yep. And then we use this vector identity, which allows us to get rid of the curvy.
+And then we make the assumption that this this term is very small.
+It's not known. It's not zero.
+As it was with the linear wave equation, because we have bases that we have no charge density because this don't have any change in P,
+but it just becomes very small and it becomes negligible.
+And then we also want to separate out our polarization vector into linear and nonlinear terms.
+And then we rewrite the displacement vector in this way.
+Yeah. And then we stick that back into the equation.
+That's the kind of general term that we have for our normal linear equation.
+Yeah. So what does a wave equation tell us physically able to be useful.
+I asked this question yesterday. What does it allow us to calculate.
+So it's a relationship that tells us the amplitude of the fields in space and time.
+So it's the original one that we did for the linear wave equation.
+It was just the electric field that we cared about that now we have this additional term where we have this induced polarization.
+We want to be able to calculate that. And this induced polarization we go scales nonlinearly with the induced field.
+So we've now got an equation that allows us to calculate g and p in space and time.
+If we substitute the numbers that the equations incorrectly said, that led us towards this kind of position,
+where we wanted to be able to say we have this kind of Z direction through our material, and we're doing, say, second harmonic generation.
+So we want to be able to plot the relationship between Omega to Omega, for example, or some frequency generation.
+As we move through the nonlinear material, the second harmonic signal increases.
+Well, the incident at the fundamental wavelength omega decreases as we travel through it.
+And this is what the couple wave equations allow us to calculate.
+So we looked at phase matching. We looked at how we can simplify the equation for the induced polarization.
+We don't have to deal with the tensor effects of fixed geometry because we're just picking out fixed terms from the tensor.
+We simplified the equation slightly to make our calculations easier because we're dealing with a fixed geometry.
+And then, as with any differential equation, if we want to solve it, we just pick the solutions that we're interested in.
+So for some frequency generation we're interested in E3 taking this one.
+And the polarization taking this form and the input fields taking this form.
+Well NJ until I is equal to one two.
+Yeah. So we pick the fields that we expect to get.
+So we're choosing we want the solution for some frequency generation.
+We pick the right equations to put in and then we solve our differential equation.
+The key here is that we want to replace this fixed value with electric fields for spatially varying amplitudes.
+Yeah. So we want to show how the intensity or the amplitude of these fields change as we travel through the material.
+So we replace a fixed value of the amplitude of E with this A, which is by definition a function of set.
+Yeah. So we set these guys into the wave equation.
+And remember we have to be careful because now our e has been our north has been replaced with this amplitude which is a function of z.
+So when we take the differential with respect to z we have to take that into account.
+And we have to obey this question with this this differential here.
+Yeah. It's a better one in mind.
+If you were ever asked to calculate this in an exam, I would give you that function because it's not something that people remember very easily.
+So we put these values in. Luckily two of them cancel out which simplifies it.
+And then we end up with this equation,
+which is telling us how the amplitude of the second of some frequency generation A3 varies with a1 and a2 as a function of z.
+There's another thing that we can do to simplify this even further is that this amplitude.
+We don't expect the nonlinear signal to change rapidly as we travel through the material.
+It's not high frequency change. So we can ignore the second derivative with respect to z because that disappears.
+Yeah. We expect to have a kind of constant increase as we go through the material.
+So we can say the second derivative, the rate of change over the rate of change goes to zero.
+So we can get rid of that term which simplifies everything very nicely.
+And then we can end up with this term which is the coupled amplitude equation for the
+nonlinear some frequency generation as a function of the amplitude of the two improve lives.
+And as a function of this phase mismatch delta k.
+Yeah. So delta k is given by these two.
+So the sum of k one plus k two and k one plus k two should be equal to k three.
+And if it is delta k zero the ideal case for us as we were talking yesterday we never get to the situation where delta k zero.
+And what's the phenomenon that causes that beginning with D.
+Two different wavelengths of light. Experience different refractive indices.
+Dispersion. Yeah. So we have we have to deal with this delta k.
+We'd like it to be zero. But in most cases in principle cases it's not.
+So we could do the same thing for A1 and A2.
+And we get very similar equations.
+But just in terms of A3 1941 for example, just going through exactly the same process to solve that differential equation,
+but taking different values that we insert for the electric fields.
+And this gives rise to these this coupled wave equation.
+We can simplify it by replacing a1 times a2 with just the amplitude of some frequency generation.
+So if we now have this kind of generic equation that gives us the relationship between
+how the amplitude of the nonlinear signal varies as we travel through the material.
+And everything is a constant here apart from Z and the phase mismatch.
+Yeah. So we have a set of equations that now tell us how we expect the nonlinear signal to increase as we travel through the material as a function,
+Delta said. What happens if delta z is equal to zero?
+What happens to that equation? If we replace delta k with zero, what happens to the exponential term?
+Just a one. Yeah. Anything to the power of zero goes to one.
+So what does that mean in terms of how our nonlinear signal will increase if we have a zero phase mismatch?
+So we get rid of the exponential term and we just have term related to this constant.
+Yeah. To everything that is in this exponential we can just treat as a constant.
+What does that mean for the relationship between the amplitude of our nonlinear signal and set distance through the material.
+Yeah. Yeah. So we've got the rate of change with the amplitude of the some frequency on the left hand side.
+And if delta k is equal to zero the exponential then goes to one.
+So we've got a constant. So the gz is the gradient of a in the z direction.
+If that's a constant you just got a constant linear increase.
+Yep. And if we were to integrate this side of the equation you just get Z on that side.
+Yep. So it's linearly increasing. So that's what we would like to have.
+So we would like to see that the signal increases with Z.
+So the amplitude increases linearly which means the intensity would increase quadratically.
+Yeah. So the intensity of your light scales with the amplitude squared.
+Remember back when we were looking at the intensity of is touching exponential.
+So that means kind of like microscopically if we were able to see what each atom was doing it,
+everything would be oscillating in phase such that as you propagate through the material, the phase is retained as we go through.
+We get constructive interference and we get this nice strong signal coming out the other side.
+Yeah. That's what we would like to achieve in our nonlinear material to get the maximum efficiency.
+And and in this system the amplitude scales with the number of oscillators atoms.
+So the intensity scales with the number squared. And that's if everything is oscillating.
+Everything and everything is working how we would like.
+Is everyone happy with what we've done? So it was kind of again, it looked like a lot of mass that we went through.
+So we got some quite. Long equations.
+But there was nothing kind of fundamentally difficult about what we had to do.
+I guess the trickiest that here is just remembering that a is a function of Z.
+So when you take the second derivative, you're actually taking the second derivative of a product of functions.
+And you have to kind of pull this thing out of your pocket to solve it.
+Yeah. Does everyone see this is quite critical.
+You'll see why you have to use that. Yeah. It's because a set A is a term that we, to differentiate a differentiating of is a function of z.
+And that's why we introduced it. And that's just what makes the.
+That's just what makes these additional terms here.
+But lucky for us these guys cancel out um, and that we can get rid of that one because of this slowly changing approximation if we follow that.
+Yeah. So these are our coupled wave equations.
+You could be asked to derive one of these. Or you might be given one of these and have to use it just to solve something.
+So this is an example of the sort of thing you can calculate with the wave equation.
+We got this wave equation is very useful because it allows us to calculate how different electric fields change with respect to one another.
+And then we're kind of moving towards this kind of situation where we're trying to see how this delta k affects the build up of our signal.
+Ideally, we're always striving to get to the situation where delta k is zero,
+but we get this linear increase in the real well we can't do that because of dispersion.
+So but what from what you know about dispersion, as you go to higher frequencies,
+just the refractive index of the material tend to increase or decrease for normal materials.
+And how could you say for red light versus blue like this blue light experience a higher refractive index than red light or vice versa?
+Okay. So if you have a if if the if the light has an experiences a higher refractive index and you send the, you know,
+your colors of light through the material, the one which experiences the high refractive index effectively has to travel uh,
+and a relative later from when you've looked at kind of diffraction and you've looked at prisms, you've kind of, you know,
+you all know what I mean when you kind of you see a picture of a prism and you see the white light going through it,
+and you get that kind of spectrum of light coming out of it. You'll you'll think from that picture.
+And there's like that famous record sleeve from the 70s and 80s by Pink Floyd.
+You seen that one with the dispersion of the rainbow in it. So it's like it's been called the red and blue.
+So that's the blue light. So the blue light experiences a higher refractive index.
+And dispersion is really fundamental. So all sorts of optics.
+And later when we start looking at pulses of light, we're going to see how packets of light put into pulses,
+how the dispersion is really important in terms of controlling those places.
+So if you're a packet of light containing some red light and some blue light and everything in between,
+what you tend to, what what you find is when you send it through a material with normal dispersion,
+the red end of your light pulse will arrive first because it didn't experience such a long distance,
+because it experienced a small refractive index in the blue light, which reflects the light.
+So dispersion is really working against this here in nonlinear optics because delta k is not equal to zero.
+And we're going to look at this in a bit more detail. So we've got our phase match uh couple wave equation.
+We're going to stick with the one for some frequency generation. This is how our signal increases with Z.
+So if we want to get it in terms of A we need to integrate this equation.
+And we want to say that our interaction length is over length L.
+Yeah. So when we do the integral we set the limits to be between z equals naught and z equals.
+Now everything in here is just a constant.
+So we just lumped together. And this is the bit that we integrate.
+We do the integral. And this is the standard integral that we get.
+And again going from there you'll see how to get from here to here.
+Yep. So this is a standard integral.
+And if you are again if you ask to do it in an exam I'd give you that standard integral to say if you happen to remember how to do it.
+So we integrate over naught to L and then we arrive at this equation again, which is not everything.
+If we've got fixed geometry, everything here is just a constant.
+And we then want to work with intensity because intensity is the property of line with which we measure.
+So if you remember back to how we calculate the intensity of an electric field, it scales with the electric field the modulus squared.
+So we can now convert from this amplitude as a function of z to the intensity of our signal.
+Again everything in blue is just a constant which we just lumped together.
+We take the modulus squared this guy.
+And again there's a standard kind of mathematical relationship that tells you that if the relationship between this guy it gives us a sick function.
+And again you can give it this kind of standard relationship on the front page of the exam if you haven't needed it.
+So we've got the modulus squared as e to the identical minus one over delta k.
+And you expand them out and you get this that gives you this cosine relationship.
+And then that leads you towards this signal that I would give if you use it.
+Yeah. So a sick function.
+You're sick function looks like so sick squared.
+It's just a bit kind of spikier than your sigmoid function because it's been it's been squared.
+And you get everything positive because you're taking the square of your cost function.
+Everything in blue is a constant.
+And then what we now get is an equation that tells us the relationship between the
+intensity of some frequency or nonlinear signal that's generated as a function of delta k,
+the mismatch in wave vectors between the 2 or 3 beams in their output beam, and the length over which the interaction takes place.
+Yeah. So if we plot our same function, you will see the function before we take it.
+Yeah. So this tells us how the nonlinear signal scales as our delta k increases to L increases.
+Yes. So if you could either have a very small, very small wave factor mismatch between your beams over a low interaction length,
+that would result in a large phase difference, or you could have a big delta k over a very short distance.
+Again, that would result in a large phase mismatch.
+Yeah. So the the the thing that goes in this brackets, that's an angle.
+Yeah. That's the phase of your optical signal.
+And the phase mismatch builds up by having a large delta k over a large distance over which that happens.
+So if we look at our sigma function what does that tell us.
+If you had to kind of describe in words what happens at this central point.
+So when delta k times out of two is equal to zero.
+We get. The maximum value.
+So we can just replace everything in play this by three max.
+And we achieve what two ways can we make delta k times out over two equal to zero.
+Yeah. So you even have a very small delta k i0.
+Well, you have a very, very thin interaction, a piece of material interaction.
+And then the other point that we're interested in is this point here where our nonlinear signal drops all the way down to zero.
+What's the value here. So this is three pi two pi and pi.
+So when you've got delta k times l over two is equal to pi.
+Everything is completely out of phase. Yeah.
+The phase missed that. The delta k mismatch over that distance is built up.
+And it's got all the way to the point where it's completely out of place and the signal disappears.
+Yeah. So that's telling us how the signal evolves as a as a function of distance for a given phase mismatch delta k.
+And this is it kind of feels a bit abstract at the moment.
+Um, and this is kind of the same kind of famous completely kind of strange thinking.
+Well, how does he tell us this? Do people smile?
+But you can follow what's happening.
+So here we're looking at how we generate the maximum optical signal through nonlinear conversion for a chunk of material.
+Yeah. And it's not particularly relevant to imaging.
+And we're going to look in a second about how this applies to imaging. But this is in terms of how we kind of optimize the nonlinear conversion.
+So if we go back to this experiment back in the 60s, the 1962, where they did the first practical demonstration of second harmonic generation,
+they found that they hadn't they hadn't considered phase matching.
+They kind of rotated the material, the crystal, a bit,
+and they weren't really able to generate an increase in the signal because they weren't properly phase matching.
+And it's because the material that they chose, delta K, was relatively large, and they kind of rotated the crystal between plus and -40 degrees.
+And you can see the signal oscillating up and down like well considering the phase matching.
+So we've got a kind of inverse sine function. Because delta k is so large in this situation the peak value is really small.
+Yeah. So delta k was approximately zero at all times in that experiment because they didn't understand what was going on and how to phase match.
+So let's look at why achieving delta k equals zero is so difficult in practical terms.
+So if we pick materials it's a lossless.
+Unless there's a reason that you don't want to have any loss in your material.
+If you're dealing with non-linear conversion,
+and that's because you're sending huge intensities of light into this material in the with the aim of converting that into some harmonic signal,
+into some wave mixing signal that you generate.
+You have to put such huge intensities in there if there were any losses in the material, like absorption.
+Like we've looked at, um, when you have electronic resonances and we get pigments and colored materials or colored glass,
+if there was any absorption in there, you'd end up kind of destroying the material because it absorbed that energy that you would burn.
+Um, then the material that you're using so you can control the refractive index through resonances in the material.
+So we looked at when we were looking at the, um, we were dealing with materials through a kind of harmonic oscillator, the rinse oscillator.
+If you look in detail about how the refractive index is dependent on that resonance, you do have control of refractive index.
+But we can't do it this way because we have to have lots of this material.
+Is any absorption. We're just going to naturally explode the material because that energy has to go somewhere.
+So all materials that are lossless have normal dispersion, which means us the frequency of the radiation increases, the refractive index goes up.
+Yep. And this is if we look at kind of some frequency generation.
+If we want this to occur with ideal phase matching we need to obey this equation.
+So we've just I've just taken k1, k2 and K3 everything down in terms of currency.
+And you can see for this to work to this equation to balance.
+And one has to be equal to n to an n three.
+Yeah. So let's look at second harmonic generation as a as a simplified example where omega
+one is equal to omega two and I make it three is equal to two times omega one.
+That requires that the refractive index omega one is the same refractive index at twice that frequency.
+Yeah. And that's a challenging that just won't happen. So you double the frequency.
+You're going to not necessarily double refractive index but it's going to change significantly.
+So you can't get the same index. You don't get perfect base matching.
+Another way we can express this is for some frequency generation where we've got three different wavelengths we can rearrange in terms of n three.
+We can rewrite this equation out. And then we end up with this relationship where we've got end to.
+And then three on one side and n two and one on the other side.
+And you can see the left hand side is positive because the index at the high frequency is greater than the index of the lower frequency.
+And on the right hand side we've got exactly the opposite.
+So you cannot achieve phase matching in normal materials where the index increases with the frequency.
+And this is something that people still spend a lot of time trying to kind of figure out and tweak work out ways around this.
+So there's a there's two common ways in which this has been achieved.
+Angle tuning and temperature tuning. So.
+To achieve the zero phase match, you basically want a material where you've got full control of the refractive index at various frequencies.
+And that's what we'd like to do. There are kind of modern methods to do that.
+Does anyone come across metamaterials, the term there's like a big metamaterials group in this department.
+And it's basically how you can design materials that have new properties on how you structure them.
+And there's a whole group of a bunch of people working on how you can control things matching using match materials,
+where you can kind of tailor the material so that you can control the refractive index at specific wavelengths.
+But we're not going to look at access like a whole separate topic. But the two kind of classical methods is angle and temperature change.
+So for the way anything I put in a green box, you don't need to remember it.
+So I'm not saying you should interest will be able to talk about it.
+But the green box equations you don't need to remember.
+So angle tuning is a technique that uses materials that have a polymer fringes.
+If you come across blogger for instance, before. People shaking their heads, they can first move the head up and down.
+That's an accident.
+So by the fringe of material, it has a refractive index that depends on the polarized polarization of the light that you shine on it.
+So for one polarization, say the vertical polarization, it has one refractive index.
+For the horizontal polarization it has a different refractive index.
+And these materials there's various crystals occurring naturally that exhibit binary fringes.
+And people have been using them for decades to kind of control polarization and and face matching.
+And if you set the crystal up and the polarization of your light and the orientation of crystal correctly,
+you can generate this setup where you define your k direction through the crystal.
+And if you have your omega one polarized in the ordinary direction.
+So in this case the polarization into the board. You've all seen that location rotation with the dot before.
+So that's the kind of polarization polarized that kind of perpendicular to the screen.
+And then you pick your other one omega two to have the opposite polarization.
+And this is polarization parallel screen.
+And if you set the crystal up in this way by twisting the crystal, by changing this angle,
+it allows you to control the refractive index of one of those beams experiences.
+So you've now got this kind of literally a thing that you can note that you can turn where you
+can tweak the refractive index of one of the beams to try and bring it closer to the other one.
+Yeah. And this is the kind of the most basic form of face matching.
+But it has a serious drawback is that whenever you have a value where features other than 0 or 90 degrees, you get the beam blocking off.
+So one of the beams ends up kind of coming off a different angle from this, from the same frequency generation that you produce.
+So it has a real. Drawback. Um, so this is why people then move to temperature tuning,
+where you take the same birefringence material, but you pick a certain point rigid material.
+And lithium nitrate is a good example.
+You can I wouldn't expect you to remember this and say, write down the name of a temperature dependent by reference in XML.
+If you want more nitrate, I can read books on this, but this setting the bar, for instance, is strongly dependent on temperature,
+and you literally take your kind of your laser cavity and you put the crystal in a small oven, and they're typically heated up to about 140 degrees.
+And by tuning the temperature, you change the refractive index 1 or 2 directions.
+And that gives you another way to control the refractive index.
+One of the things that you're generating without having this annoying kind of walk off effect.
+So you choose to fix it at 90 degrees, where the beam stay nice and linear on top of each other and your temperature to the refractive index.
+And that's kind of how nonlinear signal generation has been done for decades, using these kind of crystals that exhibit VI refrigerants.
+And tuning the temperature. And there's another trick that you can do to make this even better.
+And it's something called quasi phase magic.
+So if you're dealing with like higher harmonics or third generation, for example, when you get to higher frequencies,
+the real killer is that you find that the refractive index doesn't increase linearly with wavelength.
+So if we look at the kind of the refractive index difference between the two polarizations and that by the fringe friction material,
+as we kind of go up in frequency, the two of these shoot up and it gets harder and harder to use this temperature matching to overcome this.
+So the trick that somebody this very clever idea is something called periodic holding.
+So you take your um, so this is known this kind of abbreviation P.
+And so this is periodic hold lithium nitrate.
+And people call them like a crystal P.
+And then um, effectively what the periodic polling means is that you take your material like a fringe of material and you slice it into thin slices,
+then you flip it round so that as you go through these different layers, the orientation of the crystal is flipped in one direction and the other.
+So as you kind of travel through this material, if you were the photons traveling through,
+you'd experience an increase in refractive index there, the decrease, increase, decrease.
+So you reach a different phase changes as you travel through that material I move this allows you to do so.
+This would be the ideal situation where delta k is equal to zero with a straight line.
+So this is plotting how a phase mismatch over to how the amplitude increases.
+The perfect situation with delta K0 you get this linear increase.
+What we're actually stuck with in reality is this kind of rubber situation where every time you get to a point,
+the signal disappears and you kind of go backwards and forwards with this, in the kind of pointing in the kind of ways of your sigmoid function.
+But when you periodically hold the material,
+you choose the length of that material such that the phase mismatch, the 2 or 3 wavelengths in that material,
+you choose the thickness L such that when you get halfway through that slice, through that distance L,
+you flip the polarization around and then the phase moves in the other direction.
+So you can almost kind of achieve this kind of linear increase, because the pay kind of to phase mismatch drops off.
+It gets to pi over two. And then you go into a different colored material in your crystal and the phase goes in the other direction.
+So you can kind of achieve not perfect phase matching, but this kind of semi or quasi phase match situation.
+But you can almost get to this kind of linear increase in the thickness of material.
+This does require the choice of material and the thickness of the material.
+Like the poles, the sections we assume to the wavelength of the delta k that you have in your particular experiment.
+But this is the kind of the standard method. If you were to apply a nonlinear crystal and you want to you want to generate
+second harmonic generation or some frequency generation in that material,
+you would tell the manufacturer what wavelengths you want to work with, and they would design a crystal that has the thicknesses,
+optimize the phase mismatch you working with, and you can achieve pretty good results with this.
+So that's how people have kind of explored non-linear signal conversion in crystals and in materials.
+But obviously we're interested not in kind of just how much second harmonic generation can we create,
+how efficiently can we convert these wavelengths. If you remember, we're interested in imaging.
+So we want to use the non-linear conversion to probe what materials have made of to overcome the limitations of that linear restrictions.
+When I imaging systems with different contrast mechanisms as a function of, the spatial resolution is determined by the wavelength.
+So what we find is when we move from this kind of Co linear system.
+So when we just when we're talking about sending Co linear beams through the crystal, we have this kind of fixed geometry.
+We have a fixed delta k. That's not what we're working with but we deal with a.
+Microscope. So when we're dealing with a time focus, we're taking a call to make it beeps.
+We're sending it through a microscope objective,
+focusing it down into a tiny spot because we want the high spatial resolution to look at small things in the microscope.
+It also gives us the example of the vantage point being able to reach very high intensities,
+because we focus that light to a very small area, and intensity is watts per area or square meter.
+So we focused it into a tiny spot. And remember we were looking at numerical aperture of lenses.
+And we we did that calculation where we moved from angular resolution spatial resolution.
+When you deal with this tight focus, you've got a large range of angles that the beams are focused into the sample.
+So this allows us to overcome some of the limitations of phase mismatching because we're no longer dealing with curvilinear beams.
+We've got a large range of k values because the angles change.
+And so it allows us to overcome the weak interaction because we can have high intensity and in some cases relaxes the phase matching criteria.
+But it also introduces as you go through a tight focus, you get a phase shift across the focus.
+When you take payments for time focus. And it's and if you look at how, um, lenses work and how you have this kind of curved surface of the lens,
+effectively what you're doing is introducing a phase shift across the wavefront, which causes the light to get focused.
+And that's cool. So this results in a Pi phase shift across the focus of the beam.
+And and the wave focuses that everything outside of that point cancels out through destructive interference.
+That's how we generate the focus as we're going to find out in a couple of lectures time.
+This phase shift across the type focus is something we have to take into account for non-linear signal generation in microscopy.
+Okay. So that's kind of the end of the phase matching lecture.
+And I think we've kind of hit the the pinnacle of kind of the complexity of the maths and the new concepts.
+So going forward, we're now going to be applying this to look at how we can generate images.
+We're going to be looking at the pulses that we need to generate the signals in our microscope.
+And we're going to be sort of going back to kind of now putting this back into imaging.
+So we started off by looking at how we generate images. We then pivoted to nonlinear signal generation.
+So we now understand the consequences of generating nonlinear material responses.
+And now we're going to pull this stuff back into kind of imaging again and see what we can achieve with it and how it works.
+So anything in a red box, you need to be able to produce it or to really have anything in a gray box,
+you can just enjoy looking at it because you're not going to be able to reproduce that.
+So again, there's some sections in the textbook to read which explain this.
+And I've also summarized that in some lecture notes on early as well.
+So there's no lectures next week because it's your midterm week.
+So you've kind of got the week off to focus on revision for your midterms.
+And I replaced those lots with a revision session in May.
+So we'll kind of cut that provision slot just in front of the exam.
+And then next week or the week after next week seven, we'll start looking at laser pulses.
+And then in the other lecture I'll be giving you the kind of assignment brief for the science communication exercise that you're going to be doing.
+Um, and you submit that at the end of this term. Is anyone like into kind of making YouTube videos or kind of video editing?
+No one ever edited a video. Okay, so everyone got a smartphone.
+Yeah. So the whole exercise is done through your smartphones.
+So you're going to record it and edit it all with a smartphone.
+So it's designed. So it's kind of doing it with the equipment that you got.
+And I'll talk you through kind of how you go about doing this.
+Um, but but it turns out becomes the quality of an iPhone camera these days is pretty much close to, like, a professional, um, camera.
+And if you did, you see, what was it, the new iPhone 1117.
+Like someone's actually recorded a film that's been made and, like, sold using an iPhone 17 camera.
+Same. Got an iPhone 17. Now the quality I think that's just as an example is like 4K.
+That's motion stabilized,
+like the quality of the filming that you can do on a handheld smartphone is now pretty much close to what you used to have to get,
+like a massive kind of rig today.
+So you can only take 14 professional videos using your iPhones or your Android devices.
+And I'll give you some tips on how you can then, as it is to make a reasonably professional video, isn't that required around this before to.
+Keep it from not to. Do you guys go on TikTok and make videos?
+No. Yeah, we're not too technical. Um, it's kind of we're gonna look at how you can make a fashionable looking science
+documentary using your iPhone and interviewing people to make it a professional.
+Okay, so enjoy the week off. Well, enjoy your midterms, and I'll see you in two minutes.
+Thanks. Very.
+Much. Yeah.
+It was like. It was.
+Supposed to. Uh. Yeah.
+It was. Uh, I think I.
+Saw 36. Yeah.
+Other than. That.
+Yes, I did. Uh, okay. So. Yeah.
+I mean, if you say we don't think that's.
+Some sort of a, um.
+To the point to know how you calculate the intensity that you, um, and map to a crisis.
+Okay. But, yeah, it lists kind of exactly the things that you need and also tells you what you can consume as well.
+Okay. Yeah. Maybe it's. But, um, but if you get to talk to them in a context.
+Thank you. Okay. Yeah, I. Yeah. This is.
+Um. Okay. Uh, reasonable.
+Prices. Okay. Yeah, I saw that Holly J.
+It was. Oh. So. Not so. Much money?
+Oh, yeah. Right. I see that I wanted to get onto this project with students.
+Oh, yeah. Oh, okay.
+Um, but, yes, I've got an office project just now looking at learning nonlinear microscopy images.
+So I get cancer. Um. Yes. Really big deals.
+Um, see, the kind of complex signals that you get from tissue really lend themselves to analysis with machine learning.
+And actually that the general surgeon actually slides, um, really early on.
+Kind of painting itself. Um, so I thought it might.
+Doctors could look at those patients and they can make a decision whether it's cancerous or not.
+And for a long time, for decades, if you look very closely at the nuclei in the cells,
+they have light patterns in them on security patches and things.
+And doctors just thought, well, it's like an artifact of the staining process.
+But now with machine learning, they digitized all of the images.
+And you can train neural networks to detect those patterns, actually tell you something about how to interact with different types of DNA.
+And you can use that to diagnose cancer much, much better.
+Yeah, machine learning can detect patterns and see things that humans can't.
+Which is why are there any opportunities?
+So can you do some further, um, either internship or just on the side during.
+Um, I guess. Yeah. I mean, I guess you could apply for an internship.
+Um. Yes. I don't know what options there are in the third year, whether you could pick to do a project on that.
+Um. An independent project because I speak to her.
+He just like me once a week with some assistance, guidance.
+Yeah. I was told what went on in the busy.
+Yeah. Yeah. It's not necessarily for great or anything.
+Oh, yeah. Yeah.
+You know, I can show you some of the stuff that I've been doing with with the nonlinear optics and just with the ancient, the heat pictures, um,
+and how there's some really cool stuff that you can do with machine learning to kind of diagnose
+and and identify regions of the tissue that can take achievement versus basement experience level.
+I mean, that be fascinating or possible? Relatively new to machine learning.
+A good of closers. Oh, yeah. Yeah. Uh.
+I quite like. I quite like to do some project on something. Well, next time on my hands.
+Yeah, I can certainly give you some kind of examples of things that we're doing.
+Um, so you can download um, like in terms of cancer images for HRT,
+there are quite a few online libraries where people have got grounds to put the pictures online.
+Yeah. So anyone that's interested can have a go at downloading them and coming up the models to detect things.
+So you can quite easily if you can use Matlab, Python,
+you can use machine learning to kind of detect the difference between the two images and to isolate regions that contain cells.
+Like we look for summer internships because I haven't seen any of the advertised yet.
+I'm not sure when they come out. I think they should be coming out soon or have come out soon for Pokemon.
+Um.

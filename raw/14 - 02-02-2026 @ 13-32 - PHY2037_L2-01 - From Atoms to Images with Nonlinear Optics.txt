@@ -1,0 +1,498 @@
+I like those? Yeah. The roots of the.
+Why does he like that? There's some quite posh accommodations in the town now.
+Oh, yeah? Yeah. Like ones where you get, like, a gym.
+Uh, that's a school for students. Yeah, that is really cool.
+Hey. You're right. Yeah, that's. Yeah. There are 20 girls, so.
+How are you finding the course so far? Good, right.
+I think you're clear on what you saw in this.
+And that's coaching. Oh, yeah? Yeah.
+There's a bit of chemistry sneaking into it. It's kind of the interface between civics and chemistry and life sciences.
+We got the good stuff today. The golden erotics. Yeah.
+You know. Yeah. I.
+Mean, it was. So?
+So. So. So?
+So like. Uh.
+Like this. Oh, yeah. Um.
+Yeah, I think I. Remember, like this, you know?
+So we just let you know. Like.
+Okay, I can do that. Oh, that's good because.
+You know. Yeah, just I was like. Oh, my.
+Goodness. Yeah.
+Oh my God. Yeah, absolutely.
+Yeah, yeah. You know, I just I was everyone's going to have a good weekend.
+It was very interesting. Yeah.
+Oh so we're on to the good stuff today. Also the non-linear like matter interaction.
+So this is where it all starts to come together. So we've kind of introduced the idea of how light interacts with matter and how it's
+mediated by this thing called light that contains all the information about the material.
+And now we're going to start to see kind of how this all comes together.
+When we start thinking about what happens when we introduce an optical non-linearity into chi.
+So it's chi that contains the.
+The contents are elements that tell us how light interacts with the material, and we're going to see what happens when this becomes your video.
+So we're going to look at kind of nonlinear optical susceptibilities.
+And we're going to do a kind of quick estimate.
+So we can calculate just how small these these these susceptibilities are doing in your interactions you remember about complex conjugates emerge.
+So we're going to be using complex conjugate and just looking at how we handle those notifications,
+particularly in in the context of how we deal with negative frequency components.
+And then we're going to introduce not looking at a couple of nonlinear interactions and say hey alright.
+So you missed. So let's just say we finally got to the good stuff now.
+So we're we're going to be looking at the nonlinear light interactions with Jesus.
+This is messed up. Something quite exciting and interesting. There you go I tell you.
+So let's think about all of this.
+This whole lecture is about introducing this concept of continuity in some nonlinear optical logical response.
+So we are we've kind of already alluded to this idea that we use this idea of expressing P in terms of the electric field strength.
+And we've already looked at this idea that we can express it as a power series.
+But the key concept is what we looked at last week where this induced polarization, when we're kind of shaking charge inside the material,
+this polarization itself that we introduce acts as a new source of components within the electric field.
+Yeah. So you remember last week we looked at this concept of how it's our electric material response.
+You've got all these bound charges within sight. The material the electric field interacts with the material.
+The charge is sent to the oscillating electric field.
+They get shaken up and down, and each little charge on its own is emitting a source of radiation.
+Yeah. And then in the Lorenz oscillator, we then model this as a, as a drift and harmonic oscillator.
+And we kind of see how you get residents associated with this. Yep.
+And this explains how you get the kind of refractive index of material.
+The material has this effect of slowing the light down, if you remember,
+because the phase of the oscillating material isn't always in phase with the driving electromagnetic field.
+Everyone happy with that concept? Yeah. So today we're going to introduce the idea that P can be expressed as a power series.
+And this oscillating dipole that we produce can produce frequencies other than the one that we use to drive those individual dipoles.
+And this is where it gets really interesting. So this is the equation that we've started off looking at.
+And you covered this in electromagnetism last year with Matthews.
+This is the polarization vector peak. And in words what is capital P.
+It's the dipole moment per unit volume if you remember.
+So q times R is the individual dipole moment for one particular atom of molecules.
+But and we don't really measure that because that's like a microscopic property of one particular charge.
+Here's the thing that we're going to measure because it deals with the kind of bulk response of the material,
+the dipole moment per unit volume and epsilon naught a constant is the thing we apply.
+And Kai, is this kind of magic property of the material that contains all the information about the material that we want to understand.
+And we've already introduced this concept that we can express the polarization as a power series.
+So this really forms the basis of how we start to look at the nonlinear response of the material by looking at a power series
+where we separate out the first order and second order and third order terms of the optical response according to that order.
+So the second order response scales with Chi two and it scales with electric field squared,
+third order response with the electric field cubed, and so on.
+Yeah. And as we get to find out, the higher orders we go, the smaller the contribution is going to make.
+So normally when we observe electric responses or systems response and it could even be somebody on a swing kind of thing.
+You can achieve non-linear responses mechanically.
+We generally only get to see the first order response because the contributions from the higher orders are very, very small.
+Yeah. And we're going to look at that in a second. So it's conventional.
+So we have this kind of power series of what our polarization would look like.
+We can separate it out into the higher orders.
+So we can say our overall response is the first order response plus the second order plus the third order.
+And we quite often kind of take them out separately. And we'll deal with the second order polarization.
+That's just this term and third order induced polarization governed by this term.
+Yes. We quite it's quite often handy to take them out and deal with them separately, as we're going to find out the same time.
+Any questions so far? Yes. Okay.
+So we can kind of do, uh, a back of the envelope calculation as to the strength of the nonlinear interaction that we might expect to get.
+And if you remember, when we we did the in week one,
+I introduced this idea that we're going to just draw on some of the things that you've learned in A-level and in electromagnetism.
+And we calculated this thing called E 80 which is the atomic field strength.
+Can anyone remind us what the atomic field strength represents?
+We used to ball, if you remember. They remember.
+So we looked at this idea of the core model,
+where we consider an electron kind of being attracted to a positively charged nucleus, and it's orbiting it.
+And we use that kind of model to calculate the ball radius, the radius of the orbit.
+And then we use a simple equation to calculate the electric field between the positive and negative electronic charge separated by this radius a.
+And that just tells us that that's the electric field that the electron experiences in an atom.
+And that's really telling us like what sort of electric field do we need to apply to pull that electron all the way away from the nucleus?
+Yeah. So we're pretty much almost ionizing it at that electric field as we're going to see in a second.
+The further you pull the electrons away from their equilibrium position, the more nonlinear the response becomes.
+So we make this assumption that when the electric field is of the order of, it's just an estimate of the order of the atomic field strength.
+That's when we start to see that nonlinear response is becoming of a similar order of magnitude to the linear categorization that we get.
+So that's where we can make these assumptions here. So we'll go through these estimates just to convince you that.
+It's been working. Is that we might simply can it.
+Yeah. So we've got our. Equations for polarization.
+Juice polarization. First order.
+Second order. The third order equation.
+Yep. And we're making this assumption that when.
+Electric field is of the order. The atomic field strength.
+So P1 is then going to be approximately equal to also approximately equal to three.
+Yeah. So that's the assumption that we're making.
+That's the kind of if you were asked to kind of do this calculation either in a problem sheet or an exam, you'd be putting down this assumption.
+And this would be one of the things that you'd be getting a mask for by making the
+assumption that when you've almost pulled the electron completely away from the atom,
+that's when the nonlinear response is what the order of the linear response.
+So we can then equate these two things, say for the first order and second order.
+You've got. I one times e a t is going to be approximately equal to asylum law.
+I two times he 18 square.
+You'll see. I'll just substitute it in these values for P1 and P2.
+Yeah. So then we can rearrange.
+Quite two. You can say, maybe it's a car.
+I want to find it by the atomic field strength.
+Yeah, you can see. Be straightforward. And the other assumption we make is solid state materials.
+Chi one is approximately equal to one. Yeah.
+So that's the other kind of a thing that you get more remembering.
+And then if we put those values in we just get one over the atomic field strength up two times ten to the -12.
+Oh, it's a meter. Yeah. And if we do. Exactly.
+If we treat the third order in exactly the same way.
+She was coming here. It's cute.
+To be equal to one over. That's.
+Even were. So you can see as you go up to the higher orders,
+these nonlinear susceptibilities that mediate the strength of the nonlinear response get smaller and smaller.
+And this is why I can kind of like first order. Second or third order.
+Don't don't don't we're not even considering the fourth order terms because they're going to get even smaller still.
+What do you notice about the units of Chi two and Chi three?
+The units of Chi two and Chi three. Yeah, they have different dimensions.
+So this kind of catches people out. And it's quite important to remember this and realize where this comes from.
+And so if we let's just it's always useful I think to do dimensional analysis when
+we're looking at equations because it's always a very good sanity check in an exam.
+If you're not sure if you've got the answer in the equation right. So we've got p equals silent naught k times e.
+That's the general equation for this polarization vector.
+What you know. So let's look at some dimensional analysis.
+So what are the units of capital P? What do we say?
+Words that captured people's images.
+Polarization. Some think per unit fully.
+Yeah. Dipole moment per unit volume. So p is equal to q dot.
+That's the dipole moment. Yeah. Divided by volume.
+So we've got. Dipole moment.
+Only. So what are the units going to be of key?
+The coulombs per meter would be a dipole moment divided by volume meters cubed.
+So you're quite right. Coulombs per meter squared.
+And you notice I've been putting in dot in between these two.
+That's just so you don't confuse me to the category.
+Guillaume. Say, what about epsilon naught?
+What are the units of asylum laws? What's the value of it?
+So I don't know. 8.85.
+Ten. -12. That's probably a number you're used to type into your calculator quite regularly.
+One of the units. Okay, so it's we let's put the units in.
+So it's force per meter. So equal to um squared seconds to the kilo per meter squared.
+Peter comes out. Coulombs word.
+Centimeter squared. You. Cute.
+This is just using the S.I. units. So the rules. And then what about the units of electric field.
+Yes. You can express its faults. Coming, sir. What's the other way?
+Right here. So that is completely correct.
+But you'll notice that all the things that I've got on the P and its item don't do in terms of coulombs and meters.
+What's the other way you can express those kind of meter.
+So the electric field. Yeah. If you go back to this idea, what the electric field tells you to force a unit charge.
+So if you have your kind of unit positive test charge, it's the force that that positive charge would experience.
+That's what Newtons Coulomb. And then we can to help us we can put that in terms of kilograms.
+Mass times acceleration. One of my moms and we put it all together.
+Yeah. So we've calculated the units of these guys.
+So we get Coulomb square centimeter squared per kilo.
+Times those. Second from.
+That comes out coulombs per meter squared. Which means what?
+In terms of chi, what are the units of chi? So this guy and this guy, we put the units together and we get the units of.
+So what does that mean in terms of the units of kind? The Mentalist doesn't have any units.
+Yeah, and I think this is more like he told you in here that your magnetism is one so kind.
+You one. So I mentioned this.
+Yeah. Now let's look at p2 p3.
+So. Peta is calling two times the electric field squared.
+And that. Yep. Sorry. The units and Newtons being kilograms per second squared.
+Yes. Sorry. You spotted my intentional mistake.
+Will don't keep your distance. So yeah. Mass times acceleration of velocity.
+So the second order term, you can instantly see that it's got to have different units.
+Yeah. Because the units of Electric Field and Silom law and P haven't changed.
+Yeah. That because you've got an extra E on this side.
+The units of Chi two. Have to be.
+Votes per meet to balance the equation. Yeah, you'll see that.
+Um, and then likewise the P three item no.
+Code three e cubed. So this time.
+I three has to have meter squared. Squares?
+Yes. So as you go to the higher orders, Chi has a different set of units,
+and it's because you get an additional multiplier of electric field as you go up to E squared between and so on.
+Yeah. So pretty trivial.
+But it's very important that you remember this because it's always useful to check your units when you're doing questions on things.
+Does that make sense. Okay. So back to the slides.
+Okay, so we've done a call back with the envelope calculation just to give us a kind of solid point to go.
+Give us a feel for how small these things are going to be.
+Yes, and this is really important. Later when we look at how we actually achieve measurable non-linear polarizations.
+We're going to see that we're getting some pretty big lasers to achieve something
+that's measurable on the scale that we'd get from a linear polarization,
+just because we're dealing with much, much smaller conversion efficiencies with the high water susceptibilities.
+Yeah. So everyone appreciates the 10 to 12 is very small.
+Ten to the -24 is significantly smaller.
+Yeah. And good luck tomorrow I detect the fourth one because it's going to be ten to the -36.
+Yeah. Okay, so the next concept that we need to or I need to tell you about is something called consider symmetry.
+And this is something that you just don't get with linear like matter interactions.
+When we deal with higher order processes, we have to take into account symmetry.
+So if we have something that has center of symmetry, its effects,
+whether we can get a second order response and a fourth order response, but we're ignored by ignoring fourth order responses.
+And obviously, theoretically, second order response is anything but an even order response.
+You will not get it if your molecular system or crystal exhibits center symmetry.
+So this is a kind of. Simple diagram showing molecule or base, lattice point or whatever inside a crystal.
+And this demonstration is just showing if you take the same kind of basis and put it together in two different ways,
+you can achieve an arrangement where you have symmetry, where you don't have symmetry.
+Yeah. So you can see if we put this guy together in this way along various different axis points.
+If you were to fold it over, it would be perfectly symmetric and you get the same shape.
+Whereas if we put it together in this way, you can see that we've broken the symmetry and and you can't fold it over onto itself.
+Yet you're happy with the idea of what symmetry is. Yep. So this guy is symmetrical.
+This guy isn't symmetrical all from the same kind of molecular basis, but where we don't have the symmetry.
+So where we do have the symmetry, our second order response.
+Is equal to zero. And where we don't have the cemetery our second order response is not equal to zero.
+And this is really important. So not very few things actually exhibit second order responses.
+And you have to select the molecular origin of that signal very carefully to choose
+things that don't have this symmetry in order to give you this note of 0.2.
+Now we're going to kind of I'm going to show you, kind of convince you why this is the case.
+Um, and then later actually tomorrow, you're going to mathematically be able to demonstrate why.
+Materials with a non symmetric structure exhibit chi2 as well as their symmetric don't.
+But let's first look at it in this hand-wavy kind of way that introduces the concept.
+And this this slide really kind of should hopefully explain the whole picture of how
+nonlinear responses work and how materials can generate an multilinear optical response.
+So if you remember back to week one, we have this picture of the induced polarization.
+So with no electric field charge, no electric field applied, you have charges in their equilibrium positions.
+They're all at the equilibrium position attracted to the positive charge centers.
+We apply an electric field and we distort that cloud a negative electric charge.
+Yeah. And it's this kind of distortion that gives rise to this non zero induced polarization.
+If we're happy with that. This is kind of a picture that Matthew taught you and what we've looked at so far.
+And then we also introduced this idea that if you have a linear restoring force you integrate it and you get the potential.
+And what's the what was the shape of this graph that we looked at? It's you.
+The potential is equal to minus half k squared.
+What's the name of that function. Begins with P.
+Rob. Yeah. So you have this parabolic potential that your charges sit in, and we apply when we're dealing with an electromagnetic field.
+The electric field that we apply is of itself the function of a sine wave.
+Yeah. So you have an oscillating electric field and it oscillates in the form of a sine wave.
+And if we were to look at the spectrum of that sine wave take the Fourier transform.
+We use the idea for a transforms in week one. How many frequency components are present in this driving or applied electric field?
+Well, yeah. So we have one frequency and this is our let's call it omega naught.
+The driving frequency.
+And we drive our charge distribution and we're going to be shaking it or driving it backwards and forwards in this parabolic potential.
+And it's going to sit there. We kind of increase the electric field.
+It gets dragged out all the way to the to the positive side of X, and then the field goes back down again.
+It gets dragged back to the negative side of X, so forth.
+And if we were to then look at remember we looked at that kind of point charge model where the point charge,
+that first kind of animation that I showed with the red dot going up and down and the electric field lines coming out,
+the induced polarization that we produce is going to be a sine wave of the same frequency that we drove that oscillation out, isn't it?
+Yep. Single frequency. Same frequency as the driving force.
+The amplitude is just mediated by the size of chi.
+So if you get a zero chi, you get zero polarization produced.
+If you get a very big value of color, you get a much stronger polarization produced in the material.
+And remember, each of these little polarizations that produce are emitting their own little electromagnetic fields.
+Yeah. So that's given by this equation.
+Now where it gets really interesting is what if we didn't have a linear restoring force which is what happens in real materials.
+So in real materials when we have small values of electric field and we're dealing with small displacements from the equilibrium position,
+it's reasonable to assume that it's a linear restoring force.
+And it's not in a parabolic potential for small displacements.
+But when you start increasing the electric field and you start dragging the charges further and further away from their equilibrium position,
+and you start approaching the field strength required to completely pull them away from that,
+from the from the atoms that they're attracted to, things start to become nonlinear.
+The restoring force is no longer a linear potential.
+Yeah. And, you know, we've assumed we've made this assumption at the very start.
+When we looked at the Lorenz oscillator model, I said, we're going to model this charge distribution as a kind of mass on a spring.
+And we're making the assumption that there's a linear restoring force.
+And that assumption is only true for small displacements.
+Yeah. When we start to look at bigger displacements closer to the kind of atomic field strength,
+it starts to deviate away from this model system where it was a linear restoring force.
+So we can draw two potentials, both of them.
+We now have nonlinear responses at the extremities.
+And in the first case we have a symmetrical potential.
+So the red line the blue line is our linear model that we initially drew which holds valid for small displacements.
+Small displacements. The red line is a is a parabola. But as we get further and further away from you, as x increases,
+you can see the potential deviates from that parabolic model that we assumed when we dealt with the Lorentz oscillation model.
+And this is exactly what happens in real materials.
+So in this case, when we get to the extremities on the left and the right hand side, once we get beyond a certain point,
+it starts to become easier to pull the charges away for given a given increase in electric field.
+Yeah, you can see that. So now if we again take our single frequency sine wave,
+but this time we're driving to much higher amplitudes and we're driving our charges through this potential.
+We can see that the the induced. Dipole moment P type of induced polarization.
+Effect of. As we get to higher and higher amplitude displacements, P increases more than it would of the linear term.
+Yeah because x is getting bigger. So if we now plot the response of that potential in terms of the polarization vector,
+we no longer get our sinusoidal single sinusoidal response in terms of the induced polarization.
+So we do not have a sinusoidal response at very small displacements.
+But as that the higher values of electric field we can see, we get a stronger polarization induced and our sine wave becomes kind of a bit more peaky.
+Yeah. And it's exactly the same thing happens in the negative displacement direction again.
+We kind of have this sinusoidal response right in the middle for small displacements.
+But we get the high displacements and the charges get dragged further than they would have been for the linear case.
+So we've got this kind of pickiness introduced into our the function, the waveform of the induced dipole moments.
+And don't forget this polarization vectors that we're dealing with these kind of shaking charges.
+These guys are emitting an electric field of this form.
+Yeah. So this function that we've got here is different from the single sine wave that we initially started with.
+So. When we looked at the response here,
+we were quite happy to say this is a single frequency sine wave and just one component omitted to make up this guy.
+If we were to take the Fourier transform of this function, what would the spectrum look like?
+What would it look like in terms of the different frequencies that make it up?
+It's no longer a single sideways contained in that it's a combination of sine waves.
+If you do the Fourier transform, you have a distribution of frequencies that make up the signal.
+And this is where it gets interesting because we sent in a single frequency omega.
+And because of the non-linear response of this material,
+the output produced by this induced polarization now contains many, many different frequency components.
+Or it can respond to different frequency components than the one we sent in.
+Yeah. And then looking at the other example where we have a non-linear potential.
+So this time it's easier to drag it on this side.
+But it becomes harder to to move the charges on this side.
+Now we have this induced polarization in the material where on the positive side you get this kind of flattening of
+the sine wave because it was harder to induce the polarization at the larger amplitudes than it was on this side.
+So you've got a kind of flattening on top here. And then again, this kind of peaking this if your sine wave on the other side.
+And again, if we looked at the frequency components, you can instantly tell it's not a single sine wave component required to make up this guy.
+Yeah. And this is the origin of the nonlinear response of the material.
+And it relies on the material having or deviating from this parabolic potential.
+And you kind of took it for granted when I introduced the idea of the parabolic potential rising from the linear restoring force.
+But it's only a linear restoring force at small displacements.
+Yeah. And that was the assumption that we made in the Lorenz oscillator model.
+So to kind of convince, how could you convince somebody that the second order response for this situation is zero,
+and it's not zero for this situation? It's going to say it's a kind of useful party trick,
+but it's not kind of the sort of thing that would probably get many people off a bunch of physicists excited into Party Trick.
+But the way to convince somebody is, as you change the sign of Eve, in order for P to not be zero, the sign of P should change.
+Yeah. So as the electric field oscillates up and down it goes positive to negative, positive to negative.
+Your induced polarization should also be kind of positive to negative. Yeah.
+I couldn't follow that. So just on this side P when E is positive, P is positive ego's negative, P is negative.
+Yeah. If we instantly look at this equation here.
+So let's go with the third order one. If you take a negative if you make positive E.
+E to the power of three. It's going to be positive. You take a negative value of electric field.
+E to the power of three is negative. Yeah. So you can see.
+Thirdly, polarization doesn't really care about supersymmetry.
+However, if we look at second order response when egos positive, pairs positive, egos negative, what happens to P?
+Yeah. So minus E squared is positive E doesn't work out.
+Yeah. The only way you can achieve a non-zero p two.
+In the second world second order is by having a non symmetric potential that it's added.
+So here you can see that everything cancels out on the left hand side and the right hand side.
+Here because of the lack of symmetry you get a greater response on the negative side than you do on the positive side.
+So you get non-zero response. Yeah.
+And the way that this this works out in terms of the tensor maths, is that the components of your this is where k two is hidden.
+And you have to have a non symmetric two tensor for them not to cancel out in the positive and negative sides.
+Yep. So that actually kind of hand-wavy way to explain it that for this guy to work.
+He has to go negative. When he goes negative and you have to have a non symmetric potential to tense up if I follow that.
+Okay. So the next thing that we need to get our heads around is the concept of a negative frequency.
+So I kind of still don't recognize what this is.
+But this is like a few years. You guys don't listen to the radio anymore, do you?
+Nobody does it in your car. Like back in the 90s and early 2000.
+You used to have radios in the dashboard, and there would be a knob that you turn and it would tune the frequency that you listen to.
+You're looking at me blankly. But nowadays, obviously with digital radio, we don't have to tune in to a certain frequency.
+Um, but you're familiar with what frequency is in terms of, like, a radio frequency or.
+Yeah. So you have this kind of this kind of scale that you tune to.
+So you might be tuning to, like, I don't know, seven megahertz, your favorite radio station,
+but you've never really you wouldn't have quoted some negative frequency.
+What you frequency isn't the sort of quantity that you'd ever consider having a negative.
+But we need to deal with negative frequencies in terms of nonlinear optics, as it's going to become apparent in a second.
+So if we think about frequencies in the concept of a negative frequency, the kind of fundamental way in which we express frequencies,
+we can we can look at the kind of rotating vector look in angular frequency omega.
+And if we think about where these kind of a sine wave from this function, you consider this kind of radius.
+I will also go around this kind of circular rotation.
+And if we plot the amplitude this makes along the x direction you get this sine wave as omega increases as it goes around the circle.
+Yeah. If we deal with the negative value of omega, the one we've got here this time our.
+Mcos go around the opposite direction. See, the first one is going around counterclockwise.
+The counterclockwise. The negative omega is going around clockwise.
+If we're to plot how that sine wave evolves, it looks exactly the same.
+Yeah. You get a sine wave of exactly the same frequency and face.
+It looks identical. Well, negative frequencies become important.
+And you've done this before when you've looked at complex conjugates, is that we have to deal for any.
+Um, electromagnetic wave or frequency component.
+We we always have to deal with this complex conjugate.
+Yeah. So this is the kind of sine wave that we've been considering for our electromagnetic field.
+And we always have to consider the complex conjugate because the same in the same way that E to the omega T can produce this sine wave.
+So can E to the I omega t. And for most cases you can kind of ignore the complex conjugates.
+But this is really important in nonlinear optics because this is the basis for how a lot of the signal generations take place.
+So you're happy with this idea of the complex conjugate. You see here before we dealt with imaginary numbers.
+Yeah. That's not a new concept.
+But for every electric field it's made up of an electric field E to the I minus I omega T plus its complex conjugate times E to the plus I omega t.
+Yeah. So we don't always like to write this out just because as we're going to find out later, these become burdensome to write them all out.
+So it's conventional to just stick with the minus omega t term and then just say plus C don't C complex conjugate.
+Yeah. If you see this notation people. But you're definitely familiar with complex conjugates.
+Yeah. So in IT optics people often just put this c don't C in that.
+It says basically package up all the complex conjugates into that thing.
+Because I think to write them out and you don't need to read them. So it's pretty straightforward.
+That's if we have just one frequency components in our signal.
+But quite often we might have two frequency components. So this time we've got our electric field.
+And it's made up of frequency one and frequency two.
+Frequency one has an attitude of E1. And frequency two has an amplitude of E2.
+And for both components we have to consider the complex conjugates.
+Yeah. And then to save having to write out the four terms, we just take the two complex conjugates and love them together in CC.
+And we're left with e1 e to the minus omega one t plus e2 e to the I minus I omega two t.
+Yeah. And then we've lumped the conscious complex conjugates together in the system.
+If we follow. So I'm not really introducing anything new.
+We're just reminding ourselves of what a complex conjugate is and just introducing this notation that we don't always write out everything in full.
+I mean, as if we're going to see nonlinear optics, we do need to consider the complex conjugates.
+So we're now going to quickly whiz through. Some of the common nonlinear optical processes.
+So the first one is second harmonic generation.
+And if you remember back to lecture one, this was the first nonlinear nonlinear optical process that was discovered.
+Who was the guy that discovered it? French windows.
+The year after the laser was 1st May demonstrated, second harmonic generation was was demonstrated,
+and it was this concept where he took a red ruby laser, showed it on a crystal, and then detected a small amount of blue light coming out.
+Well. Now I'm going backwards.
+Sorry. So he's shown this red light onto a crystal, loads of it, and detected a tiny amount of blue light.
+And that was described as we saw by this diagram here. So we come in with two photons, each equal to frequency omega.
+And effectively they get non-related and produce a single photon of twice the frequency.
+And that's given by second harmonic generation. It's a second order process.
+We have two electric fields going in omega one in this case two lots of omega one going in.
+And it scales with the electric field squared. Our incident field is represented by.
+This equation. So we've got e to the minus I omega t plus the complex conjugate.
+E to the plus omega I t. Yeah.
+And if we insert the electric field into this equation so we take e squared we deal with the we remember we've got complex conjugates in that.
+So we deal with the full equation and we multiply them out.
+We get. This is the this is the answer. So we get the cross term where we get the electric field times its complex conjugate.
+So we get e times e star and it's multiplied by e to the minus I omega t plus I omega t.
+So the only omega bits cancel. And you get this term with no oscillation associated with that.
+So the oscillating components go on. And this is known as optical rectification where you just get a DC offset in the field in your material.
+And then if we multiply the this guy squared this guy squared we get a term which comes out I minus I omega.
+Minus I Omega you giving us minus two.
+I omega to double the frequency and we get the same with the complex conjugate.
+Yeah. So we get a term in the complex conjugate plus five two omega t.
+Yeah. And this is mathematically showing us where the second harmonic generation comes for.
+So we get this DC offset. And a signal coming out with twice the frequency of the one coming in.
+So this is our second humble acceleration that we expect to get.
+Yeah, if I follow that.
+So just the maths of how we generate this by taking our electric field and shoving it into this equation that we're happy with,
+and we can see that we get the term out with two omega in it twice the frequency.
+So if we're the next kind of thing to be looked at after second harmonic generation was,
+okay, well, what happens if we stick two light fields in as omega one?
+Omega two. So our equation with E squared it doesn't have to be the same wave going in.
+Yeah. So we can take if we take our electric field and we say it's made up of two components omega one
+and omega two plus their complex conjugates which I stop listening because it gets quite long.
+We stick this equation in to our second order polarization bit where we square it.
+We can now see that we get a lot more terms out. Yeah. So we we multiply all the combinations.
+Don't forget we've got another two terms. The two clocks. We've got four electric fields in here.
+When we deal with the complex conjugates we multiply them together.
+And then we now get a much longer that turns produced.
+We get the second harmonic generation of the F omega one.
+The second harmonic generation of omega two. We get omega one plus omega two.
+So the sum of the frequencies and we also get omega one minus omega t.
+So the difference of that frequency simply just by multiplying all these terms together one square.
+And then we also get the optical rectification term with DC offset.
+Yeah. So sending it into different waves, into this crystal we get QG of one and the other.
+Plus the sum of them plus the difference of seven fully.
+So you can now see that for second order processes by sending in two different waves.
+We've now got quite a complicated already building up number of interactions and different frequencies that we can,
+that we can produce through non-linear interactions. Where it starts to get interesting is when we get to the third order.
+So the most simple case to deal with, to start off with is just to say, okay, let's just send as as we did with second generation.
+We'll send in three lots of omega and see if we get omega three out and do some third harmonic generation to simplify it.
+We'll kind of ignore the fact that it's a vector. And just look at this curly e cos omega t.
+This is what we expect to get. Which of course curly e into this equation.
+Qubit. Use this cosine identity and you get a terminal at three omega and a term out f omega.
+Yeah. So that's that's how we demonstrate the simple case of third harmonic generation where it gets complicated but not really complicated.
+But just a lot of writing is enough.
+We take the general case where. We have three different frequencies.
+So we've got E1 omega one E2 and getting E3 omega three plus all their complex conjugates.
+We now cube this guy. And remember we've got six terms in this equation.
+And we have to keep them all. It's quite a long handed thing to write out, but if you go through it you get 44 different frequency components,
+just like the combinations of the cube, of the six different things that you're cubing.
+Um, and these frequencies are written by.
+These guys here. And if we kind of write them all out kind of longhand, by taking Omega being three different discrete values,
+you get a very long list of 44 different unique optical frequencies that are produced.
+So I'm never going to ask you to produce that in an exam, because it would just take me far too long,
+and I don't want to sit there and read them all to all your picture.
+And it's just, you know, quadratic equations, just multiplying these things out.
+But what's important is to understand through that kind of quadratic expansion, you get all these different combinations.
+And I we go one crossing every two. Let me go one classification on this omega three.
+All these different variations. And the only ones that we're going to use are the ones in blue.
+So what's this guy couldn't hear? What's that optical process?
+Give me third one I told you about so far. Third harmonic generation.
+Yeah. So you take three lots of omega one and you get a three omega coming out.
+Yeah. So that one we're going to be using later.
+And I'll put that in play. And then the other one which we're going to look at is this one in blue.
+Um and you'll find out later why this is interesting.
+Uh oh. Yeah. And I put this little thing, this quote, that highway three is where the action is.
+Remember when I first got into nonlinear optics? I went to this conference in somewhere in America.
+And if you ever see, you've probably never seen any American presentations or conferences.
+But the Americans, like, they literally come out with like, jazz hands and they're like really lively in their sports jackets and chinos and stuff.
+And there was this guy came out and he was using nonlinear optics to to measure the temperature of combustion gases in jet engines,
+um, which is quite a common application. And, and he was going through the theory and then his kind of phrase was, chi free is where the action is.
+So like hidden within chi three. It's this term here that he was using to work out with temperatures gases.
+So this as you can see. However,
+it does contain an awful lot of combinations and it really does allow you to look at lots of
+different frequency combinations that allow you to really probe what's going on inside materials.
+So just if you can remember one thing, just remember the typeface where all the action is.
+I was like 20 years ago. So tomorrow we're going to.
+Got a bit more mathematical still, and we're going to kind of revisit this whole idea of the equations of motion,
+basically redo the Lorenz oscillator model that for non linear potentials.
+And we're going to see how that enables us to calculate the nonlinear susceptibility for materials.
+Okay. So we've we've introduced the idea of optical non-linearities.
+You can now estimate or have an appreciation of how small Pi two and Phi three are,
+based on the assumption that they're measurable when the electric field approaches the atomic field strength.
+We've revisited complex conjugate and how that fits into negative frequencies.
+We've looked at symmetry and how it's important for second and third order processes and how they occur differently.
+So there's a second order process require symmetric quite rare and normal
+symmetric unlike a symmetric chi two or non symmetric highlighting and symmetric.
+Yes. And just remember this idea that when ego's negative p needs to go negative.
+And if you don't have that, breaking the symmetry minus e squared gives you positive p.
+Yeah. And that doesn't work. Okay.
+So I'll see you tomorrow.
+But we'll get into the really exciting stuff actually doing the kind of small things like differential equations to calculate.
+Yeah. I love.
+You. I love you.
+When I. Say.

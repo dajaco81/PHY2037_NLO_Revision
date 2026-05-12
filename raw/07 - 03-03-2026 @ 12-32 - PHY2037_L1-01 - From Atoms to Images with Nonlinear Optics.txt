@@ -1,0 +1,490 @@
+Um. Mm.
+Um. Yeah.
+I guess so. I don't even know.
+Do. You want this one?
+Yeah. Okay.
+Yeah. So I've applied to places like, uh.
+I love my English. Oh, yeah. Um.
+Um. But essentially.
+Yeah. I just want to thank you for.
+Listening. I really.
+Want to know more information.
+Um, I know you can make. That through your own husband.
+You know. Okay.
+So maybe this one is likely to be important.
+And apparently, the tone of the voice in your smartphone is a good one, too.
+He does, which is what you want to do. But then you get him to do what's.
+Best for you. And that sounds exactly sexy.
+Oh. My word.
+Oh. We break from the people who put the brakes on this machine.
+I sometimes feel. Like.
+I'm. Crazy.
+I. Think I have to do this.
+I mean, I was just thinking about this.
+And I. Was.
+Just like. I don't think this was.
+Just. The opposite.
+I don't know. I look. At.
+The other person like me.
+Like this feels like. It might be.
+Coming from a lot of people. And.
+Like you just got one mind.
+I don't know what those people are doing.
+I'm not that type of. I don't know.
+Okay, let's get cracking then. So we started our lecture on nonlinear optical microscopy yesterday.
+Um, so if kind of like you said, this is where all starts to come together.
+So you kind of finally see how the nonlinear light matter interaction starts to link
+up with the kind of all the other stuff that we've looked at in terms of microscopy.
+We've explored the limitations of conventional microscopy,
+and now we're going to see how we can overcome a lot of those limitations using nonlinear light matter in practice.
+Um, so we did a recap of confocal fluorescence.
+What's the big problem with using. What do we use?
+Confocal detection first of all. What if they're overcome?
+So. It gives us this nice, crisp image.
+What does it allow us to do? What's the goal of using this confocal detection?
+Yes. Just one layer. Yeah. So yeah.
+So if you've got a thick sample and most things that exists don't exist as a kind of 2D slice that you've made of something,
+that kind of big chunk of material, whether it's like biological material, a piece of a person.
+You want to be able to image inside an object and see what's going on without having to cut a very thin section.
+The big problem is that the outer plane signal is blurring, and this is why you can't look directly into your hand and see what's going on inside,
+because you've got scattering and you've got blurring of all the tissues above and below the thing you want to look at.
+So the way we get around this is to place a pinhole at the excitation light source, which is confocal.
+So like the focal points match up with one at the detection side.
+This clever mirror. Allows us to shine blue light through the mirror, and it affects the green for us and light.
+And then we said yesterday, you follow the black line, and you can see that the black line corresponds to the focal plane of the objective.
+Only fluorescence which is emitted from that focal point arrives at the detection pinhole.
+And that is a way to eliminate out of plane fluorescent signal that you get.
+And you can scan the laser spot around in 3D and you can recreate 3D images of your own chart.
+But what's the big disadvantage of this technique?
+If you want to look at something that's a real particle material, what's the real killer?
+So I remember scattering. Yeah. So we looked at scattering.
+And we said that the big problem with scattering in confocal detection is that even if you get light emitted from the focal plane,
+if it undergoes any scattering events, it reaches the pinhole at the wrong position and the pinhole rejects it.
+So it prevents you from seeing deep into tissues. So and the big problem is that.
+Scattering. If we wanted to reduce scattering, we could do this by going to a long wavelength.
+Yeah. Because scattering scales of one over wavelength to the core.
+But the trouble is, it's in opposition with the spatial resolution, which is proportional to wavelength.
+So to see small things, you want to use blue light and to see deep inside things you want to use red or ideally infrared.
+Remember when I got that big tank of milky water and shot an infrared torch through it,
+and you got your iPhones up and and the infrared light was much, much clearer.
+The blue and the red light was scattered through that cloudy solution. So this is the problem we're up against.
+So the the real the vantage of nonlinear excitation is that it scales non linearly with intensity.
+So we're focusing the light into this microscope objective down to a small spot.
+The small spot increases the intensity and it scales nonlinear with intensity.
+And this means that if we compared the same microscope objective the same numerical aperture objective,
+we're looking at fluorescence excited with blue light and then near-infrared light.
+For the nonlinear excitation that's requiring two photons add up to be same energy as one of the blue photons.
+Next. For essence, you only get the signal emitted from the focal volume,
+where the intensity is extremely high because it scales with the square of the intensity.
+And this has a really big advantage. A two fold in palm.
+The first one is that we don't need the pinhole,
+so we can do away with the pinhole at the excitation and more importantly, the pinhole at the detector.
+We only excite the nonlinear process right at the very focus of the microscope objective, where the intensity is high enough.
+Because remember we're looking for high electric fields to excite this process, the light that's emitted.
+So dealing with fluorescence that fluorescence signal is going to come out.
+It's going to be green light.
+It's going to get scattered in exactly the same way that the green light produced in the linear one photon fluorescence approach would.
+But we don't care if it gets scattered so the light can get it scattered as much as it wants on the way back out the sample.
+We can put a big collecting lens in front of our detector to collect all those scattered light, and then we can focus it down onto our detector.
+So we don't care if it's been scattered because we know where it was kept, where it came from.
+So the nonlinear excitation confines the signal generation to the focal spot that we have full control over.
+So just like confocal detection, we can scan that spot around in 3D.
+And we don't care how much it's scattered by because we know where it is produced.
+And the second vantage is that instead of coming in with blue light which gets scattered,
+the excitation light itself is double the wavelength and we get a 16 fold decrease in the scattering.
+So we can go much, much deeper into the tissue with the excitation light without, um, inducing any scattering.
+Our focus is a nice, mostly tight on scatter beam.
+The light being emitted gets scattered as much as it wants, and we don't care.
+We just collect all the scattered light coming back.
+So that allows us to go much deeper into into scattering tissue such as skin, brain tissue, for example.
+And it has this fantastic property that it decouples the excitation from the emission wavelength.
+So all these problems of scattering versus spatial resolution and scattering versus the polarization mechanism,
+remember these dyes need to be excited in the blue or the green wavelength.
+We can now suddenly excite the same fluorescence process at double the wavelength.
+Well, as if we can find a second three times the wavelength so we can go much deeper.
+So this is an example image. Um, something from a scientific paper, uh, brochure showing how deep somebody's image.
+Um. Fluorescently labeled mouse brain neurons in a slice in a thick slice of brain.
+And you can see you can go all the way down to almost a whole millimeters, are 600, 800 microns.
+Into this gray is a really high scattering tissue.
+Does anyone seem like a piece of brain? A photograph of it in a mouse brain slice.
+Oh, no. Jane, what? What color is that? I'm seeing?
+Like a brain. Like a picture of a brain. Not on a human brain.
+On. That's right.
+Yeah. And boy, are they boys. Yeah, the Hawaii scattering.
+So, like the new, all the neurons in the brain protected by like something called myelin, which is basically like a lipid and they're very scattering.
+So it's a good it's a good example to show how deep think you can go so that you can go.
+And people have gone beyond a millimeter into mouse brain these techniques now.
+So it really enables you to go much much deeper into the tissue.
+And so two photon fluorescence exciting with twice the wavelength of half the energy.
+You can also do this with three photons. So you can have a third order nonlinear process where you go in with three infrared photons again three each.
+All three of them add up to the excitation of your dye.
+Um, and this really extends the imaging depth that you can go to.
+Um, and people are also developing or have developed um, fluorescent labels,
+which are excited in the red and near-infrared so that you can really push the depth penetration of these techniques into optical,
+into optically scattering material, so that you can see deep inside living tissues.
+Can you think of another advantage of going from kind of blue to infrared or near infrared excitation photons in terms of imaging living tissues?
+I'm enjoying it. Yeah. So each individual photon itself carries less energy.
+You know that photons have quantized energy. Blue photons.
+A formal photo toxic to near-infrared photons.
+So you can put quite high power of these near-infrared photons into a living tissue without inducing so
+much damage than you could with the blue excitation light required to excite that fluorescent process.
+So this is the kind of state of the art in biological fluorescence.
+So using multi photon excitation with decouples the excitation from that the emission wavelength.
+And we can go really deep into biological tissues in a way that's far more compatible
+with biological tissues because the light itself undergoes less scattering.
+And the photon energy is 2 or 3 times lower, enabling us to kind of use higher powers in living tissue without inducing any kind of damage.
+So the next kind of contrast mechanism.
+We're going to look at, if you remember back to absorption.
+Does anyone remember the name of this type of contrast, this pink and purple stain.
+What's useful? That's conventionally kind of referred to as H, and E doesn't remember what the H, for example.
+So this is used clinically to diagnose cancer.
+So the HCV toxin and the E is S in the heme a toxin binds to chromatin in the nucleus and the acid binds to extracellular proteins and things.
+So if we remember back to looking what it looks like if you put biological tissues under a microscope, have you been stained.
+We didn't see very much. Everything's kind of colorless and you don't have any contrast.
+So people want to have kind of hundreds of years that see this.
+This technology is about 100 years old now, have come up with these stains where you can take a slice of tissue.
+You can stain it with these different dyes, which have an affinity to bind to different parts.
+And then you get these beautiful pink and purple contrast of tissues.
+And this is the kind of gold standard in cancer diagnostics.
+So if you have an endoscopy or a kind of a lump removed or something,
+they'll take the tissue and they'll send it away to the lab or they'll stain it like this.
+And then a panel of trained pathologists will look at those images, and they can look at the distribution of cells and, and how they appear.
+And then they can make a decision about whether it's cancerous or not and what stage of cancer,
+and ideally, how that cancer might respond to different types of tissue as a therapy.
+So the reason this works well is because you've taken a very thin section of the tissue.
+So this is living tissue. This is tissue that's come out of a patient and it's been sliced.
+And then it's been stained when it's been sliced and it's created this very nice thin section.
+And we need a nice thin section. Remember, because of this kind of blurring out of plain structures within the tissue.
+So essentially we've created a kind of stained glass window effect where you can hold these slides up to the light and see through them.
+You put them under a microscope and you can see the cellular structures.
+Does anyone remember what I said was one of the big problems with absorption as a contrast mechanism?
+If you wanted to be quite quantitative about what you're looking at.
+For to time. That was looking at that was that was a transboundary elephant, wasn't it?
+But yeah, that's a kind of a fact. You know, you're dying. You died petition.
+You changed. You know, actually looking at the chemicals in the tissue, you're looking at the dyes.
+And you just trust the fact that the biochemistry of those dye sticks, the thing you're interested in.
+So that's one important point to consider. And the second one is that we don't really have any control.
+We have to control the fitness very carefully if we want to know about the concentration dye.
+So the absorption that we get is a function of both the path length and the concentration.
+So if you can get a very thin controlled uniform section, you can take an image and you know,
+you can compare the density of the stain across the image.
+But if you don't have a uniform thickness,
+you don't know whether it's the concentration that's changing or the thickness of your sample of your sample that's changing.
+So as you can guess, if you do this with nonlinear optics and it overcome some of these limitations.
+So just as we looked at exciting fluorescence with a single photon and then looking at how we can do that in the two photon world,
+we can take two photons. Either the two photons have half the excitation energy add up to the absorption to the absorption band of our dye,
+or we can take two photons at different energies.
+Both add up to give us this electronic transition that we're looking for.
+But if we use two different photos, it enables us to see absorption.
+So there's no fluorescent emission here this time. So before we just took two red photons they added up to a blue one.
+And we detect the emission coming out here. The challenge is to detect what is emitted.
+Yeah. So this is much more challenging to do. And this is why we have to traditionally take a thin section.
+But if we take two photons of unequal frequency or wavelengths that add together to give us an absorption,
+we can use nonlinear absorption to map the concentration of these chromatophores, these absorption compounds in 3D.
+So it's a non-linear process. So we know it only happens at the focus of our microscope objective.
+We don't need confocal detection. We can scan it around in 3D.
+And what we do is so this is in a green box.
+So you don't need to remember this bit. But it's kind of useful to know.
+We use a detection scheme called modulation transfer.
+So when we've got the two colors,
+the green photon and the red photon both adding up to give us the energy of a blue photon, which we get for absorption.
+That pull is that pulse lasers, because we need the pulse lasers to get the high field intensity to excite the nonlinear process.
+But what we do is we modulate one of the beams.
+So these are like whole bunch of pulses that we know pulses, whole bunch of pulses, no pulses.
+And then the other beam is just left on permanently.
+And what we do is we look on the other side of the sample and we detect the intensity of the non modulated beam.
+And because the absorption can only happen when both photons, both colors are present.
+So the green photons alone on enough to excite this energy transition.
+When the red photons are also there, we get absorption.
+And what you see is a dip in the intensity of the green beam.
+When the red being switched on. Yep. Can you see how that works?
+So that enables us to detect absorption events without having to work out the thickness of the tissue in effect.
+And it only happens at the focus. The absorption only happens at the microscope focus.
+It's a bit tricky to to see this. This is a tiny different modulation.
+And we use a box. This is called a locking amplifier.
+And essentially it's a radio receiver. And we we hooked the radio receiver up to the device that causes the modulation.
+So the frequencies are synchronized. And then it just amplitudes the modulation frequency on the detected signal.
+So we plot the amplitude of this modulated signal. And it allows us to image absorption in 3D.
+We don't need confocal detection. And we can scan the laser scope round in 3D.
+So one. Example where you can use this if you want it to image hemoglobin.
+Where do you find hemoglobin? Blood cells.
+So these are blood cells full of hemoglobin.
+Um, we can tune the sum of the two beams so that they match one of the hemoglobin absorption bands.
+And then you can test these red blood cells that I've just been placed down on on a piece of glass.
+And you can image them and you see the classic kind of donut shape of the red blood cells.
+And then here we're imaging. A mouse brain, and you can map out the vasculature of the mouse brain based on the hemoglobin absorption.
+And you can do this in 3D. So this cube is like 400 by 400 by 300 microns.
+It's a reasonably big chunk of the brain. And you can map out the blood vessel structure in 3D based on the absorption of the hemoglobin.
+So we're using we're not having to stain so the blood vessels.
+So without nonlinear absorption, um, people would have to inject like a fluorescent dye into the blood stream so that you can see them.
+So this happens medically in like fluoroscopy people are already into, into your blood so that you can see the blood vessels.
+But here we can use the naturally occurring absorption in the hemoglobin because we can use this nonlinear absorption effect.
+And this is useful for looking at kind of studying blood vessels.
+Um, it's quite interesting to look at tumors.
+So if you wanted to image tumors and understand how blood vessels grow in tumors, you can mapping out the blood vessels in 3D is really important.
+Um, one of the big problems in tumor growth is that you get quite a.
+Non-uniform distribution of blood vessels, and this causes like very little dead patches within the tumors.
+And you don't get enough oxygen there.
+And it also affects your ability to deliver drugs to those tumors because you're going to deliver the drugs through the blood vessels.
+So understanding how blood vessels form in tumors is a really important thing to be able to do.
+And this enables people to do it. So.
+You might be thinking we've gone from blue excitation wavelengths to red and infrared.
+What's happened to the spatial resolution? So I've kind of told you that the spatial resolution is really important to see small things.
+And we've looked at the very diffraction limit.
+And we've said that the smallest separation between two objects is given by that formula.
+So all of a sudden we decided to go from, um, say blue light to 400 nanometers.
+We excited the two photon excitation. We've got to double that excitation wavelength and three photons we call double again.
+So initially this looks quite bad.
+Yeah. So it looks like we've sacrificed spatial resolution to see deeper into the tissue.
+So if we looked at a particular fluorescent doorway.
+So there's a fluorescent dye called Alexa absorbs blue light.
+And if you put some numbers. So just numerical aperture into that equation.
+The smallest spatial resolution you get for 100 nanometers is around 200 nanometers, which is pretty good.
+Um, obviously we double the excitation wavelength. Our diffraction limit is now 400 nanometers.
+And then at three photon excitation.
+We're now at 800 nanometers. Yeah. So initially this looks a bit worrying because we can't beat the diffraction limit.
+We've doubled or tripled the excitation wavelengths.
+So what do we do about spatial resolution?
+Can anyone see how we claw back some of the spatial resolution?
+So the really cool thing about nonlinear imaging is that we can beat the diffraction limits of light.
+So if we think about this hourglass that we get as we focus our light through a microscope objective,
+we've already discussed that because our signal scales nonlinearly with the square of a third power of three photon excitation with the intensity,
+we only get the signal generated at this tiny spot right at the focus of the microscope objective.
+So we've I've already kind of given you a warning that we we're going to model the kind of airy disc,
+the central glow with a Gaussian and Gaussians are much easier to work with.
+They're not a bad approximation to the shape of the M central limit theory disk, but they're much easier to work with.
+And yesterday we learned, or we reminded ourselves how to calculate the full width half maximum of a Gaussian.
+Yeah. So we this is our Gaussian function of intensity.
+So we we placed in it the maximum intensity is two and the intensity is one.
+And then we convert that to four with half maximum. And we arrived at this relationship between the standard deviation and the of maximum.
+Yeah. So the full width half maximum as our Gaussian spot is what we're going to define as the spatial resolution of a microscope.
+Yeah. So for blue light for linear excitation.
+That the diffraction limit is given by the width of that support.
+So the full width half maximum of a Gaussian beam is not.
+Yeah. The really interesting thing is if we then go to two photon excitation.
+So we now get to double the wavelength. The size of this spot gets squeezed in.
+Yeah. So we've squared the intensity. We've squared the Gaussian because because our signal scales with intensity squared.
+So it's pinched in that Gaussian function. And you're all familiar with.
+I think in quantum mechanics last year when you were sketching like sine waves and then the square of your wave function and it was a sine squared.
+So your sine wave kind of gets pitched in a different way. This is exactly the same thing.
+If you take Gaussian and square it they get kind of squeezed in.
+So I kind of refer to this as the kind of nonlinear squeeze effect.
+So if you take your Gaussian function you square it. So this is our Gaussian squared.
+And then to look at the relationship between the standard deviation of the two photon width compared to the single photon width.
+If you take that factor of two and put it inside the brackets here and then and then reorganize it, so you've got it in front of your sigma,
+you can see that you get a factor of one over root, two between the spatial resolution at the single photon excitation and your two photon excitation.
+And you'll see that. So this means that for two photon fluorescence,
+instead of your two photon fluorescence being twice the spatial resolution of twice the size of the spot,
+you claw back a factor not of a half that would be that would give you the exact same resolution,
+but you get a factor of one over root two that you've recovered through that nonlinear excitation.
+And then if we apply the same principle to a third order process of the three photon excitation,
+this time you put the three inside the bracket and you get factor one over root three.
+Yep. Did everyone follow the. So as an example we've got.
+So we've got a typical kind of practice question.
+So a tissue is labeled with a fluorescent dye to provide contrast to the nuclei.
+And it has an expectation wavelength 400 nanometers in the blue.
+So the question is use the Gaussian approximation theory just to compare the
+theoretical spatial resolutions of single two and three photon microscopy.
+So we use our normal equation 1.6 lambda with an A.
+So for the single photon. C d1 d.
+1.61 times 400 nanometres, divided by the RNA 244 nanometres.
+You can say the two photon. This time exactly the same.
+£0.02. Nanometers is one, and that will give us eight.
+Eight nanometers. Then we have to remember we've got this factor of one over root two.
+The actual spatial resolution we get is 3040.9m.
+And then if we look at the three photon.
+So you can see the resolution that we achieve at two photon and three photon excitation isn't as good as the 244 nanometer resolution,
+which is the theoretical spatial resolution that you could achieve in confocal microscopy.
+But it's not twice as bad. Yeah. And the reason that that kind of is actually better than it sounds is because this,
+this theoretical figure that you could achieve with linear excitation and confocal detection,
+you can only achieve under optimal conditions where you've got absolutely no scattering,
+a completely 2D sample like a monolayer of cells, and it's not in tissue at all.
+So if you were to take a single photon excitation and try to achieve this in more than a few tens of microns of depth into the tissue,
+the signal would just disappear. And in practice, what biologists have to do to see anywhere beyond, say,
+100 microns or even 50 microns into biological tissues is they have to open up the pinhole in order to collect more of the scattered photons,
+which reduces the spatial resolution that you get.
+So you could achieve either of these rays.
+So this this with two photon excitation you probably go to half a millimeter and achieve that resolution.
+You can achieve that resolution confocal detection.
+And then this kind of half micron resolution that you can achieve with the three photon.
+This you could do about a millimeter. So in practice this number isn't achievable in scattering material.
+And I guess in terms of how you would apply,
+if you want to image something that's completely flat and a nice perfect slice, you wouldn't use two photon excitation.
+You would go for your confocal microscope as soon as you got any scattering.
+You can't achieve this any meaningful depth. So you have to go to these nonlinear processes Z1C.
+What the. Yeah. So let's look at some more exotic types of contrast that we can get.
+So does everyone remember face matching from a couple of lectures ago?
+Yeah. So you've seen this picture where we're taking what optical process.
+And we showing in this one what's what's it called. Taking two photons with k1 and k2 and adding note to K3.
+What was that one called? Second order process.
+Some frequency generation. Yeah. So some I adding up.
+We've also got different frequency generation. This is some frequency generation.
+So some frequency generation.
+Requires phase matching where we've looked at this process here which is fluorescence x diagram.
+Is this by the way to Blonsky diagram. So we have.
+Now we need to think about the difference between this fluorescence process and this wave mixing process.
+So in the sum frequency generation momentum matching and phase matching between
+the input and output fields is critical whereas it is in the fluorescence process.
+And what's the difference here between these two processes.
+Ignoring what's in the red box. What what happens in fluorescence.
+That doesn't happen in some frequency generation.
+So in some frequency generation, if I were to draw the Blonsky diagram for some frequency.
+What would it look like? Would I have any wiggly lines?
+So the Jablonski diagram would just have omega one and omega two going up to a fixed point, and then omega three coming straight back down.
+Yeah. What are these wiggly lines. What do they refer to?
+Non optical processes. So these are vibrational transitions or relaxations.
+So what's happening in a vibrational transition.
+Is that? Where's the energy going?
+So we were kind of we went to up here and then we kind of come down this wiggly line, and then we ended up at this lower energy point.
+What's happened to this energy in the wiggly line? It wasn't an optical transition.
+There's no photon that's connected. Where's the energy gone? It's gone into the material as heat.
+So we have excited molecular vibrations. And this works at a time scale.
+Does this happen on vibration polarizations. Picosecond time scales.
+Yeah. So this is an instantaneous effect.
+So we excite up to this level. It sits there for short amount of time few picoseconds.
+Then it relaxes down. And in the time that it's taken for that vibrational transition to happen we've lost the coherence of our signal.
+Yeah. So at some frequency generation we the two photons mix together and then instantly a coherent photon was emitted.
+And this is why we have to have the phase matching because the blue line has to be coherent.
+So the red line for the red lines for them not to cancel each other out.
+Whereas in the parametric process we because we've got some kind of time delay, the photons go in, they get absorbed,
+and then the system sits there, decides to relax, and then eventually emits a shorter wavelength photon.
+There's no phase relation between the fluorescence and the excitation emission and the work.
+The take the terms for this is parametric for the wave mixing in that it's like some frequency.
+So for a parametric process the light interacts.
+So the quantum the quantum state is unchanged in the material.
+There's no energy transfer and no energy or momentum between the optical fields in the material.
+And this is why we have to have this phase matching effect. Because if we don't phase match, the signals cancel out.
+Whereas in the parametric non parametric process there is an interaction.
+The quantum mechanical state has changed.
+We've deposited energy into the material and there's no phase relationship between the input and the output signal.
+So this is where it starts to get quite interesting.
+So.
+When we looked at phase matching for some frequency generation as our example, I made it quite clear that we were only dealing with collinear beams.
+So we're sending in the omega one and the omega two nicely parallel together.
+And we're looking at omega three some frequency coming out in the same direction parallel with those two beams.
+Yeah. But when we're doing microscopy we're focusing the light down to a tiny spot so that we can see small stuff.
+Yeah. And this has a couple of advantages and also a complication as we're going to see we use that complication to our advantage.
+So focusing the light beam first of all relaxes the phase matching criteria.
+So when you've got K1, K2 and K3 all coming in at different angles in quite a tight focus, you've got a range of k vectors for each of the beams.
+So that enables you to overcome some of the phase matching,
+just by the fact that the case will go a bit different and we can come out at different angles.
+And that enables us to phase match to kind of the angular effect of the beams matching mixing together.
+So we have this range of wave vectors so we can cope with delta k being non-zero much better.
+Before it gets complicated. And also quite interesting is this effect called the gooey phase shift.
+And I kind of hinted about this at the end of the phase matching section in the what happens when
+you focus a light beam through a tight focus and you get this phase mismatch along the Z direction.
+And if you kind of think about how a lens works with this curved surface,
+the focusing itself is created through the phase mismatch across the wavefront.
+So the light from outside of this focal spot cancels out destructively and then mean the stuff in the middle.
+You get constructive interference.
+So the consequence of this is that along the Z direction, you get a Pi phase shift when you go from one side to the other side of the focal spot.
+Yeah. And this is called the gooey phase shift because it was discovered by a French mathematician called Luigi.
+So you get this negative phase shift from one side of the focus to the other.
+And this has some quite interesting implications on doing nonlinear using parametric processes in a microscope.
+Because if you you know. So if you remember back to the kind of output of our phase matching derivation that we did,
+we kind of we went through all these derivations and we showed that if we
+looked at the phase mismatch and how it builds up across interaction length L,
+you get this sinc squared function that shows how the signal scales as a function of delta k l.
+And the important point was that when you get to this point here where the interaction length multiplied by the phase mismatch delta k,
+when that reaches high, your signal disappears.
+And this has implications in optical microscopy because this delta, this uh,
+l the interaction length is the length of our focal spot in the, in the z direction on the axial direction.
+So if we think about the focal spot being our interaction length.
+We need to consider phase mismatch or the phase matching within that that interaction length.
+So looking at the result from this plot here,
+we only get a non-linear signal created when our focal spot in the Z direction is smaller than pi over delta k.
+Yes. So L is the interaction length, but that's the z size of our focus spot.
+So that has implications when we try to do microscopy.
+So if we think about second harmonic generation.
+So second order optical process sending to lots of omega one and omega two out.
+We focus the light down into a small spot that gives us an interaction length L.
+And if we were to write out the face matching equation for this process and factor in that,
+we get the gooey phase shift across the focal volume of a lens,
+and we have to put factor of two in, because each one of these, um, photons k one and k two.
+Each give us a Pi phase shift. So the gooey phase shift is equal to pi.
+And that's lambda one times the times k1.
+So we put that into our phase matching equation. Delta k is the difference between the refractive index effect of omega one and omega two.
+We substitute in the value for the Curie phase shift,
+and we find out in order for our signal not to cancel out, the interaction length has to be smaller than.
+Omega one divided land one divided by two.
+So if we're doing, um, second harmonic generation, let's say very exciting.
+The sample with 800 nanometres.
+And we're connecting the light coming out to omega two, which we call 100 nanometers, with the nonlinear squeeze effect that we talked about.
+You can achieve L being approximately the size of lambda over two, maybe slightly smaller.
+And because we're only dealing with a factor of two between omega one and omega two, delta K itself is small ish.
+Yeah. So that means we can do second harmonic generation in a microscope.
+And we don't get this destructive interference of the signal across the focal volume.
+And in biological imaging this is used to image a couple of different types of unique power molecules.
+So if you remember back to when we looked at the susceptibility for second order processes, they had to be non center symmetric structures.
+And it turns out that's quite rare in kind of naturally occurring materials.
+But luckily there are a couple of different biomolecules that do have this lack of center symmetry.
+One of them being collagen seven come across collagen for.
+What do you know about college in. You get it in like shampoos that people have advertised collagen shampoos.
+But that's just a waste of time because it doesn't have to do it. It can all go into your head.
+Every tissue you get cleansing creams in your skin can't take up collagen.
+It's all just a bit of a marketing exercise. But the reason people like collagen, I want to keep hold of that kind of challenge is this kind of a,
+um, protein molecule that gets laid down at a very early age,
+and it's the kind of the non stretchy polymers that you get within the skin that stop you getting wrinkly.
+And that's why people like to advertise collagen in face creams.
+Because they think that applying college into your skin is going to make me less wrinkly.
+But I don't think it does. Um, but collagen is very important.
+You get it in cartilage, like on the articular surfaces of your knees.
+So when people get older and they get arthritis and so knees and joints, it's because the colleges break you down.
+Um, you get colleges all over the place. And it's the kind of one of the major kind of building blocks of the extracellular matrix.
+And the great thing about second harmonic generation is that you get optical contrast of for free with second harmonic generation.
+The other one, which is kind of happens in abundance and also happens to be the non-central symmetric polymer, is missing.
+You heard of myosin. Where does my son get produced?
+Yeah. Muscle fibers. So myosin gets slowed down in muscle fibers.
+So you get this nice all loaded distribution of myosin fibers in muscles.
+And you can use this to um image kind of muscle fiber structure to study things like muscular dystrophy in animal models and things.
+So second harmonic generation is a grade three optical contrast that works in a tight
+microscope volume because we can just about overcome the phase matching condition.
+Where it gets a bit more interesting is when we start to look at third order optical processes.
+So third harmonic generation, similar process to second harmonic generation.
+Um, and in theory, most things should give you a third harmonic signal because most things are essentially symmetric.
+Yeah. So the second order process was limited to non center symmetric things.
+And we get this unique contrast from college in my cell a lot of things should give us a third harmonic signal.
+But there's a bit of a complication here because now our omega this should be arrhythmic a two is three times omega one.
+Delta K is now kind of not in significance.
+It's much larger.
+And also we have to factor in three times the gooey phase shift because we've got three excitation photons going through the tight phase,
+but, um, tight focus. And this now means that our interaction length L has to be smaller than a third of the excitation wavelength.
+And this isn't so easy. And it turns out you can't achieve the phase matching across the microscope objective.
+And what you end up seeing.
+In contrast, the contrast that you get from the from the microscope, you only it gives you something that's very sensitive to interfaces.
+So everything inside the microscope focus volume should be able to produce a third harmonic signal.
+But it turns out only things that are very thin give you a signal.
+So thin particles or interfaces between different materials and you get this kind of.
+It's very similar to phase contrast microscopy. But you can do it in 3D.
+And because of this part of the QE phase shift, limiting the interaction length to lambda over three CMC,
+contrast from interfaces between materials and objects within your sample that are thinner than the wavelength over three.
+And then as a kind of teaser for the next lecture, where we start to look at the really cool stuff is, if you remember,
+I highlighted one combination, the third order processes, and said, this is the one we're going to look at in detail.
+So there's one called forward mixing where instead of looking at three lots of omega one adding up to omega two here, one of our omega ones.
+Well adding wavelengths has the opposite frequency sign.
+So it's the complex conjugate that we're looking at. So we're taking two lots of omega one minus omega two gives us our generated signal.
+And by doing this, the reason we're interested in detecting the emission omega three.
+And by the way, we also emit we're also producing loads of different wavelengths coming out.
+It's just where we choose to detect omega three. But if we do it this way, it has the advantage that the phase shift portion cancels out.
+So we're looking at the complex conjugate. So the k vectors have the opposite sign and the phase shift cancels out.
+The same thing happens in the phase mismatching delta k.
+So these two cancel out. So all of a sudden we don't have such a problem with phase matching in a tight focus.
+And we can we can look at samples using this always mixing.
+So you can draw it in this way where it's two lots of omega one minus omega two giving us our full wave mixing signal.
+But you can also draw it in this way. Yeah. What does this diagram look like?
+Where have you seen a diagram? A bit like this before. If we can't ignore that bit.
+Where have you seen something that looks like that? Quite early on.
+Remember Roman scattering? Yeah. So if you ignore what happens here, this is identical to the transitions that we drew from Roman scattering.
+So in the next lecture. We're going to look at the really cool stuff where we kind of look at something called coherent.
+Problem and scattering. So where we can do Roman scattering using nonlinear excitation through this
+combination of four wave mixing where this first bit gives us Roman scattering.
+Okay. So. It's very exciting on Monday.
+We have some cool stuff. Any questions?
+Okay. See you all on Monday. Yes.
+Thank you so. Much. For.
+Coming. To be honest. I'm not sure.
+It's. Either that or I just, uh, I think.
+I was just, like, sleeping on the floor.
+I think I. Actually thought.
+It was some. Kind of question.
+It was stupid on the. Way.

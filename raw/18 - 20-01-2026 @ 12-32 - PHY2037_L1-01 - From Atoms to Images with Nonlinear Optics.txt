@@ -1,0 +1,482 @@
+That's been cruelty day to day outside. So quite a.
+Bit of. Violence during the weekend under the Army training in Salisbury.
+Oh, yeah. Yeah. I.
+Yeah. True.
+Yes. That's true. Is that correct?
+Yeah. Okay. So. You get a picture?
+I guess so. Yeah, I guess you don't going to be able to afford it just because the completion of.
+Something but didn't because it's overlap, right?
+Oh, yeah. Uh, Scott.
+Yeah. Scott. Oh, yeah. Yeah.
+Yeah. So.
+I just realized I missed this tutorial. Yeah. Did you like it?
+Yeah. It's just for sports today. Oh, I put invoice out first and then move them.
+So maybe you could get the objects. I think that's what I said. Oh, I'm not expecting.
+I think this is from today's tutorial. So that's pretty much it's meant to be.
+Well, I got this today. I think that's why there was just.
+No. I don't see that. Okay. Everyone else.
+Um. So just. Maybe double check.
+So there we go. You. Know what I mean?
+Yeah. So. Pretty much. Yeah.
+I mean, that's one. Yeah, I, I forgot I was that.
+Whoops. Well, that's because it's the tensor and the 20. Two.
+Oh, damn. You messed up. But that. Doesn't look right.
+More American soldiers in training. That's not good.
+Never is good. That's very good. Hi, guys. How's it going?
+Same because I got another demo for you today, so don't get too excited.
+This isn't five liters of gin and tonic. Uh, okay, so yesterday we said optical imaging part one, and we were looking at where contrast comes from,
+how we can use the intrinsic properties of the molecules of the material to generate contrast.
+I'm really the take home message was if you want to work in the optical region,
+not many molecules that you want to look at a pigmented, they're not necessarily pigmented.
+And the conventional way to get chemical contrast is to apply stains or dyes.
+And the chemical specificity is relying on the chemistry and the quality rather than the physics of the light interaction.
+What we've interested in is using physics to try and access the chemistry, and that's where it gets quite interesting in this office here.
+Alright, so so today we're looking at the spatial properties of imaging, how deep we can go and ideally how we can form imaging.
+And. So we're going to revisit the idea of spatial resolution.
+You covered spatial resolution last year when you did Waves and Optics.
+Maybe you did it in the the one which is when the first in the astrophysics space, when you look at telescopes and angular resolution,
+which was that one called astrophysics, you covered it in astrophysics module, and you've also covered the stuff that you need in A-levels as well.
+We get to find something called the point spread function.
+Um, and then we're going to look at how we achieve 3D imaging inside 3D materials using something called confocal detection.
+And then we're going to look at how the big problem scattering is and start thinking about how that affects our ability to see inside objects.
+So I kind of mentioned yesterday that everything that we're going to do with no video optics can really only be generally applied in a microscope,
+because you get this really tight focus of light within a microscope, which enables you to achieve the high light intensities.
+So we're going to be looking at small stuff. We're going to be looking at microscopes inside of focus.
+And today we're going to start looking at spatial resolution,
+which is really defining the smallest features that we can resolve within our microscope system,
+and then start to look at how we can do microscopy in 3D objects.
+Because as we talked about yesterday, he holds up a kind of standard A-level GCSE experiment with a kind of piece of onion skin.
+And it's very thin and you just shine the light through it. You get a nice crisp picture.
+Okay. We're going to look at what happens when you don't have something that's nice.
+So you should all be familiar with this term called numerical aperture if you'll come across this before.
+Put your hand up if this is new to you. Oh, okay.
+You must have. It should have been your A-level syllabus. Can you.
+Does it not ring a bell? You've got a numerical average of five years before kind of people.
+And so people are still thinking about this now. Completely. Anyway, we'll go back over again.
+So numerical aperture is defined by this equation here.
+And it's determined by the refractive index of the medium in which the light is propagating and the angular aperture of your imaging system.
+So in terms of a microscope we defined the image in any imaging system.
+But in terms of this this microscope objective, the numerical aperture is given by the the refractive index multiplied by the sine of this angle.
+Yeah. So for a given. So you've got the diameter of the lens and the distance from the sample.
+How can you make numerically much bigger. What things what levers can you pull to get high numerical aperture.
+Just looking at this picture, how can I make a bigger increase here?
+Yeah. So it's proportional to the sine of that angle house up.
+So if you want to stop working you can make alpha bigger.
+And there are two ways you can do that. You can bring the make the lens closer to the sample so you have a shorter focal length.
+Or you could have a larger diameter. That's the both of those things are going to make alpha bigger.
+But there's a limit to the kind of angle that you can get the limit to pretty much touching the sample.
+So the other lever that you can pull is to change the refractive index.
+So if it's in air we've got refractive index of one.
+But most most microscope objectives don't work.
+Uh if we want really high numerical apertures that would be designed to be used with water or with oil.
+So you put a drop of emulsion oil between the sample on top of your microscope slide and underneath the microscope objective.
+And that replaces the air with this droplet of oil.
+So it also has an index about 1.2.
+And oils have an index of maybe 1.3 ish or maybe 1.4, depending on that's in the new silicone oil.
+Refractive index. So when you pick up the ball like a microscope objective, it has the magnification on it.
+It has numerical aperture and it tells you whether it works in all.
+So that tells you what you need to know. So there are three mathematical concepts.
+None of these are new. You've covered them before that we're going to look at that.
+Really tell us how we use this to work out the smallest features that we can see inside our image.
+So the first one is something called the air disk.
+If you remember this from last year. Yeah.
+You did this in the astrophysics. So the area disk so you can go back and revise it.
+But it's everything you need to know is on this slide.
+So it tells us about the optimal optimal focus point of light which can be determined by circling the aperture.
+And you get a bright spot of light in the center with these wings, which are a diffraction pattern kind of in out towards the edges.
+You've seen this before. Yeah. You've made it with kind of passing light.
+You sense which apertures you get this diffraction pattern, and 94% of the light is contained within the big bright spot in the middle.
+And then the rest of it kind of dies off as you go out into these higher orders of diffraction.
+So you get this oscillating pattern. So we're not really too bothered about the the waves because they don't contain much intensity.
+So in the area disk we're interested in the diameter or radius of this central spot.
+You focus the light too in the center of your of your diffraction pattern.
+And that's governed by well, the radius half of the diameter of this ball is 1.22 lambda over d.
+And you can derive that this 1.22 comes from some quite complicated works that they did on Bessel functions.
+But we're not going to look into that. We're just going to take it for granted. It's a constant of 1.22 lambda of D.
+So if you want to make. The spot smaller in order to resolve smaller things, or to focus the light down to a smaller spot.
+What do you need to do? What do you need to keep? Looking at that equation.
+So 1.22 is a constant or the other two things. Wavelength.
+Yeah. So is proposed the diameter is proportional to wavelength.
+So you could use a shorter wavelengths make lambda smaller. And that makes the spot that you focus the light down to smaller.
+And d remember is the diameter of your lens. So if we make the diameter bigger is proportional to one over D.
+So the scope gets smaller. Yep. So bigger numerical aperture bigger diameter lens or smaller wavelength.
+And we can also define this thing in 3D.
+So you can you can plot this this this this this this airy discount in 3D in the Z direction as well.
+And in 3D this is known as the point spread function. It's telling us the intensity of light when it's focused down to the spot in our system.
+So that was the first kind of work that was done in 1835.
+And then in 1873, this German guy called up a staff to work in microscopes, probably independently.
+And his theory was to look at what the smallest spot you can achieve in different optical systems.
+And he defined this lateral diameter of the central spot practically was half lambda times that needed.
+So that was the next step to come along. And then in the axial direction.
+So in the z direction down along the plane of the axis of the imaging system, it's two lambda divided by the x squared.
+So the final bit and this is you would have done this in astrophysics.
+Yeah. So when you looked at the ray criterion so it by the end of the 1800s kind of break for the whole lot together and then said,
+well, actually if we want to find the limit at which you can resolve two objects and they still appear as two separate objects.
+So previously I had just come to a smaller spot.
+You could image or focus light down two and then really kind of refined Atlas Blessing came up with this kind of diffraction limited ray criterion,
+but said, actually, if you've got two objects, we want to tell the difference for these two objects.
+They only appear in our image on the eyepiece of the microscope as two separate objects.
+If the diffraction pattern that we get,
+if the maximum of the diffraction pattern separated by D is such that the minimum
+of the spot on the left coincides with the maximum of the spots on the right.
+If they get any closer than that, they just look like one big blob.
+So this is really just the limit at which we say that we can resolve them.
+So if D is greater than that distance from the central maximum versus minimum, they're result right on the limit.
+That's where you can resolve them. And if D is any smaller than that diffraction limit it's just one big blob and you can't tell the difference.
+You remember this. So you covered this in astrophysics. Yeah. Perfect.
+So you then in your astrophysics module you applied the very criterion and you did it as a function of angle.
+Yeah. So when you're working kind of with astronomical samples so you're looking at the sky,
+you don't you can't really work with numerical aperture and a focal distance because you don't really have the things a long, long way away.
+You don't know exactly how far away it is, what you can define very well.
+It's the angle that one object is from another.
+So we don't know how far apart they are, and we don't know how far away they are.
+But we do know the angle that they subtended the sky when we look at them through a telescope.
+So the very criterion when you first visit it again, you've got this, kind of this, this diffraction pattern.
+You've got this, this, this, this equation here that tells us the distance from the set to maximum minimum.
+And we're told that the minimum angle that we can resolve is given by 1.22 lambda over t.
+You remember this? Yeah. So that's kind of a start here. Is there any questions there?
+Uh, yes. We'll see that in a second. So D is the diameter of your telescope.
+If you're doing an angle looking at the sky and less than the distance between the two objects,
+if you're looking at the stars in the night sky, you don't really know how far.
+To objects of his own, how far away they are. But you do know the answer to that.
+But that doesn't really.
+It's not very useful when we're dealing in a microscope, because we want to deal with distance, and we want to deal with numerical aperture.
+So we can we can derive this equation in the red box.
+So you probably noticed that we've been putting stuff in red boxes.
+If stuff in a red box, it's something that you will be able to derive.
+So we'll derive it. Okay.
+So we're going to convert from the the diffraction limit in terms of angle to the diffraction limit in terms of distance between two objects.
+So we need to remember our numerical aperture and sine alpha.
+Um we've got object one and object two and they're separated by distance.
+Let's see. And. We've got the focal length of our lens.
+So both of those things are very well defined.
+Um, we want to find the smallest distance between the two objects in which they're still resolved as two objects.
+That's a detail. So going back to our original equation for diffraction we define this feature
+minimum the minimum angle feature here that we can resolve between the two objects.
+That's what we're used to calculating. And how can we bring right feet up.
+So theta is d over the focal length.
+But d is the smallest distance that we can resolve. And we know that that's 1.22 lambda d.
+But big D is the diameter of our lens. So this is our kind of lens system.
+So we've got the diameter D. Half of that angle is alpha.
+That's the focal length by definition. We can say that tan alpha is digging into us.
+Yeah. So big D is equal to two half term.
+Help them to just simple rearranging. So we know that d f is equal to 1.22 lambda.
+Now we can substitute in d. To 10,000 from the FS cancel activity to no safety.
+I'm in the distance is 1.61 and five five and.
+10,000. And then the kind of assumption that we make is that time.
+Alpha is approximately the same as sine alpha.
+This new angle which means. Approximately 1.61 lambda and sine alpha, which is the same as 2.61 lambda.
+Yeah. So we just did write the equation on the screen to convince ourselves that we can convert that angle by numerical aperture.
+So for microscope lens, you're not going to sit there with some calipers measuring the diameter of the lens or the focal length.
+You buy a microscope objective with a given numerical aperture.
+If you know the numerical aperture of the light, you can work out a subject that you can resolve.
+So pretty straightforward stuff. Okay, so.
+So I've convinced you all that this equation is just the conversion of the angular diffraction diffraction limit that you calculated last year.
+And we've really kind of framed it in terms of numerical aperture. So again you've got control over the wavelength.
+So smaller wavelength enables you to see smaller features within your sample.
+And a bigger numerical aperture enables you again to see smaller things big.
+And a small wavelength gives you a better spatial resolution.
+So another point to mention is I kind of highlighted just how useful the Gaussian functions are going to be in this topic.
+So there exists a mathematical function for this airy disc feature is a really horrible equation.
+It's this kind of passing function. It's not very easy to work with, and we're only interested in the central part of the disc anyway.
+So generally people just approximate that horrible Bessel function for a Gaussian.
+And that's exactly what we're going to do. If you fit a Gaussian to the central part, it's a pretty good approximation.
+And we're not interested in this anyway. So later on we're going to be working with modeling or using this,
+this function as an approximation, just because it's a lot easier to work with this thing.
+Yeah. Anyone going to work with that going. So if we go up with Gaussian approximation.
+So let's see what happens when we apply this in practice.
+So we looked at fluorescence yesterday and didn't use diagrams.
+This was the name of this diagram. Begins with J please.
+Kindness. To Blonsky.
+Yeah. So what do the solid straight arrows correspond to in this diagram.
+So solid arrows. What do they correspond to. So these are the optical transitions.
+So we're starting from the ground state. We come in with a blue photon.
+And we excite the electron up into the first excited state but has more energy than the first electronic excited state.
+And that tiny little bit of extra energy goes into vibrational energy levels.
+And then the wiggly arrow is known optical transitions.
+So this is vibrational energy transfer.
+So essentially the excitation is getting lost into heat thermal excitation into the sample.
+And then at some point it actually decides it's had enough bring up that it drops down and it emits another photon.
+And that photon has shorter legs.
+It's low energy. It has a long wavelength.
+So excited emits blue light and emits green light.
+And the difference in energy between the blue and green photon has gone into vibrational relaxation in that molecule.
+Yeah. You remember this yesterday. And this is great because we can take we can take a big light bulb, one light source.
+We can put filter in front of the excitation filter, which only passes the blue light through.
+We shine that onto the sample with our microscope objective.
+All the light comes back. Some of the a lot of the blue light is reflected, along with a small amount of the fluorescent emission.
+And we've tagged the thing that we're interested in the molecule with these, with these molecules that get excited by blue and green.
+And then it goes onto this mirror here. And this is a special type of mirror for the dichroic or light dying colored mirror.
+It transmits the blue light that reflects only the green light.
+We then have a filter that only passes green light in front of the eyepiece.
+We look down the microscope, and then you can see these lovely patterns where the thing that you were looking
+for in your particular sample has been labeled with the green fluorescent dye.
+And it was the biochemistry of the tags that gave us that chemical specificity, not just like that interaction.
+So that works really well if you've got a thin sample.
+So if you've got a very nice thin sample of biological cells, say,
+one piece of onion skin or very thin slice of tissue, and you place that on the focus of your mind,
+of your microscope, you get this lovely in-focus picture, but like a stained glass window and everything looks great down the eyepiece.
+The problem is, if you take something that's a bit thicker and this is like a big slab of freshly labeled mouse kidney,
+if you look at something a bit thicker, it looks blurred.
+So the the image plate is the black line and everything out of place, whether it was above that,
+the focal plane of interest or below it comes back and it reaches the eyepiece,
+but it's out of focus because it's not at the right focal length under the microscope objective.
+So it's not very good at looking at thick objects because the stuff doesn't follow blurs out the signal.
+And there's a really clever workaround that you can do to overcome this, which is called a confocal detection.
+And this diagram explains the controversial principle.
+So in the confocal principle you can do it with a a light bulb and a filter.
+But you wouldn't get enough light intensity. So people tend to do it with lasers because you get very strong directional light sources.
+You focus the laser beam of a laser excitation through a pinhole, a very small diameter aperture,
+a couple of microns in diameter, in diameter, and you shine the light through that pinhole.
+Everything else is the same. We go through the dichroic mirror, we go into the sample,
+we excite the fluorescence from above and below and in the plane of interest that we want to image.
+But the really clever thing about the confocal detection is that you have another pinhole,
+which is at the same focal distance from the objective of the optical imaging system that the excitation pinhole,
+so that excitation and emission pinholes are confocal at a safe distance.
+And if we follow the black line, which is the light that's focused through the optical system,
+and then the light that comes back is emitted from that focus, the focal plane, only the black line makes it through the pinhole.
+Everything that was emitted from above and below the plane of interest, you can see gets blocked by a pinhole.
+So we've rejected out of plane emission from that sample.
+We can no longer look at it with a hole. It's because we don't get an image anymore and we have to do something.
+Point scanning. So you require that light intensity at every single point and then move the sample around and that 1 in 3 dimensions,
+and you record the light intensity on a computer every x, y, z coordinate.
+And then you can build up an image. So here's our mouse kidney.
+That's what it looked like when we didn't have the pinhole in place.
+And we were just looking at it with our eyes on the camera.
+If we then do the point scanning method, you can see we now get this lovely, crisp virtual section of a mouse kidney.
+So we haven't sliced it, but we've removed all of the fluorescence which was emitted from above and below that really thin optical section.
+Yep. You'll see how that works. This is pretty cool isn't it?
+Yeah. So you can recreate an optical section within a big slab of biological tissue.
+And it looks exactly the same as if you sliced it into a thin piece of tissue, the thickness of a big onion skin.
+But we haven't done that. We've used this thing called virtual optical sectioning based on the confocal principles.
+So scanning a sample round in three dimensions is quite slow.
+You've got like a big mass of the tissue has mass associated with it.
+So there's a limit to how fast you can do that without the whole thing jiggling around.
+And all the time you put tissues in bits of the gel.
+You can see if you were to move it around very quickly, you can just fine the movement.
+So instead of moving the sample, we move the laser beam.
+So we place a galvanometer, something called a galvanometer scanner just before the objective.
+And a Galvao scanner. It's just a pair of mirrors, one which oscillates in the Y direction and one which oscillates in the Z direction.
+And by doing that, we're just creating this raster scan pattern of the laser beam across the sample sample.
+Sit still and the laser beam moves backwards and forwards across the sample.
+The computer that acquires the intensity at the detector is the same computer that's controlling the.
+Mission of the x, y mirrors. So the computer knows exactly what coordinate the laser beam is at any one time, because it knows where the mirrors are,
+and then it can build up the image very quickly based on recording the light intensity as it scans backwards and forwards.
+And you can do this video, right. You can do a really, really quick image acquisition.
+You can move the sample up and down. So every time you dump one x, y raster scan, you move the sample down, take another one.
+And by doing that you can build up 3D images of cells and tissue, materials, all sorts of things.
+By scanning this laser spot in 3D around your sample,
+and you can multiple fluorescent ties in the sample and have multiple detectors with different felts in front of them.
+So you can have it's different chemical species and you can map them out in 3D.
+And this is the kind of state of the art in biological microscopy.
+So you can see one of these on the left and towards the end of the lecture course.
+And you can see it working. We can do 3D scanning. Um, and it all works quite well, but it does have limitations.
+So it requires fluorescent labels, which is one problem.
+So we talked about what were the issues with labeling samples.
+Yeah the Renaissance glasses high have changed the.
+Yeah.
+So the fluorescent dyes quite often the same size or bigger than the thing you want to image if you want to image proteins, fluorescent dyes a toy.
+So I put in that time tag will want you to tackle the elephant.
+If you wanted to image the fatty acid of a drug molecule, for example, is the equivalent of trans fats on the DNA.
+So we can change our behavior. And the other thing which we did, I just mentioned yesterday, is in a lot of cases,
+the molecule that you want to image, it's in a tissue where the the tissue itself doesn't allow water to be soluble.
+It's not kind of water soluble. It could be a kind of hydrophobic environment where it's very difficult to actually apply
+solution of dye and to get it to interact with the molecule you want to interact with.
+So staining it can actually be very problematic.
+And so a lot of the pictures that I showed you for the for the cancer diagnosis, but then you could talk to the person they have to make a slice.
+They have to then remove all of the kind of lipid, some natural fatty acids from the tissue,
+so that you can apply the water based dyes to it and then you replace it.
+So by the time you look at it, you can change the charge mutation.
+But the thing we're going to look at today is it's got very poor depth penetration.
+And this is because of scattering. So I kind of mentioned yesterday that, you know, if if you're looking into kind of biological tissues,
+you may think that absorption is going to prevent you from seeing inside beneath your skin, but it's actually scattering.
+Yeah. So my skin I've not got time this time of year.
+My skin's going power has white, no pigment in my skin, and it's reflecting all of the wavelength of light equally.
+Scattering is the kind of predominant penetration.
+So if we were to try to do confocal microscopy in a piece of tissue,
+we've got this diagram here that confocal detection excitation pinhole emission pinhole was this miracle was a special name.
+Dichroic mirror, so it passes the wavelengths that we want to excite the dye with, and it reflects the emission wavelength from the pin out.
+If we follow our ray diagram down, the light which is emitted from the focal plane follows the black line and it makes it through the pinhole.
+If we have some scattering in the sample.
+So we've got a scattering sample. And most samples are scattered then made up of logical tissues.
+You can see that we're ignoring the light which is emitted out of plane.
+But the stuff we want to keep is going to go.
+The stuff that's actually emitted from where we want it to detect it from.
+If that light undergoes a scattering event, it comes out at the wrong angle and it misses the pinhole.
+So scattering removes light that we want to detect from the sample.
+Yeah. And there's nothing we can do about that other than just crank up the intensity
+of the laser to compensate for the tissue for the signal that we've lost.
+And that's kind of okay if you if your sample is quite robust and it's not made out of anything, that's going to kind of burn.
+So any type of biological tissue, if you're shining a high intensity blue light onto it, you're going to change.
+You can burn, you're going to dehydrated, you're going to change things and it's not gonna last very long.
+So this is a real problem. So let's go back to scattering.
+So we kind of looked at this phenomena of ray scattering.
+The reason the sky is blue.
+So we've got this equation that tells us that the intensity of the scattered light is proportional to one over wavelength to the power of more.
+Yeah. So because it's one over the wavelength, that means that shorter wavelengths light is going to get scattered more.
+Yeah. And because it's one over the power of the wavelength, it means that's a given change of wavelength you get much bigger change in scattering.
+Yeah. So if we were to double the wavelength of light, how would the scattering change?
+So if you increase the wavelength, this is going to go down because it's inversely proportional I will factor.
+So yeah a factor of 16. Yeah.
+So doubling the wavelength reduces the scattering a huge amount.
+So this explains why the sky is blue.
+So when when we're looking up at the sky we're seeing all the scattered photons, the blue ones which have come out.
+So likewise they're just scattered everywhere. And that's why the sky is blue when the sun's low on the horizon and we look directly towards the sun,
+it looks red because we're seeing the red photons, which were scattered less because of the blue stuff.
+And the green stuff has come outside. Yeah. So that explains why sky is blue and the sense.
+I've got hopefully this this usually works. So said it's not gin and tonic this time.
+Unfortunately, it's just water. And this is just normal milk.
+This is just semi-skimmed milk I got from a supermarket.
+Put in a positive image down to this. So what's milk made of?
+Why is it white? Okay.
+What makes milk white? There's no calcium in the milk.
+So. Well, what's milk presumably made of? So it's an emulsion of basically fat and water cycle.
+Tiny droplets of fat particles suspended in water.
+And the reason it's white is because the interface between the oil, the lipids, the fat and the water, there's a refractive index mismatch.
+And we get scattering from all these tiny particles.
+Yeah. So you can kind of think of it as kind of bit like a cloud.
+It's the same reason that the clouds are white because you've got tiny particles and they scatter the light.
+So that's, that's the reason the milk's white is not the calcium.
+So what I've got here is a torch. Just white light torch.
+Yeah. So if I shine the light. So this is just water.
+Just to convince you there's nothing special about the water. You can see the light traveling through.
+Yes. So not very much scattering. We get this nice directional beam of light coming through the the tank of water.
+Yeah. I can put a blue filter in front of it.
+Yeah. You know what happens, right? Of red filter in front of it.
+In both cases, the light travels through on scattered because it's just water constant refractive index and no scattering.
+So I'm now going to add some milk. So we can make a cloud in in our water.
+So you can see it's coming cloudy. Now this is why we kind of call it cloudy.
+And the reason it's going cloudy is because these tiny particles have water in their lipids in that which are causing the light to be scattered.
+So now if I take the torch, you can see we don't get this nice kind of pencil beam.
+So much coming through the water, through the milk. It all looks a bit murky.
+Yeah. And if I take the red filter.
+You can kind of say you can just about make out the red pencil paint.
+Yeah. And if I, if you look directly at the time, the torch from through the tank, can you see a red circle?
+Yeah. You can sort of see that the, the attenuation as you go across the beam through the time, you can see the light intensity is dropping.
+And that's because it's becoming scattered. Yeah. So now if I do this with blue light much shorter wavelengths.
+So the red light was around 633 nanometres.
+And this one, this one is 488m.
+So not huge difference. You now see the difference in the appearance of the beam.
+So from your side you still able to make out the blue. Just this scattering.
+Blurry. Yeah, you can kind of see.
+Now, if you look at the intensity of the light beam as it travels across the tank, it's sort of decaying, dropping off much quicker.
+Yeah. So that's demonstrating how ray scattering affects the ability of different wavelengths to penetrate through scattering media.
+And we've kind of observed that the difference between red and blue say 633 to 4,
+eight eight, not much more than hundred nanometers is really affected.
+Our ability to see through that, that scattering material.
+Is everyone got an iPhone or a smartphone? Yeah, with a camera.
+So turn your camera on. So this torch is an infrared torch.
+So the wavelength of this one is 850 nanometers.
+So almost double the wavelength of the blue light.
+And if you just look at that, you can you'll see the red light coming through the torch just with your eyes.
+Yeah. So you can all see that red dot. So 850 is right on the very edge of what we can perceive with our eyes.
+But now, if you hold up your smartphones and look at look at the torch through your camera.
+Can you see it? Is it that much brighter?
+Yes, it's actually quite bright. Torch. Yeah, but to my eyes it doesn't look.
+It just looks like a very dim light. So this is one of the reasons why working with near infrared light is extremely dangerous.
+Because we've got a lot of lasers around this wavelength.
+And when you look at the laser beam, it looks just like a laser pointer from the lecture theatre.
+But because your eyes can see that it's actually pretty bright when you look at it under the infrared view.
+So now hold your phones back up again and we'll see what happens when we shine through the tank of water.
+What can you see now? You don't see much scattering of the beam across.
+And if we look directly at the beam through the tank of water, can you see?
+Can you see the circle of light from the other side?
+Few people nodding. So can you guys see it?
+Yeah. So when I can't see your camera. But it should look like it's completely, um, scattered.
+You've got a nice well defined disk of light just travelling through time.
+Yeah. So it's that in terms of the infrared light, there's pretty much no scattering going on through this tank of milky water,
+because we've gone from 630 nanometers for the red light, up 200 nanometers to 850.
+We can see that by moving it to that wavelength range. We've completely, almost completely done away with the scattering altogether.
+So what does that tell you about kind of image if you want to image in this kind of scattering tissues.
+What wavelength would you like to use. So if we look at this confocal microscopy.
+Let me show you what a problem it is to get this scattering. If you could pick a wavelength what would you choose.
+Mhm. So if you want to get rid of scattering go for infrared.
+What's the problem with going to infrared. So this is our equation that tells us how scattering scales with wavelength.
+This is the equation that tells you how our ability to resolve object scales with refractive index with wavelength.
+So if we go to a long wavelength we can no longer see such small things.
+Yeah, a most even bigger problem.
+So if we were happy to kind of get rid of, kind of lose a bit of spatial resolution, so lose half of our resolving power to go deeper.
+What's the more fundamental thing that we can't get around? Thinking back to yesterday's lecture.
+Where does the contrast come from? So when we were looking at the kind of the contrast mechanisms that we looked at,
+so things like absorption and fluorescence, they dictate the wavelength that we need to use to excite those mechanisms.
+So if we want to image a fluorescent dye which gets excited with blue light,
+we can't excite, it doesn't matter how many infrared photons we throw at that time,
+it's not going to get excited because each photon doesn't have enough energy to excite an electron from the ground state to an excited state.
+Yeah, so the contrast mechanism,
+whether it's absorption or fluorescent or whether it's the reason that grass was green because it absorbs the red and blue photons,
+it doesn't matter how much infrared light we shine on that grass,
+we're not going to get that color that we were looking for because that's that moved away from the excitation, right.
+So the contrast mechanism dictates the excitation wavelength.
+But the depth penetration, if we wanted to go deep inside scattering tissues, we want to move away from the optical region and go into the infrared.
+So there's a kind of trade off between depth penetration, spatial resolution and the contrast mechanism that we want to use.
+So we need to start thinking about how we can kind of think outside the box to use
+nonlinear optics to come up with this way to excite optical transitions that occur,
+i.e. in the visible with excitation wavelengths that further into the near infrared so that we can see deeper into scattering tissue.
+So scattering is inversely proportional to wavelength to powerful and everything else is proportional to that.
+So we've got this mismatch in the properties of the excitation light and the contrast mechanism.
+So that's what we're going to start looking at later when we move into kind of nonlinear optics.
+How we're able to decouple the excitation wavelengths from the contrast mechanism.
+That gives us the chemical specificity of that imaging system.
+So kind of just to summarize, we've looked at spatial resolution and how it's determined by the great very criterion.
+And it's proportional to wavelength. We convert that into merkel aperture to 3D imaging.
+And then we discovered that scattering is a real problem.
+And scattering favors longer wavelengths excitation sources, which is about with the spatial resolution and the contrast mechanism.
+Yeah. So any questions. Did the infrared thing work well.
+Yeah. So you can't just convinces you that we'd ideally like to work with infrared light to be able to see deeper into biological tissues.
+And what's the other advantage of moving to infrared photons rather than blue photons?
+In terms of the kind of damage and biological compatibility?
+What do we know about kind of blue light and UV light?
+Yeah, you learned something. So UV is higher energy.
+Infrared is lower energy. Yep. So longer wavelength, like each photon has a low amount of energy.
+So it's less damaging. So.
+So biological systems can tolerate a lot more power in the infrared than they can in the blue or the TV, because you don't get this kind of ionizing,
+excited, exciting electrons, which is how you get these damaging effects, cancerous effects and just damage within the tissue.
+So we're going to be looking later about how effectively nonlinear optics allows us to
+excite optical transitions with high resolution using near-infrared excitation wavelengths.
+That's a kind of spoiler, but that's essentially what the trick that we're going to do so we can get the best of both worlds.
+So we can get deep into scattering tissues and still excite things that occur in the physical.
+Right. Okay. So any questions. So I'll see you all on Monday.
+Um five minutes. Okay.
+So see you later. And I'll upload the PDF derivation and early results.
+Oh, yeah. Yeah, sure.
+So. I think.
+This is. Like.
+You know, like. Oh.
+My God, this is no such thing.
+I know what I'm talking about. Oh, yeah.
+Yeah, yeah. Okay, so I. Don't know.
+So you don't have problems? I think sometimes you have to.
+Yeah. So, so called physics module.
+So they also have the problems courses. But there are practice problems available on any.
+And there's also always. Okay.
+So when you get into ellipses this is all explained in the first lecture.
+But it's it's divided boxes or it's boxes.
+We have this topic box. And then there's a quiz interview topic.
+And the lecture notes are stored in each box.
+And then I can think I a visualization or scan that to the box as well.
+So you've got the written derivations. Um this is important because you.
+So I can see how well you focus.
+Um, it's 70% exam in May and the other 50% is a group exercise where you work in groups to make sign to the science education video.
+Um, and now I haven't told anyone about this assignment yet, so that happens after the midterms, so.
+Uh, no. Okay, so so the physics students have midterms.
+Not for this module. For the cohort. You don't put me lectures in that week because nobody turns up.
+Because the midterms on Tuesday. So people wouldn't.
+So just exhausted people wake up in the middle. Yeah. And then after that week I'll then introduce the group exercise.
+But essentially what works for. And you make a video explaining one of the topics that we covered in the natural course.
+And you pick from a list, uh, you get to film in research labs derivation.
+And it's very fun. That seems to be a good way to learn how to do these kind of things.
+Okay. Thanks. Um, is up. Um, um, there's a whole group, so I hope you get the same.
+Okay. Yeah. I mean, generally those groups of people really enjoy.
+And the motivated. Yeah. So it kind of means you go into the exam.
+No. So. Yeah. That's true.
+Yeah. Yeah, yeah. Okay. Everything ready and then just send you the pictures.
+But this is not necessary. Thank you. I didn't know you said that.
+Was it okay. Got it. Yeah. Natural science student.
+Okay. Um, this one, the natural science. So how do you turn into an adult you like?
+Okay, so in between the other natural science students and computing and, um, so it's only a tiny bit as we draw on to those modules.
+And in lecture two, I've covered all of the bits from eMac and quantum that we're going to use.
+Okay. So you just it's free press that you said so okay.
+And then maybe like I can go to those people. Yeah I'm in the videos.
+So really they're not too mathematical.
+It's just a way of presenting the stuff that we just productions. Okay I think just.
+Well, the way you to give me.
