@@ -1,0 +1,476 @@
+Uh uh huh. Have to.
+Excuse. Me? Uh.
+Uh. Uh.
+I realize your request for a signature.
+On this case. Yeah.
+So. I don't have any will.
+If you don't. How's everyone doing this weekend?
+Did you almost. It was come with the same coursework.
+Or should you mention that it's steep? Managed to fix it? Yeah.
+Okay. So I just want a quick, uh, reminder of where we are.
+So while we're in week. Ready?
+So almost halfway. So last week, we kind of started the kind of the bet on the nonlinear light matter interaction.
+And we just agreed on that. Whenever you're solving so many differential equations using the perturbation method.
+So that we can calculate or derive the nonlinear susceptibilities from the second and third order processes.
+Did everyone find that? Okay. Yeah. That's probably the kind of trickiest or most kind of mathematical part of the course.
+We're kind of introducing new concepts, new ways to solve differential equations.
+So if you're kind of feeling like, oh my God, this is getting really difficult, we kind of peaked on the kind of the mass map side of the course.
+Little bit more math today and tomorrow. But again nothing kind of majorly new.
+No new concepts, just basic kind of rearranging of equations.
+Um, so this week we're finishing off the kind of nonlinear theory where we just where we kind of reinvestigate the wave equation,
+and then we look at why we need to use that wave equations for something phase matching.
+But then I just wanted to highlight in red.
+So there were no lectures for this lecture next week.
+Because if you haven't forgotten, you've got your midterms next week.
+Yeah. Is everyone remembered that. So you all kind of thinking about the midterms?
+Obviously we. Yeah, we could continue the lectures.
+But kind of historically of my experience,
+not many people turn up on the Monday and Tuesday just before the midterms because you will frantically repricing it for the midterms.
+And also, I think it's just quite nice to give you a break halfway through the lecture,
+cause I like to focus on the midterms and then come back in week six if you choose to carry on.
+But the content that I've removed from week six is replaced with revision lectures in May.
+Yes. You remember this. So you're not missing out because in May.
+So when you come back during the revision period, I'll schedule a couple of sessions where we can go through and do some revision stuff.
+And generally people find this really useful because we're going through it just before you go into the, into the May exams.
+So any questions or comments so far on how things are going.
+I better join it. Anyone else? Nodding.
+People shaking their heads. So yeah, let's get cracking on with that.
+Is it? Got any questions or. Comments.
+Okay, so I think we're just about to send out the midterm module survey.
+So remind you of that when it comes out. And the other thing to mind will please do do the quizzes online because it's the only way.
+Unless you come and see me to say stuff on something, it's the only feedback I get during the lecture course on how people are generally doing,
+and I have tried to tailor those questions to make them useful for the exams.
+And the people that have done those quizzes thinking you'll save them the revision session.
+Just hadn't bothered. And there was nodding. Now it's quite good.
+Okay, so today we're continuing on with the kind of theme of the nonlinear light matter interaction.
+So so far we've revisited the, uh, the vents oscillator model.
+Um, to look at how that works in the nonlinear regime.
+And today we're going to move on from that, and we're going to revisit this thing called the wave equation,
+which you derived in electromagnetism with Matthew.
+So what is a wave equation? You got them in quantum physics as well.
+There's this guy surfing wave. We all know what waves are.
+And you derived a wave equation. And you've also worked with wave equations in quantum mechanics last term.
+It's generally just in words.
+You can someone explain to me what wave equation does and why do we want to calculate them and derive and why it's useful.
+Did anyone think you would be told about wave equations at the time?
+So it's, it's it's an equation that gives us a relationship between electromagnetic fields or wavefunctions of particles in space and time.
+So we're going to later use these equations to work out how the fields interact with materials.
+And we can solve some pretty complicated things by working out with these wave equations what we expect the electric field to be in space and time.
+And you can use these to solve some pretty clever problems.
+So you're familiar with Maxwell's equations?
+Yeah. So don't worry. You don't have to remember them. I give.
+I do give them to you on the, um, exam page.
+Um, just as a kind of recap, we're now familiar with these kind of optical, nonlinear susceptibilities.
+What what could you say about these numbers? Think big or small.
+Really small number. So the linear susceptibility chi one is of the order of unity one.
+Yeah. So the second order and third order.
+And as you come to the high rollers they get decreasingly small.
+And this kind of explains why you don't look out the window and kind of see bright UV
+light being generated from the glass as the rays from the sun interact with the glass.
+They're not doing second harmonic generation and burning us with Eevee.
+These are really, really small effects that only happen when you can drive your system at really high electric fields.
+Yeah.
+So the susceptibility or the kind of the thing that tells us how strongly these nonlinear interactions happen in the material are increasingly small.
+So the second order one happens with, uh, proportional to one over the electric,
+the atomic field strength, the third over, the one over the field strength squared, and so on.
+So really, really tiny effects. So now we're moving on from these kind of descriptions of the nonlinear interactions
+and being able to calculate how the susceptibility scale with frequency.
+Now we're going to start moving on to to exploring how the wave equation changes when we suddenly include nonlinear interactions.
+Um, and we're gonna finally introduce some think you think about dispersion.
+So you're familiar with the term dispersion. Where have you come across the term dispersion in optics?
+Like this? Yeah, she definitely gets personal.
+Fibers. What is it? What is dispersion? Wavelength light.
+I mean, different speeds. Yeah. So in materials, different wavelengths of light experience different refractive indices.
+And they effectively have different speeds in that material.
+And this is how kind of rainbows are produced. If you're familiar with the kind of prism where you put a prism into some white light,
+and the light gets better at different angles depending on its color.
+And that's because each wavelength component experiences that material differently.
+It has a different kind of retarding effect on the on each different wavelength of light.
+And this comes from this Lorenz oscillator model that we looked at. Yeah. So we talked about this kind of resonance.
+And you're kind of pushing the person on the swing. And if you drive them at the resonant frequency of the system you get that switches.
+So this this is the origin of this dispersion. And we're going to see how dispersion effects the generation of nonlinear optical signals.
+And this is one of the key kind of properties of nonlinear optics.
+You have to consider dispersion. It becomes a real, real problem. And this is all in this lecture when we start to look at Maxwell's equations.
+Kind of really ties it all together. So we're familiar with this idea that the nonlinear response of a material causes this induced polarization,
+this capital p vector that we get the polarization or the induced movement time was a function of volume.
+But we're now kind of looking into this idea that this nonlinear response allows that polarization
+to be generated at different frequencies other than the ones that we use as the excitation.
+Yeah. So we've introduced this idea of the non parabolic potential.
+And if we drive it hard enough so that parabola starts to kind of get distorted.
+We're now happy with this whole idea that the charges are oscillating.
+And they start oscillating at frequencies other than the one we drove it with.
+Yep. And this has a knock on effect when we start to look at the wave equation and look at Maxwell's equations,
+because of the fact that this peak in different frequencies. And we have to kind of take that outside of the equation.
+So and this all kind of leads on to how these frequency components become coupled.
+So as we're going to look at in the next lecture in order for this stuff,
+these processes to happen efficiently, the input fields have to be coupled with the output fields.
+And this is where we have to consider the wave equation just to see how that works.
+So let's look at second some frequency generation second order process.
+So we're considering sending two frequencies or two laser beams into a chunk of
+material that has a nonlinear optical response is non-zero for a second order.
+And what does that mean about susceptibility tensor and symmetric or antisymmetric.
+You know this anti-symmetric.
+You look at non-zero chi2 when you break that symmetry line, because when it goes negative, we want to go negative because it's e squared.
+If we have symmetry. He doesn't come back when he was negative.
+Yeah. And then we also did the derivation of the second order susceptibility.
+And we showed that if we have that distant the symmetric perturbations about parameter chi two doesn't it doesn't come out.
+Yeah. So that's a good one to remember. So we've got our material on each atom within the material.
+It's oscillating up and down at some frequency and it's generating its own miniature dipole.
+Yeah. So we're shaping these charges up and down.
+And part of that response to the two driving electric fields happens at the sum of those electric fields.
+Yeah. There are other frequency components in there as well. So we've got second harmonic generation omega one and omega two.
+We've got difference frequency generation. But here we're just interested in some frequency generation.
+So if we kind of hone in on that frequency, we've got these tiny little charges oscillating up and down.
+And a component of their motion is omega one. So we can see.
+And that's great. That's the picture we've looked at so far.
+And we've calculated the susceptibility for this for this to happen for some frequency generation.
+But obviously unless we're doing like really hard core single particle physics, trapping single atoms in a vacuum and very sensitively measuring it,
+you'll never dealing with single charge single atoms in these systems, but always dealing with a large number of atoms.
+Yeah. So if you take a physical chunk of the material, whether it's a crystal or biological substance or a liquid,
+we're sending our two beams into this real material and we're exciting a whole bunch of atoms to oscillate up and down.
+We're excited a whole bunch of dipoles which are emitting their own little radiation fields over this point.
+And by a whole bunch, we're talking huge numbers like the order of Avogadro's number.
+There's a lot of atoms all oscillating up and down and missing their own little like holes.
+So in order for us to detect something coming out the other side of that material, what needs to happen?
+What do we know about interference and different waves?
+We need them to act constructively. So if this guy is oscillating out to face with its neighbor, they're just going to cancel out.
+Yeah. So we're not going to get any signal generated.
+And this is where something called phase matching becomes very important.
+So what we need is for all the dipoles oscillating up and down within that material to be oscillating in the correct phase,
+so that every point, if this is kind of direction Z across the material,
+uh, every point Z through that material, we want them all oscillating in phase so that they build up constructively in
+order for us to detect anything coming out the other side of that material. And that's what we're going to start looking at now.
+So we're going to be talking about k vectors.
+So what are what are the what is k vector. What does it stand. What are we referring to here.
+Way back to. Yeah. So in the space.
+So k one plus k two need to add up to k three.
+Pretty straightforward. So. The second harmonic or some frequency omega one plus omega two we know equals omega three.
+And the wave vectors have to add up as well. Yeah.
+And anything other than perfect phase matching we define this thing called delta k which is the phase mismatch.
+Yeah. So if delta k zero everything is phase matched.
+And we're happy when k delta k is not equal to zero we have a phase mismatch.
+And we don't generate signal as efficiently as we'd like to.
+Um so when we have a zero phase mismatch the field is going to be n times larger than it would have been done for single atom.
+So the signal intensity scales with n squared.
+Yeah. So intensity is field squared. So you just square the field to get the number patterns.
+So everyone happy with this concept.
+It's kind of a new concept of kind of looking at wave vectors optical fields.
+So this diagram sometimes helps explain it a bit better.
+You see that clearly? So we were thinking about some frequency generation as our example.
+So we've got to make one. Also make it two.
+Generate our third frequency.
+Yeah. So that's the kind of frequency diagram that we're drawing.
+So inside our real material. So we're not just dealing with single atoms.
+So we've got a big chunk. And material could be a crystal.
+And we're going to define this as the Z direction.
+And we're going to send in our beams into the crystal.
+And the way that the incoming light. It's going to be k one plus k two.
+Yes. So we're taking this kind of arbitrary point to consider where omega one and
+omega two interact with a particular atom to produce some frequency generation.
+And at this point, it's going to set this kind of dipole oscillating up and down at frequency omega one plus omega two.
+And that guy is going to emit a massively massively over kind of simple over scaled sine wave.
+Because if I draw it more I want to go out of scale.
+But you can see that it's going to emit light from that point, which is going to travel with the wave through the material at omega three.
+So it's then going to continue on. Further this distance, said.
+And if we think about how the phases are going to add up.
+We've got totals this distance, said one. Plus said primes.
+And at this point here. This is going to be the phase at that distance.
+Yeah. And that has to be equal to the same distance.
+Turns K1 plus K2. Yeah.
+And then the next thing. Obviously these atoms answer that all by themselves.
+And also we want to consider how the beam propagates if we consider another interaction with another atom a little bit further along.
+Yeah. So again this is K1 plus K2 but it's traveled by greater distance z.
+That the omega three signal, which is generated here in order for the light to be detected.
+With any significant intensity. When it leaves, it has to have the same face when it reaches the end of that material.
+Yeah, so that makes sense. So this is what we mean by phased array.
+So as omega as the two input beams propagate through the material at every point where they interact with an atom,
+they're generating that signal in phase relative to the position moves the z position through the material so that everything ends up in phase.
+So this is exactly what we expect. Three is equal to k two plus k one where k is equal to omega one c.
+But we have to factor in the refractive index. And this is where dispersion becomes important.
+So we're used to kind of dealing with refractive index being equal to one.
+Safer for air. But when we get into materials that won't go over the index something like water.
+1.2, something like that. That's just an estimate.
+An estimate. But it changes slightly with wavelength.
+And this is where dispersion becomes important. So in order for phase matching to.
+Happen. We need to rely on the facts, or we make the assumption that all the refractive refractive index is the same.
+It's only three wavelengths of light or equals three k vectors.
+And as we're going to find out later, this doesn't happen.
+So we have to come up with a workaround to factor in non-zero delta k.
+Anyway, back to the story. So everyone's happy with kind of how this idea of phased.
+Amazing looks. This idea of phase two random phase matching. Anyone, anyone happy?
+They were not happy. But you end up if you don't have to.
+Okay, so I'll take it as everyone's happy. So.
+That's what we want to achieve. We want.
+You know, if the refractive index of the material for all three wavelengths, omega one, omega two is the same.
+This is what happens. Yeah. So when we get to this point, the edge of our crystal,
+everything is emitted in phase and our signal scales with n squared the number of atoms within that material.
+Okay. So back to Maxwell's equations, which is what we're trying to um,
+we're going to use Maxwell's equations to derive the wave equation for nonlinear material.
+So you should be familiar with these equations. But you probably use them in a slightly different form.
+Yep. So when you dealt with the wave equation in in electromagnetism with Matthew, you did for this term, if you had an E here didn't you.
+Yeah. And instead of being equal to the charge density was equal to in that case you.
+Road divided by its island. Yeah.
+So all we've done, we've just taken the relationship between E and D and and changed the equation.
+And again, for this person, this guy you were dealing with the kind of B in that equation.
+So you would have had this version of it here. Yeah. But as we get to see it like these, the versions we're going to work with,
+because we're going to make our material nonlinear in the sense that we have this induced polarization in the material,
+which you do have in the linear material. But in the linear material, everything happens at the same frequency.
+And you can just kind of everything's packaged up into E.
+Yeah. But because our P can happen at a different frequency and with a different intensity response, we have to separate out E and P.
+And that's why we're using D. Yeah. So everyone remembers back to the displacement vector.
+Yeah. So let's see what works out.
+So I mean if we think back to um just to remind you how you did the linear wave equation.
+So this is a kind of brief recap from last term.
+So really straightforward thing to demonstrate. So you start with this equation that you gave us.
+Yeah. And then you take the curl of both sides.
+Yeah. I said take the curl the left hand side and then take it to the right hand side.
+And then what's the next trick we do? How do we get rid of that complicated thing?
+We take it, we use this kind of trigger. This backed up. I tend to take.
+Um, so you should have seen this one here. So it there's a better identity.
+Um. Of the curl of a field is equal to this.
+So we can substitute that into that to get rid of that horrible term on the left hand side.
+What's this equal to? Remember, we've got charge density equal to zero.
+Stop it in the code under the code Yara. If row zero.
+Yeah, said that guy. Equal to zero.
+And that's all going to be equal to minus dividing t will be.
+And then we also just have to look back trying to get it all in terms of a.
+So we just look at Maxwell's equations and helpfully he's given us this relationship.
+And we can substitute that in there. To get it all in terms of a we don't have any current in this material 23 charged.
+So this is also going to be equal to zero, which makes it a lot simpler for us.
+So we then write our. Nice useful equation.
+And what? What are these two equal to? What happens if you multiply these together to.
+We'll never see squares. Yeah. So very useful equations.
+And this is a relationship between the electric field in space and time, which is exactly what we were after.
+This is what we said was the physical meaning of the wave equation.
+How can we test this equation to tell us that it does do what it says it does?
+So what sort of solution? What sort of form is it?
+So you know it's the minus least these brackets.
+Just like all the other electric fields we've looked at. Make a tea?
+Yeah. And what else do we have to add when we're dealing with fields in space?
+Time and space. Well, boy, in the bracket we've just got.
+This is just an angle that goes into this bracket.
+So we're going to have k x. Yeah.
+So Omega has the units of one over time K has the units of one over space which is putting an angle into that argument for the exponential.
+And together these two terms tell us what phase I was sine wave has at a particular space and at a particular time.
+Yeah. So beforehand when we were looking at the equations of electric field,
+we were just dealing with e to the minus omega T because we weren't really dealing with how, how how it scales over space.
+But here we want to put in an equation that has both space and time to tell us the phase of our electric field.
+Yeah. So this equation tells us the amplitude of our electric field as a function of phase.
+Yeah. So this this guy gives us space and it's multiplied by the maximum amplitude.
+And phase is a function of omega t.
+Okay. Thanks. Yeah. So any particular time or position in the material, you know electric field has a certain phase.
+And that gives you the amplitude. So we can convince ourselves that this equation is correct by sticking that guy into there.
+So if we on the left hand side what we get out. So we do the second derivative with respect to x.
+So we get minus y squared a squared.
+And then on the right hand side. You want to have a C squared which was desperate times minus I squared.
+Next bit. Let me do the time derivative twice.
+Yeah. Omega squared. So tense.
+Everything out. And we get k is omega c which is what we expect to get the dispersion relationship.
+Yeah. So we've convinced ourselves that equation gives us the relationship between the electric field in space and time.
+And this is the relationship dispersion relationship that tells us how electric fields,
+how we expect the electric fields to behave as a function of frequency and wave vector.
+Nonlinear materials. Remember, we have to take into account the electric field and the induced polarization.
+And we can't just rely upon them being the same. Yeah, because we can have this nonlinear source to terms.
+To everyone happy. Yeah. Helpful recap for the wave equation.
+So nothing particularly difficult to find. It just kind of using vector math to kind of rearrange Maxwell's equations.
+So let's move on. So in the nonlinear wave equation we do exactly the same thing.
+So we derive the wave equation in the usual manner we start off with.
+The Maxwell's equation relating the curve E to the rate of change of B.
+We take the curl of both sides that because we want to reframe it in terms of the polarization effects of p.
+We just substitute in. We take our kind of h and our relationship between being H so we can replace the kind of P.
+With equations related to the rate of change of D.
+Yeah. So we've switched out our E with D.
+Yes. If we're happy. So previously we just wanted one of Maxwell's equations.
+So we could express that with E. But we just fiddle that bit using Maxwell's relationships so that we've now got a D here.
+Yeah. And this is important because it allows us to replace D with epsilon e plus p.
+So we're separating out the applied electric field from the induced polarization.
+We follow the. People looking blankly at me.
+You can see you can follow the maths. Yeah. So we've now got we replace D with E plus P,
+and then we've got this additional term here which factors in the rate of change of the induced polarisation.
+And we stick that on the right hand side because we're moving to the point where this is our kind of driving force.
+We do exactly the same trick with this vector notation.
+So that we can replace this horrible thing with with the curl of the curl with this guy here.
+Remember, this vanished in the linear case because we could say there was no free charge.
+So had. So this guy was equal to zero here.
+We can't make that assumption. Because d is equal to e plus p, where p is this new frequency that we generate.
+So we can't say that it's zero. However, we can just make the assumption that it's going to be really small.
+Yeah. So the rate of the change of the code eight we can just say is negligible.
+So we kind of just ignore it, but not for the same reasons that it was.
+We could ignore it in the linear case. So we substitute we get we get rid of, we substitute this in, we get rid of the dot product term.
+And now we've got a wave equation which is very similar to the original one.
+But this time we have this extra force on the right hand side which is our nonlinear drawing to we had.
+So it's what we want to do is separate out this induced polarization into its linear and nonlinear terms.
+So the linear terms are all lumped in with E.
+So we separate them out so that we have the linear term of the displacement field plus the non linear part of the polarization.
+So we're just separating out the bits that were linear from the bits that are nonlinear giving us this equation here.
+And then finally we can assume that it's an isotropic dispersion less media.
+And then we end up with this equation which is that kind of standard wave equation that you see.
+So we've got something very the same as the one we had for the linear term for the linear wave equation.
+But instead of being equal to zero we have this driving term on the right hand side.
+Yeah. So we've now got an equation that tells us how the electric, the induced electric field,
+how the the amplitude of these electric fields change with space and time, and how the induced nonlinear polarization changes in time.
+Yeah. Different for that.
+So this is the kind of standard wave equation that you see below.
+Linear optics, which are almost the same process that we did for the linear wave equation,
+except we just use the fact that d is equal to epsilon e plus p to separate out those two terms.
+And then we end up with this guy, which is telling us how the the amplitude of the enfields and the induced polarization change in space and time.
+Yeah. And as we're going to see in the next lecture,
+we can then use this to predict and calculate how phase matching works and how fit non-linear signals propagate in materials.
+So we have to consider dispersion in, you know, real material.
+So to do this we just say that our electric field is the sum of multiple electric fields omega one omega t.
+So and its integers Omega one, omega two omega three.
+We have the same for our fact today and the same for our induced nonlinear polarization.
+So we're just summing up all the different fields with their integers and one, two, three and so forth.
+And obviously it has to be performed. That complex conjugate conjugates as well.
+Yeah. So we kind of always assume there of this form.
+But we have to remember that we get the complex conjugate where you have the of the sign.
+And so yeah. So that's the kind of the final point we get to with the the wave equation.
+We're neglecting dissipation.
+So we're assuming there's no absorption of light in the material because things get a little bit more complicated when that happens.
+But typically the absorption in materials is relatively large.
+The applications we're looking at. So this equation holds true.
+And we have this nonlinear wave equation which has to be satisfied that each of the
+components within the light fill the light fields that we that we excite the sample with.
+So that was pretty straightforward. Yeah. Everyone follow that.
+So it's not a massive kind of new concept that we've introduced.
+We've just revisited the wave equation. And all we've done is just made a slight tweak to the derivation so that we can separate out E and P.
+Yeah. And you can see why we did that.
+People looking like anyone not happy?
+Is anyone actually happy? You look at that few people nodding.
+So I guess quite early on a Monday. So we're going to come back to this equation when we get on to the next lecture, which I'm going to start now.
+And the reason that we need to use this equation is because we're going to see how the fields are coupled in a material.
+So thinking about that very simple second order process, second harmonic generation.
+We send one frequency and omega. And then the signal that we generate which runs generate signal to omega.
+So twice the frequency a half the wavelength. And if you think about what's happening inside the crystal.
+So the purple line is our omega one. And the yellow line is our signal at two Omega.
+What we want to do we want to sending this this beam into the crystal.
+And as the, as the, as the omega one goes into the material, it's going to get converted into into two omega.
+So the intensity of our incident light is going to drop off as a function of Z as it travels through the material.
+And the g signal, if we get it right is going to grow as a as as z increases.
+Yeah. So what we're going to do is look at how we're going to look at the wave equation.
+We can write down the wave equation for both omega and the wave equation r two omega two.
+That tells us how the fields at omega one and omega two change with space and time through the material.
+And in order for this to happen efficiently, those two equations have to be coupled in terms of their phase in frequency at time.
+So we'll move straight onto that one now.
+So you now understand the implications of inducing non-linearity into Maxwell's equations to write it, and you understand the effect of dispersion.
+And you can read about this in boys. And I've also put a summary in the lecture notes.
+So what I. Okay, so does everyone have to be happy for me to move on?
+Your father wasn't particularly popular after all we've done.
+He's calc is like reintroduce the wave equation and introducing non-linearity.
+So now we're going to see how we use it. So we're introducing this idea of coupled waves and phase matching.
+The first year I did this, the lecture was like on Valentine's Day.
+So it will be funny to put this in, but obviously Valentine, what is it Saturday?
+Okay, so we're not on Saturday, but you can see. So every February it's roughly around this time.
+Okay. So a recap from literally two minutes ago.
+We've described this as like this wave equation we derive.
+This wave equation is exactly the same process you did for the linear one,
+except we've just factored in the fact that our p can happen at different frequencies.
+So we derived it from D so we could split it into these two terms.
+Yeah. So we allow P to depend non-linearly on D.
+If if p scales literally with E, you can just ignore it and you just lump it in the same way that you did with it anyway.
+Equation. So we're looking at how the two frequency components couple in that kind of animation I showed you.
+And if we go all the way back to lecture one where we looked at Peter Franklin in the
+60s and 61 when he did the first physical measurements of second harmonic generation,
+and he took a ruby laser and focused the light onto quartz crystal and then looked at the spectrum that was produced.
+The red light was hugely intense. This massive, super saturated photographic film, and the tiny,
+tiny amount of blue light that was produced could barely be detected in the photographic film.
+So there were two reasons why the signal is so weak.
+One was that the regulator wasn't particularly powerful by modern standards, but mainly it's because they hadn't considered phase matching.
+So they just fired the laser at the crystal and see what they could detect from the other side.
+And it wasn't until a few years later that people started to realize,
+as they rotate the quartz crystal, they can modulate the intensity of the MSG light.
+And that led people to realize they had to consider phase matching.
+So we've already looked at this.
+No, from yesterday from about two minutes ago. So K1 plus K2 must add up to K3.
+Otherwise you don't generate the signal. Coherent digital anything produced.
+So. When you have dispersion as we looked at.
+So k is equal to n omega over c.
+If n one isn't equal to n 2 or 3 you don't k k delta k isn't equal to zero.
+So in all real materials where you have differences between the wavelengths, you have to put up with a non-zero delta k.
+Unless you can design people do this. You could design some kind of metamaterial where you can physically control.
+The refractive index at different wavelengths. Which we don't get to imagine.
+Delta K is known, is not known, and is nonzero.
+And we have to factor that into how we detect it. So we can work through a derivation to show what happens.
+So sticking with some frequency generation which is not a simple one to work with.
+We're going to consider a lossless non-linear material and we're going to deal with collimated.
+Beams all of the same wavelength. So omega one is a single wavelength.
+Omega two. A single wavelength. We're generating, uh, some frequency signal, uh, omega three.
+And if we keep the geometry fixed. So we've got these collinear beams, this, that, that their direction is unchanged.
+And the material orientation is unchanged. We can consider this as a scalar relationship.
+So having spent a long time telling you that chi is a tensor.
+We have to consider it for vectors. So the vector notation for this.
+For simplicity we're just going to consider the orientation doesn't change and we can replace it with scalar.
+So all this is telling us this is this is just the efficiency of the conversion from omega one and 2 to 3 at one fixed orientation.
+Yeah, we could replace it with chi, but it just makes the calculation more a bit longer to write out.
+So the our pivot to it three.
+We've replaced Chi with this term here which is just the coupling efficiency from one wavelength to the other.
+Yeah. So we've got our wave equation up here, the one we derive, the nonlinear wave equation.
+And now we're going to start writing out the form at which our fields are going to take.
+So because we're working with, um, some frequency generation, we're going to say that E3, the generated field is going to be equal to this equation.
+So we've got our time varying component omega T and a spatially varying component case z.
+And remember we have to factor in the complex conjugates and k three is equal to n three.
+And we have to see. Yeah. And we can write it out in this way as well.
+And. What we have to bear in mind is this amplitude.
+So I've replaced a naught with a three.
+Yeah. So this is telling us the amplitude of the electric field.
+And the reason I've replaced the three with a three is because when we were looking at that diagram of the wave propagating through the material,
+the amplitude of this field changes with the z position through the material.
+So as this as we propagate, as we walk along the z direction, what we expect to see is the amplitude of e1 and e2 going down.
+And the amplitude of A of E3 going up. Yeah.
+So a three is a function of z.
+It's all lumped in. Yeah. It's no longer a constant term.
+And that has implications when we do some integration later.
+So p three is a nonlinear source term again defined by this equation.
+Yeah. And then we've got our two applied fields.
+And they're complex conjugates omega one and omega two.
+And again we replace the constant electric field with an amplitude which is going to vary with z as we move through the material.
+Everyone happy. Okay.
+Still happy? Yeah. So we take our wave equation and nonlinear wave equation.
+And then we substitute in all those fields that I showed you on the previous equation.
+And we get quite a lot of mouthful of terms coming out that the people slip up on is when you do.
+Take the second derivative as a function of z. Of your electric fields.
+When do I put it in bold that a three is a function of z?
+When you take the second derivative of a function where you've got this guy being a function of z multiplied by this guy,
+which is a function of z, but they don't scale in the same way.
+There's no relationship between how they depend on Z. You have to use this derivative here.
+Have you seen that before? That's like a standard integral, like one of the one of the integrate or differential rules.
+You'll get given it on the front, for example, if you need it.
+But all we have to do is just use that to say when we take the second derivative
+of our electric field and put it into E3 and put it into the wave equation,
+we get these three terms out. Yeah. From this rule here.
+Yeah. Then we take this guy here, which is the second time derivative of the electric field.
+We don't have to worry about the A term. That's not a function of time.
+That's only a function of Z. We've got the complex conjugates all lumped together.
+And then on the right hand side we've inserted our equation for p which is a function of e1 and e2.
+So we've got the amplitude of e1 and e2.
+And this guy here and again that complex conjugates.
+So all we did was just take we just wrote down the forms that we expected each of the fields to take.
+Yeah. Put them into our wave equation.
+We were diligent enough to spot that a is also a function of z.
+So we have to do that just like chain rule second differentiation or something.
+And then we get these three terms out here. So that catches a lot people out.
+Because you forget that A is a function of z which is the whole point of doing this.
+And then what's really nice is that this. Third and fourth terms.
+Here. Cancel out. So you can kind of they just disappear and then we end up with a much simpler equation.
+Uh, the relationship between the amplitude of, uh, some frequency field as a function of the amplitude of action in the fields.
+There's one thing I wanted that. Yeah. So nothing particularly difficult.
+Obviously, there was a lot of writing to do.
+You had to write down the forms of the fields, and then we replaced the constant electric field with this amplitude term,
+which we know changes with Z, because this is the whole point of the company.
+Two fields are going down, open fields going up. And then we put that into the wave equation.
+And we've now got an equation that tells us how the amplitude of the three fields scales as a function of z material.
+Yeah. So we'll pick this up tomorrow.
+Um, and we'll look how we can use this to predict how we need to face mass in reality.
+Okay. So I see how possible tomorrow. It's like.
+It's. Like.
+I see. You.
+Have so many. Looks like this.
+You know, that's that's one of the steps up.
+Okay. Yeah yeah yeah.
+Yeah yeah yeah yeah I know.
+The thing that I think is good is we can swipe up until there's many different.
+So, you know, you can say. Yeah, yeah I, I do I think yeah they might have to these.
+Other. Oh.
+Yeah. Yeah.
+You know I feel like I know that we had a but also.
+Uh. You know.

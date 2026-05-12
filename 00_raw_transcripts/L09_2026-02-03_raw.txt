@@ -1,0 +1,424 @@
+You. Know it's going.
+To. Take some.
+Time. And we don't.
+Actually. Know what? You're right.
+How's it going? She's doing well.
+We got lobsters that Friday.
+No lobsters. Oh, no lumps this week. What do we get up to this week?
+Uh, it's like a tandem fight. Um, you know, is it the poster?
+Yeah. Did you have to get them?
+Send them off to get printed and collect them and put them up. Yeah. You listen to.
+Oh my God. Oh! He's crying.
+She was doing this. It's like a spider's web.
+I don't feel like I'm not passing out. I don't know.
+I didn't think it would hurt that body. Uh, let's get cracking then.
+So. Yes. Today. And remember what happened this day in the election.
+So we started to introduce the concept of how material can have a non-linear emotional response.
+And the origin is involved in the optical response.
+And it comes from the fact that in real materials, if you drive the charges far enough from their equilibrium position,
+the potential is no longer a parabola, or the restoring force becomes non-linear.
+If you stretch it far enough, it becomes non-linear, a bit like an elastic band or spring.
+If you consider the spring to kind of have like a constant spring constant,
+if you cut it far enough, eventually it's going to be the end of the story.
+So today we're going to see what happens when we introduce a non-linearity into the Lorenz oscillator model.
+And we're going to go through a little method or a mathematical trick that we used to be able to solve nonlinear differential equations.
+And then we're going to do that for second and third order um susceptibilities.
+We're going to write the susceptibility in the same way that we did for the linear case.
+But using this this method to solve nonlinear differential equations.
+And I've got a brief interlude to show you how to make cocktails talk because it gets a bit tedious a half hour halfway through break.
+So a recap from yesterday. It's all down to this polarization.
+And the polarization is mediated through the susceptibility tensor.
+So if we have this linear response the material linear restoring force parabolic potential
+drive the charges with a sinusoidal electromagnetic field of a single frequency.
+You expect to get the polarization to follow the electromagnetic field and give you a sinusoidal polarization in the material at that same frequency.
+It starts to get interesting when we move away from that parabolic, um, approximation,
+and we get to the kind of more extremes where the potential becomes non-linear.
+And here we then see that we get a response in P that no longer has the form of the sine wave that was used to produce it.
+So this is really the the whole key underpinning, nonlinear optics,
+because it allows us to create polarizations in the material at frequencies other than those that we draw the system at.
+Yeah. And we kind of did this kind of hand-wavy explanation where we looked at the different shape and we said,
+well, if you took the Fourier transform of this, it gives you just one frequency component.
+However, if you did the same for these two guys, clearly it's not a single sine wave here.
+We've had to add multiple sine waves together. So this is how the system allows us to create new frequencies and the ones that we use to drive it.
+So the brief recap of the Lorenz oscillator model.
+Um, so this is the equation of motion for a driven harmonic oscillator, which you should all be very comfortable with from your first year.
+Everyone happy with this concept? Yep. So when using this to model the charges and how they're bound to the positive charge sensors,
+we've got acceleration, the frictional force, the restoring force which is the spring constant.
+And then the driving force which is our electric force, the electromagnetic wave.
+And it's an ordinary differential equation.
+It's nice and easy to solve.
+We just take a solution of the form of a sine wave for omega, which is our driving the frequency of our driving electric magnetic field.
+We pop that in. And what's really the reason this solution works is because every time you differentiate this with respect to T,
+you just get the same function with something popping out the front. Yeah.
+And then that will cancel the exponential terms cancel.
+And then we can derive this position r as a function of frequency of the displacement as a function of frequency.
+And from that reason you got to pay. Okay.
+So now let's look at the situation where we're dealing with a real system where this this is something that we
+get a parabolic potential is no longer true when we move to the kind of extremities or the larger displacements.
+So we now have to remodel this restoring force to give us this non-linearity as we looked at yesterday.
+We have to consider symmetry in the potential because as we discussed with this kind of hand-wavy term,
+we expect second order and third order responses from symmetric and non symmetric materials to be different.
+Yeah. So let's start with the normal center of symmetric materials.
+So these should support both second and third order responses.
+So we introduce this additional term into our restoring force.
+So we've got our original restoring force linear with restoring force.
+And then we have another additional term this kind of um perturbation where a determines the strength of the non-linearity.
+So if you were to plot this graph making a very small it would look like a parabola.
+And as they get bigger it becomes more and more distorted.
+Yeah. When did you recognize the shape, by the way?
+The red line respond to the real material. Where have you seen that before?
+You come across the Leslie Jones potential and you've looked at kind of like the forces attracting electrons to material.
+So this is kind of what why we expect materials to have this kind of shape, um, potential.
+But typically for normal optical fields, we're right down here in the bit where this linear situation or this linear approximation holds true.
+So we integrate it and we get the potential. And if you can see that it's going you put a squared or symmetric function into the restoring force.
+Obviously you integrate it. You get something that power of three.
+And that's what gives you the lack of symmetry. Yeah.
+So now our equation of motion for the particle in this more realistic potential becomes this guy.
+And this is the new term that we've introduced this additional perturbation to our restoring force.
+And it's now a nonlinear ordinary differential equation which is not so easy to solve.
+Yeah. So if we took the same approach where we just picked all to be a sinusoidal function of our driving force,
+which is how we solved in the first place, you can see this term really screws it up for us,
+because all the other terms, when we differentiate them with respect to Y,
+you get the same functionality, cancels the r square term spoils that for us.
+We can't use that method to solve the equation.
+So we have to use something called a perturbation technique.
+So if you come across perturbation theory maths so far.
+Yeah. So it's very it's a kind of uh an alternative upper part of that kind of mathematical set of tools that we do.
+So we start from an exact solution where we know the solution, and then we come up with a,
+an amended version where we've added a correction term to make that solution closer to what we wanted to do.
+So in this method we replace e with this term.
+Lambda times E where lambda is this thing? We call it tuning parameter and it ranges from.
+It's a continuous function for continuous value range one.
+Um, and we just set it to one at the end of the calculation to get rid of it.
+And the size of lambda characterizes the strength of the perturbation that we're going to apply.
+So the bigger the lambda, the more nonlinear the system becomes.
+So what we do we take our modified equation of motion where we've got the nonlinear term and this perturbation strength lambda.
+And we seek a solution in the form of a power series.
+And we pick a power series because we know we're looking for solutions for P and E in terms of P1, P2 and P3.
+And we've already defined this as a power series. So we're looking for the solutions of our differential equation where R is a power series.
+In lambda lambda squared lands the three and seven where the land term is related to the linear response.
+Lambda two is related to the second order displacement response material.
+So let's let me show you how we do this. Um, so I can cancel.
+Brilliant. You see that carries a clue.
+Okay, so for the no symmetric case. We've got a new equation of motion.
+Uh, one. Dum dum. Is that big enough to read?
+Let's go to gamma. Now, they this back to two.
+It doesn't actually have to be an only. Is there some kind of consistency?
+And it just means that the full width half maximum of your peak is governed by that the bandwidth of the president.
+So you can come back? No, it doesn't have to be. That just means consistency.
+And that's going to be the resonant frequency squared times are just a R squared.
+And we're going to set that equal to. And, uh.
+Thank you. Um, and it's this guy here that makes this difficult or impossible to solve using the simple method where we just shove the solution in.
+And that's why we have to take the solution in this form.
+So each term of the equation of motion proportional to lambda, lambda squared and longitudes each must satisfy the equation of motion separately.
+Yeah. So we get a separate solution set for equations of motion for each order.
+So first order. Second order first order. So first of all we want to say this guy is the r squared term.
+If we're trying to replace in our equation so we calculate r squared.
+So if we treat we're only going to take the first two terms.
+In this because as we go to higher orders, they get vanishingly small and we don't need them.
+So we're going to treat this as if we're time. It's going to be eight plus b squared.
+So we get x squared plus b squared plus 2AB.
+Yeah. So we're going to get lambda squared. Oh one squared plus lambda or.
+Two squared. Thus.
+Two lambda cubed. Oh one times oh two.
+Yeah. Do you see what I've done? That one time's getting squared because we're going to insert that into that equation in a second.
+So let's look at the first order. Turn in the equation of motion.
+So we only want to pick out the values in R and r squared, which are proportional to lambda because this is the first order equation.
+Yeah. So each term in or has to set has to satisfy the equation of motion just for the lambda terms,
+not the lambda squared because that would be the second term. So we pick out the terms in R which are proportional to lambda.
+So we've got lambda I double dot one.
+Plus Lambda two. Gamma dot one plus omega naught Lambda.
+Oh one plus. Now we get to the all squared pitch.
+There's no if you if you look in all squared, there are no terms in land that.
+Yes, you all agree. We just don't hear. We can't find a term proportional to lambda, so that's equal to zero.
+And on the end. Lambda terms that we can apply and we can queue.
+Um, and that's the same equation of motion that we got when we did the Lorenz oscillator model.
+So it's kind of a sanity check. This additional term that we add in doesn't contribute to the first order of equations of motion.
+So let's see what happens when we go to the second order.
+So now we're going along through R and R squared and only picking out the terms proportional to lambda squared.
+Yeah. So the first one we're going to get lambda squared o double dot.
+And this is R2 plus lambda squared gamma auto two plus omega naught.
+And, uh, squared. To us.
+This time we go along to our R-squared equation that we've calculated.
+And we're looking for this guy. Yeah. Because that's the one that's important to lambda squared.
+Lambda squared. Oh one. Let.
+And on the end here this term is lambda squared.
+Yeah. It's only proportional to lambda. So that goes to zero.
+So we've now got a new equation of motion that's different to the linear case when we took elements also into mortal.
+And interestingly we've got a term in here which is proportional to the linear position squared.
+And we'll look at that in a second. So if we then go to the third order.
+Equation of motion. Now we're picking out terms in lands cubed.
+So lambda cubed R2 three plus lambda cubed two gamma r2 three plus omega.
+And 303. What do we get in this term.
+So we go to r squared and we need to pick out the term which has a land cubed to it.
+Yeah. So we now insert that guy into here.
+So we get to land the cubed. One.
+Two. And that's going to zero.
+Yeah. So that's the equation of motion.
+So we just kind of derived these these. I'll put these as PDFs on earlier.
+So you have access to these. So.
+I've got the wrong. Almost. So we took this equation of motion.
+We used this perturbation theory to solve the differential equation, or at least to separate it into three individual equations of motion.
+Each now linear in terms of the order that there is.
+Yeah. Did everyone follow how to do that? Have you covered that technique in math?
+Was that completely new to you? It is quite an it's quite a neat trick that we use for solving this particular type of differential equation.
+So I guess you if you're kind of aware there are lots of different types of differential equations.
+In each one you get kind of specific methods or set of methods to solve that.
+And this is the one that we like to use for this guy.
+So this gives us our equations of motion, each order each separately satisfying the the this equation for the individual orders.
+And then once you've got the equations of motion you can just cancel out the factors.
+So as I said they cancel out at the end. So if we take our first order equation of motion for the normal sentence media,
+it's exactly the same as what we'd expect for the Lorenz oscillator model, which is ideal because that's what it should do.
+We seek solution in terms of omega e to the I omega.
+Um. And we shove that in the same way that we did for the Lorenz oscillator model.
+And not surprisingly, we get exactly the same answer.
+Yeah. So that's exactly what we kind of sanity check.
+The first order response of this system gives us what we expect for the elements of some next model.
+Now where it gets interesting is when we look at the second order equation of motion because this looks different.
+And when we substituted in the different values for R,
+you'll notice that all the all the original terms come out as a function of order to the second order displacement.
+But what's surprising or interesting is that this perturbation term it contains r one squared.
+Yeah.
+And you might think, well, it's a bit odd that the solution to the second order term has a term in it, which is which is the first order response.
+But actually that makes perfect sense because the driving force has disappeared.
+The original driving force. And this term now becomes the driving force of our second order response.
+And if we go back a slide, this is the displacement when we looked at the Lorenz oscillator model.
+So this is this now becomes the driving force. So the first order displacement of these charges now becomes our driving force.
+And that was the driving force that we put in. But you'll notice it's squared.
+So the driving force of our second order equation of motion is the square of the linear response of the material.
+So we'll get that. That's quite a key point to understand.
+So when we were looking at this kind of point charge or single point charging mission model,
+this polarization that we induce in the material with shaking the charges up and down.
+That in itself becomes the source that drives the nonlinear response of the material.
+So we then substitute this guy, the driving force, into this equation of motion stick on the right hand side,
+because that's where we like to see the driving force.
+We get something similar to the Lorenz oscillator model, except it's squared on the right hand side, exactly what we'd expect to see.
+So an example that says it's always useful to go through examples.
+And there's only so many examples that you can be asked to do in an exam in a second order.
+We know exactly which ones they are. So for the second order response.
+It's slightly different to when we seek solutions for the linear response.
+When we when we're looking at the linear response of the material,
+we pick a solution which is r is equal to r or e to the minus I omega t because we I'm interested in
+omega for the second order response is if we're sending two frequencies in omega one and omega T,
+we have a couple of choices. We can look for response a response in this case which is SJ.
+So we're going to look for response of two omega one.
+But we could do some frequency. We could look for solution omega one plus omega T.
+So I'll quickly go through the example of second harmonic generation.
+Two. Okay.
+So we're looking at the example. S h j.
+So we've got our second order equation of motion.
+Yeah. And this d I just replaced the thing that's in the brackets that we have to that are an oscillating model between two term.
+So we want to determine the response omega two by picking out components at omega two because that's the one we've chosen.
+There are other solutions to this. But we're only interested in the second harmonic generation which is the response omega two.
+Two. Omega. So we're going to seek a solution.
+In the form that we're looking for. So it's going to be second order response.
+So two omega t in that solution that we're looking for.
+So just as we do when we solve the Lorenz oscillator, we're going to do the differentials over here.
+So we can use them as a list. So we get minus J two omega popping out to the front.
+And then secondly, boom, boom.
+Word. The.
+So we now shove these solutions into our equation of motion that we've calculated.
+So we're going to get minus four.
+I'll make a squirt. You can see close to gamma J two.
+To omega T that's equal to a you.
+Events will display.
+Yeah. So just said. You want to pick out the terms?
+Omega two. So we're going to get minus two squared.
+So I've split up on what we have for Omega.
+I put the two omega into the brackets, because that's the term that we're looking to pick out in the solution.
+So we can then simplify that and get minus to.
+You want to then create how the tuning turn.
+This is the difference between resonant frequency and to make at this time, because we're picking out the solution for SSD.
+That's all equal to what it was before. This guy now becomes us.
+Teach you new term to make sure we just replace this stuff in the bracket with D is a function of two omega.
+We know that our dipole moment is due to all possible which is alpha e squared.
+Exactly the same thing that we did when we sold Florence Oscillator one to the oscillator model.
+So here we are to. And we get.
+It was a dipole moment in the second order 60.
+Yeah. And then the final step because we want to calculate kind.
+So we just took the which is dipole for particle.
+It's the type of volume. Yeah.
+That bit of a kind of lot to write out, but nothing particularly difficult,
+which is solving the differential equation using the same methods that we did for the wrench oscillator model.
+But we just have to be careful to pick out the terms that we're interested in.
+So in this case it was separating out everything into two omega because that's the solution that we're looking for.
+So that's the solution that we expect to get. Second harmonic generation.
+And I'd just like to show you how to do it and all that.
+So as I said, for the second order response, unlike the Lorenz, the linear case where there's only one solution that you expect to get,
+there's a combination of omega omega one and omega two that we could have solved for.
+So we could have solved it for two omega two.
+So if we were driving it for two separate frequencies, you get one, for the other, we get the sum frequency generation where we solve it.
+Omega one plus omega two or different frequency generation Omega one minus omega two.
+And you can solve it for the optical rectification. Yeah.
+So depending on which one you're asked to do, you just solve it.
+Your solution takes the form, whatever is in the brackets of the nonlinear response that you're trying to calculate.
+Yeah, I went in for time. So as promised, an interlude because that was like a lot mass the following.
+So to say this getting all this, let's say some interesting set when we did the kind of trailers for the lecture course,
+I think they're kind of one of the things I tend to get people interested in was you can learn how to make do in dark hotels.
+So have you ever come across this stuff or Berocca?
+Yeah. So people take it to kind of help boost their immune system.
+And so it's basically a vitamin A really high concentration of vitamins.
+And you've seen these guys before these kind of soluble tablets.
+There's loads and loads of vitamins. They're like 20 times your recommended daily amount.
+Um. And it turns out in vitamin B2.
+So there's other vitamins in there that vitamin B2 has this chemical structure.
+Why we interest. Why is this one going to be interest if we're interested in fluorescence?
+What property of that molecule can you see. It's going to give rise to absorption in visible or near infrared near you feel.
+Yeah, yeah. So we've got these double bonds in this ring structure.
+So these conjugates like a chain of C double bombs.
+And you've got some C and double N bonds in there as well.
+So these these high bonds remember they do allow the electrons to become delocalized in the atoms.
+And they get localized over a length L which corresponds to the UV.
+And then we get this vibrational relaxation after we've excited it up to its excited electronic state.
+And then you eventually get fluorescence light being emitted. This diagram is that of extremes.
+And what's the name of the guy? That's Jeff Blonsky. Yeah.
+So it's useful to be able to sketch these graphs because you can get asked to kind of show me the energy level diagram for absorption or whatever.
+And this is kind of just to remind you kind of this is the G Blonsky diagram for fluorescent.
+So yeah, back to cocktails. So if night this is just water.
+They shouldn't look fluorescent. This plastic is actually fluorescent.
+This. That's not the liquid. And that's just the kind of polycarbonate stuff that the, um, bottles made of.
+So I've got a tiny piece of the baroque tablet.
+If you've got a whole one and it just it just gets too concentrated. So you write, so you drop it in.
+Turn the lights off, you see a dramatic effect. They should be able to see.
+It's glowing green. Yes. So? So actually it's not fluorescent under white light, but under UV light.
+You get this lovely bright green fluorescent drink.
+Um, so you can mix it with vodka or other kind of things are available.
+And you can also add different fruit juices and stuff to like change the color so you can go to two different colors.
+And also really it's like a fluorescent compound, but you're allowed to drink it because it's like approved as a food.
+So feel free to try that at home.
+The other really interesting thing I discovered about this, so when you like, that was a tiny piece of the tablet, if you like.
+Imagine drinking a whole one of these. These are like 20 times or 20 percentage of your recommended daily intake of the stuff.
+So where do you think the access goes? When you drink it so your body can't absorb.
+20 times its recommended is 20 times.
+What is it? Yeah, it's like a one that 1,000% of your recommended daily allowance.
+So what does your body do with that? Like excess stuff.
+It gets excreted in the toilet. So it also turns out that that glows in the dark as well.
+So you can kind of trace where the kind of fluorescent stuff goes.
+So it's kind of interesting experiment if you've got a UV light at home.
+Okay. So back to the storage. System.
+So you can get those UV lights on Amazon for like £9 or something pretty cheap.
+So where were we. Okay so we turned the non symmetric potential.
+So now let's look what happens when we repeat this for a symmetric system.
+And what do we expect to happen when we replace our normal symmetric system with a symmetric system for the second and third the responses.
+Yeah, we expect the second order one to disappear. So this time we modify our restoring force with something which is r cubed.
+So it's unsymmetrical when we look at the force.
+But then when we take the integral it becomes a symmetric function.
+So we've now got a similar very similar case another nonlinear order ordinary differential equation.
+But this time our nonlinear term is in r cubed.
+So we do exactly the same thing as we did before.
+We take exactly the same method. But this time we're running it through the slightly different.
+Yeah. Yes. You guys can't it down as you go?
+Yeah. I don't like to access it on any of them. Oh, like.
+So we've now got this modified, slightly different version of a nonlinear equation of motion,
+this time with acute functioning is our nonlinear response.
+So we follow exactly the same method.
+So let's do that on paper. So we convince ourselves that it works.
+Okay. So our equation of motion. Match rate potential is now.
+Or double talk to gamma photons as a normal of the restoring force plus.
+B times to three, which is our normal linear transformation.
+Of driving force. So very similar. Except we now have uh cubed term in our equation.
+So we're going to do exactly the same trick again. We're going to do a power series in Lambda.
+And this time we don't want r squared. We want r cubed because that's the thing we can substitute into the equation.
+So this time we want to calculate r cubed.
+So if you kind of think back to that kind of how when you first learn to expand a quadratic things out.
+So if we've got a plus b plus c. And with Cuba we're going to get.
+Cubed plus b cubed plus c cubed.
+3AB. You see?
+Plus. Hey. Yeah. Do you remember that? Some kind of GCSE level maths.
+So we now apply that to this term.
+Ah. And we get. Lambda cubed are one cubed plus 6 to 6.
+Or two cubed plus lambda nine.
+Three cubed plus three and a squared.
+Yes. So we look at the first order term.
+Just to equation the motion. Again, we get exactly the same that we were expected to get from the oscillator model.
+Look around here. There's nothing to land up. When we look at the huge term.
+So we're trying to replace this guy. We look at some have argued there's nothing proportional to lambda, so we just insert zero.
+Do you have a lambda on the right hand side on driving force?
+So exactly the same solution that we got the symmetric non symmetric equation of motion.
+So now let's look at the second order. Same process.
+We're now in Lambda Square terms.
+So we're picking out all the terms in all and argued that have lambda squared.
+And then we get to our kids turn. We look along here and we find that there's nothing personal to Lambda Squared this time.
+Yeah. So we've got kids now.
+Six and nine. Uh, nothing contained within lands.
+Acute. It's going to give us a lambda squared value.
+So this guy goes to zero. And again on the right hand side there's nothing proportional to lambda squared.
+So there's no terms that give us lambda squared when we keep that value at all.
+And that explains why we don't get a second order response for symmetric potentials.
+And then finally the third order. Waste motion.
+We pick out all the terms and of course, you know, to land cubed.
+The ones with land with the Dark Three in.
+You get to the lambda, you get to the be all kids turn look along at all cubed.
+And then we see we've got the term here. Yes.
+So we now insert in here minus we got a.
+And, uh. He moved up one.
+So that's our third alternative. And instantly you can look at this and you see.
+Well again just like when we looked at the second order response, this is the first order response of the material cubed.
+So the the the polarisation between choosing the material by shaking the charges
+is now responsible for driving the third order response of the material.
+So zero response for the second order.
+Now we can show that mathematically.
+So yesterday we were able to kind of explain in a hand-wavy way that if you square E in order to P to go negative,
+when you have a negative electric field, you have to have some break in the symmetry of chi to achieve this.
+But now we can do it in a far more rigorous mathematical way to show that the equation of motion becomes not driven like there is no solution.
+There's no driven solution to this term, and it's only the third term that we have which has this term in it,
+which is proportional to the linear response cubed to the third order response material.
+So we can do exactly the same treatment that we did previously.
+We can we can look at the first order equation of motion substitute in whichever values of omega we want to do.
+We look for a solution. And we get exactly the same solution that we would get for the linear response in terms of omega.
+And if we set in again multiple fields, we can just label them as J in terms of their indices.
+But you only get the linear response to drive it with omega one if response is a frequency omega one, and so on.
+So we get exactly the same susceptibility function for the linear response.
+Nonlinear susceptibility in the second order for essentially symmetric material vanishes.
+So there is no right to displacement of calls to zero.
+The third order, one becomes interesting again, because this, this term of one is our linear response of the material.
+So the linear displacement of the charges are at this time that cubed.
+And it becomes quite it's not difficult to solve obviously what we go through the second harmonic generation derivation.
+And it wasn't difficult. And there was lots of writing here to copy things and substitute them and then divide them out,
+putting that the response that you're interested in in the brackets.
+So this time we have a lot more combinations of omega one, two and three that we might want to look at.
+But the process is exactly the same. You just look for a solution in R, uh, where where you have the frequency,
+which is the combination of the things that you're looking for that you want to solve for.
+So I've never asked you to do that in an exam for the third order.
+Not because it's too difficult. It's just a lot of writing and it's just really fiddly and you'll enjoy doing it.
+And I want to not so, but I will ask you to do the second order responses.
+So QG some frequency, some difference because it's the same process.
+But you just need to understand that it's exactly the same process that we follow in the third order,
+but it just becomes a real kind of mouthful to write these things out.
+So this is the generic form where we just replace omegas, the three different frequencies with m and and p.
+So and p could be one, 2 or 3. And you can see there are lots of different combinations.
+They remember how many from yesterday. 44 discrete frequencies that you can generate.
+Um, but this is the general form that you would use, and I wouldn't ask you to derive it because it's just it's just unpleasant.
+So that's the end. So we've looked at what happens when we introduce a non-linearity into the events oscillator model.
+And we've learned how to solve a certain type of nonlinear differential equation using this kind of neat perturbation trick.
+Um, and this allows us to look at the differences in the first, the second order and third order response to symmetric and non symmetric materials.
+Um and we can now derive nonlinear susceptibilities for second order processes.
+So can you also understand the complexity of the third or the susceptibilities and how they're derived.
+But you know I'm not going to ask you to do it just because it's a lot.
+Right? So there's some reading to do.
+So in the textbook. Um, there's.
+It's chapter one, pages 2032.
+Describe this. So you go back and you can go read through it.
+He puts it really nicely. You can follow through the derivation.
+And I've also put some notes on earlier for this particular section typed up basically a kind of
+reduced version of what Boyd describes to kind of covered this lecture if you want to go back.
+Um, but it's easy to find that quite complicated or.
+It was a lot of maths, wasn't it? But when you look at the maths, none of it's difficult.
+It's just solving differential equations, substituting solutions into your equation of motion and then picking out the terms that you want.
+I understand that when you multiply it out for your images,
+you then have to separate it into the case of QG into two, because that's the solution you're looking for.
+Okay. So make sure you attempt the online quizzes only because they're useful for both of us.
+They use with me to check how how well you guys are understanding it, and useful for you to kind of also see how you're doing.
+Um, and I'll put these content early, and I'll also put up an example of how to do,
+yeah, some frequency set first derivation as well because that's what I think said.
+See you all next week. So.
+Let's take a. Look.
+Yeah. So if you. Don't.
+Know. What. You're going to.
+You. Know your own.
+Little. Confirmation.
+Like. This.
+But. In the case of.
+My blood pressure.
+Visualization. This is. Actually not my class.
+I.

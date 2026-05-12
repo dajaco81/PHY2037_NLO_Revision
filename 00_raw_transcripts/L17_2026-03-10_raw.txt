@@ -1,0 +1,509 @@
+Oh. Yeah.
+Oh. Yeah.
+Yeah. You.
+Know? Yeah.
+Yeah. Yeah.
+Yeah. I thought drinking.
+I said I would. This.
+Is. Why?
+I said. This because.
+Yeah. I don't want.
+To have cold. Freezing.
+Hey. So we're on to almost on to our final topic, because the next course that we've got, today's lecture on laser sources.
+And then next week we're looking at applications of all the stuff that we've learned, how we can apply,
+how we can apply phase matching, how we can learn new stuff about biological materials and nanomaterials.
+And then in the final week,
+we're going to have lab tools where you can go around and see some of the labs and ordinate systems and microscopes and spectrometers that we've got.
+And you can see the stuff in real life. So just out of interest, how many people are doing BSc and how many people are doing this?
+Oh yeah. So put your hand up if you do. And then and since it's a few people.
+So I'll be offering and this projects on like topics related to this, I usually get a couple of people from the course to get this project.
+And of course I run it back projects at the moment, but not any of optics.
+Um, looking at plots, which is quite cool. Anyway, so we're now looking at laser sources, the kind of final piece of the puzzle.
+So we've looked at the types of the kind of optical, um, excitation powers we need to generate nonlinear optical processes.
+How would you do this in high end? A, um, mixing objective different from the code spectrum.
+So you can just do what it's very. Easy to too hot to cold.
+So we're gonna be looking, revisiting the requirements for excitation for nonlinear optical processes,
+thinking about how lasers work and how we use them to generate really short pulses.
+And then we'll be introducing this concept called mode locking, which is the mechanism we use to generate these really short pulses.
+And then finally we'll be looking at for kind of some of the exotic things that we've looked at either for,
+like mixing some frequency generation and hearing from and where you may multiply the excitation fields.
+We're going to look at how you actually synchronize these pulses together.
+So I showed you this slide because it's really important that it kind of summarizes why we need really high electric fields.
+So typically when we're dealing with kind of normal light linear light matter interactions, we're not driving the electrons particularly hard.
+And they're pretty much just sat in a parabolic potential.
+So we don't really observe any non-linearity in their response.
+It's only when we drive them really hard. And for non-resident system we're talking about electric fields getting close to the atomic field strength.
+And when we achieve this,
+we then start to see these non-linearities in the restoring force that's currently electrons back to that equilibrium position.
+And this. Is kind of the key to why we need high electric fields.
+We've done this back of the envelope calculation. So we make the assumption that Chi one is of the order of unity and it doesn't have any units.
+And then we apply these equations to work out kind of just rough back of the
+envelope calculations of what Chi two and Chi three would be approximately.
+And then when we knew the value of electric field.
+So the atomic field strength, we stick it in this equation and it's in a red box.
+Was it the red box? You need to remember it.
+So this allows us to convert electric field strength into an intensity.
+Remember its intensity that we actually measure up in the lab when we're measuring the energy in a laser beam.
+And we put the the atomic field strength there as an approximation.
+And it comes out that we need three times ten to the 20W/m², which is a ridiculous amount of power or intensity.
+We talked about how we can achieve that intensity by reducing the area's square meter photons to generate the image.
+In fact, we focus it down to a small spot to get good spatial resolution.
+But we looked at, even if we focus it down to a diffraction limited spot,
+we're still nowhere near the powers that we need to be without having really high average powers that are just going to burn the sample.
+So this is why we then looked at the idea of increasing the intensity by squeezing the light into really short pulses.
+So the peak intensity of these pulses is very high when we squeeze them into these kind
+of quantum mechanical timescales of the order of 100 femtoseconds or a few seconds.
+And then we did this calculation to derive what t the peak.
+It's kind of on the left hand side. So it's the time bandwidth product.
+And for a given pulse shape that has a certain number and we derived the time
+bandwidth product for Gaussian pulses which came out around 2.4 41I think.
+So if you know that number you can put it in and you can you can very accurately
+convert the bandwidth of a pulse into the into the time width of the pulse.
+So we've characterized that pulses. We have a repetition rate.
+We have a pulse width. We have an average power. So given these things you can calculate some very important properties of the pulses.
+You can calculate the energy per pulse I can choose. So you take the average power supply by the rapid rate of pulses per second.
+And you get the energy of one. You can then use that to calculate the peak power.
+So once you know that the energy in each pulse, you divide it by the pulse width.
+And that gives you the peak power. Then divide by the area and you've got peak intensity.
+Yeah.
+So we've exploited both the spatial and time domain to squeeze these photons into those two dimensions so we can get really high peak intensities.
+And the reason that this works. So if we were to squeeze the light into short pulses for a linear process and Brahman scattering,
+we were saying yesterday it's a really weak slow effect, far too slow for imaging.
+If you wanted to megapixel images, you'd be sat there for about two days trying to acquire a spectrum in each pixel.
+Pulses don't help us here because Romans scales linearly with intensity.
+The nonlinear optical processes that we're looking at scale non linearly with intensity, not average power.
+So by squeezing the intensity to these high peak values.
+So we then get this nonlinear response to these ridiculously high peak powers that we get with these short pulses.
+The average energy is the same obviously in between each pulse we're not getting any response whatsoever.
+If we average over that a whole bunch of pulses,
+the signal that we get is significantly stronger by tens of orders of magnitude than if we just exposed it to the CW at the average power.
+So that's one of the fundamental concepts. The other property that we looked at was kind of peak power versus bandwidth.
+So if you want to get a really strong nonlinear signal, you want the shortest pulses possible.
+So ideally you want about the about the shortest pulse you can kind of achieve in a microscope.
+So remember dispersion is a bit of a problem. We go to class and we stretch our pulses out.
+Any shorter than hundred femtoseconds you get it through all the class in the objectives.
+Um so 100 femtosecond pulses give us a very high peak intensity intensity.
+And this is ideal for things like two photon, three photon fluorescence,
+second harmonic generation, third harmonic generation, and the four wave mixing.
+Because here we just want a high peak intensity. Not so good.
+If we're looking at the nonlinear Roman processes.
+So compare with Roman cars or SRM, SRS.
+Because here if we were to use 100 femtosecond pulses, we'd lose the chemical specificity.
+We want to pick an excitation laser that has a bandwidth no broader than the line width of a Roman road.
+Yeah. So that's the two different types of exploitation that we'd like around 100 femtosecond or a few picoseconds,
+which allows us to target the Roman line with. So this is kind of still doing recap.
+So let's look at the lasers that we'd need and start to think about how they're
+made and the physical processes that we exploit to generate these short pulses.
+So you've all covered laser emission level?
+Yeah. We covered this in the introduction.
+So you take your gain media and you achieve this thing called population inversion,
+where you pump the game medium with like a high energy broadband light, like a flash lamp or something, and you excite.
+The idea is to excite all of the atoms into an excited state, so that when your laser wavelength comes through,
+it stimulates the emission or the transition from the excited state down to the ground state.
+So one photon comes in, it stimulates this guy to fall down to here.
+And then there are two photons generated from that transition.
+And the key to this process is that the two photons they're emitted are perfectly coherent.
+So the stimulation process or the first photon that came in by the virtue of this,
+this kind of, um, stimulated effect, the two photons have to be perfectly in phase.
+Yeah. And if you have a whole bunch of atoms in a laser cavity, and you send the photons bouncing backwards and forwards between two mirrors,
+you get this kind of cascading effect where two, two photons stimulate two more photons.
+You have four photons, those four photons, these eight photons, and so on.
+So everything gets amplified up and you end up building this huge amount of coherent light traveling backwards and forwards in your cavity.
+And it's the cavity that determines the precise wavelength that's emitted.
+So the medium itself. So whether it's like a ruby laser determines the range of wavelengths that could be produced.
+So there's a kind of. Range of energy levels that that that you can stimulate.
+But the precise. Emission is controlled by the cavity.
+So you need to design a cavity. The only supports certain wavelengths, the ones you want to produce.
+And then the idea is the one of these cavity mirrors won't be 100% reflective.
+It'll be something like 99% reflective or maybe 90% reflective.
+So some of the output is leaving the laser cavity. Yeah.
+This is all kind of not neat. People playing faces.
+So the movie laser was the first one produced. So there was this flash them producing but basically big flashes of white light.
+But then those white light pulses, you've got green and blue light which stimulates these two excited states,
+both of which then cascade down into this kind of temporarily stable state, which has an energy level associated with the red emission.
+So the electrons sit here for a certain amount of time.
+So the idea is you get this population inversion, and every time a red photon comes through,
+it's going to stimulate the emission down from this metastable state.
+And we get the laser emission. Yeah. So that was that was the very first one that was produced.
+And it was very simple kind of fitted into this. You hand ruby laser medium flash lamp.
+And then the end of the uh three was kind of coated with a semi reflective coating.
+So you can allow some of the light out. And at the other end you've got sort of 100% mirror.
+Let's look at what happens inside the cavity.
+So as I was just saying, it's the game material itself controls the range of laser wavelengths that can be produced by that material.
+So depending on the lifetime. If that meant a stable state, I remember you got the uncertainty principle.
+So if they sit there for a very short amount of time, you've got a big uncertainty in the energy.
+So you've got quite broad width. And if they sit there for very long amount of time, you get very narrow range of energies within that transition.
+So it's the game medium that controls the bandwidth.
+So the laser game bandwidth, and it's the cavity which controls the wavelengths which are actually emitted from the laser.
+So in a CW laser we can if when we have a mirror and mirrored cavity of a certain length L, we can support lots of different modes within that cavity.
+Pretty much they're quantized, but to all intents and purposes got this infinite range of wavelengths that we can supported in this cavity.
+But only the ones that fall within the game bandwidth can actually be produced.
+Yeah. So you can see if we kind of fit sine waves into length L of a cavity,
+you've got integer numbers of lambda lambda n which is equal to twice the cavity length of angel.
+Yeah. It's a bit like that quantum mechanical thing you did when you were fitting things into a square box.
+Exactly the same kind of process, but that if we then substitute in, um, c equals f lambda into this equation and set and this one,
+you get this quantized difference between the modes which is c divided by L.
+Yeah. So at cavity itself can support a large number of modes.
+If we want to produce what we want a laser to produce CW continuous wave emission, uh,
+single wavelength, the cavity needs to be designed so that it only supports one mode.
+And people achieve this by inserting a very special narrow line with filters into the cavity,
+which only allow one wavelength to propagate within the cavity.
+Yeah. And that's kind of how I use conventional, um, helium neon laser or groovy laser works.
+You have a very kind of well designed cavity with a quite posh, complex filter that sits in that,
+that only allows the wavelength that you want to support in one of these lines, and you probably pick one of the ones right in the peak of the game.
+Bandwidth to be to be get a fine tuning cavity.
+But that's not what we want for making our optical pulses.
+Remember we looked at this kind of. Description of how the pulses are formed.
+So we want a cavity that will support a whole bunch of nodes within the cavity.
+We don't want to filter out any nodes so that we we want to have the broadest bandwidth we can to produce short pulses.
+And remember if we let's say if we if we line up all the peaks across all the different wavelengths within the cavity,
+we get constructive interference. And as soon as these guys go up phase, you get destructive interference.
+And that's what forms these short pulses within the cavity.
+So we designed our cavity to support a large bandwidth of pulses, hopefully all the way across the game to the laser medium bandwidth.
+And the idea is we need to somehow lock the phases of the of all the different modes so that at certain time points you get the pulses point.
+And this is the tricky part. So.
+The relative phase of all the different modes has to be locked so that a certain point within the cavity, everything is at the same phase.
+Yeah. And that's the tricky bit where we have to kind of look to different types of
+solid state physics to try and put something in the cavity that makes this happen.
+And this is the mode locking. So.
+The trick and it's really quite clever trick. I'm the person that came up with this is a really clever idea.
+So the idea is you insert something into the cavity that favors high intensities.
+So for the see told me you laser, you had to insert a filter into the cavity that selected one of the modes within the cavity.
+So one wavelength of light only. Here we want a filter that's that favors high intensity regardless of what color or wavelength the photons are.
+We only want to let high intensities of light through this device.
+And the reason we want this is that we want it to favor.
+We want strong, high intensity packets of light within the cavity to be passed through this device, while low intensity levels of light get absorbed.
+And if we do that, we can squeeze the light into these short pulses.
+So it only favors. The transmission of short pulses of light that have high intensity.
+So on this graph, we've got time and we've got the optical power and then the losses,
+so that this device that we've put into the cavity, the loss is high when the optical power is low.
+And then when, when the, when all the modes are locked together,
+somehow this device responds to the fact that we've got high intensities of light and the loss is drawn.
+And by doing that, if after a few while tapping very quickly,
+the laser locks itself into this very stable situation where the short pulses are created,
+and by the nature of these short pulses,
+that the only bits of that the only packets of light within the cavity that get passed through this dispersion device.
+So there are a couple of different ways you can do this.
+And it's the material or the mechanism that you choose that controls the pulse width.
+Regime that the laser will work in. So the first one we're going to look at is something called a saturating absorber.
+Saturating absorber mode blocking.
+So we put this piece of material. Into the laser cavity.
+And it's a kind of usually like a solid state piece of material.
+And the idea is that you can. It has a valence band and a conduction band, and you can excite electrons up from the valence to the conduction.
+And every time that happens, you're absorbing a photon. So this is light absorption.
+Just as we looked at when we were looking at kind of contrast mechanisms.
+We've got something which is kind of basically pigmented. And you can absorb photons through this process.
+But if the intensity is high enough, if we put large intensity of light through this material or a pulses,
+there's only a certain number of electrons in the balance band. And if the intensity is high enough that that absorption gets saturated,
+everything is excited to the excited state and it can no longer absorb any more photons.
+So what happens is, if you have low intensity of light, few photons get absorbed and no light passes through the cavity.
+When the intensity reaches a certain level, that absorption gets saturated and these pulses get transmitted through the cavity.
+So you set the amounts absorption to be relatively low.
+And when you have high optical power, the loss dips.
+And, you know, pulses pass through the cavity.
+So you've got something in the cavity which favors the transmission of very short high intensity pulses through the saturate absorber,
+um, and the relaxation time. So these these electrons won't sit up here forever.
+So they'll sit in the, in the kind of conduction band for a little while, and then they'll cascade back down on the kind of peak second timescale.
+So half a picosecond to 30 picoseconds. And if you remember this kind of the mechanism through which this happens is,
+is through kind of heat transfer or vibrational transfer through the system.
+So this happens on the order, the vibrational polarization that we're interested in.
+So this type of laser is very good for the picosecond regime which is what we want for nonlinear ROM and infrared processes.
+So everyone can see how this works. There were no calculations that year or anything.
+It's really just understanding how the Statue of Absorber favours the transmission of short pulses, high intensity pulses of light.
+If you want to go shorter. So picosecond pulses are great.
+But as we said, we 100 femtosecond pulses. Um, for other applications.
+The next or the other most common type of mode locking is curls mode locking.
+So curls will occur if effect is an intensity dependent refractive index.
+Say some green blocks means you don't need to remember this equation,
+but it's just telling us that refractive index is equal to the normal refractive index plus a value,
+which depends on the strength of the electric field. And it's a nonlinear effect.
+So it scales with the square of the electric field, which means it's heavily affected by high intensity pulses.
+So changing the refractive index, we need to think about how we would use that to give us this kind of intensity dependent loss within the cavity.
+And the way you do it is to introduce a lens into the material.
+So the beam profile of our laser beam, and we've looked at kind of how beams of focus,
+they get focused down to something that's shaped very similar to a Gaussian.
+So the intensity profile across your laser beam is pretty much a Gaussian, which looks very similar to the profile of a lens.
+So when you shine the light through this term medium, it generates a lens inside the material.
+So right in the center of the spot you've got a high refractive index.
+And towards the edges of the beam spot. You've got a lower refractive index.
+So you're generating a lens within that material which focuses the light down.
+So high intensities of laser light get focused through the Kerr effect focusing the beam down.
+And the trick that you use is to place an aperture on the other side of the color material,
+so that only the high intensity pulses which get focused down make it through the aperture.
+This is a really clever idea how you can basically insert some kind of satchel.
+It's not. It's not based on saturation which which is controlled by the picosecond time scale.
+This happens much, much faster. And we can support pulses down to a few a few femtoseconds.
+And basically the limit here is the dispersion and how well we can pull the pulses back together.
+So it's either a separate piece of material in the cavity or in a lot of cases, the actual laser material itself.
+You has the kind of that. And most materials have this kind of nonlinear refractive index.
+And if you take something like a sapphire crystal, um, and you just design the cavity so that only the focus beams get transmitted through the cavity,
+the whole laser cavity itself only favors the high intensity pulses.
+And this allows you to get down to a few femtoseconds.
+So this is what we want for the kind of very short pulses when we have the high
+intensity required for the nonlinear effects that on vibrational spectroscopy.
+Any questions on modal locking or short pulses?
+You can all see it's pretty simple concept.
+It's quite technically challenging to build these things because they have to be built to a very high quality.
+You can't have any dust in that.
+They have to be they have to be pumped full of like an inert gas, because any moisture in the cavity will cause absorption.
+And so there's a lot kind of technical stuff to go with it. But the principle itself, to make the short pulses is actually really simple.
+So the next thing we're going to look at is for these very short pulses, the ones produced in the femtosecond and second lasers.
+Dispersion is a real problem. So the color medium that you need and the gain medium that you need are kind of transparent lossless materials.
+And they tend to be dispersed if they have normal dispersion.
+So the pulses that you're trying to create are also trying to kind of pull themselves up while you're creating them,
+because the red light sees a low refractive index of the blue light to make the very short pulses.
+You need a very broad bandwidth.
+So dispersion in the picosecond cavities isn't so much of a problem, because you've got a 10th of the bandwidth for the beam come from second pulses.
+You've got ten nanometers of bandwidth. So dispersion really does become a problem in these very short pulses.
+So you have to. This is the other complicated thing that you have to do.
+You have to introduce something into the cavity to compensate for the dispersions that we've already looked at creating and present compensation.
+So you put optical devices in which themselves disperse the light,
+but you set them up geometrically so that you can give the blue light a shorter
+path length than the red light to push the squeezed the pulses back together.
+So within your laser cavity, you'll need some kind of grating compensation or prism compensation, which is really just working against that.
+The dispersion in all the other optical elements when you're trying to stretch the pulses and these ones are compressing the pulses.
+So again, there's no kind of calculations you need to do. Um,
+the sort of thing you'd be asked is to recreate or draw these diagrams explaining
+how you can control the path length of the bat versus the blue light.
+Um, how this compensates for dispersion.
+And then here's an example of a kind of quite standard, um, type of ultrafast laser with titanium.
+Sapphire is, uh, this is what the cavity would look like.
+You got the game medium, the titanium sapphire crystal, which is also the Coletti zinc material.
+Um, and then you have your grating, you know, your velocity dispersion compensation, which is either a great small prism part.
+And then here is where you have your aperture, which controls the Kurlansky bit,
+which selects the lives of the short pulses through your through your laser system.
+So that's how we produce the short pulses.
+The next challenge technical challenge is synchronous excitation.
+So the latest that we've looked at the very stable you can get them favorite.
+But now some of them about the size of a shoebox. And they're completely sealed and pumped full of like nitrogen or some other
+inert gas so that everything stays nice and stable and there's no absorption.
+Where things get trickier is when we want to look at nonlinear processes where we have two or more input wavelengths.
+So some frequency generation for wave mixing we need at least two input frequencies to do our wave mixing.
+Yeah. And to do this we need two ultrafast lasers.
+But more importantly. We need the pulses to be perfectly overlapped.
+So we could just take two ultrafast lasers and stick them on the bench next to each other, like this.
+Passive mode locking. They're just producing their pulses at whatever repetition rate and phase suits them,
+and it's very hard to get them to produce those pulses at the same time.
+And if the pulses don't go through the material. With an overlap.
+The material doesn't see the two wavelengths and you don't get any of the wave mixing.
+So temporal synchronization of the pulses is critical.
+You need laser cavities, which have exactly the same repetition rate and a perfect overlap between them.
+So this kind of difference between the pulses in terms of time between the two peaks is known as jitter.
+So if the pulses are kind of moving around that you define, that's why the average time difference between them.
+And you want your jitter to be almost zero. So this was one of it.
+So when, um. Guys in the Ford Motor Company in the 60s did this.
+They didn't use pulse lasers. Um, they use CW lasers.
+And then I think someone else visited it and they were using nanosecond lasers, which is not ideal at all,
+but they're better than CW lasers, and it was relatively straightforward to overlap them.
+The real key to being able to use this for imaging is to use the very short pulses,
+the picosecond pulses, so that we can do it with low average powers and we don't obliterate a sample.
+Um, and in the early 2000s, this guy, Eric Keltner, who again was working for Sony Scene in Harvard, um,
+came up with this idea, which was a way to electronically synchronize two titanium sapphire lasers.
+And he did this the whole way. Um, and I remember so he.
+You don't have to worry about how this works. It's really complicated, but essentially what it does.
+He takes the output of the two laser cavities and has two different diodes.
+He picks off 5.1% of the laser power, puts it on to two diodes, and then he can measure the pulses on those diodes coming out of those two lasers.
+Um, and then he sticks it through some quite complicated, um,
+electronics where they take like the whole, I think it's like a 19th harmonic of the repetition rate.
+Um, they put it through like a mixing piece of electronics.
+And then essentially what he comes out with is a kind of delay error.
+Coming out of the the electronics and then one of the lasers, he mounted a piezo electric states.
+So if you come across piezo electric devices before so some material that you can change the length of it by flying a voltage,
+and then you can get things to move by a few nanometers to microns.
+And the reason this is a good way to do this is because it happens very quickly.
+So what he does, he has this amplifier and and he applies a voltage to this piece of electric mirror mount.
+And essentially what he's trying to do is control the cavity length of this laser so that the frequency and phase of the pulses match the other laser.
+And it's a really kind of clever way to do it, but it's really tricky.
+And I'm telling you, he was doing it as a PhD student.
+If take the date off the laser and getting electric, drill out material into the laser and mount this thing on.
+But he got it to work. Um, and the problem is the temp.
+But the error in the electronics is a few tens of femtoseconds.
+And this is fine if you're working with picosecond pulses, because 20 femtoseconds is significantly smaller than,
+say, three picoseconds, and you don't really notice the jitter.
+But if you wanted to go to femtosecond excitation, say, 100 femtosecond pulses, the jet is now 20%.
+So your pulses of energy overlap for 80% of the time, and the signal is a bit rubbish.
+So we came up with a tentative to this.
+So we took two again to tie sci fi lasers, much more modern lasers, much smaller and sealed.
+And we used this trick, um, where we took the output of one of the lasers and took about 10% of that output,
+and then just sent that into the cavity of the other laser so that that other cavity sees the pulses from this laser, which is already pulsing.
+And then the curve ends in this mechanism that favors the short pulses also includes the pulses that we've sent in.
+And that just automatically locks that cavity to the other laser.
+And by doing that, you can get down to much smaller values of jitter.
+Um, in fact, that the jitter that we had in our paper was too small for us to measure so we could overlap some femtosecond pulses really,
+really nicely. Is there an adventure?
+Yes. When is the first author on that paper? So, yeah, we can, we can.
+Ben might show you this on on the lab tools.
+So the next thing that you might want to, or you do want to do with ultrafast laser pulses is frequency conversion.
+So you tend not. But you don't find any ultrafast laser cavities that produce short pulses at in the kind of visible range.
+So all the lasers that we get due to absorption and the dispersion all produce outputs of the range of kind of in the near infrared.
+So maybe 690 could be the shortest wavelength that you could generate with a tie sapphire.
+Most of them operate between 700 and say one micron in terms of the optimum blocking characteristics.
+So to get shorter wavelengths, say, into the visible, the only way you can do it is through frequency conversion.
+So you take your your tie sapphire laser or your or your, um, picosecond laser,
+and you use some of these optical processes that we've already looked at.
+Second harmonic generation is a very common one.
+So you have a device which does harmonic generation, some some imaging third harmonic generation to get half the wavelength.
+Again. And this is where this quasi phase matching comes in.
+So we're using parallel beams going through these crystals.
+And you have a device where you have this periodically pulled material that gives you this kind of alternating stack of material.
+And then we can use temperature controlling to optimize phase matching.
+And then you get an efficient second harmonic signal coming out.
+So this allows you to convert your near infrared light from your ultrafast laser into visible light.
+Um, that you can use for other things.
+If we want to do the coherent Roman experiment that we were talking about, we need two wavelengths to excite the sample.
+And for this one, we. So just like we use the second harmonic generation to convert our wavelengths.
+This time we use difference frequency generation device called an optical permit parametric oscillator.
+And essentially it's just difference frequency generation. So we've looked at DFG when we were doing the theory of nonlinear optics.
+We take our pump frame, we stick it into a very similar device to the one we just looked at for H.
+But this time it's placed in a cavity. You have your crystal, you send it your pump, it goes through the crystal.
+And then we have a cavity that goes round. So as we go through this crystal, you get a red photon and a green photon produced.
+And you sum in your difference frequency generation.
+The green photon goes round this cavity where the pulse light path length is matched to the optical
+path length associated with the correct rate to the time between pulses times the speed of light.
+So the pulse that was generated comes back through the crystal at exactly the same time that the next pump photon comes through.
+And that's what makes it an oscillator. So we've got a cavity.
+And we can produce strong a strong signal to synchronized wavelengths that we consume from a single input wavelength.
+And that's how we generate the wavelengths during coherent Raman using different frequency generation.
+So these are the two that we use for pumping Stokes generated from a single photon.
+Naturally, the way this is achieved, if you remember the ultra, the ultra fast lasers tend to work only tend to work in near infrared.
+So we actually combine this second harmonic generation with difference frequency generation in order to generate the signal noise enough.
+So we start with a single one micron laser beam, which generates our green photons.
+And those green photons are then sent into an IPO where we get a different frequency generation,
+and it's the temperature controlling of the crystal that allows us to tune the wavelengths of the signal like a beam.
+Yeah. And you'll get to see this in the lab demos next week.
+We can look at an IPO. Um, and it's very simple calculation.
+It's just converting a difference frequency equation between, um, wavelengths.
+So it's just one over the wavelength.
+If you ever asked to calculate the signal like the wavelengths it's just one over the pump wavelength is equal to one over the super plus one.
+I feel like it's a really simple calculation to do. Hey.
+So. That's it for a kind of laser generate like how we generate the light used for nonlinear imaging.
+So you can explain the excitation requirements for different nonlinear optical processes.
+So you can discuss the ideal pulse characteristics for say, second harmonic generation versus coherent Raman.
+And you know, the differences because you don't want a pulse where the bandwidth exceeds the ramen line width.
+Otherwise you lose your spectral resolution. You can explain how lasers work.
+You can explain how mode locking works for both picosecond and femtosecond regimes.
+There's no calculations to do for the mobile.
+Okay, so you might be asked to like draw graphs of like the loss versus the gain showing where the pulses are for example.
+We'll talk about the difference between the semi the actual absorber versus cleansing and how that controls the pulse width.
+And you can now look at the that. You can now explain how the frequency conversion works for generating these synchronized pulses for
+things like hearing from and and calculate wavelengths on the signal light for different countries.
+Okay. So that's it for the laser generation.
+So our next lecture would be on applications for.
+Yes. So we'll start this on top of it.
+We'll do this one on Monday. So we're going to go through a few different applications of things that you can do with nonlinear optical imaging.
+And it's kind of some of it is just nice stuff that you can just sit there and take it and enjoy.
+But there will be stuff that we pertinent to the exams,
+because we're going to be looking at how things like phase matching affect the contrast and how we can use that to our, um, advantage.
+And the reason I'm putting this up is because we're going to do, um, lab tours of all the different things that we've discussed in week 11.
+So I put Monday, if we can happen, we can have this last week in terms.
+Yes. Okay. Um, so it needs to be Monday, either be the Monday slot or maybe the Tuesday slot, but I'll confirm that by email or next week.
+Um, so you'll get to see relevant devices, infrared imaging devices, second harmonic generation microscopy okay.
+Roman microscopy. That's a picture back here on the microscope.
+Um, and you'll also get to see how Napo works. So we'll, we'll meet in the room and then you leave all your bags and stuff in here and,
+um, it's got the commentary on stuff, so I'm hoping to get through the application.
+We will get through the applications lecture on Monday.
+Um, and then we'll get Tuesday off because we won't have any more material to cover.
+Um, and then we'll meet again for, uh, lab demos the following Monday.
+So this gives you more time to focus on your kind of your videos, and I'll be free on the Tuesday timeslot.
+If you want to talk to me about your videos or anything, but I'm pretty much met with all of the groups so far.
+Who hasn't come to some of your meeting today on time and some tomorrow.
+And then you guys got yours. But. Brilliant. How the heck is anyone done there?
+Yeah. You're working towards it.
+You're looking forward to it. I'm looking forward to seeing results.
+Okay, so we'll meet again on Monday for the final lecture.
+Um, and then again, for the last time, I. Just feel.
+Like. I can give you something specific.
+Um. So, um.
+So. Now I'm okay.
+Thank you so much. Oh, yeah.
+Um. Yeah. So I was I was. Like.
+Yeah. Yeah. I'll talk to. You later.
+Oh, no. Yeah. Oh, no.
+No. Um. Because she continues.
+Yeah. Yeah. So. Yeah.
+It's okay. She's fine. Yeah. Yeah.
+Yeah. Oh, no. It's just the way one word is.
+Yeah. It just might. Bring some people.
+Yeah. Yes. Oh, yes.
+And she goes. I don't know if I was not a phrase that you made for team.
+Yeah, yeah, yeah. Yeah.
+Oh. Yeah.
+Yeah. This.
+One is yours. Is the most important to raise.
+Your loved ones. These are the ones that are being stupid.
+Like someone's gonna ruin the owners are gonna like.
+He's not gonna. If he sees himself like, you know what's going on.
+Why do you ask nice people? Yeah, I really I really.
+Need to get him yapping about me. Yeah. You're always. He's going to be talking about three minutes of video.
+Yeah. Yeah. This is a personal good that goes into the song.
+Yeah. Yeah. This woman was like. Yeah. Yeah, I'm just not that chatty.
+He analysing as well. Yeah. Why? Why would I read a whole people.
+Why don't you sit around and hire people in this nation?
+You just. Prince Charles, you need to summarize this, please.
+That's why it was invented so bad. Chatbot said you did this.
+Lovers. I found the pay for doing it. Like.
+Yeah, reading was voted for, like, office was a waste of time.
+Um, we can have a look at the questions, like six months ago.
+No no no no no no. I feel like I we discussed we are not sending even half the research you need to know.
+No, not because we. Yeah. Because there's other ones out there about money. So what makes this different this year?
+Well, when I was first time on the panel, we put the slot for an hour.
+Then how do we told him? It doesn't matter how long. How do you know?
+Because we know that I think like or not, even if we don't have them because they are different and rely on the fact,
+the reason why they solve the questions is like it's more like quite know how quite you said, well, what makes it better?
+That's what we're trying to sell. We're trying to sell. Yeah. And informed about non-linear optics otherwise wise.
+No, we're not trying to sell anything else. Question is a selfish ambition.
+Why is it a team or solo? Yeah.
+No, that's. Yeah, that's that's, uh, quite a change from your previous research.
+Yeah. That's the most. Okay, that was out of the question.
+Room for growth in an adult world. It's about your research.
+It's just that you don't know us. Yeah, yeah, yeah, we get it.
+We're going to learn to exercise. You ask any other questions? I think that's terrific.
+I don't think you know. Maybe because that's what we might otherwise think about.
+Otherwise, you might as well just say powered by harissa. Yeah. I'm going to just say that for us.
+Exactly. That's all we will do now. We've just got half an hour to get to bed.
+I think we need to think. What do we want to know? Yeah, we talked like more lead in class.
+I think that's all in. If we have efficiencies of value that is already being talked about this for comfortably two hours.
+Yeah, yeah I know. Yeah. We don't want to hours that we want.
+Yeah we want out. If we want to.
+We're not sure how to answer that. We have too much in court.
+Yeah, I think we have too little. I think asking that many questions massively increases our net.
+You know very much. Yeah, I agree, that's two questions.
+You do need to do 15 questions each. Take two minutes to answer.
+That's half an hour, right. I'm like, really neat.
+Where are you actually going to use like 1 or 2 of the questions for answers.
+Like I said, you want to know where you want to go. Is that the angle we're starting off with?
+Like what he's or he. Yeah. We should might we should think from how he's using like medicine like medicine and diagnostic has.
+Yeah I know what he's really use it for. I was trying to.
+See. Okay.
+Be like, he's on the pizza. Uh, you know, for me, uh, you know, both of us.
+Oh, yeah. Literally 26 years ChatGPT.
+Can you make recipes? Mr. Oh, this guy's going to [INAUDIBLE] hate us.
+Oh, here. Here are your 30 questions. There was a PDF on that.
+He said you have to subscribe to read.
+What's been your biggest challenge? Should we do the best you can do?
+The in the disease wants us to stop from going forward, which is like, um.
+Like, what do you currently do over the diseases? What's your biggest challenge?
+Can you do that? Because that's what you expect, which means you can't do a more nice two minutes and ever walk away.
+Well, if you've got disease. What what is your established reception?
+We can look at ourselves as an open house. We need to ask about questions because it was like we want.
+We wanted to talk about his work in medicine and diagnostics, then tell us how he's using to do the math.
+The mummy stuff. Yeah, but what I'm saying is you should go in and tell me what you've done.
+I'm not sure that we've done no research so we know nothing, which is kind of like.
+Yeah, but these are still without questions and like. Or we can. Yeah.
+I'm just saying. No, I don't think that's right. I think the disease questions are right because this is probably other stuff.
+Not really like basic. Yeah. And no matter how much content we have, we want him.
+We want it to be hidden talents as well in the video. Oh.
+Um. Enforcement.
+Uh. I read the question.
+I was stupid. It's just like sales don't work.
+What do you do with seasonal stuff? Well, remember, even the movie ones, we definitely need.
+Because there's no there's no publication. Okay. So we can say about, um.
+Right. Oh, yeah. The movie was like, what do you want to find out about?
+We don't actually go any research on that. So we can ask, like, what do you mean?
+I see what you aim to find out from the. Why is it important to you to not say to them?
+Go on. How is it using analysis considering the weakness of this question?
+Well, he's using that. But of course, of course, in that situation spectroscopy is a non-linear process.
+It would be that I was using, you know, what is it?
+This, this part, this, this. Then I asked him what the real world application of his research is.
+Yes, yes. Nothing Auntie has until next week is a week to put the interview into the video.
+We can make it stop on the.

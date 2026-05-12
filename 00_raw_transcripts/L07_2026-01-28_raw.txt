@@ -1,0 +1,424 @@
+I can make you. Something.
+Okay. I need your help.
+Want. To straight because I announce it the next.
+To its parents in the.
+Okay. Oh!
+One. Oh six.
+Oh my goodness. Yeah.
+Yeah. It's. It's crazy.
+That's why I just wanted.
+To let you know.
+Each one of them. Oh it's okay.
+But it's. Also.
+Important to you just like this.
+I just I. Just.
+I. Think that's good.
+Yeah. Those people just got run past this. Really? Coming out of Steve's lecture.
+So get cracking. So it's all about vibrational spectroscopy.
+Um, so, yeah, apologies. Not going to get into this today because of the 2020.
+So yeah it's really terrible that like, oh, I see a laser with robots I don't even understand.
+Um, was it good for the data establishment screaming all the time?
+Yeah. He's saying that we're looking at chemical specificity.
+So this is the kind of holy grail in biological imaging, people.
+Nice high resolution images. You want to do it in a non-invasive way, so that you're not burning the sample that you want to image,
+and you want to be able to do it in three dimensions and scattering samples.
+And as we looked at, um, instead of that going from we got from this slide, this kind of summarizes the polarization mechanism.
+So it's this polarization back to P is the induced dipole moment.
+Are you believe this is the materials response to the electromagnetic radiation that you applied to the material.
+And the idea is we the same that we get you know, that we get to term is the frequency or wavelength of the radiation that we apply.
+And by tuning the wavelength we can tune into different polarization mechanisms.
+And when we're looking at electronic polarization we're looking at things like absorption of pigments in the tissue.
+Or it could be to excite fluorescence in fluorescent compounds in tissue.
+The big problem with electronic um polarization is a contrast mechanism.
+It's a in direct contrast mechanism.
+It's independent from the chemistry and it's the chemistry that we really want to image.
+So if we're thinking about dyes, it's to do with the localization of electron over multiple chemical bonds within the atoms.
+That gives us a containment lens L you know, for the finite square potential where we think of absorption in the same fluorophore.
+Whereas if we think about atomic polarization where we're shaking atoms within molecules,
+the frequency at which this occurred is unique to a pair of atoms and the bonds between them.
+So here we've actually got this kind of direct chemical contrast.
+We're tuning in to something which gives us information about the molecular environment that these charges are in,
+rather than just about the electronic environment, which is what we looked at previously.
+Um, so vibrational spectroscopy is a large field that kind of links chemistry, physics and biology together.
+And the idea is this physicists, we're trying to harness this to give us like a fingerprint imaging of biological tissues and cells
+so we can understand how that other organized how they work in how they change in disease states,
+for example. So we covered this when we're looking at atomic polarization.
+We're no longer just considering electrons bound to a positive charge to the nucleus.
+We're now considering a pair of atoms with with unequal charge connected by a spring.
+This time, the spring isn't the attractive electrostatic attraction between the positive and negative charges.
+It's the balance between the atoms. Yeah. Again, it's it's a kind of it's it's it's generated from a natural statics.
+But it's the, the chemical bond that keeps these two atoms together.
+So we multiply this by two masses of the spring.
+The masses are unique to the atoms that are in that particular bond.
+And obviously combinations of atoms and that bonds and the basis of chemistry.
+So it's like tuning into the resonance of these atoms connected by chemical bonds.
+We're now able to access unique features related to the chemistry.
+Using my voice. So the vibrational polarization we look at the time scale electronic polarization
+is possible because you can make something happen on the order of femtoseconds,
+because we've now got greater masses involved. This happens on a much slower scale.
+So we're now down to the second timescales. As we said, there are two mechanisms infrared.
+And then this thing that we're going to introduce called Roman scattering.
+So our absorption is very similar to when we looked at electronic absorption.
+You have quantized energy levels at which this quantum mechanical oscillator can sit at.
+And this we get absorption of energy from the light electromagnetic radiation when we get a change in the dipole moment.
+Yeah. Exactly the same as when we were considering the electrons shift.
+So it only occurs when the incoming air function has sufficient energy to take it up to the next level.
+We looked at his diagrams. This. Jim Blonsky.
+Holds. Physicist. Might've been a chemistry teacher. Was a physicist.
+Physicist. Make sure you can draw these these always 12 to come up in the exam.
+So what are the solid lines that the bold solid lines in blue.
+Electronic energy levels. The not so bold ones show the green.
+Yeah, kind of privacy just gets redundant with us.
+Said the no fault lines are in green.
+They're not only color historic. Designs.
+These are the primary sensor levels. And then sometimes in between shows we can send a lot.
+And these are rotational interference. So we put electronic transitions here.
+So solid arrows coming up show optical absorption between these electronic levels.
+And then solid lines going up from the ground state.
+First excited vibrational state corresponds to absorption of photons by exciting atomic polarizations for operational energy levels.
+So make sure you control this particularly the one for resonance 21 seven.
+We've covered the die metal of the diatomic molecule, the two masses connected by spring M1 and M2.
+It's very close to K. You're happy with this idea that the restoring force increases linearly with the displacement,
+which means when we when we take the integral force, we get a parabolic term.
+So the further as you move away from the equilibrium position, the potential increase is quadratic.
+Yeah. We're happy so far. And then the slight complication added I think we've added the spring constant.
+It's just given by something we look at which has been measured for a particular problem.
+So typically only single, double and triple given by figures of approximately this value.
+We have to work with the reduced mass now because we've got two masses connected by spring,
+and the reduced mass is m one times m two divided by one plus 18.
+And you've all seen this before? Yep.
+So we're dealing with the quantum mechanical system as we were when we were looking at the electronic absorption.
+So we've got quantized energy levels. So this is how we have the quantized absorption of photons exciting from the ground state.
+The first excited state for example. So we have integers of half h bar omega.
+And that allows us to calculate these quantized energy levels.
+So we get quantized energy levels of n plus half h bar omega is our resonant frequency.
+And the key thing to remember about infrared absorption.
+And I put it in a red box because you definitely need to remember it is in order for it in to infrared absorption to take place.
+So for the chemical bond to be infrared active, you must get a change in dipole moment for the absorption to take place.
+So if you look into more detail when you get kind of complicated molecular structures,
+not all molecular vibrations result in a changing dipole moment.
+So they're not infrared absorption active. So that's something to bear in mind.
+And we're going to look at the other type of vibrational spectroscopy which is Roman scattering.
+And that has a different criteria. Also in a red box.
+And the 2 to 2 of the two techniques complement each other. So mu is a dipole moment and alpha is the polarize ability.
+And there were function of frequency. Yeah.
+So mu is the dipole moment for a pair of atoms, and p upon a polarization vector is the dipole moment per unit volume.
+So when we're dealing with mean and alpha we're dealing with individual molecules or pairs of atoms.
+When we're dealing with p and chi we're looking at the bulk response of a material.
+So I kind of showed you these kind of like hand waving things where people wave their hands around pretending to be a water molecule.
+But you can see, folks, it's okay.
+Gets very just for something as simple as kind of these three atoms together, like an altar.
+You can get lots of different vibrational modes, but the same set of bonds.
+You get scissoring, rocking, twisting, whacking, all these different vibrational modes that give rise to a very complicated spectrum.
+So this is for you to know this, this hydrocarbon, not a particularly big one.
+So you can see you've got C-H three carbon hydrogen bonds, carbon double oxygen bonds, carbon carbon bonds.
+And each particular component within that molecule has its own resonant frequency, given by the equation we just looked at.
+So because it has a different square root of k upon the choose mass.
+So you get this kind of series of peaks and each peak.
+Well these are these on peaks. These are dips because we're measuring the transmission.
+So this is showing what's been removed. So 100%, you know, 100% transmission and zero you've got everything absorbed.
+So when you get a. Remember it's absorption. So the dips corresponds to an increase in absorption.
+And each one of these shock dips corresponds to one particular vibration of most of a pair of atoms or bonds within that molecule.
+So for something in a relatively relatively small molecule, this butyou know, you can see you've got very complex series of absorption lines.
+And we we quite often call these or consider them a molecular fingerprint.
+Yeah. So this is a unique vibrational fingerprint of butanol.
+So if we could use this if we could image the sample.
+At lots of different points. I measured the infrared absorption.
+We can map out the chemical composition based on unraveling this complex fingerprint that we get.
+And and there's a whole field of computational algorithms involved in kind of unraveling
+these complex combinations of fingerprints to work out what you're looking at.
+And with AI, artificial intelligence coming along,
+there's not a whole field of research in kind of unraveling and using that to work out what you've got inside your sample.
+So these are the vibrational modes, the kind of you can sort of think like molecules do, molecules dancing.
+They can they can see which is stretching.
+They can also set of different sorts of ways. And this is how something very simple when we modulate with this diatomic resonance,
+when you start to put lots of atoms together, there's lots of different combinations that they can oscillate.
+Collaborator. And that's how you build up this very complicated and unique fingerprint for that molecule based on their vibrational signature.
+But you can also kind of think of it as a barcode of that particular molecule.
+So we like calculations. So as an example, um, what what's really nice about this kind of experimental technique is unlike with the fluorescence,
+where you're relying on the biochemist to tag the thing that you're looking for.
+As physicists, we can actually calculate where this should be.
+Just to verify that. So if we think about that carbon double bond oxygen that was in our view to now we can calculate the absorption matrix.
+So we it was it's not clear enough.
+Is it? Come out nice. Not very often. So we've got carbon.
+Double bond oxygen formula for the vibrational frequency.
+Is given by this guy. So let's replace Omega with new the simple frequency.
+So that's where the one over two pi comes from. We were told we take it for granted that k is equal to ten times ten to the five grams per second.
+And mean his average mass.
+So what's the atomic mass of carbon?
+Assuming it's not like one of those fancy radioactive isotopes.
+12. 12. Yep. And oxygen 16.
+It's because you've done chemistry. Yeah. So don't worry if I send you an exact question.
+If I were to set an example question on this, I would do like a Higgs like atomic mass of carbon is 12.
+And I'd give you those numbers just in case you go. So knowing those numbers.
+So what does that actually mean? Telling my students what this 1230 would call.
+Yeah. So it tells you if you were to have a mole of that substance, if you had a mole of carbon atoms, you would have 12g of carbon.
+Yeah, that's the definition. So we've got 12 times 16 divided by 12 plus 16.
+And that's the mass of one mole of the substance.
+But we just want the reduced mass upon part of these atoms.
+Yeah. So we have to divide by our gantries number to get us the mass of one.
+Yeah. So if we put the numbers in.
+You get one over two of ten times ten into five times 28.
+We'll have a gantries number 6.2.
+Yeah. Times ten to the 20. Five or 9 to 12 times 16.
+Yeah. So obviously 10 to 23 is a pretty big number.
+So you know the atoms infinitesimally small.
+If you take 10 to 23 then you can actually play out graph.
+So that's just how big 1026 and 6.3 is. So you put the numbers in you get 4.72 times ten to.
+Um, just out of interest. What would be the, like, cubits around 10 to 12 ish hertz.
+Kilohertz. Megahertz gigahertz. Terahertz.
+Yeah. So convert to wavelengths.
+So we get speed of light. 5.72 times 10 to 13.
+And you get 6.4 times ten to the -six meters which is 6.4 events.
+-six meters. Millimeters.
+Micrometers. So that's the wavelength.
+I think you would have to put infrared light that you would shine onto a material to get the absorption of that particular chemical solvent.
+So. When we're dealing with, um, vibrational spectroscopy, which is helpful to introduce a new unit in wave numbers in inverse centimeters and.
+There's no big sort of this notion of reason why we do this, other than that it's the convention.
+And the reason it's the convention is because if you convert your frequency into wave numbers, it's quite in particularly interest centimeters.
+It's quite a handy set of units to work with.
+So you've just come from Steve's lecture on solid state physics.
+Most of you have what sort of units to steam. We talk about a lot when he's talking about kind of frequencies and energies.
+Electron volts. Yeah. Is Steve referring to energy levels and Fermi levels in terms of electron volts?
+What's he? Don't go that far yet. All. Steve's always talking about electoral votes whenever I see him.
+So solid state. You physicists work in units of electron volts.
+And if you remember when we were talking about hydrogen absorption in one of the introductory lectures,
+I kind of I quoted the answers to hydrogen for old.
+Um, yeah. For hydrogen, it was 13.6 electron volts.
+Yeah. And you're quite often told that it's 13.6 electron volts.
+That was that is the atomic number. So if you go up to helium and we talk about.
+Yeah. So, so they say this is work in electron volts because you get this nice round number.
+What you don't want to be working with is something that's got lots of decimal points in it, because then it makes it hard to be very accurate.
+So chemists and physicists like me that work in like graceful spectroscopy, like the idea of working in wave numbers in inverse centimeters,
+because it gives us a nice number scale that contains all the vibrational notes that pretty much exist on a scale from 0 to 3000.
+You got good precision, and it just works out quite nicely. It's a little bit hard to get your head around the first,
+but basically it's just one over the wavelength expressed in centimeters, and it's just a hand to humans to work with.
+So if we were to deal with the previous expression and we want to give, uh, arms up into wave numbers,
+and the symbol that we use is, you know, going across it, so it's just the frequency divided by C.
+So original answer. Oh, by the speed of light that comes out of teams of 4 to 2m.
+And because we're working to find grace with spectroscopy, we like to probe this exactly the same two meters.
+And it was a handy unit to work in because it gives us good precision.
+So if we were to work out of meters or in microns, you'll find that to get the precision you need over all the different peaks.
+So if we were to go back to that slide, you'll know that everything is kind of on this wave number scale and you've got all these peaks of cover.
+There's a biological range and it's just a nice handy sets of humans to work.
+So within the precision of 1 or 2 way, you can define the position of these things,
+and it's useful for you to know what these units are and how to calculate.
+So if we're imaging with infrared and you're going to see some devices that do this, some of the lab tools that we do later on in the course.
+So we've got a few benchtop instruments.
+If you an image um and so this is an example of same remember what type of image this is from the introduction lecture.
+The one letter was H. The other one was E, so he would talk to later saying, this is the vegetable state used to stay in cans.
+And then he was so inclined to pick and spit stains on the connective tissue between it.
+Pathologists look at this and tell decide when people have got cancer tissue sections.
+So if you take a similar tissue section you don't stay it with a chimney die, hit you totally.
+And then you get an image and you and you put it into an infrared microscope.
+And in every pixel it measures absorption spectrum.
+So what you what you get is a data cube where you get x y coordinates of the image pixels,
+and then the color bar marks out how strongly each of those pixels absorbs at a particular infrared frequency, which you plot in the z direction.
+So you have this hyperspectral cube of data up. So each slice within that image you're in a different position of the infrared wave range.
+So you have a spectrum vertically at every pixel.
+And by using this the technique known as a key metric.
+So using machine learning to to interpret this you can create maps plotting out different chemicals within that tissue section.
+So rather than relying on the chemistry and equalizing, we've actually got direct access to the molecular composition within the tissue slice.
+And depending how we choose to read that fingerprint to plot it, we can plot maps showing different chemical features.
+And, you know, I think this is fantastic.
+We've got access directly to kind of the molecular composition of anything we want to look at based on these complex fingerprints.
+But there's a reason we don't use it. It's normally very difficult to use.
+So working in the infrared region is really problematic.
+So if this is somebody sat at their desk and this is a it might be a microscope.
+Otherwise pretend it's a microscope using a microscope about desk. Everything around you in the room is emitting infrared radiation.
+So you're trying to measure subtle absorption at different infrared frequencies against the massive thermal background of infrared emission.
+So you have to cool the device so that nothing inside the detector is emitting its own direct radiation, which is problematic.
+It's very difficult to get good quality optics in the infrared.
+So you can't use glass. So glass absorbs infrared radiation.
+So all of your optics have to work on reflective elements.
+So the objective lens has to be using mirrors to bend the light rather than refraction in the glass for example.
+So that makes it difficult. You can't you can't.
+Everything absorbs in the infrared. So you can't kind of get depth penetration in samples.
+Water for example, is an extremely strong infrared absorber.
+So you can't use hydrated fresh samples. You have to dry them out.
+Making it very difficult to to actually apply.
+But you can't get commercial instruments to do this. And we can show you some and you do get very good results.
+And the other big problem, what about the spatial resolution?
+What determines the spatial resolution of your. Imaging with light.
+Diffraction limit. What's the equation?
+What's the positive fraction of enforcement? You. One wavelength.
+So as soon as you move. So when we're talking about the visible range.
+We were talking bang in the middle of the visible. We've got green which is 500 nanometers.
+So being able to resolve things of around 300 nanometers of that wavelength, you've got pretty good spatial resolution.
+When we go out to infrared, that carbon double carbon forms, the absorption band is at six and a half microns.
+So we can only resolve things that a few microns in that wavelength.
+And also if you go across that wavelength range with spanning a vast range of wavelengths,
+so you get different spatial resolutions across different parts of your hyperspectral stack.
+So the spatial resolution is one of the big limitations of infrared imaging.
+So this is where Roman scattering is an alternative.
+So instead of looking at the absorption of light through molecular vibrations
+we look at inelastic scattering of light from these molecular vibrations.
+And it's called scattering because it was first discovered by this guy called CB Roman who got the Nobel Prize in 1930 for discovering it.
+Um, which was pretty cool. So it enables us by looking at scattering.
+It enables us to measure up absent a frequency shift rather than absorption.
+So we can excite or do the imaging with visible light.
+So we get the benefit from high spatial resolution moving away from infrared absorption.
+We can now use gloss objectives for example. And it gives us access to infrared frequencies with optical excitation.
+And the big difference here is again it's in a red box not by accident.
+In order for a bomb to be rolled inactive, the molecular vibrations must result in a change in polarized gravity.
+So we've got this equation. What's mean? The dipole moment.
+So for infrared absorption to take place,
+we have to have a change in the type of moment the Roman scattering we're interested in and also the polarized affinity.
+So for infrared as the phone vibrates you've got a change in the dipole moment.
+So Roman scattering to take place. It only happens if the polarized ability changes as this bond oscillates.
+So when the patterns are then the change in the the ease at which the bond becomes polarized is a function of how far apart.
+Yeah. So we have kind of this is our this is what a Roman spectrum would look like.
+So instead of a series of dips we've now got a series of peaks.
+And what we're plotting here is the shift from the excitation wavelength that we excite.
+So we send the light in our visible light. We are called the spectrum.
+And the spectrum is good enough. So for example, if we look at this distance from the Roman, this is our excitation wavelength.
+We excite to this when we use this virtual state, and then the emitted photon comes down, but it stops at the first vibrational state.
+So energy has been lost to that molecular vibration. So we can have a look at the kind of physics behind this and exactly what's going on.
+So rather than scattering, arises from a change in polarize ability with molecular vibration, this completely polarized ability.
+So if we've got our excitation fields E and the function of excitation felicity.
+No. Cause omega T. Yeah.
+Just a sine wave. And that's a frequency of naught.
+So we've got one sine wave. But now we then write our.
+Just substitute in this guy into this guy and we now get into his dipole moment.
+Is alpha times that equation for E.
+But also our actions are oscillating.
+So my actions are vibrating. Yeah. And then vibrating again.
+We assume it's a sinusoidal vibration. So we can plot the displacement delta q d q as q normal cos.
+Omega vibration T yeah. Two pi d t.
+So if we look at the two signals, this is an oscillating electric field.
+This is how the polarized ability is changing. If we then look at the induced dipole moment that we get we can see it's going to look like this.
+So we've got this. We've got our electric field that we excite the bonds at.
+And the polarized infinity is going to respond to. The dipole moment is going to come to that frequency.
+Because the dipole because the board becomes easier and harder to polarize.
+As it's vibrating. The electric field gets modulated by the polarized infinity.
+Can you go further? Yeah. So here we are plotting.
+They choose dipole moment, the ponds oscillating up and down,
+and at the rate at which the thing is vibrating, it becomes easier and harder to polarize.
+Yeah. So the position of those atoms as they go in great is changing how easy that form becomes to be polarized.
+So we can deal with this mathematically. So we can take our polarized ability and it changes with position.
+Q so we've got our polarized ability at the equilibrium position, and then we can take a Taylor expansion.
+So we have we have to go to first term in the time of expansion the rate of change of the polarized ability with Q which,
+which is what we've got here. And then that's multiplied by Q, which is this term here.
+Yeah. So we take the point that the Taylor expansion D Q is the thing we wrote down previously in Q naught times, cos omega vibrational T.
+Yeah. And now our polarized ability takes this form a constant term and oscillating term oscillating in the vibrational frequency.
+So we substitute that into our phase equation for the cycle.
+We get the same band that we always expect to get the constant time realizable t times our electric field.
+Plus this second bit, which comes from the rate of change of polarized affinity with displacement.
+Now you can see we've got cos of the electric field frequency multiplied by cos at the vibrational frequency.
+And we then take this Trig identity.
+Here, we substitute that in and now we get a term which contains the vibration, the electric field frequency minus the vibrational frequency,
+plus another term which is the electric field frequency plus the vibrational frequency.
+So we get our original. Life fields out.
+So that corresponds to really scattering. So we're just shaking the phones and the electric bill frequency.
+They reinvent probably in a different direction.
+That's that's Brady scattering. And then we get one of each a positive and negative shift.
+So when we plot this you get it's called sideband modulation principle.
+We can also think of it scattering. So we've got this the carrier frequency.
+The radio scattering frequency. We get something which is up shifted and something which is down shifted.
+So you get a down shift is known as Stokes scattering just like Stokes emission.
+When we're looking at presence. And if it's up shifted you get an anti Stokes shift.
+But the real key here is that this shift. Is given by the president frequency of the phones that did the scattering.
+So again we have this unique frequency. But instead of an absorption having to apply a broad spectrum of infrared radiation onto the sample,
+we can take a narrowband beam of light, i.e. from a laser.
+And then we measure a small shift inside of it and get a series of scattered peaks.
+And that tells us about what's inside the sample.
+We get a fingerprint. So if we go back to the same example of our, um, we see double overtones.
+So. We've already calculated the frequency from and up.
+So option lines to be at 1570 four centimetres.
+Now we want to find out all the Roman ships with big.
+Roman ship is going to be Omega. Either side at this 532 excitation.
+So in order to calculate this it's pretty straightforward. So the Stokes line is equal to one over.
+Excitation wavelength minus one over wavelength.
+If the wrong digit. And we can replace one over the wavelength.
+Rum and [INAUDIBLE]. With the wave number.
+Yeah. Because that's the relationship between the wave number. So that's to.
+Say well we do have to be careful of we were given our wave number in meters.
+You must meters reverse 70m. We have to make sure the units of the same as always when we're doing calculations, we just have in mind for the units.
+So I'm going to use the. Shift in centimeters, which means I have to transfer my wavelength.
+You get to centimeters. Yeah. To always be consistent with your units.
+That comes out at 580.6 nanometres.
+So if you've got a scope shift or pollution of red shift to a low energy energy, it's been taken from our expectations made.
+And it's been that energy difference associated with the molecular vibration.
+If we were to look at the answer associate that corresponds to this, to the scattered photon gaining energy from that collective migration.
+So ponder was already excited. At first vibrational level, it's already vibrating, interacts with the photon.
+The photon takes that energy and it goes down to the ground state. You said that was from thermal excitation.
+So typically people would not be using the anti Stokes emission to do imaging because your sample's not thermal.
+So let's come back later.
+Uh, how we can use light and nonlinear optics to populate that first vibrational state to make the anti Stokes signal much stronger.
+Okay. So imaging with Raman it's done in the visible wavelength range.
+So we can now get much higher spatial resolution.
+We can choose to work with shorter wavelengths excitation which gives us better spatial resolution.
+We can use confocal detection to give us 3D imaging.
+Um, we get a choice of the wavelengths that we choose to excite with direct infrared absorption.
+We have no choice. The polarization mechanism dictates what wavelength range we use.
+Whereas here the excitation is now independent of the excitation.
+The big trade off that we spend is it's a very weak effect.
+So when you're dealing with something that's a change in the electric dipole or atomic dipole, it's a very strong absorption event.
+These scattering events are about a million times weaker than absorption events typically.
+So the downside is we have because we don't get many photons.
+We have to sit and collect a spectrum for about one second to 10s per pixel.
+But as long as you're willing to do that, you can build a very nice high resolution.
+Roman maps in 3D. Again, our spectrum is treated as a molecular fingerprint,
+and there are lots of computational methods where people can use machine learning to assign this factor to different components within the sample.
+So here we've got some might think that like polymer beads or liquid droplets or some sort of emulsion sitting in a solution,
+and by looking at that to do spectral decomposition, you can map out the.
+Um, the Roman fingerprint of the solution.
+Starting from the beads. Here we've got biological cells.
+So the nuclei spectrum have a unique fingerprint to the rest of the cell.
+Body has a different problem fingerprint. And then in Reddit, we've got some kind of, um, particles within the cells that we're looking to map out.
+So these unique fingerprints allow us to get high resolution chemical specificity
+from samples that have been stained by tuning in to the molecular composition.
+So it's a good it's very important to understand the difference between Roman and infrared.
+So Roman's much weaker than I are. So resident absorption is much stronger than scattering.
+So infrared we resonance with the atomic polarize ability resonant transitions and very strong interactions.
+We get strong absorption where we're from. And we're looking at scattering which is much weaker.
+So we're looking at a change in polarized reality versus a change in dipole moment.
+So I've listed the kind of the properties of the two.
+So both infrared and raw and give us contrast.
+The vibrational modes are required to change the dipole moment whereas broadband requires change in polarized ability.
+So here we've got the absorption. We get change in the excitation.
+Whereas in Rothman it's a transient distortion of the charged clouds to the atoms.
+And we get subtle differences in the spectrum because of the differences in how the different modes are in a problem or oil activity.
+So, Rahman, we we get a series of peaks that we measure the infrared.
+We get a series of dips. You can see that the Roman and oil spectra are similar but not the same, so they provide complementary information.
+And the spectra appear different.
+So this is the same molecule this benzene molecule. And you can see this compares the Roman versus the air.
+So it's very difficult if you have like a Roman image and an infrared image company.
+Compared to that someone is just working with one or the other.
+You can just shelf the spectrum from the pixels into a machine learning algorithm and can with data.
+Tell you what you're looking at.
+So the big problem that we got in in for using infrared as a contrast mechanism is the infrared has very poor spatial resolution.
+Infrared gets absorbed by everything. And it's also admittedly everything around which is very tricky to work with.
+And there's no real way to overcome the diffraction limit with the infrared absorption.
+So people look to Roman to get high spatial resolution here.
+The downside is that the signal's about a million times weaker than for us.
+So as a physicist, you might think, well, as if I need a million times more photons that I tend to, I'll just get a bigger laser.
+So obviously, if you went for a bigger laser, like a million times more powerful, you'd be going from a minimum of up to a kilogram of laser power.
+Um, and clearly it's not going to be a noninvasive imaging method.
+We're going to be kind of doing sample processing, inflating the sample if we choose to go just a million times more photons at it.
+So to give you a kind of heads up at where we're going. One of the things that nonlinear optics allows us to do is to perform vibrational
+spectroscopy in a way that we can't do with conventional light matter interaction.
+So it allows us to get faster, deeper, and with higher spatial resolution that we can achieve with the techniques that we just looked at.
+So we've kind of set the scene for nonlinear optical spectroscopy.
+You now understand how infrared selection works and how Roman scattering works,
+and how we can use that as a molecular fingerprint to get label free images of.
+T cells and tissues. Anything else you want to look at? So chemical fingerprint imaging is the goal.
+And these techniques do it without relying on staining it with with um um non endogenous components.
+So to get the lovely fluorescent images the orange is being texted all the time.
+You have to perturb the sample by dyeing it with different stains.
+You're not looking at the natural composition of the sample on its own.
+So any questions? If I'm further set the things in red boxes a key to remember.
+So what's the fundamental difference between Roman and old?
+The thing that was in the red boxes. The absorption to take place.
+It requires a change in. Dipole moment and Roman scattering with flowers.
+Change in polarize affinity with the population. Yeah.
+So remember this one. Okay. See you next Monday. Thanks for having me.
+Let's go. Buddy.
+Come on. Yeah.
+There's. Something in your.
+Mouth. Yeah. Uh.
+Yeah. So. Uh, yeah.
+This is. This is why. It's not just something you do.
+You didn't try. This.
+It's fine. So I might say something about the versatility.
+Uh, I used to think, uh. Yeah. Basically, I, um.

@@ -1,0 +1,514 @@
+Uh. It's.
+Not sure this will make the results. Work.
+I sure we can say. Uh.
+The interesting. Before you and I go on.
+Yeah. Thank you Michel.
+Thank you. Michel. Oh, yes. Let me show you where I.
+Was before. I.
+Was just. Talking to you guys in my office.
+Since we kind of said to me. That, you know, this trip.
+You. Know.
+Very seriously, I thought, rather than, you know, kind of.
+You know what? I am here, you know.
+When it's really just good exercise. Okay.
+I'm sorry. Thank you so. Much.
+Thank you. Cheerio. Thank.
+You very much for the details. Okay.
+Then on to the lecture number ten. So we're still in the kind of introductory section.
+And so just to kind of check that you will understand itself.
+Yes. Can anyone remind us why the sky is blue when the sun sets red.
+Oh. Yeah yeah yeah yeah yeah.
+So brain scattering because of whatever the wavelengths of the tall blue light being shorter wavelengths get scattered far more.
+That's why the sky is blue.
+And then when you're looking directly at the sun at the sunset, you're seeing the light that's made it through the atmosphere.
+All the blue and green lights been scattered out sideways. And you can see the red sunset.
+So that's quite a key concept that we're going to keep coming back to.
+And it's one of the reasons why people one of the motivations for using linear optics,
+the image particularly in biological tissues because the main thing that limits the depth penetration into skin tissue,
+for example, it isn't absorption, it's actually the scattering.
+We're going to be looking at that a lot in detail. So as we discussed yesterday,
+the second introductory lecture is kind of revisiting some of the underpinning concepts that you did last year and last term.
+Obviously you learn quite a lot of stuff last year in last term, and people tend to forget some bits,
+but it's a really good idea that we kind of go over these just to kind of recover things,
+and also to kind of put them in a different kind of framework that we're going to be looking at from this course,
+rather than how you looked at them previously. So the three main lecture courses that we're drawing upon waves.
+And okay, so that's your magnetism, quantum mechanics. And it's only a couple of tiny qubits meets one of these natural courses.
+Um, so if you haven't done the electromagnetism course, for example,
+don't panic too much or you can panic because I'm going to tell you exactly the kind of equations that you need.
+And these are going to be some of the key bits that we have coming back to and some maths.
+So obviously, we kind of take it for granted that you guys know some maths, particularly one of the main bits of maths.
+I'm not going to go over today because it's kind of fundamental. It's differential equations.
+And make sure you can solve a differential equation because we're going to be doing this quite a lot.
+Um, and then towards the kind of more exciting middle part of electricals,
+we're then going to be looking at a way to solve non-linear differential equations, which you won't have covered.
+But it's very it's a really cool bit of matter you find quite fun.
+So make sure you kind of revise differential equations and then the other bits of mess that we need.
+I'll just briefly go over at the end of this lecture.
+So it kind of brings together these concepts from those three lecture courses in a way that we're going to explore light matter interactions.
+And I'm hopefully going to show you some examples of where the stuff that you've been told quite theoretically,
+you're going to see some examples of where it actually works. So these equations in quantum mechanics and electromagnetism and in waves and optics,
+we're going to see exactly like examples that kind of prove that this actually works.
+So in electromagnetism most of the stuff that you focus on was electrostatics am I right?
+You calculating electric fields and point charges.
+Looking at how charges respond to static fields. So we're going to draw upon a very small part of that.
+But then we're going to look to see how these charges in a material interact with oscillating fields.
+So the oscillating electric field associated with light.
+And this is where the waves an optics component comes in. Because we're going to look at resonance.
+So we're going to treat charges bound to a material a bit like a mass on a spring.
+When you do harmonic motion you'll remember harmonic motion.
+Austere, brilliant. Everyone's nodding. So you've all done harmonic motion.
+Fantastic. And then we're going to see how that affects the materials materials response.
+So the general kind of we're going to keep reiterating this kind of point until you get bored of it.
+Because I hope everyone remembers it.
+So charges feel the applied force from the electric fields, but they also feel the forces from the molecules are attached to.
+So charges behave differently, and they respond differently to different electromagnetic fields depending on what
+material they're in and how they're bound to the molecules in that material.
+So really basic kind of back to the very kind of fundamentals you've done this 11 I expect.
+And Matthew last term would have also gone over this.
+So this is kind of the definition if electric field.
+So electric field just tells you the force that a charge would experience.
+So if you have an electron and your charge Q was equal to the electronic charge,
+the electric field that you're setting would tell you the force that you would experience as a result in that electric field.
+So the units of electric field on newtons per coulomb.
+Yeah. The size of the force that you would experience per coulomb of your charge.
+Yeah. If we're happy with that concept. And you can also express it involves a meter as well.
+Like kind of going around with the units. Yeah. Everyone happy.
+Let's call on this point. Brilliant. And you've also covered this point last term in terms of the polarization.
+So this is the dipole moment unit for you.
+Yeah. So it's telling you kind of imply an electric field to some charges that are bound to the material.
+And you pull them away slightly. And the distance the amount that you pull them away is controlled by this thing called.
+And you probably didn't do very much with time last year with Matthew.
+It was just this kind of constant that converts electric field into the dipole moment.
+But as I kind of introduced yesterday, the electric field is what we apply to the the system or the material.
+And it's the polarization that we measure in terms of the system's response.
+And we want to interpret the p that we measure to work out what's inside this kind of susceptibility.
+And well in the simple case where you have an isotropic material called as a scalar quantity.
+But remember E and p of vectors. So what type of quantity is called the non isotropic materials.
+Yes, it's. And so.
+Yeah. So it's like a matrix if it's just if it's just one dimension.
+If it if it's just one dimensional vectors. And then the higher orders we go up to tensors.
+Like if you have come across tensors before. Yeah, you won't have done.
+But we don't need to. You don't need to understand what tensors are, but that just vector matrices that have more and more dimensions.
+And we'll see how that works out a bit later. But we're not going to do any matrix maps or tensor maps.
+So don't worry. We just need to understand that chi is the property that maps this vector onto this vector.
+And if we're just dealing with E and p in three dimensions, this is just a matrix that you and you just kind of matrix multiplication before.
+But when we get onto E squared and horrible, the terms chi has to take on a different form.
+And that's where it gets quite interesting. So the units of dipole moment are coulombs per meter squared.
+Because remember it's the.com moment per unit volume dipole moment.
+It's you know meters divide by cubic meters. We get few moments per meter squared.
+Yeah. If I'm really brilliant. So the next kind of bit that you kind of got onto with Matthew last term with electromagnetism.
+And don't worry this is kind of the furthest we kind of get in terms of electromagnetism
+is you should all be familiar with the displacement field and the discipline.
+Does anyone understand exactly what the displacement field is, why we need it?
+Is it something that kind of you kind of sort of that's not particularly intuitive at the time?
+Or you completely happy with it? Yeah.
+Hand up if you completely understand it. Yeah, kind of hand-wavy.
+So it's a, it's a way that allows us to describe the response of a dielectric material.
+And what's the dielectric material? Yeah.
+Material free. Um, yeah. So if you have a kind of a conductor, you've got three charges that moves at an insulator.
+Everything's bound and it's all electric. You've got some charge that can move and some charge which is bound.
+And this is what you get for most materials, like glass, biological tissues, most other things you can think of.
+So D is a really handy kind of workaround,
+which simplifies how we deal with the fact and how we separate the free charge from the bound charge in the material.
+So E is our applied electric field.
+P is the polarization that we talked about on the previous slide.
+And D is just the sum of the two.
+So it's the sum of the free the the the it's the sum of the free charge distribution in the material and the bound charge in the material.
+What are the units of D. Just looking at that equation.
+So it has the same units as PE. Yeah.
+So if you remember D is if we've got no susceptible, if the susceptibility is equal to zero D is just equal to epsilon naught e.
+So it's very similar.
+It's kind of similar property to the polarization vector except it takes into account of the free charge as well as the pound charge.
+And we're not really going to do a lot with this.
+You know if you're sort of thinking like, oh, we're going to Florence electromagnetism, we're not going to deal with this equation very much at all.
+We all are going to use D a bit later, which is one cause of course.
+But the main point is that we're interested in this induced polarization of the bounce charge in the material.
+So the bound charge is the bit which is attached to molecules,
+all the interesting stuff which is going to tell us properties about the material itself.
+So that's what we're trying to do.
+We're trying to we want to shine light onto the, the system, onto the molecules, and then read out this polarization.
+And then from the induced polarization, we're going to try and infer what's inside kind to tell us about the molecules that cause that response.
+And then the other bit which is really important for this lecture is this induced dipole.
+We're going to treat as a power series where we have higher order terms.
+Yeah. And we only do that for the induced. Polarization peak.
+And that's that's quite important. So and the other kind of subtlety to note here.
+Thinking about units again, the units of P on this side are in one of they in.
+Coulombs per meter squared. Yeah. So if you look at each order.
+So when we separate out I first order second order kind third of the chi.
+They don't all have the same units. Yeah. Because this guy just deals with the electric field and it has no units.
+And all the units are kind of contained in it. So I am not here.
+We're dealing with an extra term in E. So the units of Chi two have to change.
+Yeah. So we'll look at this in more detail like. You would also have done Maxwell's equations in electromagnetism.
+So you probably should all be familiar with these equations.
+And if you haven't done the electromagnetism model module you can just think of these as kind of vector relationships.
+Yeah. But we're going to work with instead of this term where everything's in E and B, we're going to deal with these guys here.
+And we've taken the slightly different version. And we just converted our ease into D's and that B's into H's.
+And the only reason we do that is because within D d contains the value of the polarization.
+Yeah. So if you work in terms of E it doesn't allow you to deal with the polarization of the material very easily.
+So this is just a really nice way that within D we've got the free charge and the
+bounce charge response all bundled up into this nice simple vector equation.
+Yep. Everyone happy. And then the kind of promise you this is the worst it gets with electromagnetism.
+So you should all be familiar with how you derive the wave equation from Maxwell's equations.
+And all it is, it's not very physics. You just take two of Maxwell's equations and you take the curl of both of them,
+and then you use this vector relationship with this equation to come up.
+Somebody's staring, isn't it? This is the Stokes theorem.
+So your apply whatever the name of this one is, I forgotten it.
+Is totally right, isn't it?
+It's just a vector relationship anyway, so you substitute that into both sides, rearrange it, and then you get the wave equation.
+And you should all be everyone quite familiar with this. You've seen this before. Yeah. And what's the significance of this wave equation.
+Well does it tell you what does it allow you to calculate. And what's the significance of it.
+So it allows you to calculate the electric field at any point in any time in space.
+Yeah. And it also shows you that free space will support the propagation of electromagnetic waves.
+Yeah. So later on in the in the match, of course, we're going to take the different turn when we replace the E with the D,
+and then we recalculated the nonlinear responses and we see that it no longer equals zero.
+And it gets quite interesting. So the other point for you should have all seen this equation before.
+How to calculate the energy in an electromagnetic field.
+So the intensity is proportional to the electric field squared.
+And intensity you should remember from A-levels is is power per unit area.
+So we deal with intensity a lot when we're talking about excitation and laser beams and light the exciting things of light.
+So we've got the power of our excitation field, but we've also got the area in which in which we concentrate that light onto.
+So we deal with intensity.
+And obviously for a given power of the light source, depending on the area that you distribute that energy over, it's going to affect the intensity.
+So the inverse square law governs the intensity or the amount of power per unit area.
+Yep. So intensity is the thing that you measure when you take a power meter and you measure the amounts of photons hitting your detector.
+What we're interested in measuring is the intensity.
+And just remember this equation intensity is proportional to electric field squared and half the speed of light on time.
+Yep. Everyone happy. So that's everything that you need to know.
+Internal I would say everything you remember from last time.
+Because you remember in terms of the pitch that you're carrying forward onto this lecture, because that's everything from electromagnetism.
+But we're going to be drawing upon. So another key concept that we're going to look at is harmonic motion.
+And can you remember way back to your first year when you did weights and optics and you looked at harmonic motion.
+So this is the kind of classic example of kind of thought experiment.
+You're kind of pushing somebody on a swing, and then on the x axis we've got A's and we've also got the frequency which we're pushing.
+So the blue line corresponds to the phase between the driving force and the and the motion.
+And in the red line we've got the amplitude the amplitude of the oscillation.
+How far this guy swinging on the swing and the frequency across the x axis.
+So right down at the zero end of the scale at zero frequency,
+this is corresponds to you stood there and you're pushing the person on the swing with zero frequency.
+You're not going back and forth, but you just pushing them.
+And you get a small displacement and you're displacing them by the amount that you push them.
+Yeah, you can picture that.
+And then right at the very, very high frequency end of the x axis, you're pushing this person, but you're shaking them really quickly.
+You're like pushing them backwards and forwards and you're just shoving them faster than they can respond.
+Yeah. So they don't move at all. And and you just kind of shake them and the swing poles and they don't move anywhere,
+and you're just pushing them far too fast for the actual mechanical system to respond.
+So where you kind of hit the sweet spot is when you give them a picture,
+and then you sound their weight and then they come back to you, and then when they come back, you push them again.
+So here the driving force is 90 degrees out to face with the motion the peak, the motion of the person on the swing.
+And we get the biggest amplitude displacement.
+And this is because we're driving the swing or the pendulum on resonance.
+Yeah. You will remember this stuff. And you should all be familiar with the equation of motion.
+This system? Yeah. So we've got the force.
+What are the other terms in here? Remember the other term.
+So we've got the acceleration damping which present velocity and the displacement.
+Yes. You're all happy with this stuff from the harmonic motion.
+Yep. Brilliant. So we're going to be using this system quite a lot,
+and we're going to be modeling charges attached to atoms as a mass connected by a spring with some damping coefficient.
+And that's how we're going to be kind of modeling charges bound to material.
+So that's all you have to take. Waves and optics where we're going to use in this module.
+So there's also some quantum mechanics that we need to be really familiar with.
+Um, so you remember the uncertainty principle? Yeah.
+So you did this last term? Yeah. So the uncertainty principle,
+the one that you first learned is when you're measuring momentum and position and you can't measure you can't measure both precisely.
+But there's also the other version of this equation which tells you energy versus time.
+So if you know precisely when. When something happens, you have an uncertainty in the energy that that particle has.
+Yeah. So this is fundamental.
+In terms of the properties of very short pulses of light.
+So I talked about ultrafast laser pulses yesterday.
+And who was the lady that got the Nobel Prize for inventing really high powered short pulses of light?
+Tony Strickland in the 80s really pioneered this work, so she was able to make some very short, very high powered laser pulses.
+And it's these laser pulses that really make practical nonlinear optics achievable.
+So if we look back to that guy, 1961, that guy Franklin, who did the first demonstration of harmonic generation,
+the signal was so small that you could barely measure it. We'll see it on the photographic film.
+If he were to have had these really high powered short pulses. It would have been much brighter.
+So the uncertainty principle tells us that if we squeeze the light into very short pulses,
+the uncertainty in the time goes right down because we've squeezed it into really short pulses.
+So what happens if we really make the time uncertainty very small?
+What happens to the energy? Yeah, it goes very high.
+So we're squeezing the protons into short pulses, and the energy of those pulses shoots up through the roof.
+And that allows us to get very high intensities of light by squeezing into these short pulses.
+So one thing that people tend to trip up on when calculating, um, pulse widths is.
+Bandwidth of the excitation.
+So we're going to be dealing with the width of these pulses in seconds.
+Particularly kind of picoseconds or femtoseconds. But when we squeeze them into very short pulses the energy of that pulse increases.
+And that increases the bandwidth of the pulse.
+Yeah. So be very sure that you know how to convert the frequency width of that pulse into wavelength.
+Yeah. So it's a very easy mistake to kind of you, you convert the energy of these pulses into a frequency width.
+And what's the relationship between frequency and wavelength.
+Inversely proportional. So you might think, well I've calculated delta f I'm just going to calculate d lambda.
+They must be personal to each other. But remember f is proportional to one over lambda.
+So you have to differentiate df by d lambda.
+And then you arrive at this equation. So if you integrate one over lambda you get lambda squared over c.
+Yeah you remember this one. This kind of simple error that you make without kind of remembering the fact that the inversely proportional.
+So they're not you can't just take lambda delta f and make equal still to land.
+Yeah. It wasn't happy with that concept.
+So we're all going to be doing these calculations. I put in a red box.
+So you need to remember that when we get onto this point I'll go through that calculation just to remind you.
+So the ball model is also something you come across.
+Yeah. So what is the ball model. Remember, miners would never remember what the pro model is.
+So it was a model that this guy Niels Bohr came up with hundreds of years ago that kind of modeled what an atom might look like.
+Yeah, and it's just a model. So he modeled it as a positive proton in the center of the atom with an electron orbiting that atom.
+Yeah. Why is it just a model and not really what happens?
+You all kind of looked at quantum mechanics, and you now kind of understand wave functions of electrons and things.
+But in practice, if this were physically happening inside materials at the atomic scale,
+if we actually had positive charges and negative charges and the negative charge was whizzing around them round and round.
+What would happen in practice? What? Shouldn't that be real? Yep.
+They emit radiation. Yes. So that's that's that's the point. So if we if this was the case, the electron would be going round and round and round.
+And you're familiar with the synchrotron. It's kind of how you accelerate charged particles around a circle and they emit radiation.
+This thing from the side would look like an electron oscillating up and down.
+And it would be emitting electromagnetic radiation like an antenna.
+So this is just a model, but it's relatively accurate.
+So one thing that we want to do, and this is quite useful, is to calculate the ball radius.
+Um can you see that. Okay. So.
+So full radius isn't. Is that big enough for you? Do you want to zoom in?
+That we model our atom as positive nucleus and negative electron.
+Radius r, and what we're going to do is balance or equate.
+Centripetal. Or to the Coulomb force.
+Yep. So what's the Coulomb force? Net negative charge at rate is often used to charge.
+And even remember. So we got positive charge and a negative charge separated by all.
+So we got E squared for pi.
+So I got more or squared. And we got a set that equal to the centripetal force.
+Most centripetal force. You can see it's movement velocity v.
+Um, it's quite a. Yeah. M v squared over r, but we're dealing with a kind of quantum mechanical system.
+So we got quantum. The momentum.
+What's quantum angular momentum equal to? In VR and the quantum world is equal to.
+And each. Yeah. Does that ring a bell?
+We lost 10 million. So we can then rearrange that so we get him the R and H and that t I, and then we can shovel that into our equation.
+Yeah n squared h bar squared.
+All right. So more or less and squared.
+And then we're going to make e the charge on an electron.
+And we're going to rearrange that. So far it equals a naught.
+So we've got and is one squared and squared is one.
+Simply cancel out already h bar for pi.
+So I know if m b squared that comes out.
+Heart and strong. And strong is ten to the -ten meters.
+So about half of one of those, which is more as a hydrogen atom is tiny.
+And that sort of size scale that we're dealing with.
+Okay, that's all kind of a recap. So you've seen this before.
+And. If you haven't it's useful to remember it because we're going to come back to it.
+So and then if we were to take our um four radius and then calculate the electric field.
+So you know how to calculate electric field two over four.
+So I'll show you all squared replace R-squared for radius.
+And then we get five times ten to the -11V a meter.
+That's the electric field that that electron is sat in.
+And that's huge. Yeah. In terms of kind of physical scales.
+But obviously it's huge because R is 20.
+Yeah. So this is something we're going to come back to.
+This is the kind of electric field strength that that electron experiences when it's sat in the atom.
+So the next kind of bait that you went on to with quantum mechanics was to kind of look at a hydrogen atom, still based on the ball model,
+and then work out how much energy you would need to excite the electron in that atom up to different energy levels.
+Does that you remember this? So this is really important because we're interested in electronic transitions.
+So if we think about how hydrogen atom will absorb electromagnetic radiation,
+we can use this calculation to calculate the amount of energy we need to take an
+electron from the ground state and excite it up to its first excited ground state.
+And that will tell us what the photon energy needs to be for that transition.
+We looked at absorption yesterday and we were saying grass is green because it's got this chemical in it,
+and that chemical likes to absorb red and blue photons.
+So now we're going to start looking at systems that absorb photons and start
+thinking about what type of system we would need to absorb stuff in the physical.
+So if we take our. Hydrogen atom equation.
+So we've now we're looking at hydrogen absorption. Really just atomic absorption.
+So we know that. Energy.
+And it's -13.6.
+He's put in squared. And hydrogen.
+Z is the atomic number that is going to be one. It's not easy calculation to do.
+And we're going to be looking at. Squared is equal to one.
+We're interested in the lowest energy transition from n equals one.
+And equals two. Yeah. So we put these numbers into our equation.
+You got be one. Two.
+We've got 13.6. One is caught up.
+Electron volts, which is 10.2. So electron volts are kind of hard to.
+Understand in terms of electromagnetic radiation, like solid state physicists like to work in electron volts because they're very useful for
+the energy scales they're dealing with when you're dealing with electrons in materials.
+But we're interested in light, and we want to convert that into wavelength because it's something that we have a better handle.
+So if we convert 10.2 EVs into wavelength.
+The equation that we use as equals h f x, h, c or lambda.
+Rearrange lambda. Then we put the numbers in.
+You get 1.22 times 10 to -7m.
+And that is the kind of nanometre scale, which is what we understand in terms of light and wavelength.
+Where does this 1.122 nanometers go?
+Does that sit in the electromagnetic spectrum? Not something we're familiar with.
+What's the wavelength of green light? Bang in the middle of our visual range.
+100. Closest 500, so blue would be 400.
+And if you remember when we were looking at the ruby laser, which is red, that's around 600 and something.
+So green is bang in the middle of 500, blue around 400.
+This wavelength range is right on the edge of extreme UV.
+So not in the visible range. It's all very hard.
+U.v. excitation. Very difficult to manage in optical systems.
+Very harmful to anything you want to image with it. So you don't you cannot really use atomic absorption easily to get nice images
+of a material without kind of destroying the thing that you're looking at,
+because you're going to be ionizing most materials at that wavelength range.
+So we need to look for different mechanisms to think about how we might get optical absorption in the kind of visible range,
+which tells us how and how we can use the contrast mechanisms to see things around us.
+So the other thing that you went on to learn in quantum mechanics was you also looked at the infinite square potential.
+Well, yeah. So you've got this equation and you divide this equation by looking at kind of boundary conditions, uh, sine waves inside a box.
+And then I think you did this with Claire, and then she would have to talk to you through and you would have to go still,
+this is so you've all seen this guy before. Yeah.
+And you won't remember how to derive it. So we don't need to derive it in this lecture course.
+We just need to know exists.
+But this tells us or allows us to calculate the energy of the different energy levels within a infinite square potential well of width L.
+Yeah. So let's think about so we know that hydrogen atoms have energy transitions that are useful to give us optical contrast.
+Let's just think about what length L would be required if you if you were asked to build a box at a certain length,
+what size with that box have to be to give you useful energy transitions that could give you contrast in the optical range.
+So it's pretty easy calculation to do. So it's a really easy calculation to set things in question.
+Um uncertainty. Salvia. That remoteness of the square well.
+So we're interested in electronic. Option.
+And people ask where? Well. How?
+You can fit these wave functions into it. So n equals one, n equals two and so on up to higher levels.
+And the equation. We're starting with his feet and and he squared eight squared to eight, um l squared.
+So let's look at the energy required to go from the ground state to the first excited state.
+This is going to be the smallest energy required or the longest wavelength required.
+So similar calculation to previously.
+1 to 2. It's going to be four squared over eight and x squared minus h squared h squared.
+It gives us three. So you can see what I've done there.
+Just subtracted and equals two equals one. Yeah.
+So rearrange that again. So we know that e is equal to h f which is c a c with lambda that's an equal to three a squared.
+Now Square's rearranged for L because that's what we're trying to find.
+You get three H, the x square cancels with the h. Rooted.
+Bang in the middle of the kind of physical rage. We're going to lose.
+A green is a wavelength we want to work with, and we're going to assume that's around 500 nanometres,
+says it's a good idea to have a good steel, the kind of the wavelength values for different colors of light.
+So green bang in the middle is 500 nanometers, red 600 and maybe up to 680.
+And then blue starts around 400 down to like 250 maybe.
+Yeah. So 400, 500, 600 blue, green, red.
+It's a really good thing to remember. So we then shove that into this equation.
+And it comes out of 1.4.5 times ten to the -19.
+The square root is. 6.7 times ten to the -ten meters.
+So that's way too big for an action, isn't it? Atoms are on the solid.
+Atoms are on the length scale of ten to the minus ten.
+We're talking seven or so atoms. Big? Yes.
+So what sort of structures are going to allow us?
+To confine electrons within boxes of the order of ten to the nine meters.
+What's the pigment that makes grass green? So what is this molecule.
+Yep. So we're going to be looking later at molecules that allow electrons to be
+confined over length scales that that govern the color of light that they absorb.
+So we're going to be looking at a little bit of chemistry to understand what are the
+properties of a molecule that allows electrons to escape the atoms that they're stuck in,
+and effectively be confined over larger length scales to give us optical contrast?
+So much so. To just.
+Okay, so that's about all the quantum mechanics we're going to kind of delve into in terms of the natural course.
+The final bit we're going to look at is a couple of bits of relatively simple maths.
+So Gaussian functions we're going to use quite a lot.
+We're going to use them to approximate the light distribution across um laser spots.
+We're going to use them to um, estimate the profile of very short laser pulses.
+Um, it's a very kind of common function, the Gaussian function, mainly because it's it's just a nice simple equation.
+So there are loads of other equations that you can people that come up with equations that match particular pulse shapes.
+The Gaussian is a particularly accurate approximation for things like laser pulses.
+But it's really close in practice. Yeah. So we're going to use Gaussian functions to describe the shape of laser pulses and
+the light distribution across a focal spot when we squeeze it down to a small spot.
+So the key thing about Gaussian, it's a nice simple function because it deals with the standard deviation.
+You remember this. So it's very simple if you want to work in terms of standard deviations.
+So if you take the kind of the value of your of the width of your pulse at one standard deviation, you get this term here.
+But we don't really think it's that deviation. So we want to work in full width half maximum values.
+So what is the width the full width from one side to the other at half the amplitude.
+Yeah. Have you come across this before. You will see how to convert between standard deviation and the forward half maximum of a function.
+Just to quickly go through it. Yeah. So.
+It is used to be fairly straightforward, but it is quite useful. Just to be clear, when I think we are going to be relying on it later.
+So if you take your Gaussian function.
+This kind of pulse shape distribution. Got one and then half off amplitude, we got value of a half and.
+This value is going to be half full with half maximum a standard deviation here.
+We were interested in the forward half maximum because it's something physical that we can quantify.
+What's the width of our pulse at half its amplitude. So if we take.
+So at the full width. Of maximum X is going to be equal to a half, and A is going to be half a naught.
+Yeah. So we can then say that half equals e to the minus a half.
+Oh I think sigma squared. Yeah. So we take the log of both sides to get rid of the EA.
+So we get log two is equal to plus. So you see what I've done.
+Now I've taken the half log, flipped over and got over the negative sign on the other side.
+Times both sides by two. To get X off on its own.
+Squaring both sides. Yep.
+This is only half of the pulse that we're looking at. So the full width half maximum.
+Two times x of which is equal to two.
+Need to look to. So we are going to use that quite a lot, and you'll see that it comes in really handy,
+both in terms of looking at the time properties of pulses and also in terms of the properties of beans and rice.
+Beans.
+Everyone happy, really straightforward, but it's really worthwhile seeing what that question comes from because you are going to be using it later.
+And the last bit of maths that we need to know and be happy with is the Fourier transform of using for transforms.
+So far, does anyone understand the Fourier transform?
+Does anyone have a clue what it's for? I think.
+I always when people ask me what is the Fourier transform, I,
+I think I say it's the most useful piece of maths I learned, but didn't understand why I was taught it at the time.
+So when I learned the Fourier transforms when I was going to, you're going to see big tall knots in seconds.
+Here I thought, why on earth are we learning about this? And what are all these variables and things that you can that you can calculate?
+But it's actually probably the most useful piece of maths and a very elegant piece of maths.
+Once you understand what you can do with it.
+So in terms of the Fourier transform, it allows us to move backwards and forwards between the time and frequency domain.
+So that's just one application of it. I'm sure there are loads of others.
+There are loads of things you can do with it, but in terms of optics, it allows you to take a time varying signal.
+So if we were to look at this signal here and this is an electric field versus time.
+So we've got an oscillating electric field. We've got a monochromatic.
+So single color single wavelength single frequency light source.
+And this is what it looks like in the time domain. The electric field going up and down.
+If we take this sine wave and shove it through the Fourier transform we can convert it into the frequency domain.
+So here we have the frequency domain. Now we're no longer measuring the amplitude of the electric field as a function of time.
+What we've got here is a spectrum. So we've got wavelength for frequency.
+And we can convert that to wavelength. And we can ignore the negative side because it's just a mirror off the positive side.
+And this tells us exactly what you'd expect if you take us, if you take a monochromatic single color, single frequency light beam.
+If you were to take a spectrum of that, say, if you were to shine it through a prism and look at it on the board,
+you'd expect to see one line of one discrete wavelength, one color.
+And that's exactly what you get mathematically. If you then take two optical signals at two different frequencies.
+So now we've got omega one and omega two. And then you kind of mix them together and you've got a bit both of them inside your optical signal.
+You then get a spectrum when you run it through the Fourier transform that has two wavelengths.
+On the frequency axis. So it allows you to convert between the time domain and the frequency domain.
+And this is extremely handy. And the final kind of piece that we need to look at is the Fourier transform of a Gaussian.
+So if we assume that we have in the time domain, we have a Gaussian function.
+Remember I said we we assume that a light pulses a Gaussians.
+So this is telling us what our pulse looks like in time.
+So we've squeezed our light into this ultrafast laser pulse.
+And we're going to assume it's a Gaussian laser pulse. And the reason this is handy is because Gauss is not about approximation.
+But the really cool thing to remember is the Fourier transform of a Gaussian gives you a Gaussian.
+Yeah. But you can see the relation.
+There's an inverse relationship between them. And the broader the pulse in time the narrower the pulse becomes in frequency.
+Yeah. So if you put a Gaussian through the Fourier transform you can convert it from the
+frequency domain or from the time domain to the frequency domain and backwards again.
+So whose theorem does this.
+Well whose principle does this match up perfectly with?
+When we were looking at laser pulses. Quantum mechanics.
+Yeah, the uncertainty principle. So the uncertainty principle tells you if it's narrow in time, it's broad in energy or frequency.
+And that's exactly what we get here. If you take a broad laser pulse in time so it's not very short squeeze makes a pulse.
+It's very narrow in in frequency.
+And if you extend this to the extreme where it's not pulsed at all, then it's just flat.
+A single kind of, um, not pulsed at all.
+You would just get a delta spike? Yeah. Which is what you'd expect.
+Single frequency, uh, not pulsed at all.
+And then if we take a very narrow a pulse, the more we squeeze the light in time,
+the more and more we squeeze those pulses, the broader and broader they get in terms of frequency.
+So the Fourier transform maths matches up perfectly with the uncertainty principle, which is what we'd expect.
+And we're going to be doing some calculations later to kind of calculate properties and policies using this, using this equation.
+But don't worry, you don't have to remember this will be able to calculate it or even do it for a transpose.
+So if you need to do the Fourier transform of anything in the exam, I will give you the Fourier transform on the front page of the exam.
+Or in the second page where you get the equations that you need. So any standard formulas for Fourier transforms you get them.
+Which because we're not kind of assessing you on your ability to do for a transforms, it's how we apply them.
+So that's the kind of all of that kind of theory bits that we're carrying over from electromagnetism and quantum.
+Any questions. So everyone follow it so far.
+So don't forget to do the weekly quizzes. So if you can do it everyone can do the quizzes before next Monday.
+That would be great because then I can check that you're understanding it and see that you've all followed it.
+Obviously, the first week's quizzes, there's not a lot that we've done, but there's still some interesting stuff in there.
+So I'll be checking the quizzes every week just to check that you will follow again,
+to check that you're kind of keeping up with everything engaged with the post, and also see if there are any questions or needs to go over again.
+And the rest of this is what you call it, the visualizer.
+I'll scan for that and put my ideas so you don't need to sit there making notes.
+It's not going to work. You can always get the feedback on it. Okay, so see you next Monday.
+Did. You see what?
+I was. Doing.
+Yeah. It's going to be well. Thank you.
+Yeah. So what's the next one?
+Okay. So. This morning I think.
+There's always been like two days of.
+Practice. I feel sick Monday. Tuesday. And then I'm just absolutely exhausted until it has been.
+Okay, so I just decided to read this 101 of you or not?
+Yes, we do. Uh, we.
+It may be either tomorrow or Thursday. Um.
+Are you free at 1:00 am? Free?
+So I was thinking, if I put you in between the other ones because there's some overlap with your projects, it might be the okay.
+Okay. So these first projects are working on very similar things.
+So you might want to meet them. So what I'll try and do is get some overlap between them so that you can meet them in chance and see what they can do.
+They will integrate this yellow and they will working on similar kind of.
+Linear optics of apology using machine learning. Huh?
+Huh? See you then. I see your brother.
+I need you many, many times. If you got any questions. Yes, I go now, which is kind of you.
+Literature review. It's just a case of thinking about going back to the literature review, looking at the papers.
+You're done. You're going to make, like, a condensed down version of the liturgy for you to get started, the grant proposal.
+And then we'll start planning what you're going to do. And then you write that integration puzzle.
+That was a very useful lecture, actually. Is this something I'm totally terrified about is how much I've forgotten between undergrad Nelson.
+Yeah, I'm always worried about that. Yeah.
+Uh.

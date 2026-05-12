@@ -1,0 +1,380 @@
+But maybe everyone's go is the last one I'm looking for.
+Maybe. You don't even need to be alone.
+It's the laptop. Okay, so this is the last actual full lecture, and then it's the laptop.
+Yeah. How's it going, Charlie?
+How's that video going? I believe with you.
+Really? This week you said that the questions.
+Should be fairly smooth. Hmm.
+Oh, so that's what you call this one? Yeah.
+You don't have one tomorrow. There's no lecture tomorrow. And then we've got lab tools next Tuesday and next week.
+Next Monday. Good thing you remind me all. The time.
+No. This was. Actually.
+Good. How are you?
+And how was your interview with Hervé? Oh, it's very interesting.
+Yeah, I think it's got some good, useful stuff.
+Yeah. So it sounds good. Oh, yeah. But I didn't think work went into this with this.
+Um. Oh, actually, I'm the husband. Okay.
+It was the sound of. Just good morning to you. I think so, too.
+Yeah, but I think it's just as a backup in case. Yeah, it's maybe less.
+Important? Yeah. But, yeah, it was really quite.
+Unusual to meet you.
+Did you find anyone? What are you talking about? I'm. So.
+Sorry. I guess you should get used to it.
+Yeah. Um, some things at work don't like to say I'm sorry.
+Yeah. He's going to insist.
+You're ready. Yeah. It was really helpful.
+Yeah. Yeah. Um.
+I did that for you. Yeah. Thank you so much.
+Yeah. We've got quite a package. Oh.
+So, what do you like to say? Should we get cracking? This is the last lecture.
+So this is where, um, hopefully it all comes together.
+So there's nothing particularly kind of challenging of owners to do.
+So there's no new theories. It's just about seeing how it comes together.
+Um, so I think if I was going to put a red box around something, I'd definitely say that one.
+So, you know, the whole point of kind of this lecture today is to be able for you to think about knowing the stand,
+how nonlinear optical microscopy overcomes the problems that we've got with normal imaging.
+So what what do you know about two thirds of the questions?
+How does it overcome the limitations? Of conventional fluorescence in context of conflict detection.
+Anyone you know where the beads coming from?
+Yep. So no pinhole, no confocal detection.
+We know that the signal is only generated at the focus, and that allows us to go much, much deeper into tissue.
+So what are the two? Two reasons or maybe three points when we go deeper into tissue.
+We can tell the pinhole because the confocal the nonlinear confinement of the signal.
+So in the two photon and three photon fluorescent diagrams, how does the wavelength of excitation compare to the linear version?
+Don't go. Short-tum. That's two times as long.
+Well, three times longer for three photon excitation. And what does that mean for the scattering?
+Remember why the sky is blue, so the incident light itself undergoes a fall.
+A scattering that enables this enables us to go deeper.
+The fluorescent signal that comes out is the same kind of as if we hit it with the blue laser, but we don't care if it's scattered.
+Yes. So this is the real reason why we keep getting up.
+What was the problem with using fluorescence? Thank you.
+Yeah. So. And why is it good for proteins and not so good for small molecules like drugs and fatty acids?
+Relative size of the. Yeah. So sticking.
+A fluorescent tag onto something big, like a protein, is like sticking a one kilogram tag on an elephant.
+Sticking that same fluorescent label on a fatty acid or drug molecule is equivalent to putting a Ford Transit van on an elephant,
+so the elephant isn't going to behave as quick as we'd expect.
+So we then went on to look at second harmonic generation and what type of structures exhibit 16.
+Non-Central symmetric molecules that have this particular feature, and the two common ones in biological material are mice.
+And where do we find mice in? Muscles and collagen, which we find in cartilage.
+So those are kind of two labels or two molecules that we can target for free with SARS G.
+And then we went on to cause microscopy coherent anti Stokes Raman scattering.
+What did we say was the advantage of cause. You guys forgotten this already?
+Can anyone give us a recap? Say it's a non-linear version of Robin, and we use full wave mixing.
+And by using four wave mixing, we tune to a bromine resonance that matches this bronze key diagram for wide mixing.
+Yeah. So again we don't need a pinhole.
+We send our two laser pulses into the sample.
+We know the signal gets generated from the focus where the intensity is high enough to generate the nonlinear signal processes.
+And we don't need to use the detector. What we didn't look at is that it's also interesting to detect the signal in cause in the backwards direction.
+So we've looked at kind of forwards versus backwards propagating cars.
+So far we've only looked at it in the forwards direction. And if we go in the forwards direction.
+We tune the difference between a pump and Stokes beams.
+And for example, if we want to image lipids, we can tune them to the vibrations direction from those.
+This is incredible contrast from lipids.
+We can scan across the Roman band of lipids, and we can map out different lipids and see lipid droplets in cells.
+Why lipids good ones to image because.
+Why would you go to the effort of imaging the difference with this quite tricky specialized nonlinear imaging method?
+Thinking back to elephants in transit vans. So lipids are hard to like.
+Yeah. So this is a really big application of nonlinear Roman because they're intrinsically hard to tag with fluorescent labels.
+So if you want to image proteins you might as well just use a fluorescent label because they're not going to get perturbed lipids or something.
+In biology that's essentially. For many, many decades been invisible to biological microscopy because it's hard to label them.
+So we've got lipids and we've talked about brains before.
+We've looked at lipids appear in brain tissue where we find lipids in brain tissue.
+Yeah. In the myelin sheets, the insulate neurons. Lipids are kind of the food source for cells.
+So people like to understand how lipid droplets grow and develop in cells to understand how cancer metabolizes for example.
+So all these things are potentially very difficult to do with fluorescent microscopy.
+So this is one kind of niche application that might have a problem and can really kind of provide information that you can't get with fluorescent.
+So we've gone into phase matching and you probably looked at the phase matching and thought, oh God,
+this is like this really kind of weird, like niche to the thing that we're looking at and kind of phase matching.
+But actually it has practical applications in care from like microscopy.
+So if we compare the signal generation in the forwards versus the backwards direction.
+So we're used to this equation that tells us the phase match or the phase mismatch and how it has
+to be smaller than pi over L because we get this partial canceling out with the confetti shift.
+If we detect in the backwards direction, our K3 suddenly becomes negative because it's going back in the other way, suddenly making delta k big again.
+And then we get the same problem that we have with third harmonic generation, when we only get that signal produced from very small objects.
+Yeah, you remember that.
+And so that means you only get backwards propagating signal either from interfaces or very tiny scatters which are smaller than pi.
+Over out. Yeah. You're just kind of ringing bells.
+People are looking to get confused. So it turns out this is a really good way of suppressing the signal completely from bulk material.
+So one thing that we've been working on here a lot in my group is imaging nanoparticles in biological tissues.
+And if we take an image of some cancer cells that contain nanoparticles in the forward signal,
+you can see the signals dominated by the contrast from the cells.
+So the phase matching from the bulk objects adds up coherent in the false direction.
+And we get a lovely strong signal if we compare that to the backwards direction.
+Well, these little tiny dots,
+a sub wavelength particles where we were able to get the backwards propagating signal because of the phase matching problem.
+And now that gets us this kind of free contrast of the nanoscale materials.
+And then we can overlap that on the cancer cells. And then show that the cancer cells have gobbled up these particles.
+Yeah. So that's a kind of an example of where you can use. Some rather elegant physics.
+To do something practically useful in biological modules would be using this
+phase matching concept that I was telling you about a couple of lectures ago.
+So it does have practical implications. It's a real thing. Yeah.
+So this has been used a lot in nanoparticle drug delivery is they don't come across nanoparticle delivery before only a few people nodding.
+So it turns out that 95% of new drugs developed by the pharmaceutical industry are just no good.
+So they work in a test tube. They know it might cure the disease they're trying to treat, but it could be toxic.
+Or the drug molecules could get consumed by the body before they've reached the site of interest.
+So it turns out that this work has been pioneered by this lady.
+It's uma, you checkpoint I've been working with for a long time, and she's now actually a dame, so she's been knighted.
+Um, and she's discovered that if you encapsulate drugs into nanoparticles of itself.
+So some wavelength size particles, you can protect the drug from the body before it reaches the site of interest.
+You can make something that was insoluble, suddenly becomes soluble because it's encapsulated into particles.
+And you can control the release of the substance.
+So you can deliver it to cells, and then let it slowly reach out into cells and work as a period of time.
+So we've done lots of work applying this phase matching trick.
+So in green we've got have the drug delivery particles named red.
+We've got the biological cells structures of the gut. So you can see that large kind of clusters of these not nano materials sticking to the gut wall.
+Um, and you can then see smaller particles disappearing inside cells.
+So this has been used to support the development, development of quite a few drug materials,
+because we can demonstrate the mode of action by demonstrating the particles do get taken up into cells within the body, which is very important.
+We're applying this kind of. Hard core phase matching idea we can demonstrate.
+This works really, but practically in a microscope.
+Um, and here's another example where we were working with particles that target the liver.
+Um, anyone? Guess what? This is in blue. So that's second harmonic generation from collision.
+So we've got red cells. We're imaging the cells in green.
+We've got the EPI detected signal which gives us that kind of sub wavelength particle size filter.
+And then in blue you can see the collagen which we just get for free when we're
+doing cars because we just detect at twice omega 1 or 2 and it just comes out free.
+So we can do this in 3D.
+Many, many cell lines deep within the kidney tissue, confirming the uptake of particles and the encapsulation of particles in cells.
+What it turned out to have a different kind of application. Um, have you heard of microplastics?
+So bad for the environment.
+And until quite a while ago, these things were being put into kind of shampoos and face washes and all sorts of cosmetic stuff.
+And this lady who's just down the hill in Bioscience just came to me, said, I'm seeing that you're using nanoparticle drug delivery imaging.
+Could you do with microplastics? So we kind of gave it a go.
+It turned out we could see the accumulation of it. And at the time I thought this was just like a bit of a sort of weird thing to be exploring.
+Um, and then it turned out that she, we, we showed that these particles do get taken up into marine organisms,
+and we can see nanomaterials and micro materials getting accumulated into kind of this very shrimp,
+some kind of marine organism, and microplastics inside of the marine organisms.
+And then she took the results that we did in our lab and presented them at the Houses of Parliament.
+Um, and then it turned out the images actually got the plastics banned.
+So she got what? She got em. That was awesome. It's not knighted or is it an OBE?
+So she's like a botanist making up an order. Anyway, she she got to go see the Queen.
+Um, in recognition of the work that we did.
+Um, so that's another example of something this kind of phase matching that you might've thought was a bit of a kind of weird, obscure technique,
+how it can be applied robustly into kind of real life 3D biological organisms to
+detect the presence of sub wavelength particles in in actual biological tissues.
+Who's interviewing Nick Stone? Yeah. This one.
+Reprinted here, next and next. A professor in our department.
+And he's been working in pathology to try to detect cancer with Rahman for a long, long time.
+So if you all remember, right at the start of the lecture course, I kind of introduced this idea of using absorption and color to stage materials.
+Do you remember about the hematocrit enhancing staining? Yeah.
+So the current gold standard in pathology particularly of this is bowel cancer.
+Um, and so this is you can you know, endoscope is so this is a rather unpleasant procedure,
+um, where it's, it's not a large device, but it's probably larger than you want it.
+Um, they, they poke that into people's mouths to scan and, um,
+so pathology look in regions of tissue where they think the bowel cancer might be growing.
+Um, it's really unpleasant for many reasons.
+I think the most unpleasant reason is that the patient has to take very strong laxatives for about two days before they get this done.
+So they're completely clear and you can see everything. Um, and it's obviously unpleasant from, for obvious reasons.
+Um, but it's also quite unpleasant because it's a very stressful procedure for the patient.
+So the surgeon will go in and look for regions visually that look a bit old, or different red regions or raised regions, things that are polyps.
+Some of these polyps are just kind of harmless, non-cancerous growths, and other ones could be cancerous growths.
+So the the surgeon then sends out this little grabber and then kind of snips off a piece of tissue and then brings it back.
+And they might take a few of these samples, and they just look like tiny chunks of meat that they send off to get processed.
+And the reason it's quite stressful for the patient, apart from the physical reasons,
+is that they have to wait quite a long time for the results to come back, and quite often the results that come back are inconclusive.
+So if you remember how these things are processed, so you start off with the tissue.
+You have to set it in wax.
+You take sections, you slice it, you dip it into stains and dyes, and then you finally end up with these very nice looking images.
+But the cells and tissue stained with these nice pink and purple contrast.
+And then the pathologist will look at it and make a decision and say that's cancerous, all that's healthy.
+And then in many cases the pathologist will look at it and go, well, it's inconclusive.
+We need to do it again. So you have to send a letter to the patient to say yes or do it all again, we're not sure.
+So and that's very stressful because they just want to know what they've got cancer or not.
+So we're looking all the time to see if we can come up with better ways of doing this.
+So. We could, in principle just completely replace pathology histopathology with rolling and nonlinear imaging.
+But there's a real reason that you wouldn't want to, Hervé, talk about this the other time.
+So you guys interviews somebody working in this particular field.
+So in principle you could completely get rid of HIV.
+Remove it from hospital practices altogether. We could do it all with label free nonlinear optical imaging.
+But the real power of this technique and, uh.
+Daniel. That was the real power of this technique,
+and the reason that I probably never got to move away from any is that every time somebody gets a biopsy taken.
+They have one of these slides made. And the hospitals don't just chuck them away, they keep them and then put them into these.
+John,
+there are companies that basically have just shelves and shelves and shelves full of these things in case they ever want to go back and look at them.
+And although the technique and the images themselves are very old,
+it's absolutely fantastic source of information because you can think of these stores as a bit like a time machine.
+So if you go back and put with things like modern machine learning, you can now analyze these slides.
+And the really powerful thing is that some of these slides might be 20, 30, 40 years old.
+And you've also got the patient records associated with them. So, you know, after the slide was taken, you know what?
+They had cancer not you know, how aggressive it was, you know, treatment they responded to.
+So it enables, um, kind of machine learning computer scientists to come up with prognostic models that can recognize
+early features in the sample and then link them to how the likely outcome of that patient,
+how best to treat them and whether that cancer is aggressive or not.
+So for this reason, a lot of people working in kind of nonlinear.
+From an imaging we're creating. Label free images using cars and SARS microscopy.
+And instead of just using these images in ten pathologists or training pathologists to make an interpretation from those images,
+we're actually now using AI to convert the SRS image into something that looks identical to HD.
+And the reason we do that is because you can then train neural networks that have seen millions of HD images from these historical stores,
+so that you can then put your your kind of virtual HD image through these classifiers and then get the same diagnostic help.
+So the idea is that you wouldn't need to take the biopsy one day.
+We could do this in an optical fiber that the surgeon could just image much larger areas of tissue as well,
+because when you're putting different chunks of tissue out of the patient,
+a lot of the kind of uncertainty in this method is relying on the fact, not the quality of the HD or your your final imaging diagnosis.
+It's really how good is that? Is the guide surgeon at detecting the daunting looking regions within the tissue and then pulling them out.
+And that's because obviously if you want it to catch it,
+you will have to move the whole intestine and image the whole thing that the patient needs their intestine.
+So this is why it relies on this kind of picking certain points within the patient.
+And that's one of the biggest kind of. Saying points of not failure, but inaccuracies.
+You're relying on picking the right bits of tissue in the first place.
+So if we could do this with an optical fiber and do it non-invasively, creating images that look like this in situ,
+that we could then run through a machine learning classifier to predict the outcome of the patient.
+That would be the kind of way of the future. Yeah. That's gonna give you some examples of one of the things we're doing.
+The final. I think this is the final application. So we talked about.
+Elephants and GPS tags and transit vans and drug molecules.
+One of the things that we wanted to image and these are even smaller than liquids,
+so typical kind of drug molecules are of the order of like a third of the size of a liquid.
+So could be very small, particularly if you want to look at compounds that are designed to go through the skin.
+So drug to drug delivery because the skin such a good barrier at preventing the uptake of things you don't want going into your body,
+as soon as you want to get like a cream that delivers a drug across the skin, it's very challenging.
+So you have to pick low molecular weight compounds to stand any chance of going through this area.
+And really we want to be able to image them to understand the transport mechanisms,
+understand how they diffuse so that they can design formulations that work better for go into the skin much better.
+People have tried using fluorescently labeled versions of the drug in the past,
+but it doesn't give a very good result because you're not seeing how the drug behaves.
+You're seeing how the drug with the Ford Transit van sat on top of it behaves.
+So this is an example of where label free images is really important.
+So using I think this stimulated Raman very similar to cars were able to image skin.
+So this is this was pigskin. And we can do these kind of slices at different depths.
+So we were doing a set of a scanning sequential debt scanning through the skin to acquire these images.
+And then we can put it together, put it together to make a kind of 3D depth profile or depth image as we go through the skin.
+And then we can artificially take an x, z plane through our stack of images,
+and you can see that it matches a kind of structure of skin that we'd expect from this technology.
+There's a real challenge with imaging these low molecular weight drugs.
+In the. Typically, the chemical structure of the drug that you want to image doesn't have anything unique in terms of its Roman signature.
+It's usually called as in hydrogens. It's biologically active, but it doesn't have any kind of unique Roman features that you could use to detect it.
+And because it's so small, you can't put a fluorescent tag.
+So one of the tricks that you can do is to take isotopes of hydrogen and take
+a version of that molecule where instead of having carbon hydrogen bonds,
+you've got. A carbon deuterium plant.
+So what happens if you remember how we calculate the vibrational frequency?
+Oh, yeah. This technique works for oil as well. So we have this equation that tells us the resonant frequency of a pair of atoms bound together.
+If we know the bond strength and their mass.
+If you take hydrogen and you replace it with deuterium and tritium, you're changing the new effective mass here.
+Chemically, it still behaves exactly the same. You've made a tiny perturbation to its molecular weight,
+but it now gives us something where we can take the stretching peak, and we can shift it by increasing the mass.
+You can see increasing means that goes on the bottom, so that downshifts or red shifts the vibrational resonance.
+We can shift it away from any of the bonds in that sample.
+So we now put our peak into something called. People refer to it as desired region.
+So it gives you this kind of unique tag. You can tag the molecules, but you're tagging it with something minimally small.
+So I guess the equivalent to the kind of elephant. On the the transit van.
+Transport on the other from this tag would be you're kind of trying to make a really, really tiny GPS tag that you can put on a mouse or something.
+Yeah. So you can track much, much smaller animals. So it's not a chemical perturbation, but it does change the vibrational frequency of.
+CHP. So here's an example of where we were imaging.
+Does anyone come across Ketoprofen before? It's very similar to ibuprofen.
+Um, and it's one of those things that as you get older, you probably start using it.
+Uh, you've got that backward knee and you start rubbing it on your skin.
+And it's quite a lot of people don't actually believe that these things work based on
+the size of the molecule and the concentration that you get across the skin barrier.
+Um, and it is actually quite a sort of long stretch to think that you could deliver enough
+concentration of this through the skin all the way deep into your muscles in your back.
+And it's probably just the fact that you have to sit there rubbing it for a certain amount of time.
+That actually makes it work. So we did this experiment where we took.
+So we use the CHP to image the skin lipids. Ketoprofen remarkably does have a unique Roman peak that we could image.
+And that's that's set out here for this green peak here.
+But we also also wanted to image the, um, propylene glycol, which is the kind of carrier that you dissolve the stuff in.
+So the tripling glycol was due to rated.
+So we can in three different channels image the skin the drug and the solvent.
+The drug was dissolved in. And we could take it take images as a function of time and orange.
+We've got skin lipids in blue. We've got the uh prevalent glycol and in purple we've got the ketoprofen.
+And you do see some depth penetration. But what we discovered was that when you image the surface of the skin,
+you get huge crystals of the propylene glycol forming at the surface of the skin.
+So we can measure the diffusion of the profile in glycol and the diffusion of the key to paraffin as a function of depth into the skin and time.
+And but what this data shows is happening is that the propylene glycol is flowing through the skin much quicker than the ketoprofen,
+and it drops out of solution and you get it crystallized on the surface. So it's a real problem to get the drug delivered through the skin.
+And I think the kind of take home message to the pharmaceutical companies for this was that you probably want to pick a
+different solvent and match the diffusion time of the solvent to the drug in order to optimize how fast it gets to on time.
+You can go through the skin at the same time so the ketoprofen doesn't get left on the surface and just crystallize.
+Okay. So that's kind of just a kind of brief kind of overview.
+Some of the things that you can do with nonlinear optical microscopy.
+And I picked like a range of things that kind of demonstrate the different advantages of the different methods.
+Um. And kind of showing you that that phase matching derivation that we did was actually worthwhile.
+And it does get used for nonlinear optical imaging. I strongly suggest really having a good think about.
+How confocal microscopy gives you 3D imaging at tap. What?
+Why? It's limited in this hole. Scattering the pinhole.
+Scattered photons getting blocked by the pinhole. How nonlinear microscopy overcomes that because it just doesn't need a pinhole.
+And then you get this kind of three fold advantage.
+No pinhole long wavelengths. And the light emitted from the focus can be scattered.
+And we don't care if it's getting because we just detect it on a large detector.
+So that's the end of the kind of of the lecture. So there's no tomorrow.
+But next Monday I've arranged um, some tools of uh, imaging and spectroscopy laboratory.
+So if we're going to have a four sessions or four different um, stations that will visit, um,
+we're going to look at Roman and infrared spectroscopy, which is going to show you what it's been doing with whole harmonic generation microscopy.
+So this whole kind of we it's concept of the lack of center symmetry and how it comes from collagen and myosin.
+Again, this is kind of it's not this kind of weird obscure technique.
+It is being used in the real world is using it to image kind of arthritis and how people's joints,
+um, how the collagen fibers get disrupted in different diseases.
+Mice. And again, it's another really important molecule that occurs in muscles.
+People are using it to understand things like muscular dystrophy and things.
+Um, and then you're going to get to see inside our imaging facility that does Roman scattering.
+So this is could run as an external facility that was funded by the FCC suggestion.
+And we showed you around that. And then I'll show you inside an optical parametric oscillator just of show you
+what when we were talking about how laser beam wavelength conversions work. So don't forget to look on early for the revision material.
+So I've noticed people haven't been so keen on the end of section quizzes,
+so I'll put in that for a reason, because they will test the knowledge that you'll need for the exam.
+There are four problem sheets for you to practice.
+You can get the solutions to those on. And the past exam papers are all on edge as well along with the solutions to those past papers.
+So practice the past papers. Make sure you go through them.
+Um, obviously you get a new exam paper every year, so those questions aren't going to come up,
+but they're very representative of the type of questions that you're likely to be asked.
+Um, and as promised, there's a revision session in May.
+Um, just before I put, you know, in the exam is 18th, 18th of May.
+And then. When would you like a revision session?
+How close? Before the exam? We follow the example.
+So maybe I'll try and look at your exam timetables and see when you've got the other ones.
+And then if we've got like you've got this one, I'll put it in for the exam.
+Yeah. And don't forget your assessment.
+So the deadline is Friday of Week 11.
+And have you all checked for the assessment appointment early to check it's there.
+Yeah. And you just get to see one submission point. It's all I get to see.
+Like I think the way it works is when they should already know the group.
+Yeah. Yeah. So when the first person uploads it comes up everyone else because I get to see six groups.
+I take it you don't see groups 1 to 6, you just see no. Oh, okay.
+So so you don't. So somebody in your group submits it and everyone gets the receipt.
+Yeah. So Allie knows who's a moderate.
+Um, but I just suddenly thought I'd never see neuroscience as a submission point.
+You get to see. So each and everyone in each group just got one place to submit it.
+So, yeah, I think you only need to submit it once everyone gets that.
+And then the marks automatically get allocated to the groups.
+How are the videos going? The programs.
+I'm looking forward to seeing them. So the outcome from last year was just really, really good.
+So I'm hopeful that it's going to be another good year. Okay.
+So see you all next. Oh, and finally I forgot this one.
+So will be offering. I always offer and first projects on these topics.
+And also if you're in the PSC lab, some some of the PSC students have done, um,
+experiments with projects related to nonlinear optics, which which we've fitted in um and lab for students.
+We had a conference here in Exeter. Three years ago.
+And these guys my interest group and they they make that post one that goes up in the cards when they actually got to take it to a real conference.
+Um, and some of you know, this guy Hervey, who came in, gave an invited talk here.
+Um, so we're actually running a conference in Exeter again this year, and my new Memphis group giving a presentation at that one.
+So. So I think let's think about Memphis project.
+Most of you took a seat on your. But yeah, so we all said we advertising projects.
+Everyone has got to have fun. So brilliant. So see you next Monday for the lab tools.
+Um, I look forward to seeing your video. So I'll be available to upload the lecture.
+On which? So.
+Yeah, yeah. So, uh, so are you just under.
+Two minutes. Which, you know, I believe.
+So it has to be for several. Hours.
+So you can share some stuff. Yeah, yeah.
+Yeah, yeah. This is a job for you to understand how to.
+Stay tuned. So, um. So. So.
+So so so so so I think you probably should.
+Yeah. So he's about half way.
+Yeah, he's he's got schedule. I'm telling you, I can make it better.
+So I should say.
+Yeah. And it is a challenge because most. People this once they get the opportunity interactive interact which is an equal amount of skin coming in.
+And I'm asking you just ask a few questions.
+I'll see you later which I'll take. You know them, see what else can.
+I shoot something? Yeah.
+That's. Awesome animation.
+So what you told us, you think, like, sometimes it's just like.
+I just thought I was. Check. Which room did you both for us today?
+Leonard sent you the link. It was not able to open the attachment.
+Oh, there's no attachment. It's just. Hey, I forwarded the, um, click on the room bookings.
+Yeah, yeah, it's just that email and in there should be the.
+Not really I because also I can see like it's close to attachments and whatever.
+But I'll keep going. Yeah. Um yeah I just moved in as much as the next um, do you want to try and meet with Ricky?
+And then when are you doing the actual interview? Tomorrow.
+Access. Okay. Did you did you do test venues?
+Yeah, I did test run point. Good time forums. Yes.
+Yes. Oh, yeah. I know, I.

@@ -1,0 +1,526 @@
+So just sit through that. Oh.
+Yeah. Oh, yeah. Yeah.
+Yeah, yeah. Yeah.
+Yeah. Yeah.
+Yeah, I guess so. I think that is going to pop.
+Yes I know I said something like.
+That. So how's it.
+Going. Yeah.
+I'm. Not sure yet.
+Yeah. It must be. Even better than that.
+Yeah. Yeah.
+Maybe some Americans. Are just.
+Like us. How are you?
+Exams, right? Yeah. You saw the invite for the beautiful game.
+That's what I'm saying. So I just wanted to say yes.
+Oh, yeah. Yeah. Yeah.
+Yeah. You going to get started on this project now?
+Very much so. That's.
+Assessment. And just.
+To be clear. Yeah.
+Okay, so welcome to my 2037 From Atoms to Images, but not with any optics.
+It was previously called imaging with nonlinear optics, but with the same concept.
+You see it permanently. Don't panic. It's the right.
+So just to kind of welcome you all.
+So this is the welcome lecture for the module.
+My name's green I'm professor of by photonics.
+I was also an undergraduate in Exeter. I've been here since 1995.
+Um, and have you left? So just that's kind of a little bit about me.
+I'm a professor of photonics. I'm also the director of, um, our nonlinear optical imaging facility here in Exeter.
+Um, kind of nice point. I want to get cross is just how much I enjoyed teaching this module.
+So it's really exciting opportunity because I've been researching in this topic for maybe more than 22 years.
+I'm sorry. I'm struggling with my voice at the moment. So I woke up with dreadful sore throat this morning.
+I'm losing it because I had this injection yesterday and it's going to come over, definitely.
+So yeah, it's a really great opportunity. And what I really enjoy about this launch, it's given me a really,
+really good chance to actually think if I was an undergraduate, how would I get into understanding how this stuff works?
+So I've really thought hard and tried to link it back to all the fundamental stuff that you've learnt so far in your degree.
+So let me come. You come here, we got 24 of you, so put your hand up.
+If you're in stage one physics, there's two physics. So the bulk of, you know, we got a couple of natural scientists.
+One. And I think there's another one. And Charlie, miss Missy.
+So yeah, the idea is we we're kind of building up the picture from atoms all the way up to kind of images,
+and how we can exploit nonlinear optics to do this.
+So we're going to start really from some very fundamental points of physics.
+And we're going to start by looking at how light not forgetting the nonlinear light interaction.
+We're going to start by looking at how light interacts with materials and how it
+governs basically the world that we see with our eyes how light interacts with things,
+really understanding the kind of atomic that's what generates the optical signatures that we kind of take for granted.
+And then we're going to start building up this picture slowly till we get to
+the point where we can understand how nonlinear light interactions manifest,
+and more importantly, how we can exploit those to overcome some of the limitations that we have with conventional optical illusion.
+So you've all done waves and optics in the first year.
+It's the natural scientist, not him. So that's that's a good segue.
+Ways that optics is kind of fun, really. Probably more so than electromagnetism.
+We're going to be looking at kind of resonance measurement kind of resonances,
+kind of pushing somebody on a swing and kind of calculating resonant frequencies here.
+So exactly the same concepts applied to when charges are driven by oscillating electric fields from light lasers or photons.
+We're going to look at to a tiny little bit from the course you've just done on electromagnetism,
+and also a little bit from quantum physics that you're going to use this term.
+We're going to be looking at kind of how confining electrons into, into, into,
+into potential wells affects the kind of wavelengths that they, that they absorb light out.
+And then, of course, there's going to be some math. It's not hugely mathematical.
+So we are going to be using kind of differential equations within solving differential equations and using complex numbers for example.
+So everyone should be pretty comfortable with that. But the stuff that we're going to be building upon.
+So the course itself is I've structured it into nine different topics, starting with the introduction, which is this week.
+So today's lecture was basically telling you, welcome to Nonlinear Optics.
+This is me. This is the topic. And then we're going to look at a brief history of nonlinear optics.
+And then tomorrow uh yeah you can grab a seat tomorrow.
+But then going to be kind of do a recap of the kind of prerequisite physics.
+So obviously electromagnetism was kind of before Christmas.
+You probably forgotten a lot of it already. Um, and waves and optics, you've probably forgotten some of that.
+So we're just going to give a recap over the key bits of physics that I need you guys to kind of remember and take forwards into this module.
+And then we're going to move on to kind of optical imaging and then slowly move through all the different parts of the module.
+And each kind of section has its own page or box or section within it.
+And you can find all the information you need about that topic within that box in L.A.
+The other thing that I do for this module, you'll notice in red in week six, I don't put any lectures when you've got your midterm.
+So there's two reasons for that.
+The first one being if I've got a lecture on Monday Tuesday and your midterms on the Tuesday, nobody will turn up anyway.
+And also it's kind of just nice if you guys have a break and be able to focus on revising for your midterms.
+Um, you haven't lost my teaching hours because then I shift that bit into the May revision period and we'll have like a revision,
+a couple of revision sessions in May just before the exam.
+So you can kind of come and ask me questions, and I'll go through the recap and kind of refresh your memory.
+Ready for the exams. Any questions or any questions on the any side.
+So if you have your if you must get into the edit page. Yeah.
+And he will not go into any. And you know where to find the recap videos.
+Yeah. Brilliant. So each each lecture, I put the slides.
+And there's no notes for today. But you'll find some notes in each of the early boxes.
+So you've got the lecture slides. In previous years I put them up with PowerPoint files.
+And then the students kind of set them as PDFs, because you can then kind of scroll through when you put your phone, you happy with that.
+So some of the all the lectures are already on there from last year.
+But what tends to happen is I kind of update them and tweak them every year.
+So you'll be able to see what's coming up in today's lecture,
+but then it might change slightly, maybe an hour before the lecture or slightly afterwards.
+But generally the content information will change. Change too much.
+Um, you'll find the recap for each lecture recordings on Ellie, and you will know where to find the recap recordings on the sidebar on the right.
+And so that's pretty straightforward. And I'll also put PDFs on the visualizer pages.
+So rather than using the pen on the board. Which some of you might not be able to see from the back for example.
+And it doesn't show up too clearly on the recap. What I do is I use one of these things.
+So that you can see me writing on a piece of paper on the screen.
+And then all I do is I get to the photocopier after the lecture, scan it in, and then put it off as a PDF.
+And then you've got an exact copy of what was written. Also quite important.
+In each section, I put in some quizzes so that the introductory quizzes is really just a bit of fun,
+just to check that you followed everything and you understood everything,
+but really that these, these quizzes are there for me to check that you're understanding everything.
+So if people are really getting a lot of particular questions wrong,
+I can then go back and kind of say, actually, you know, let's let's recap this topic.
+And they're also very important for you to feel confident that you're understanding and following the material.
+So please do do the end of section quizzes because it's kind of unless people come and see me and say,
+oh, you did a rubbish job explaining knocking me over again.
+I don't know what you're struggling with and what are doing well.
+So these quizzes are a really good way for me to kind of get a weekly pulse check on how well you're understanding the topic.
+There are four practice problem sets that you'll find on Ali, and these are styled very much like exam questions.
+They're probably not written with the same rigor. The kind of paper reviewing that an exam question would go through.
+But they're really there to kind of give you some practice and to sort of get a feel for what the exam is going to be like that,
+know the problems classes that you have as part of your kind of stage two,
+where you turn up whether you kind of have formal problems, classes and they're not assessed.
+And I've also put all of the past papers on Ali with the solutions.
+So you've got plenty of opportunity to practice the exam questions, and you should feel quite comfortable going into the exam in May,
+particularly since we'll all get together in May just before the exam and recapping all the topics.
+So thinking about assessment, obviously it's going to be really quite fun.
+That's a course and getting to enjoy it.
+But obviously you're also concerned that you want to get really good marks is going to count towards your degree.
+So let's look at kind of the assessment.
+So if you look on the module descriptor does everyone know where to find the module descriptors by the way for the courses.
+Yeah. So within the early process like module information you click on it and it takes you to the module descriptor.
+And basically that tells you it's like the syllabus.
+And then when you look at the kind of module specific skills that tells you what you'll be tested on in the exam.
+So it's really important to read those and check that you kind of understand everything that's in there.
+And if like by some fluke, I ask you a question that's not covered on the syllabus and it turns up in the exam, you can all complain.
+Yeah. So please do look at the module descriptor because it literally tells you what's going to be on the exam.
+So when we've got formative assessment that's assessment which doesn't count towards the degree mark.
+And that's there to help you as part of your learning journey through the lecture calls.
+So these exercises, the weekly quizzes and the practice problems at there to kind of inform you about how well you're doing,
+to give you confidence, to kind of highlight bits that you weren't so good at.
+And then you can come and see me or go back and work extra hard on those topics where we've got formal assessment.
+This is the stuff that does count towards your degree mark.
+So 70% on an exam and that happens in May.
+And you've got plenty of pass papers on early to practice.
+And then we've got 30%, which is the group assessment which I'll talk about in a second.
+So I guess what's what's quite nice about how this is weighted is when you go into your May exams, you've already got the mark.
+What you know, how well you did for your group assessment so you can feel quite confident, you know,
+in terms of going into the exam, knowing that you've got quite a chunk of the marks for this module ready.
+The other bit that I always flag up, um, and people always get wrong is when you do the module survey, you know, at the end of the term,
+you get to click on this kind of thing where you get to mark me and then and then I get assessed and told off I get your score.
+I always get marked out because there's no problems.
+Classes with the optional modules.
+So when it says well the problems class is helpful, click not appropriate rather than zero because it kind of affects the school.
+So yeah so there's no problems classes. So just collect not appropriate.
+Um in the in the accelerate survey.
+So I guess the group assessment is everyone aware of kind of how group assessment works within group assessments on other modules?
+People nodding. So you guys, you've been natural sciences. So the way it works is you.
+You can choose your own groups and if you don't want to, I can assign you into groups.
+And you work on a project, this assignment, and then you all get the same mark for that assignment.
+Yeah, that's what's called a group assessment. And I introduced this for the first time last year.
+And it worked really well. And the students really enjoyed it. And I was actually really blown away by the kind of videos that everyone make.
+And I'll show you some examples later on during the course. But the idea is you're going to be making a science communication video.
+So being a physicist or any type of scientist, it's not just about doing the science,
+it's about communicating the science to other scientists and also, more importantly, to the general public in a way that they can understand.
+So this is going to be part of the assessment for this module.
+So are there any kind of budding Brian Cox is here that would like does anyone do YouTube videos already.
+Them TikTok videos. Nobody does.
+TikTok video. I've never done a TikTok video on YouTube. Does everyone know what TikTok is?
+Or YouTube? You. But you're supposed to be telling me how this stuff works.
+I'm like the old and you guys are supposed to be like, this is how you communicate these days.
+So everyone is aware. It's kind of YouTube and TikTok and the fact that people communicate really like communicate through these things here.
+So back in the day when I started doing my PhD, it was kind of the only way to present your data is to write a paper or turn up to a conference.
+Nowadays, you can reach a far wider audience by using the internet to kind of present your work in the form of a video.
+Um, and obviously there's a lot more to it than just kind of standing in front
+of the camera and giving like a really important presentation on your topic.
+So the idea is you're going to be you're going to be given the task of becoming the next Brian Cox and his production team,
+and you're going to plan and kind of execute a short five minute video presentation,
+kind of try trying to get people excited about the particular topic that you're given, explaining the physics behind it.
+And then in some of the topics that you can choose,
+you can actually do an interview where you get to interview a member of staff or an academic researcher working in that field.
+So the idea is that you're going to kind of plan the questions,
+you're going to develop the background research on the person and what they've done, and then you're going to send them the questions in advance.
+And then if they're if it's an academic from this department, you can just arrange to meet them and tell them to do the interview.
+I'm hoping this year to get some of my collaborators from around the world to join in, so you can kind of convene more teams,
+call them and ask them some questions, and then make a nice video explaining what they've done in the physics behind it.
+So is everyone quite keen on that? Yeah.
+So I was I was really blown away when I saw the videos last year and like the, the quality and kind of thought that going into it.
+So you're kind of introduce the topic. You'll do a mathematical derivation.
+So this is kind of where the physics of the assessment comes in. And then talk about the example application.
+And this could include this interview with kind of one of the world leaders in that topic.
+But you don't have to submit this until week 11.
+And I'll give you the kind of the briefing on the assessment, um, in a week, I'm just asking in terms of week six so you can focus on the midterms,
+get them out of the way, and then you can start to think about this, this assignment.
+Any questions about the assignment? Okay.
+So we also I'm going to do some practical demonstrations.
+So I guess you've been walking up and down this corridor in physics for nearly two years now.
+What can possibly be like doors. Have you ever thought what's behind them? No.
+Nobody still was punished by those. Well, you're going to find out what's behind some of these vitals during this time.
+So this is one of my laboratories, the contrast facility. Um, so there's a couple of labs involved in that one.
+So you'll get to see it there. You get to see in the biophysics laboratories,
+get to look at lots of instruments and get some demonstrations about how we're using them to kind of we're using them to image cancer,
+to kind of understand how plants uptake different agrochemicals.
+So all these different examples. So for those of you that have long wondered what's behind these doors really?
+So are all these signs like say caution, warning, danger. I mean, thinking nobody's actually thought, what's behind that?
+Don't be afraid to put your hand up. I still walk around the building thinking, what's in there sometimes.
+So anyway, for those of you that were wondering what's behind these doors, you get to,
+you get to go in there and have a look around and get some demonstrations and all the textbook.
+Does anyone bought the textbook yet? Does anyone buy textbooks?
+No. So this is the textbook. Um, it's by this guy called persuade, who wrote, like, this amazing text on nonlinear optics.
+And I'd say, unless you're going to do a PhD in nonlinear optics, don't buy the book.
+So it'd probably hate me if it was bigger if I told you this.
+But don't buy the book for two reasons. It's available on the university library as an e-book.
+So if you go through the lines, you get the whole thing as a PDF.
+Um, it's quite a nice book, and I quite like reading books rather than off screens.
+But in terms of the content that we actually use from this book, we'll use about that much of the book.
+So it's not worth buying the book unless you really like nuclear optics or both.
+Yeah, he was a fantastic guy. So, so bad. Encouraging people not to buy his book.
+Likewise, the the supplementary texts.
+Um, we don't use them a huge amount, but these are here as a source of reference if you want to look at them again,
+we've got them available as e-books. So this one is an e-book and the other two available in the library.
+And you can just go get another library if you really want to look at them. But I've put a lot of notes.
+All the notes for the really important bits are only as a PDF that I've written anyway from those texts.
+So don't buy the book unless you really want to.
+Um, and I've specifically chosen it because we have to pay for using books in the library.
+Yeah. Do it. You go to the library. Remove. And today with the libraries.
+So yeah, I mean, when I was a student, the library was like everyone was in the library trying to get books out.
+But nowadays, with the internet, the libraries all become a kind of very powerful kind of resource for books and things.
+They manage your subscriptions to journals. And people rarely ask me to take a copy of anything these days.
+So that's kind of all that kind of housekeeping stuff regarding the modulus.
+So we've got any questions or concerns or stuff I haven't covered.
+So let's now start to look at the topic itself.
+So nonlinear optics it's this year it'll be 65 years old.
+Um so it's not pretty obviously 65 is not 65 yet.
+Um, but you know, in terms of topics within physics, 65 is, you know,
+like a baby compared to when you think about thermodynamics and all the other courses that you've been learning.
+Um, electromagnetism, you saw lots of kind of pictures, black and white pictures of old men with beards and things.
+And even Matthew introduces the topics here.
+We're very much yeah, the topic is still emerging.
+Um, almost all the people that come in working on this are still alive.
+Um, so it's still emerging as cutting edge. It's a really active area of research.
+Um, but as I said earlier, a ton of work, really hard.
+People haven't got some feedback on this yet.
+I've really tried to build everything up from the kind of fundamental principles that you guys should already know as second year physics students.
+Yeah. So we're going to be starting from the very basics and building it all the way up to
+the kind of more complicated phenomena that people are dealing with in any real sense.
+And as I said, I found this really I really enjoy doing this because when you when you research a topic,
+you kind of go in the quiet sort of the high level,
+and it's not very often that you're actually forced to think, yeah,
+I've read that equation loads of times, but I can't actually tell you where it comes from.
+So it's been really nice to kind of work backwards and kind of put it all back in
+terms of the fundamental electromagnetism to kind of build out from the very,
+very basics.
+So the idea is that by the time you get to the end of this course, we've built up slowly some stuff that you're already very comfortable with,
+just some stuff that hopefully you're comfortable with, a bit less comfortable with and fun to.
+So obviously optical imaging is the thing that's kind of driving the this this kind of field goal of this lecture course.
+Um, so as I've said, we're kind of the title is kind of from atoms to images.
+But now we're going to kind of step back and actually think about what an image is.
+And obviously we kind of take it for granted that we that we see the world around us by looking at images.
+So whether that image is on a screen. So images from the natural world around us that we're taking in through our eyes,
+we've evolved to be able to extract a huge amount of information from a picture.
+Yeah. So we can look at an image and extract a huge amount of information from it.
+So if we think about imaging, whether it's microscopy or astronomy or photography or anything,
+the kind of aim behind in behind taking the image is to kind of understand the spatial organization of materials at different scales.
+Yeah. Which you all agree with that. So whether we've got whether we're, you know, using the space telescope or a microscope,
+what we're trying to do is to understand how things are spatially organized and made of and how they interact.
+And we can kind of come up with a few different kind of specifications for a particular imaging system, whether it's a microscope or a telescope.
+So it might be how deep can you go into the object?
+You know, if you want to see inside something to understand how that material or that organism works.
+You want to look inside it, um, where it could be in terms of a space telescope, how far away you can see.
+Can you see inside galaxies and things? Then we've got this kind of spatial resolution.
+Does that anyone come across this term, spatial resolution that you all should have done.
+But as you come across spatial resolution. In the first year.
+But you looked at kind of resolving powers of telescopes. Do you remember that?
+The radial criterion? Yes. So spatial resolution often gets confused with magnification.
+Um, in an imaging system. But it's not the magnification.
+The spatial resolution is how closely together two objects be before they appear as one.
+So how it works the smaller separation between two objects. Well, you can resolve them as two separate objects.
+So we're going to be looking at that in a lot of detail. And then we've got sensitivity.
+What my sensitivity means. What's the lowest number of molecules that you can kind of detect with that imaging system?
+Well, if it's a star like what's the dimmest call that you can detect at certain distance.
+And then we've got specificity.
+So specificity is if we're thinking, well we've got a sample and it's made up of a lot of different types of molecules.
+We want to understand how they interact. But we need molecular specificity to be able to tell the difference between them.
+Yeah. So we want to be able to kind of say these molecules interact with these molecules in this way to cell.
+This is the nucleus. And this is like the other parts of the cell. This is how they interact.
+So we've got these kind of performance,
+the kind of criteria that we might want to consider until we come up with some other systems if we kind of thought about it for longer,
+but these are kind of the popular ones. And then we've got kind of contrast.
+So contrast isn't really a performance. It's kind of if you come across the term contrast before, where have you heard of a contrast?
+So one hand, you might kind of say like contrast is like these two things contrast each other that you've got like black and white, complete opposite.
+But the other kind of way you can use the word contrast is to think about when you've got an image.
+If this was all black and white, we wouldn't really be able to tell the difference between the different structures.
+So the contrast mechanism is how can we tell the difference between particular types of molecules or objects within the song?
+Yeah. So how do we tell the difference? How do we show the contrast between the cell nucleus and the rest of the cell body and the stuff in between?
+So using this image as an example, I picked this one, um, because it's quite a good way to demonstrate it.
+What can you see in that picture? Anyone.
+Just describe and kill somebody. Just be brave enough to describe what you can see in that picture.
+If you had to describe that picture in words to someone that was on the other end of a phone call, how would you describe that picture?
+Or taking a photograph? Yeah, it's a camera taking a photograph of mountains.
+So you've got the mountains in the background. What have we got in the foreground?
+Ross in the foreground, and we've also got some sky in the background.
+So I picked this picture because I think it kind of describes all the different types of contrast mechanisms that you kind of get optically,
+but take for granted. So obvious question how do you know that's across?
+He said. It's gross and incorrect. Why is it gross? How do we know it's grass?
+You? It looks like. Also it's shaped like grass. And what else I mean?
+So this stuff over here, but in the middle ground, we're kind of guessing that's grass as well.
+But it's not shaped like grass, is it? How do you know it's grass?
+I'm guessing, but based on. It looks like fields.
+What is it? Like a field. What is it about a field?
+Middle distance. Yeah, but was it not helpful?
+It's great. Yeah. So where does the green color come from?
+That makes grass green. What's the compounds in select plants?
+Yeah. Yeah. So chlorophyll is a pigment inside the leaf that absorbs light in the blue and the red.
+So blue and red light absorbed from the sun. And the plant uses that to make energy.
+And the green light just gets reflected. Yeah. So that's how we know that it's green.
+So we have some specificity and we can kind of say that's grass I know that's a
+plant because it's green and it's the pigment that gives rise to that color.
+Yeah. So we've got optical absorption, wavelength specific absorption that allows us to look at it and make it kind of.
+Our eyes have got three different color receptors. So a kind of a basic kind of spectroscopy system where we can say that's green.
+Therefore we know that that's that's what tells us that it's the plant.
+So also related to absorption was the camera black?
+No light is coming through the cameras.
+We've got some in front of the camera and the cameras between us and the sun, and it's blocking out or absorbing all the light.
+And that's white paste. Black. Yeah. And then we've got the mountains off in the distance.
+What about the sky? What caused sky? This guy in the picture?
+Yeah. Orange. Yeah. So you guys shouldn't feel nervous about asking questions because that was, like, really easy.
+So the sky is orange. Yeah. And why is the sky orange?
+Sometimes you get sunsets red. So sometimes the sky is blue.
+So what what determines the color of the sky? In this case, what is orange.
+Interaction with the atmosphere. Yeah. And that scattering. So as we're going to look at a bit later.
+Different wavelengths of light get scattered by different amounts depending on their wavelength.
+And that determines the color of light scattered.
+So here as we look at it later, what's what's what's the scattering process that happens in the atmosphere.
+It's the name of the scattering. We're gonna love you later. Brady scattering.
+You had a great scattering before. So, Lord Rayleigh. So light gets scattered.
+Um, dependent by one over the fourth power of the wavelength, which means that shorter wavelengths of light get scattered far more.
+The longer wavelengths light. So the sun's low, and we're looking directly at the light traveling through the atmosphere.
+All the blue and green light gets scattered out sideways. And we're left with a kind of red, pretty orange view coming straight towards us.
+And likewise if, if, if the sky was clear, we'd see the blue light, which is all the scattered light.
+And that's why the sky is blue. So we've got absorption and we've got scattering.
+Yeah. Um, and then I guess the last part that hasn't been covered, just pond.
+What sort of contrast to be getting from the point. It looks about the same color as the sky because the light is reflective.
+Yeah. So we've got absorption, scattering and reflection.
+And the combination of them is the ways in which light interacts with the world around us.
+And that governs why things look the way they do in terms of color and giving a shape, for example.
+So we've kind of talked about the visible light kind of region.
+So the electromagnetic spectrum goes far beyond the light that we can perceive with our eyes.
+So we've we've developed um, kind of evolved to look at this very, very narrow range of the electromagnetic spectrum.
+But as we know, we've got kind of an image in the infrared.
+So you can do a kind of heat map of the world around you using infrared camera.
+Um, these guys are using infrared light so they can see in the dark without being seen.
+Um, and then in this case, we're using UV light to, to, to excite fluorescence and things within cells.
+So imaging optical imaging. Imaging with light is far beyond the very narrow visual range that we see.
+And that's another thing that we might want to use.
+So previously I've kind of the previous slide we were looking at absorption scattering and reflection of the visible range.
+But then when we move to other regions of the electromagnetic spectrum, the same processes of absorption, scattering, um, and reflection,
+and in this case emission allow us to see other properties of the material, because we've moved to a different kind of frequency of wavelength range.
+And we're looking at a very different kind of light matter interaction.
+So picking the wavelength range that you have is your kind of biggest tool in terms of optical imaging
+to understand how the material works and to give you different kind of levers that you can pull to,
+to explore different properties of the material.
+So most of what we're going to look at in the lecture course, we're going to be looking at stuff under the microscope.
+So rather than kind of thinking about telescopes and cameras and things, most of the kind of nonlinear imaging occurs within a microscope objective.
+And we're going to find out why a bit later. But to kind of a bit of a spoiler, it's because you need a very tight focus to do nonlinear optics,
+and that's why it lends itself to microscopy applications.
+So we're really kind of exploiting this light matter interaction,
+allowing us to explore the different regions of the electromagnetic spectrum to, um, probe the materials.
+So let's kind of think a little bit about the basics about like maps of interaction.
+Are you all familiar with this equation? Yeah. And you're probably not because you didn't do Matthew's course.
+But this is probably the key equation, the only equation that we're really going to use over and over again in this lecture course.
+This is kind of the key principle that underpins nonlinear optics points of view where we're starting.
+So if we're thinking about light matter interactions,
+which is the thing that we're really trying to exploit, to use light to learn about the material,
+the kind of key principle that we're going to use is that electric fields and light has an electric field associated with it.
+Electric fields interact with charges. Yeah.
+That's not you're happy with that. So if I was put in an electric field,
+let's say I'm an on an electron and I've got an electric field going across from this side to this side, it's going to exert force on me.
+In which way am I going to want to go? If that's positive, that's negative.
+That way. So the electric field is kind of drag me off out the window because I'm an electron.
+I'm negatively charged. The electric field is pointing that direction.
+I'm going to go that direction. Does anyone know? It's a very stupid idea in every system to have kind of arrows pointing.
+That way when the electrons go that way, isn't it? Well, why do we have that convention?
+Yeah. It stemmed from how very rich people work.
+Yes. So it's kind of historically when people first started playing with electric fields, the assumption was that the three charges were positive.
+And obviously that's why they thought the positive charges go in that direction.
+But then they later discovered that actually it's the electrons that means not the positive charges.
+So light interacts with charge.
+The charges feel the electric light, the electric field associated with the photons, and that causes them to move.
+So if we think about a kind of a charge distribution within the material,
+so we have a kind of positive fixed charge and then some electrons which are free to move a bit around those positive charges.
+We apply our electric field. And then we get this displacement of the negative charges.
+And we produce this kind of dipole. And this p this electric polarization is the dipole per unit volume.
+Yeah. You're familiar with this. Yeah. So your dipole is kilometers.
+And then because this is per volume is kilometers per cubic meter.
+And that's why has units of kilometers per square centimeter. Yeah.
+So this polarization just tells us for a given electric field how much you drag the negative charge away from the positive charge.
+Yeah. And the key to kind of understanding images and how we exploit this phenomena to learn about the system and to create images,
+is that charges are bound to the material.
+And depending on what the material is, the charges will be bound in different ways.
+And it's that kind of that binding or that interaction between the charges and
+the material that tells us about the material and gives rise to the contrast.
+So with that, it's that that determines whether the sky is blue or whether the grass is green.
+Well, the camera paint on the camera frame is black. Yeah.
+So when we looked at this kind of equation with Matthew last term, you just kind of looked at this polarization.
+And I expect Matthew told you about this guy here with a big red arrow pointing towards it.
+What's that called? What's the Greek letter?
+Time. Yeah. And what is there in words?
+What is Kai? What's. What's the name of Chi in this equation?
+Electric susceptibility. Yeah. So that tells us how easy it is or how hard it is to drag the chargers away from.
+From their equilibrium position. So some materials with a high susceptibility you apply electric field and they get dragged away.
+Loads and other materials have a lower susceptibility applied the same electric field they don't with very much.
+And the other bit that we're going to see is that Chi isn't a constant for a given material.
+Chi is also a function of wavelength or frequency.
+So it's easier to drag the electrons away from the positive charge at some frequencies than it is to others.
+So materials the electrons within a material will have a certain frequency that they like to oscillate a resonant frequency.
+And that's what tells us how the material responds to different electromagnetic radiation wavelengths.
+So everything that we want to know about the material is hidden within this Chi property.
+And I spent I think Matthew kind of ended this by saying he's going to treat it as a scalar,
+but actually this is a tensor quantity quantities like a matrix that tells you how this factor maps onto this vector.
+Yeah. Do you remember that? So that's really just tells us if we have an electromagnetic field orientated in a certain direction,
+how is the resultant polarization going to come out?
+Yeah. So it tells us about how it responds in terms of frequency and also in terms of the direction of the applied field.
+Right. And the real key behind nonlinear optics is that this equation of polarization that I just showed you, we can represent it as a policy.
+So you can expand that previous equation out into a series of polarizations that respond to each.
+So the linear polarized ability and then the second order polarized ability and the third order polarized ability and so on.
+So we've taken the same equation and we've just converted it into a power series where we have these
+higher order terms that respond to the square and the third power and so on of the electric field.
+And this is really the fundamental principle of nonlinear optics.
+You produce the same polarization but just through a different nonlinear order.
+So we're going to look at this in a lot more detail later.
+So it's a kind of complicated way to excite a polarization within a material going to a higher order.
+So why would you fold up exciting optical interactions in this nonlinear matter?
+Well, everything is kind of on this slide. So it allows us to see things that are invisible with conventional linear contrast mechanisms.
+Um, we can excite light matter interactions that would otherwise not respond to the wavelength that we've chosen to excite them with.
+So, for example, I showed you examples of where people are using UV light within a microscope to excite fluorescence in samples.
+UV has a lot of disadvantages associated with with shining it into materials.
+So we can overcome that. We can excite UV transitions in infrared or near infrared, for example.
+Um, if we can kind of come up with tricks to enhance depth penetration, um, and we can enhance the interaction efficiency.
+So one key advantage. When we were looking at light scattering.
+And I kind of said, ray scattering is the kind of phenomena that scatters light in most samples or objects.
+So the scattered light scales with one over wavelength to the fourth.
+So if you want to go deeper into a sample, deeper through a scattering media, without your excitation light getting scattered, what do you want?
+A long or short wavelength? Looking at that equation that.
+And if you ever get stuck, just. We can't see the sky now.
+But just. Just remind yourself the sky is blue. So why is the sky blue?
+Just the blue light gets scattered more than the red light.
+So the sun sets red because you're looking directly at the sun and you're seeing the red light that hasn't been scattered and the sky is blue,
+because you're saying all that is littered with all the scattered lines come out sideways.
+So short a number on the bottom, you get greater amounts of scattering.
+And this is significantly more scattering because it's to the full.
+So if you want to go deep inside something, you want a long wavelength.
+So you might pick an infrared excitation source, but then you can't see green grass on the other side because the grass absorbs in the visible.
+So these are kind of these two things a couple.
+But we're going to look at later how using nonlinear excitation can kind of overcome this and allow us to get the best of both worlds.
+So onto kind of lasers. So none of this would be possible if we didn't have lasers.
+So physicists love lasers, and there's, like hundreds of lasers in the department and every.
+Who likes lasers here? Yeah, we all like daisies.
+I got. So lasers are really cool, but obviously we don't just get money from the government to buy big lasers because they're cool.
+They've got some really useful properties that allow us to use them for experiments.
+So we can very well define the wavelength and band width, the width of the wavelength within the pulse.
+We can produce some very high intensities. We can produce light that is coherent both spatially and temporally.
+Have you come across coherent before. We'll just we'll just coherence in terms of light.
+That means that all the way from serene space. So everything's oscillating in space.
+When we get light from the light bulb in the ceiling, all of a sudden.
+If we were to look at all the photons reaching us at the same time, they don't be different phases, oscillation cycles.
+But if we have temporal coherence at a given time, when the light crossed,
+when the light reaches my hand, everything is in phase oscillating, and it's the same phase.
+And likewise spatially, if we took like a spot okay, let's focus the light into a spot.
+Everything across that spot is all in phase. So that means we can focus it down to very small points.
+And then finally we can get time resolution.
+So it was really the invention of the laser that kind of kicked off the kind of practical fields of nonlinear optics.
+So this guy in 1968 or him, um, in Malibu constructed the first laser.
+And this was this must have been like really big in the 60s. People were kind of aware of kind of amplification by stimulated emission.
+And people have been producing microwaves in this way before.
+But he was the first person to do it with light. Um, and he took this kind of ruby crystal and then covered it in a photographic flash lamp to,
+to excite transitions within that ruby, and then was the first person to demonstrate that you can get stimulated light emission.
+So this was like massive. This was like a huge discovery in the 60s.
+And literally a year later, after the first laser was made, that was when kind of nonlinear optics was born.
+So literally one year after the laser was made, this guy was then able to publish the very first paper on linear optics,
+um, where he showed demonstrated the first example of something called harmonic generation.
+So he took, um, fayetteville's freebie laser focused it onto a small spot on a quartz crystal,
+and then looked at the spectrum of light that was emitted from that crystal.
+So the light gets focused through the crystal. And then here it's a prism and some collimated lenses.
+And you know what prism does. It splits the light of different colors. Um, and then back in those days they didn't have pulse spectrometers.
+They just had a photographic plates and a prism. And all the way up here, uh, around 700 nanometers.
+Six. Nine. Five. You've got the red light. So this big spot here is the ruby laser.
+And then all the way down here. Uh, 37347 nanometres.
+So what colors? That blue.
+It's this light blue. It's. He detected this really, really tiny spot of blue light.
+And it was so small that at the time when they sent it off to be published,
+the person that kind of checks the paper before it gets submitted thought that it was just like a speck of rubbish on the photograph and removed it.
+But actually this tiny, tiny little speck on the photographic plates demonstrated that by exciting the crystal with a high intensity of red light,
+produced a really small intensity of blue light.
+And that kind of goes against your sort of goal of energy conservation, doesn't it?
+So what? What determines that? The energy of a photon or the wavelength of a photon?
+So you got these kind of quantized energy packets and it shouldn't be the case.
+You know, you talk you've looked at kind of um. The photoelectric effect and quantum mechanics,
+and you've kind of been told it doesn't matter how many red photons you you've shine onto this metal surface.
+If it's below the work function, you won't get electron chemicals. Yeah.
+Whereas here they've demonstrated that they've shown red light onto this crystal, and then they've got some photons coming off with twice the energy.
+Yeah. And this is demonstrating something called harmonic generation.
+So this goes into the power series that we looked at. They were able to excite light at the second harmonic of the excitation frequency.
+And that was really cool. This is really where it started. And then over the years people have then developed something called ultrafast lasers.
+So we need to hit really high intensities to excite these nonlinear processes.
+You can focus it into a small spot, but you can also squeeze the light into a really short space of time.
+And if you can do that, then you can hit some extremely high peak intensities.
+And massive contribution to the field in the 80s was by this lady, Photon Strickland.
+You got the Nobel Prize for this thing called chirped optical pulse amplification.
+And this allowed people to really get some very, very high light intensity, some lasers to explore, some very interesting nonlinear optical phenomena.
+And these kind of these pulsed lasers, we now just buy we take it for granted.
+They just come in a sealed box and you switch them on and connect them to computer and produce the pulses.
+But a lot of research went in to producing these very short pulse strings.
+And that's something else we're going to look at in great detail.
+So finally, at the end of the lecture course, we're going to look at applications of nonlinear optical imaging.
+There's lots of different application areas where it's really taken off of characterizing materials,
+chemicals, biological samples and environmental samples.
+The medical industry can use this technique to target cancer, for example.
+People can use it to detect explosives and and chemical agents.
+And in all these different cases, there are advantages offered by nonlinear nonlinear optics.
+And this is something that you're going to put into your science communication video,
+kind of explaining to people how a nonlinear optical phenomenon works,
+and then showing what people have done with it and how it's going to improve their understanding.
+So that's the end of the kind of kind of hand-wavy.
+Welcome to Nonlinear Optics lecture.
+So tomorrow we'll be going through kind of just recapping some of the kind of bits of theory that you're going to need from last year and last term,
+but I'm really just going to cover all the key bits so you don't have to relearn the whole bunch.
+I'm just going to highlight the bits that we're actually going to use. And I'll put in bold, please do the weekly quizzes.
+And they're really helpful for you to get instant to understand how well you understand a topic.
+And I'm really fun and useful because it helps me understand how much you understand.
+Yeah. Okay. So any questions? Okay.
+See you tomorrow. Oh.
+My gosh, I feel. Like, I feel like.
+I think you're right. I.
+Think I think. That's what you said.
