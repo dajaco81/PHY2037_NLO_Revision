@@ -111,12 +111,3 @@ Update this as tasks are completed. An agent should ask about this at the start 
 
 | Task | Status |
 |------|--------|
-| Task 1: Derivations | In progress — P01 replicated once successfully; P02 replicated twice successfully including one blank-page success with unified notation; mastery not yet ticked |
-| Task 2: Calculations | Not started |
-| Task 3: Stock explanations | Not started |
-| Task 4: Past paper drills | Not started |
-
-- Exam revision started. Direct commit test from ChatGPT chat.
-- P01 Lorentz oscillator → χ⁽¹⁾(ω): replicated once successfully from scratch with no errors. Do not tick complete until reproduced cold again later without prompting.
-- P02 SHG χ⁽²⁾ via perturbation theory: replicated once successfully from scratch. Remaining issue: notation around r₂ amplitudes/components and μ⁽²⁾/P⁽²⁾/χ⁽²⁾ needs consolidation before mastery tick.
-- P02 SHG χ⁽²⁾ via perturbation theory: blank-page success using unified notation r₁ = r₁^(ω)e^(-iωt), r₂ = r₂^(2ω)e^(-2iωt). Strong replication, but leave unticked until later cold repeat.
