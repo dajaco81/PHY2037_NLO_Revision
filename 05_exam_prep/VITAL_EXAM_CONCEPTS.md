@@ -4,6 +4,30 @@ All red-box items and explicit exam hints from lectures, organised by topic. If 
 
 ---
 
+## CONFIRMED BY PAST PAPERS (2023, 2024, 2025)
+
+The following topics have appeared **in every single exam paper**. Revise these first.
+
+| Topic | Appears in | Where in this file |
+|-------|-----------|-------------------|
+| 1PEF vs 2PEF resolution comparison | 2023 Q1, 2024 Q1, 2025 Q2 | NLO Microscopy section |
+| χ⁽²⁾ and χ⁽³⁾ estimates from E_at | 2023 Q2, 2024 Q3, 2025 Q4 | Nonlinear Susceptibilities |
+| Pulse parameters (E, P_peak, I_peak) | 2023 Q2, 2024 Q3, 2025 Q4 | Laser Pulses section |
+| Lorentz χ(ω) derivation | 2023 Q3, 2025 Q3 | Lorentz Oscillator |
+| SHG perturbation theory | 2023 Q3, 2025 Q3 | Nonlinear Susceptibilities |
+| Centrosymmetry → χ⁽²⁾ = 0 | 2023 Q3, 2024 Q4, 2025 Q3 | Nonlinear Susceptibilities |
+| Jablonski diagram | 2023 Q4, 2024 Q1, 2025 Q1 | Contrast Mechanisms |
+| IR/Raman selection rules | 2023 Q4, 2024 Q2, 2025 Q1 | Vibrational Spectroscopy |
+| Vibrational frequency calculation | 2023 Q4, 2024 Q2, 2025 Q1 | Vibrational Spectroscopy |
+| Phase matching | 2023 Q3, 2024 Q4, 2025 Q2 | Wave Equation section |
+| Parabolic potential (2 marks) | 2023 Q3, 2024 Q4, 2025 Q3 | Lorentz Oscillator |
+
+**New for 2024–2025 (likely 2026):** Infinite square well for molecules, Gouy phase FWM vs THG, mode locking description, CARS bandwidth calculation. See MODEL_QUESTIONS Q13–Q20.
+
+---
+
+---
+
 ## From Prerequisite Physics (L02)
 
 ### RED BOX: Intensity from electric field
