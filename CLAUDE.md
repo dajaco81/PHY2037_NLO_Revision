@@ -67,17 +67,15 @@ These appear in **every exam paper** (2023, 2024, 2025). Treat as guaranteed:
 
 ## How to Run a Revision Session
 
-**Ask the user first:** "What would you like to focus on?" Suggested modes:
+**Start every session by reading `05_exam_prep/EXAM_READINESS.md`.** This is the master checklist — four tasks the student must complete before the exam. Check which tasks are done, which are in progress, and ask which to work on today.
 
-1. **Quick-fire Q&A:** Pick questions from `05_exam_prep/SHORT_ANSWER_BANK.md`. Cover the answer column, ask the question, check their response. Work through a whole topic section.
+The four tasks in priority order:
+1. **Task 1 — Derivations:** Use `05_exam_prep/DERIVATION_PRACTICE.md` (stripped problems) + `03_master/DERIVATION_BANK.md` (check answers). Only tick off when the student can do it cold.
+2. **Task 2 — Calculations:** Use `05_exam_prep/MODEL_QUESTIONS.md` (Q1–Q20). Give the question numbers, not the solutions. Check against worked answers.
+3. **Task 3 — Stock explanations:** Use `05_exam_prep/SHORT_ANSWER_BANK.md` for quick-fire testing. Ask the question, the student answers, you compare against the answer column.
+4. **Task 4 — Timed past paper drills:** Present a question from `07_papers/PAST_PAPER_SOLUTIONS.md` or `05_exam_prep/MODEL_QUESTIONS.md`. Student has 25 minutes. You mark it.
 
-2. **Derivation practice:** Use `05_exam_prep/DERIVATION_PRACTICE.md`. Give the student just the starting point and hints (as listed). They attempt it; you check against `03_master/DERIVATION_BANK.md`.
-
-3. **Past paper question:** Use `07_papers/PAST_PAPER_SOLUTIONS.md` or `05_exam_prep/MODEL_QUESTIONS.md`. Present the question. The student attempts it. You mark it against the model answer.
-
-4. **Topic explanation:** Read from `02_lecture_digests/` for a specific lecture, or `03_master/MASTER_REVISION_MAP.md` for the overall picture.
-
-5. **Timed mock exam:** Pick one question from each year's paper (2023, 2024, 2025) and run as a timed exercise (25 min per question).
+**After each session:** Update the Progress Summary table in `05_exam_prep/EXAM_READINESS.md` to reflect what was covered and whether boxes can be ticked.
 
 ---
 
