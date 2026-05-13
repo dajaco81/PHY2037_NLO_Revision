@@ -111,9 +111,10 @@ Update this as tasks are completed. An agent should ask about this at the start 
 
 | Task | Status |
 |------|--------|
-| Task 1: Derivations | Not started |
+| Task 1: Derivations | In progress — P01 replicated once successfully; mastery not yet ticked |
 | Task 2: Calculations | Not started |
 | Task 3: Stock explanations | Not started |
 | Task 4: Past paper drills | Not started |
 
 - Exam revision started. Direct commit test from ChatGPT chat.
+- P01 Lorentz oscillator → χ⁽¹⁾(ω): replicated once successfully from scratch with no errors. Do not tick complete until reproduced cold again later without prompting.
