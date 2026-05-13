@@ -11,10 +11,13 @@ Quick-fire Q&A for self-testing. Cover the right column and test yourself.
 | What does χ (electric susceptibility) physically represent? | How easily a material's bound charges can be polarised by an applied electric field; it is frequency-dependent and contains all information about the material's optical response |
 | What are the units of χ⁽¹⁾, χ⁽²⁾, χ⁽³⁾? | χ⁽¹⁾: dimensionless; χ⁽²⁾: m/V; χ⁽³⁾: m²/V² |
 | Why is χ⁽²⁾ = 0 for centrosymmetric materials? | When E → −E, E² → E² (unchanged), but P must reverse. Contradiction → χ⁽²⁾ = 0 |
-| What is the atomic field strength E_at? | ≈ 5×10¹¹ V/m (the field an electron experiences in a hydrogen atom) |
+| What is the atomic field strength E_at? | ≈ 5×10¹¹ V/m (the field an electron experiences in a hydrogen atom); precisely 5.14×10¹¹ V/m from e/(4πε₀a₀²) |
 | What intensity is required to approach E_at? | ~3×10²⁰ W/m² (from I = ½cε₀E²) |
 | Why does doubling wavelength reduce scattering by 16×? | Rayleigh: I ∝ 1/λ⁴; doubling λ → 1/(2λ)⁴ = 1/16 × original |
 | What does I ∝ 1/λ⁴ explain about the sky? | Blue light (short λ) scatters more → sky appears blue; at sunset, red light (long λ) reaches us directly |
+| Why does atomic hydrogen absorption not produce visible contrast? | ΔE(1→2) = 10.2 eV → λ = 122 nm (deep UV, far outside visible 400–700 nm) |
+| Why do conjugated molecules absorb in the visible range? | Electrons delocalised over many bonds → modelled as infinite square well of nm-scale length L → ΔE = 3π²ℏ²/8m_eL² drops into visible range for L ~ 0.3–1 nm |
+| What is the parabolic potential and why does it matter? | V = ½mω₀²r² (integration of F = −mω₀²r). Linear restoring force → parabolic potential → harmonic oscillator → χ⁽²⁾ = 0 (symmetric). This [2]-mark question appears in EVERY exam. |
 
 ---
 
@@ -120,3 +123,18 @@ Quick-fire Q&A for self-testing. Cover the right column and test yourself.
 | Why does D-labelling work? | m_D ≈ 2m_H → higher reduced mass → lower vibrational frequency → shifts to 2100 cm⁻¹ region; no endogenous biology signals there |
 | Why is EPI-CARS selective for nanoparticles? | Backward direction → large Δk → only L < λ/2 objects satisfy phase matching → bulk tissue suppressed; nanoparticles (~100 nm) give signal |
 | What is the Raman silent region? | ~1900–2800 cm⁻¹ — no endogenous biological Raman peaks; C–D stretch appears here |
+
+---
+
+## Topics Confirmed by Past Papers (2023–2025)
+
+| Question | Answer |
+|----------|--------|
+| What is the Gouy phase shift? | π radians of additional phase acquired by a focused Gaussian beam as it passes through its focal point (total, from −∞ to +∞) |
+| Why does the Gouy phase allow FWM in bulk but confine THG to interfaces? | FWM (P⁽³⁾ ∝ E²E*): Gouy phase on P = 2π − π = π; generated field = π; net = 0 → phase-matched in bulk. THG (P⁽³⁾ ∝ E³): Gouy on P = 3π; generated = π; net = 2π → ΔkL = 2π for bulk → sinc² = 0 → only interfaces |
+| What is Kerr-lens mode-locking (KLM)? | Intensity-dependent refractive index (n = n₀ + n₂I) creates a self-focusing Kerr lens for high-intensity pulses; an aperture preferentially passes pulsed mode → positive feedback → fs pulses. Not self-starting. |
+| Why are femtosecond pulses unsuitable for CARS? | fs bandwidth (~150 cm⁻¹) >> Raman linewidth (~10–20 cm⁻¹) → simultaneous excitation of many vibrational modes → loss of chemical selectivity + increased non-resonant background |
+| How do you calculate the precise value of E_at? | E_at = e/(4πε₀a₀²) where a₀ = 5.29×10⁻¹¹ m → E_at = 5.14×10¹¹ V/m; using this gives χ⁽³⁾ = 3.78×10⁻²⁴ m²/V² (2025 exam value) |
+| What length of conjugated molecule absorbs at 500 nm? | Using E_n = n²π²ℏ²/8m_eL²; ΔE(1→2) = 3π²ℏ²/8m_eL² = hc/λ → L ≈ 0.34 nm (size of a benzene ring or ~3 C=C bonds) |
+| What unit conversion is needed for spring constant k given in g s⁻²? | 1 g s⁻² = 10⁻³ kg s⁻² = 10⁻³ N/m. So 5×10⁵ g s⁻² = 500 N/m. Always convert before calculating ν_vib. |
+| How does SESAM mode-locking differ from KLM? | SESAM: semiconductor saturable absorber bleaches under high intensity → fast absorption recovery (ps timescale) preferentially passes short pulses → suitable for ps pulses; self-starting. KLM: instantaneous Kerr effect → suitable for fs pulses; NOT self-starting. |

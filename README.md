@@ -20,19 +20,21 @@ This repository contains structured revision materials derived from lecture tran
 | [`04_audit/`](04_audit/) | Notation issues, inconsistencies, transcript error flags |
 | [`05_exam_prep/`](05_exam_prep/) | Exam-focused revision materials and model questions |
 | [`06_metadata/`](06_metadata/) | Lecture index, source manifest, processing log |
+| [`07_papers/`](07_papers/) | Past exam papers (2023–2025), problem sets, worked solutions, topic frequency analysis |
 
 ---
 
 ## Suggested Study Order
 
-1. **Start here:** [`03_master/MASTER_REVISION_MAP.md`](03_master/MASTER_REVISION_MAP.md) — get the big picture  
-2. **Memorise:** [`03_master/EQUATION_SHEET.md`](03_master/EQUATION_SHEET.md) — all examinable equations  
-3. **Practise derivations:** [`03_master/DERIVATION_BANK.md`](03_master/DERIVATION_BANK.md) — every derivation flagged in lectures  
-4. **Check notation:** [`04_audit/NOTATION_STANDARDIZATION.md`](04_audit/NOTATION_STANDARDIZATION.md) — avoid symbol confusion  
-5. **Vital concepts:** [`05_exam_prep/VITAL_EXAM_CONCEPTS.md`](05_exam_prep/VITAL_EXAM_CONCEPTS.md) — red-box items  
-6. **Attempt questions:** [`05_exam_prep/MODEL_QUESTIONS.md`](05_exam_prep/MODEL_QUESTIONS.md) — exam-style problems  
-7. **Per-lecture detail:** [`02_lecture_digests/`](02_lecture_digests/) — when a concept needs deeper context  
-8. **Source check:** [`00_raw_transcripts/`](00_raw_transcripts/) — only to verify uncertain source material  
+1. **What's certain:** [`07_papers/EXAM_ANALYSIS.md`](07_papers/EXAM_ANALYSIS.md) — cross-year topic frequency matrix (start here if time is short)
+2. **Big picture:** [`03_master/MASTER_REVISION_MAP.md`](03_master/MASTER_REVISION_MAP.md) — how all topics connect  
+3. **Equations:** [`03_master/EQUATION_SHEET.md`](03_master/EQUATION_SHEET.md) — all examinable equations in one place  
+4. **Derivations:** [`05_exam_prep/DERIVATION_PRACTICE.md`](05_exam_prep/DERIVATION_PRACTICE.md) — attempt each; check against [`03_master/DERIVATION_BANK.md`](03_master/DERIVATION_BANK.md)
+5. **Vital concepts:** [`05_exam_prep/VITAL_EXAM_CONCEPTS.md`](05_exam_prep/VITAL_EXAM_CONCEPTS.md) — confirmed red-box items  
+6. **Questions:** [`05_exam_prep/MODEL_QUESTIONS.md`](05_exam_prep/MODEL_QUESTIONS.md) — 20 exam-style questions (Q1–Q12 lecture-derived; Q13–Q20 from real past papers)
+7. **Past papers:** [`07_papers/PAST_PAPER_SOLUTIONS.md`](07_papers/PAST_PAPER_SOLUTIONS.md) — worked solutions for 2023–2025
+8. **Per-lecture detail:** [`02_lecture_digests/`](02_lecture_digests/) — when a concept needs deeper context  
+9. **Source check:** [`00_raw_transcripts/`](00_raw_transcripts/) — only to verify uncertain source material  
 
 ---
 
@@ -76,5 +78,3 @@ The May exam tests understanding across the full module. Key areas repeatedly fl
 - Nonlinear microscopy advantages (intrinsic confinement, depth penetration, resolution squeeze)
 - Raman vs IR selection rules
 - CARS wavelength calculation
-
-Past papers with solutions are available on the ELE (Exeter Learning Environment) page.

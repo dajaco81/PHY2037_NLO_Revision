@@ -128,15 +128,36 @@ Then apply SVEA (drop ∂²A/∂z²) and note k₃² cancels with n₃²ω₃²/
 
 ---
 
+## P11 — Raman-Induced Polarization via Taylor Expansion
+
+**Task:** Starting from P = ε₀α(Q)E, derive an expression for the induced polarization due to Raman scattering. Identify and explain the three frequency components.
+
+**Starting point:**
+$$\alpha(Q) = \alpha_0 + \left(\frac{d\alpha}{dQ}\right)_0 Q + \ldots \quad;\quad Q = Q_0\cos(\omega_{vib}t)\quad;\quad E = E_0\cos(\omega t)$$
+
+**Hints:**
+1. Substitute α(Q) into P = ε₀α(Q)E
+2. Use product-to-sum: cos A cos B = ½[cos(A−B) + cos(A+B)]
+3. Identify three terms: ω (Rayleigh), ω−ω_vib (Stokes), ω+ω_vib (anti-Stokes)
+4. State the Raman active condition: (dα/dQ)₀ ≠ 0
+
+**Expected result:**
+$$P = \varepsilon_0\alpha_0 E_0\cos(\omega t) + \frac{\varepsilon_0}{2}\left(\frac{d\alpha}{dQ}\right)_0 Q_0 E_0\left[\cos((\omega-\omega_{vib})t) + \cos((\omega+\omega_{vib})t)\right]$$
+
+*Worth 7 marks in Problem Set 2.*
+
+---
+
 ## Checklist: Must be able to derive without notes
 
-- [ ] P01: Lorentz χ(ω)
-- [ ] P02: SHG χ⁽²⁾ via perturbation
-- [ ] P03: χ⁽²⁾=0 for centrosymmetric
+- [ ] P01: Lorentz χ(ω) — **CERTAIN** (every exam)
+- [ ] P02: SHG χ⁽²⁾ via perturbation — **CERTAIN** (every exam; up to 8 marks)
+- [ ] P03: χ⁽²⁾=0 for centrosymmetric — **CERTAIN** (every exam)
 - [ ] P04: Gaussian FWHM
-- [ ] P05: Rayleigh criterion → NA
-- [ ] P06: Time-bandwidth product
-- [ ] P07: Nonlinear wave equation
-- [ ] P08: Coupled amplitude equation
-- [ ] P09: sinc² signal intensity
-- [ ] P10: Nonlinear resolution squeeze
+- [ ] P05: Rayleigh criterion → NA — **HIGH** (2 of 3 years)
+- [ ] P06: Time-bandwidth product — **HIGH** (2 of 3 years)
+- [ ] P07: Nonlinear wave equation — **HIGH** (2024 Q4 [6 marks])
+- [ ] P08: Coupled amplitude equation — **HIGH**
+- [ ] P09: sinc² signal intensity — **HIGH** (2024 Q4 [6 marks])
+- [ ] P10: Nonlinear resolution squeeze — **HIGH** (every year)
+- [ ] P11: Raman Taylor expansion (Stokes/anti-Stokes) — **MEDIUM** (PS2 [7 marks])
