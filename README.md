@@ -4,7 +4,7 @@
 This repository contains structured revision materials derived from lecture transcripts for the PHY2037 module at the University of Exeter (2025/26, Semester 2).
 
 **Lecturer:** Professor (Biophotoics / Nonlinear Optical Imaging), University of Exeter  
-**Assessment:** 70% written exam (May, ~18 May 2026) + 30% group science communication video (due Week 11)  
+**Assessment:** 70% written exam (May, ~18 May 2026) + 30% group science communication video (already submitted with 87% grade)  
 **Transcripts span:** L01 (12 Jan 2026) to L18 (16 Mar 2026) — 21 recording slots, 18 substantive lectures
 
 ---
