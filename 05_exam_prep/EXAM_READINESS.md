@@ -115,3 +115,5 @@ Update this as tasks are completed. An agent should ask about this at the start 
 | Task 2: Calculations | Not started |
 | Task 3: Stock explanations | Not started |
 | Task 4: Past paper drills | Not started |
+
+- Exam revision started. Direct commit test from ChatGPT chat.
