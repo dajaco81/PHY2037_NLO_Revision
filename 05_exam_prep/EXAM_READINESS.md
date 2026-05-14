@@ -17,14 +17,23 @@ Attempt each derivation from scratch on paper. Do not look at notes until you ha
 | P01 | Lorentz oscillator → χ⁽¹⁾(ω) | CERTAIN — every exam | [x] |
 | P02 | SHG χ⁽²⁾ via perturbation theory | CERTAIN — up to 8 marks | [x] |
 | P03 | χ⁽²⁾ = 0 for centrosymmetric materials (perturbation) | CERTAIN — every exam | [x] |
-| P05 | Rayleigh criterion → d = 0.61λ/NA | HIGH — 2 of 3 years | [ ] |
-| P07 | Nonlinear wave equation from Maxwell's | HIGH — 2024 Q4 [6 marks] | [ ] |
-| P08 | Coupled amplitude equation (SFG dA₃/dz) | HIGH | [ ] |
-| P09 | sinc²(ΔkL/2) from integration of dA₃/dz | HIGH — 2024 Q4 [6 marks] | [ ] |
-| P10 | Nonlinear resolution squeeze (PSF² → FWHM/√2) | HIGH — every year | [ ] |
-| P06 | Time-bandwidth product (TBP = 0.441) | HIGH — 2 of 3 years | [ ] |
-| P04 | Gaussian FWHM = 2σ√(2ln2) | MEDIUM | [ ] |
-| P11 | Raman Taylor expansion → Stokes/anti-Stokes | MEDIUM — PS2 [7 marks] | [ ] |
+| P05 | Rayleigh criterion → d = 0.61λ/NA | HIGH — 2 of 3 years | [x] |
+| P07 | Nonlinear wave equation from Maxwell's | HIGH — 2024 Q4 [6 marks] | [x] |
+| P08 | Coupled amplitude equation (SFG dA₃/dz) | HIGH | [x] |
+| P09 | sinc²(ΔkL/2) from integration of dA₃/dz | HIGH — 2024 Q4 [6 marks] | [x] |
+| P10 | Nonlinear resolution squeeze (PSF² → FWHM/√2) | HIGH — every year | [x] |
+| P06 | Time-bandwidth product (TBP = 0.441) | HIGH — 2 of 3 years | [x] |
+| P04 | Gaussian FWHM = 2σ√(2ln2) | MEDIUM | [x] |
+| P11 | Raman Taylor expansion → Stokes/anti-Stokes | MEDIUM — PS2 [7 marks] | [x] |
+
+### Derivation overlearning passes
+
+Complete two further full cold passes of all core derivations to lock recall under exam pressure.
+
+| Repeat task | Done |
+|-------------|------|
+| Blank-page all core derivations again — pass 2 | [ ] |
+| Blank-page all core derivations again — pass 3 | [ ] |
 
 ---
 
@@ -45,6 +54,18 @@ Each calculation type has appeared in at least one past paper. Do each one from 
 | Infinite square well: molecule length for given absorption wavelength | MODEL Q13 | [ ] |
 | Hydrogen atom absorption wavelength (ΔE = 10.2 eV → λ = 122 nm) | MODEL Q14 | [ ] |
 | CW vs pulsed average power for a given intensity and spot size | MODEL Q15 | [ ] |
+
+### Formula recall drill
+
+Before calculation drills, reproduce required equations from memory. No derivation needed unless marked.
+
+| Formula group | Required recall | Done |
+|---------------|-----------------|------|
+| Resolution and NA | d = 0.61λ/NA; NA = n sin α; nonlinear squeeze FWHM/√n | [ ] |
+| Pulses and bandwidth | E_pulse = P_avg/f_rep; P_peak = E_pulse/τ; I = P/A; ΔνΔt = 0.441; Δλ = (λ²/c)Δν | [ ] |
+| Susceptibility estimates | χ⁽²⁾ ~ 1/E_at; χ⁽³⁾ ~ 1/E_at²; E_at ≈ 5×10¹¹ V/m | [ ] |
+| Vibrational spectroscopy | ν̃ = (1/2πc)√(k/μ_r); λ = 1/ν̃; Raman/Stokes frequency and wavenumber relations | [ ] |
+| Scattering and absorption | Rayleigh ratio ∝ 1/λ⁴; ΔE = hc/λ; square-well transition scaling | [ ] |
 
 ---
 
@@ -111,24 +132,33 @@ Update this as tasks are completed. An agent should ask about this at the start 
 
 | Task | Status |
 |------|--------|
-| Task 1: Derivations | In progress — P01, P02, and P03 ticked after true blank-page reproduction without looking at the model. P05, P07, and P08 have each been reproduced once from blank page but remain unticked until later cold repeat in the second-pass sprint. Next target: P09 sinc²(ΔkL/2) integration derivation. |
-| Task 2: Calculations | Not started |
-| Task 3: Stock explanations | In progress — confocal microscopy trade-off, multiphoton depth penetration, contrast agents, fluorescent labelling limits, label-free chemical-specific imaging examples, Raman chemical specificity, spontaneous Raman vs SRS, SRS detection, lock-in detection, and SRS energy-level picture drilled across Sessions 2–3; leave boxes unticked until cold repeat |
-| Task 4: Past paper drills | Not started |
+| Task 1: Derivations | Complete for first full blank-page coverage. P01, P02, P03, P04, P05, P06, P07, P08, P09, P10, and P11 are now ticked after successful blank-page reproduction across the derivation sessions. Two further full cold-pass checkboxes have been added for overlearning before the exam. |
+| Task 2: Calculations | Not started — begin with formula recall drill, then recurring calculations. |
+| Task 3: Stock explanations | In progress — confocal microscopy trade-off, multiphoton depth penetration, contrast agents, fluorescent labelling limits, label-free chemical-specific imaging examples, Raman chemical specificity, spontaneous Raman vs SRS, SRS detection, lock-in detection, and SRS energy-level picture drilled across Sessions 2–3; leave boxes unticked until cold repeat. |
+| Task 4: Past paper drills | Not started. |
+
+### Latest session summary
+
+- Topics covered: P07 nonlinear wave equation from Maxwell's; P08 SFG coupled amplitude equation; P09 sinc²(ΔkL/2) phase-matching derivation; P10 nonlinear resolution squeeze; P06 Gaussian time-bandwidth product; P04 Gaussian FWHM; P11 Raman Taylor expansion to Rayleigh, Stokes, and anti-Stokes components.
+- Exam skills practiced: blank-page derivation reproduction, source-term identification, phase-matching interpretation, Gaussian width manipulation, Fourier/TBP convention handling, and Raman sideband derivation from polarizability modulation.
+- Weaknesses repaired: clarified that P⁽²⁾ contains pairwise field products and that SFG isolates the E₁E₂ term; clarified intensity vs field-width convention in TBP giving σν = 1/(4πσt); clarified Q as vibrational coordinate, α as polarizability, ωL as laser angular frequency, and α(Q) → α(t) through Q(t).
+- Weaknesses still to monitor: P06 convention traps; P08/P09 sign and phase-factor bookkeeping; P11 notation consistency using μ_ind = αE and the Raman activity condition (dα/dQ)₀ ≠ 0.
+- Next recommended task: do full cold derivation pass 2 across all core derivations without explanations, then pass 3 under time pressure. After that, move to formula recall and recurring calculation drills.
+- Readiness status update: Task 1 first full derivation coverage is complete; derivations now need overlearning, speed, and exam-pressure reliability rather than first learning.
+
+### Earlier session notes retained
 
 - Exam revision started. Direct commit test from ChatGPT chat.
-- P01 Lorentz oscillator → χ⁽¹⁾(ω): replicated once successfully from scratch with no errors. Do not tick complete until reproduced cold again later without prompting.
-- P02 SHG χ⁽²⁾ via perturbation theory: replicated once successfully from scratch. Remaining issue: notation around r₂ amplitudes/components and μ⁽²⁾/P⁽²⁾/χ⁽²⁾ needs consolidation before mastery tick.
-- P02 SHG χ⁽²⁾ via perturbation theory: blank-page success using unified notation r₁ = r₁^(ω)e^(-iωt), r₂ = r₂^(2ω)e^(-2iωt). Strong replication, but leave unticked until later cold repeat.
-- P03 χ⁽²⁾ = 0 for centrosymmetric materials: completed from blank page once. Leave unticked until later cold repeat.
-- P05 Rayleigh criterion → d = 0.61λ/NA: completed from blank page once after clarifying α, θ_min, NA, and the D/f geometry. Leave unticked until later cold repeat.
-- Session 2: reinforced Rayleigh criterion, NA = n sin α, and the model answer linking wider collected diffraction cone/higher spatial frequencies to improved resolution. P05 remains unticked until later cold repeat.
+- P01 Lorentz oscillator → χ⁽¹⁾(ω): replicated once successfully from scratch with no errors, then later reproduced cold and ticked.
+- P02 SHG χ⁽²⁾ via perturbation theory: replicated from scratch; notation around r₂ amplitudes/components and μ⁽²⁾/P⁽²⁾/χ⁽²⁾ consolidated; later reproduced fully from blank page and ticked.
+- P03 χ⁽²⁾ = 0 for centrosymmetric materials: completed from blank page and ticked.
+- P05 Rayleigh criterion → d = 0.61λ/NA: completed from blank page after clarifying α, θ_min, NA, and D/f geometry; now ticked as part of full derivation coverage.
+- Session 2: reinforced Rayleigh criterion, NA = n sin α, and the model answer linking wider collected diffraction cone/higher spatial frequencies to improved resolution.
 - Session 2: confocal fluorescence microscopy trade-off drilled. Initial answer marked 4/5; key fix was to explicitly say the pinhole rejects out-of-focus fluorescence and to avoid overclaiming against widefield. Needs one cold repeat before ticking stock explanation mastery.
 - Session 2: multiphoton microscopy depth penetration drilled to 4/4 standard: fs pulsed near-IR source, nonlinear simultaneous absorption, excitation probability ∝ I², localized focal volume, intrinsic optical sectioning, and reduced scattering at longer wavelength.
 - Session 2: contrast agents and chemical specificity drilled to 3/3 standard: selective binding/accumulation plus distinct optical absorption/fluorescence allows target spatial distribution to be mapped.
 - Session 2: fluorescent labelling limits for small molecules drilled to 4/4 standard: labels are tolerable on large proteins but comparable/significant for drugs/metabolites, perturbing diffusion, binding, protein/enzyme interactions, uptake, metabolism, and native behaviour.
 - Session 2: application question drilled: mapping neurotransmitters/drugs/metabolites in living tissue requires chemical specificity but exogenous labels perturb small molecules and may be unsafe/impractical; Raman spectroscopy can provide label-free molecular identification via intrinsic vibrational signatures. Safer exam example: drug or metabolite mapping in living cells/tissue.
-- Session 2 next recommended task was completed in Session 3: move into Raman/SRS chemical specificity.
 - Session 3: Raman chemical specificity drilled. Initial answer marked 3.5/5. Strong points: Raman shift linked to molecular vibrations/bond structure, intrinsic molecular signature, and label-free advantage for small molecules. Fixes needed: avoid describing SRS as direct band-pass detection of emitted Raman-shifted light, and separate label-free advantage from the separate longer-wavelength penetration argument.
 - Session 3: spontaneous Raman vs SRS drilled. Answer marked 3.5/4. Strong points: spontaneous Raman is weak/rare and one-beam; SRS uses pump + Stokes; pump-Stokes difference targets a molecular vibration; SRS is faster/stronger for microscopy. Fix: do not say the molecule is already vibrating; say the optical fields coherently drive the resonant vibrational mode.
 - Session 3: SRS detection drilled. Answer marked 3/5. Strong points: pump loss, Stokes gain, molecule left vibrationally excited, tiny intensity change, lock-in detection. Fixes needed: one beam must be deliberately modulated before interaction, and the detected beam is isolated with filters rather than measuring the superposition of both beams.
@@ -136,11 +166,3 @@ Update this as tasks are completed. An agent should ask about this at the start 
 - Session 3: SRS energy-level picture drilled. Answer marked 3/5. Strong points: pump/Stokes involvement, molecule ends vibrationally excited, energy transfer pump → Stokes. Fixes needed: pump promotes the molecule to a virtual state, not a real excited electronic state; avoid saying a Stokes photon is released like fluorescence.
 - Session 3 weaknesses identified: distinguishing spontaneous Raman detection from SRS detection; using “virtual state” consistently; explaining modulation/detection sequence precisely; avoiding fluorescence-style language such as excitation/emission/released photon.
 - Session 3 next recommended task: answer “Explain why SRS microscopy can provide label-free, chemically specific imaging with better speed than spontaneous Raman microscopy” as a 5-mark synthesis answer, then cold-repeat the Raman/SRS stock explanations before ticking any Task 3 boxes.
-- Formula recall drill task requested separately: add a simple exam-prep task to drill required formulas from memory before calculations. Suggested placement: before or inside Task 2, with required formulas including d = 0.61λ/NA, NA = n sin α, Δλ = (λ²/c)Δν, TBP = 0.441, I = P/A, E_pulse = P_avg/f_rep, P_peak = E_pulse/τ, Raman/Stokes frequency relations, ν̃ = (1/2πc)√(k/μ), and λ = 1/ν̃.
-- Current derivation session: P01 Lorentz oscillator → χ⁽¹⁾(ω) reproduced cold without looking at the model; marked as mastered and ticked.
-- Current derivation session: P02 SHG χ⁽²⁾ via perturbation theory reproduced fully from blank page, including clarification that P⁽²⁾ = ε₀χ⁽²⁾E₀² is acceptable as an amplitude shortcut but P⁽²⁾(2ω) or P₀⁽²⁾(2ω) is cleaner notation; marked as mastered and ticked.
-- Current derivation session: P03 χ⁽²⁾ = 0 for centrosymmetric materials reproduced correctly from blank page using the symmetry/perturbation argument; marked as mastered and ticked.
-- Current derivation sprint: P07 nonlinear wave equation from Maxwell's reproduced correctly from blank page. Keep unticked until the planned second-pass cold repeat.
-- Current derivation sprint: P08 coupled amplitude equation for SFG drilled from physical setup through nonlinear polarization source, phase mismatch, SVEA, cancellation of linear terms, and final dA₃/dz equation. User reports ability to reproduce it from blank page. Keep unticked until the planned second-pass cold repeat.
-- Current derivation sprint weaknesses repaired: clarified that P⁽²⁾ is the sum of pairwise products of field components, not just an isolated E²; for SFG the derivation isolates the E₁E₂ cross-term oscillating at ω₁ + ω₂ and uses it as the source for E₃.
-- Next recommended task: continue first-pass sprint with P09, deriving the sinc²(ΔkL/2) conversion-efficiency dependence by integrating dA₃/dz over crystal length L.
