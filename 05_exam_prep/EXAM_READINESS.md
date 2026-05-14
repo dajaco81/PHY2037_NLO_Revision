@@ -111,9 +111,9 @@ Update this as tasks are completed. An agent should ask about this at the start 
 
 | Task | Status |
 |------|--------|
-| Task 1: Derivations | In progress — P01 replicated once successfully; P02 replicated twice successfully including one blank-page success with unified notation; P03 replicated once successfully from blank page; P05 replicated once successfully from blank page; mastery not yet ticked |
+| Task 1: Derivations | In progress — P01 replicated once successfully; P02 replicated twice successfully including one blank-page success with unified notation; P03 replicated once successfully from blank page; P05 replicated once successfully from blank page and reinforced in Session 2; mastery not yet ticked |
 | Task 2: Calculations | Not started |
-| Task 3: Stock explanations | Not started |
+| Task 3: Stock explanations | In progress — confocal microscopy trade-off, multiphoton depth penetration, contrast agents, fluorescent labelling limits, and label-free chemical-specific imaging examples drilled in Session 2; leave boxes unticked until cold repeat |
 | Task 4: Past paper drills | Not started |
 
 - Exam revision started. Direct commit test from ChatGPT chat.
@@ -122,3 +122,10 @@ Update this as tasks are completed. An agent should ask about this at the start 
 - P02 SHG χ⁽²⁾ via perturbation theory: blank-page success using unified notation r₁ = r₁^(ω)e^(-iωt), r₂ = r₂^(2ω)e^(-2iωt). Strong replication, but leave unticked until later cold repeat.
 - P03 χ⁽²⁾ = 0 for centrosymmetric materials: completed from blank page once. Leave unticked until later cold repeat.
 - P05 Rayleigh criterion → d = 0.61λ/NA: completed from blank page once after clarifying α, θ_min, NA, and the D/f geometry. Leave unticked until later cold repeat.
+- Session 2: reinforced Rayleigh criterion, NA = n sin α, and the model answer linking wider collected diffraction cone/higher spatial frequencies to improved resolution. P05 remains unticked until later cold repeat.
+- Session 2: confocal fluorescence microscopy trade-off drilled. Initial answer marked 4/5; key fix was to explicitly say the pinhole rejects out-of-focus fluorescence and to avoid overclaiming against widefield. Needs one cold repeat before ticking stock explanation mastery.
+- Session 2: multiphoton microscopy depth penetration drilled to 4/4 standard: fs pulsed near-IR source, nonlinear simultaneous absorption, excitation probability ∝ I², localized focal volume, intrinsic optical sectioning, and reduced scattering at longer wavelength.
+- Session 2: contrast agents and chemical specificity drilled to 3/3 standard: selective binding/accumulation plus distinct optical absorption/fluorescence allows target spatial distribution to be mapped.
+- Session 2: fluorescent labelling limits for small molecules drilled to 4/4 standard: labels are tolerable on large proteins but comparable/significant for drugs/metabolites, perturbing diffusion, binding, protein/enzyme interactions, uptake, metabolism, and native behaviour.
+- Session 2: application question drilled: mapping neurotransmitters/drugs/metabolites in living tissue requires chemical specificity but exogenous labels perturb small molecules and may be unsafe/impractical; Raman spectroscopy can provide label-free molecular identification via intrinsic vibrational signatures. Safer exam example: drug or metabolite mapping in living cells/tissue.
+- Next recommended task: cold-repeat the Task 3 stock explanations just covered, then move to Jablonski diagram/non-parametric fluorescence and IR vs Raman selection rules.
