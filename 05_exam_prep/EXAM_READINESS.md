@@ -16,7 +16,7 @@ Attempt each derivation from scratch on paper. Do not look at notes until you ha
 |---|-----------|-------------|------|
 | P01 | Lorentz oscillator → χ⁽¹⁾(ω) | CERTAIN — every exam | [x] |
 | P02 | SHG χ⁽²⁾ via perturbation theory | CERTAIN — up to 8 marks | [x] |
-| P03 | χ⁽²⁾ = 0 for centrosymmetric materials (perturbation) | CERTAIN — every exam | [ ] |
+| P03 | χ⁽²⁾ = 0 for centrosymmetric materials (perturbation) | CERTAIN — every exam | [x] |
 | P05 | Rayleigh criterion → d = 0.61λ/NA | HIGH — 2 of 3 years | [ ] |
 | P07 | Nonlinear wave equation from Maxwell's | HIGH — 2024 Q4 [6 marks] | [ ] |
 | P08 | Coupled amplitude equation (SFG dA₃/dz) | HIGH | [ ] |
@@ -111,7 +111,7 @@ Update this as tasks are completed. An agent should ask about this at the start 
 
 | Task | Status |
 |------|--------|
-| Task 1: Derivations | In progress — P01 and P02 now ticked after true blank-page reproduction without looking at the model. P03 replicated once successfully from blank page; P05 replicated once successfully from blank page and reinforced in Session 2; both remain unticked until later cold repeat. Next target: P03 cold repeat, then P05 cold repeat, then P07 nonlinear wave equation. |
+| Task 1: Derivations | In progress — P01, P02, and P03 now ticked after true blank-page reproduction without looking at the model. P05 replicated once successfully from blank page and reinforced in Session 2; remains unticked until later cold repeat. Next target: P05 cold repeat, then P07 nonlinear wave equation. |
 | Task 2: Calculations | Not started |
 | Task 3: Stock explanations | In progress — confocal microscopy trade-off, multiphoton depth penetration, contrast agents, fluorescent labelling limits, label-free chemical-specific imaging examples, Raman chemical specificity, spontaneous Raman vs SRS, SRS detection, lock-in detection, and SRS energy-level picture drilled across Sessions 2–3; leave boxes unticked until cold repeat |
 | Task 4: Past paper drills | Not started |
@@ -139,3 +139,4 @@ Update this as tasks are completed. An agent should ask about this at the start 
 - Formula recall drill task requested separately: add a simple exam-prep task to drill required formulas from memory before calculations. Suggested placement: before or inside Task 2, with required formulas including d = 0.61λ/NA, NA = n sin α, Δλ = (λ²/c)Δν, TBP = 0.441, I = P/A, E_pulse = P_avg/f_rep, P_peak = E_pulse/τ, Raman/Stokes frequency relations, ν̃ = (1/2πc)√(k/μ), and λ = 1/ν̃.
 - Current derivation session: P01 Lorentz oscillator → χ⁽¹⁾(ω) reproduced cold without looking at the model; marked as mastered and ticked.
 - Current derivation session: P02 SHG χ⁽²⁾ via perturbation theory reproduced fully from blank page, including clarification that P⁽²⁾ = ε₀χ⁽²⁾E₀² is acceptable as an amplitude shortcut but P⁽²⁾(2ω) or P₀⁽²⁾(2ω) is cleaner notation; marked as mastered and ticked.
+- Current derivation session: P03 χ⁽²⁾ = 0 for centrosymmetric materials reproduced correctly from blank page using the symmetry/perturbation argument; marked as mastered and ticked.
