@@ -111,7 +111,7 @@ Update this as tasks are completed. An agent should ask about this at the start 
 
 | Task | Status |
 |------|--------|
-| Task 1: Derivations | In progress — P01, P02, and P03 now ticked after true blank-page reproduction without looking at the model. P05 replicated once successfully from blank page and reinforced in Session 2; remains unticked until later cold repeat. Next target: P05 cold repeat, then P07 nonlinear wave equation. |
+| Task 1: Derivations | In progress — P01, P02, and P03 ticked after true blank-page reproduction without looking at the model. P05, P07, and P08 have each been reproduced once from blank page but remain unticked until later cold repeat in the second-pass sprint. Next target: P09 sinc²(ΔkL/2) integration derivation. |
 | Task 2: Calculations | Not started |
 | Task 3: Stock explanations | In progress — confocal microscopy trade-off, multiphoton depth penetration, contrast agents, fluorescent labelling limits, label-free chemical-specific imaging examples, Raman chemical specificity, spontaneous Raman vs SRS, SRS detection, lock-in detection, and SRS energy-level picture drilled across Sessions 2–3; leave boxes unticked until cold repeat |
 | Task 4: Past paper drills | Not started |
@@ -140,3 +140,7 @@ Update this as tasks are completed. An agent should ask about this at the start 
 - Current derivation session: P01 Lorentz oscillator → χ⁽¹⁾(ω) reproduced cold without looking at the model; marked as mastered and ticked.
 - Current derivation session: P02 SHG χ⁽²⁾ via perturbation theory reproduced fully from blank page, including clarification that P⁽²⁾ = ε₀χ⁽²⁾E₀² is acceptable as an amplitude shortcut but P⁽²⁾(2ω) or P₀⁽²⁾(2ω) is cleaner notation; marked as mastered and ticked.
 - Current derivation session: P03 χ⁽²⁾ = 0 for centrosymmetric materials reproduced correctly from blank page using the symmetry/perturbation argument; marked as mastered and ticked.
+- Current derivation sprint: P07 nonlinear wave equation from Maxwell's reproduced correctly from blank page. Keep unticked until the planned second-pass cold repeat.
+- Current derivation sprint: P08 coupled amplitude equation for SFG drilled from physical setup through nonlinear polarization source, phase mismatch, SVEA, cancellation of linear terms, and final dA₃/dz equation. User reports ability to reproduce it from blank page. Keep unticked until the planned second-pass cold repeat.
+- Current derivation sprint weaknesses repaired: clarified that P⁽²⁾ is the sum of pairwise products of field components, not just an isolated E²; for SFG the derivation isolates the E₁E₂ cross-term oscillating at ω₁ + ω₂ and uses it as the source for E₃.
+- Next recommended task: continue first-pass sprint with P09, deriving the sinc²(ΔkL/2) conversion-efficiency dependence by integrating dA₃/dz over crystal length L.
