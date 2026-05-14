@@ -14,8 +14,8 @@ Attempt each derivation from scratch on paper. Do not look at notes until you ha
 
 | # | Derivation | Exam weight | Done |
 |---|-----------|-------------|------|
-| P01 | Lorentz oscillator → χ⁽¹⁾(ω) | CERTAIN — every exam | [ ] |
-| P02 | SHG χ⁽²⁾ via perturbation theory | CERTAIN — up to 8 marks | [ ] |
+| P01 | Lorentz oscillator → χ⁽¹⁾(ω) | CERTAIN — every exam | [x] |
+| P02 | SHG χ⁽²⁾ via perturbation theory | CERTAIN — up to 8 marks | [x] |
 | P03 | χ⁽²⁾ = 0 for centrosymmetric materials (perturbation) | CERTAIN — every exam | [ ] |
 | P05 | Rayleigh criterion → d = 0.61λ/NA | HIGH — 2 of 3 years | [ ] |
 | P07 | Nonlinear wave equation from Maxwell's | HIGH — 2024 Q4 [6 marks] | [ ] |
@@ -111,7 +111,7 @@ Update this as tasks are completed. An agent should ask about this at the start 
 
 | Task | Status |
 |------|--------|
-| Task 1: Derivations | In progress — P01 replicated once successfully; P02 replicated twice successfully including one blank-page success with unified notation; P03 replicated once successfully from blank page; P05 replicated once successfully from blank page and reinforced in Session 2; mastery not yet ticked |
+| Task 1: Derivations | In progress — P01 and P02 now ticked after true blank-page reproduction without looking at the model. P03 replicated once successfully from blank page; P05 replicated once successfully from blank page and reinforced in Session 2; both remain unticked until later cold repeat. Next target: P03 cold repeat, then P05 cold repeat, then P07 nonlinear wave equation. |
 | Task 2: Calculations | Not started |
 | Task 3: Stock explanations | In progress — confocal microscopy trade-off, multiphoton depth penetration, contrast agents, fluorescent labelling limits, label-free chemical-specific imaging examples, Raman chemical specificity, spontaneous Raman vs SRS, SRS detection, lock-in detection, and SRS energy-level picture drilled across Sessions 2–3; leave boxes unticked until cold repeat |
 | Task 4: Past paper drills | Not started |
@@ -132,8 +132,10 @@ Update this as tasks are completed. An agent should ask about this at the start 
 - Session 3: Raman chemical specificity drilled. Initial answer marked 3.5/5. Strong points: Raman shift linked to molecular vibrations/bond structure, intrinsic molecular signature, and label-free advantage for small molecules. Fixes needed: avoid describing SRS as direct band-pass detection of emitted Raman-shifted light, and separate label-free advantage from the separate longer-wavelength penetration argument.
 - Session 3: spontaneous Raman vs SRS drilled. Answer marked 3.5/4. Strong points: spontaneous Raman is weak/rare and one-beam; SRS uses pump + Stokes; pump-Stokes difference targets a molecular vibration; SRS is faster/stronger for microscopy. Fix: do not say the molecule is already vibrating; say the optical fields coherently drive the resonant vibrational mode.
 - Session 3: SRS detection drilled. Answer marked 3/5. Strong points: pump loss, Stokes gain, molecule left vibrationally excited, tiny intensity change, lock-in detection. Fixes needed: one beam must be deliberately modulated before interaction, and the detected beam is isolated with filters rather than measuring the superposition of both beams.
-- Session 3: lock-in detection drilled. Answer marked 3/4. Strong points: known modulation frequency, tiny signal extraction, rejection of out-of-frequency noise, improved precision. Fix: if the Stokes beam is modulated, the usual measurement is pump stimulated Raman loss, not the Stokes amplitude itself.
+- Session 3: lock-in detection drilled. Answer marked 3/4. Strong points: known modulation frequency, tiny signal extraction, rejection of out-frequency noise, improved precision. Fix: if the Stokes beam is modulated, the usual measurement is pump stimulated Raman loss, not the Stokes amplitude itself.
 - Session 3: SRS energy-level picture drilled. Answer marked 3/5. Strong points: pump/Stokes involvement, molecule ends vibrationally excited, energy transfer pump → Stokes. Fixes needed: pump promotes the molecule to a virtual state, not a real excited electronic state; avoid saying a Stokes photon is released like fluorescence.
 - Session 3 weaknesses identified: distinguishing spontaneous Raman detection from SRS detection; using “virtual state” consistently; explaining modulation/detection sequence precisely; avoiding fluorescence-style language such as excitation/emission/released photon.
 - Session 3 next recommended task: answer “Explain why SRS microscopy can provide label-free, chemically specific imaging with better speed than spontaneous Raman microscopy” as a 5-mark synthesis answer, then cold-repeat the Raman/SRS stock explanations before ticking any Task 3 boxes.
 - Formula recall drill task requested separately: add a simple exam-prep task to drill required formulas from memory before calculations. Suggested placement: before or inside Task 2, with required formulas including d = 0.61λ/NA, NA = n sin α, Δλ = (λ²/c)Δν, TBP = 0.441, I = P/A, E_pulse = P_avg/f_rep, P_peak = E_pulse/τ, Raman/Stokes frequency relations, ν̃ = (1/2πc)√(k/μ), and λ = 1/ν̃.
+- Current derivation session: P01 Lorentz oscillator → χ⁽¹⁾(ω) reproduced cold without looking at the model; marked as mastered and ticked.
+- Current derivation session: P02 SHG χ⁽²⁾ via perturbation theory reproduced fully from blank page, including clarification that P⁽²⁾ = ε₀χ⁽²⁾E₀² is acceptable as an amplitude shortcut but P⁽²⁾(2ω) or P₀⁽²⁾(2ω) is cleaner notation; marked as mastered and ticked.
