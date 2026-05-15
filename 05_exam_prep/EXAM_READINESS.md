@@ -43,17 +43,17 @@ Each calculation type has appeared in at least one past paper. Do each one from 
 
 | Calculation | Reference question | Done |
 |------------|-------------------|------|
-| Pulse energy, peak power, peak intensity (E_pulse, P_peak, I_peak) | MODEL Q6, Q19 | [ ] |
-| χ⁽²⁾ and χ⁽³⁾ estimates from E_at (both 5×10¹¹ and 5.14×10¹¹ V/m) | MODEL Q10 | [ ] |
-| Bandwidth: Δν → Δλ via Δλ = (λ²/c)Δν | MODEL Q3, Q19 | [ ] |
-| 1PEF vs 2PEF vs 3PEF resolution (d = 0.61λ/NA, squeeze by 1/√n) | MODEL Q9 | [ ] |
-| Vibrational frequency ν̃ from k and μ_r (reduced mass calculation) | MODEL Q8, Q16 | [ ] |
-| IR wavelength in microns (λ = 1/ν̃ in cm) | MODEL Q16 | [ ] |
-| CARS / Raman Stokes wavelength from pump λ and ν̃_vib | MODEL Q7, Q16 | [ ] |
-| Rayleigh scattering ratio between two wavelengths (λ₁/λ₂)⁴ | MODEL Q20 | [ ] |
-| Infinite square well: molecule length for given absorption wavelength | MODEL Q13 | [ ] |
-| Hydrogen atom absorption wavelength (ΔE = 10.2 eV → λ = 122 nm) | MODEL Q14 | [ ] |
-| CW vs pulsed average power for a given intensity and spot size | MODEL Q15 | [ ] |
+| Pulse energy, peak power, peak intensity (E_pulse, P_peak, I_peak) | MODEL Q6, Q19 | [x] |
+| χ⁽²⁾ and χ⁽³⁾ estimates from E_at (both 5×10¹¹ and 5.14×10¹¹ V/m) | MODEL Q10 | [x] |
+| Bandwidth: Δν → Δλ via Δλ = (λ²/c)Δν | MODEL Q3, Q19 | [x] |
+| 1PEF vs 2PEF vs 3PEF resolution (d = 0.61λ/NA, squeeze by 1/√n) | MODEL Q9 | [x] |
+| Vibrational frequency ν̃ from k and μ_r (reduced mass calculation) | MODEL Q8, Q16 | [x] |
+| IR wavelength in microns (λ = 1/ν̃ in cm) | MODEL Q16 | [x] |
+| CARS / Raman Stokes wavelength from pump λ and ν̃_vib | MODEL Q7, Q16 | [x] |
+| Rayleigh scattering ratio between two wavelengths (λ₁/λ₂)⁴ | MODEL Q20 | [x] |
+| Infinite square well: molecule length for given absorption wavelength | MODEL Q13 | [x] |
+| Hydrogen atom absorption wavelength (ΔE = 10.2 eV → λ = 122 nm) | MODEL Q14 | [x] |
+| CW vs pulsed average power for a given intensity and spot size | MODEL Q15 | [x] |
 
 ### Formula recall drill
 
@@ -66,6 +66,14 @@ Before calculation drills, reproduce required equations from memory. No derivati
 | Susceptibility estimates | χ⁽²⁾ ~ 1/E_at; χ⁽³⁾ ~ 1/E_at²; E_at ≈ 5×10¹¹ V/m | [ ] |
 | Vibrational spectroscopy | ν̃ = (1/2πc)√(k/μ_r); λ = 1/ν̃; Raman/Stokes frequency and wavenumber relations | [ ] |
 | Scattering and absorption | Rayleigh ratio ∝ 1/λ⁴; ΔE = hc/λ; square-well transition scaling | [ ] |
+
+### Calculation overlearning pass
+
+Complete one mixed formula/calculation sheet with one question of each required calculation type to lock the full set under exam pressure.
+
+| Repeat task | Done |
+|-------------|------|
+| One-of-each required calculation formula sheet — mixed timed pass | [ ] |
 
 ---
 
@@ -133,18 +141,18 @@ Update this as tasks are completed. An agent should ask about this at the start 
 | Task | Status |
 |------|--------|
 | Task 1: Derivations | Complete for first full blank-page coverage. P01, P02, P03, P04, P05, P06, P07, P08, P09, P10, and P11 are now ticked after successful blank-page reproduction across the derivation sessions. Two further full cold-pass checkboxes have been added for overlearning before the exam. |
-| Task 2: Calculations | Not started — begin with formula recall drill, then recurring calculations. |
+| Task 2: Calculations | Complete for first-pass coverage. All 11 recurring calculation types have been drilled individually and then reinforced with a 20-question mixed sheet answered correctly. One remaining overlearning tickbox has been added for a one-of-each required calculation formula sheet under timed conditions. |
 | Task 3: Stock explanations | In progress — confocal microscopy trade-off, multiphoton depth penetration, contrast agents, fluorescent labelling limits, label-free chemical-specific imaging examples, Raman chemical specificity, spontaneous Raman vs SRS, SRS detection, lock-in detection, and SRS energy-level picture drilled across Sessions 2–3; leave boxes unticked until cold repeat. |
 | Task 4: Past paper drills | Not started. |
 
 ### Latest session summary
 
-- Topics covered: P07 nonlinear wave equation from Maxwell's; P08 SFG coupled amplitude equation; P09 sinc²(ΔkL/2) phase-matching derivation; P10 nonlinear resolution squeeze; P06 Gaussian time-bandwidth product; P04 Gaussian FWHM; P11 Raman Taylor expansion to Rayleigh, Stokes, and anti-Stokes components.
-- Exam skills practiced: blank-page derivation reproduction, source-term identification, phase-matching interpretation, Gaussian width manipulation, Fourier/TBP convention handling, and Raman sideband derivation from polarizability modulation.
-- Weaknesses repaired: clarified that P⁽²⁾ contains pairwise field products and that SFG isolates the E₁E₂ term; clarified intensity vs field-width convention in TBP giving σν = 1/(4πσt); clarified Q as vibrational coordinate, α as polarizability, ωL as laser angular frequency, and α(Q) → α(t) through Q(t).
-- Weaknesses still to monitor: P06 convention traps; P08/P09 sign and phase-factor bookkeeping; P11 notation consistency using μ_ind = αE and the Raman activity condition (dα/dQ)₀ ≠ 0.
-- Next recommended task: do full cold derivation pass 2 across all core derivations without explanations, then pass 3 under time pressure. After that, move to formula recall and recurring calculation drills.
-- Readiness status update: Task 1 first full derivation coverage is complete; derivations now need overlearning, speed, and exam-pressure reliability rather than first learning.
+- Topics covered: recurring calculations across pulse energy/peak intensity, χ⁽²⁾ and χ⁽³⁾ estimates, bandwidth conversion, nonlinear resolution scaling, vibrational wavenumber, IR wavelength, Raman/Stokes wavelength, Rayleigh scattering, infinite square well length, hydrogen absorption wavelength, and CW power requirement.
+- Exam skills practiced: formula recall, unit conversion, scientific notation, mixed numerical calculation under pressure, and answer-scale checking.
+- Weaknesses repaired: corrected χ⁽²⁾ order-of-magnitude from 10⁻¹⁹ to 10⁻¹² m V⁻¹; tightened intensity notation as W m⁻² / PW m⁻²; reinforced Stokes as lower wavenumber and longer wavelength.
+- Weaknesses still to monitor: maintain unit discipline in final presentation; keep χ⁽²⁾ and χ⁽³⁾ magnitude checks automatic; avoid sign errors in Raman/Stokes wavenumber subtraction.
+- Next recommended task: complete one mixed one-of-each calculation/formula sheet under stricter timing, then move to Task 3 stock explanation answers.
+- Readiness status update: Task 2 first-pass calculation coverage is complete and strong; only one calculation overlearning pass remains before treating calculations as locked.
 
 ### Earlier session notes retained
 
