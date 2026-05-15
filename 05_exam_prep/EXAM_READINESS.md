@@ -33,7 +33,6 @@ Complete two further full cold passes of all core derivations to lock recall und
 | Repeat task | Done |
 |-------------|------|
 | Blank-page all core derivations again — pass 2 | [ ] |
-| Blank-page all core derivations again — pass 3 | [ ] |
 
 ---
 
