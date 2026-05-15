@@ -84,20 +84,20 @@ Check the box only when you can write a complete answer — correct equation, ph
 
 | Topic | Marks | Reference | Done |
 |-------|-------|-----------|------|
-| Jablonski diagram: draw with all transitions labelled (radiative / non-radiative) | 4 | SHORT_ANSWER_BANK / MODEL Q (various) | [ ] |
-| Fluorescence is non-parametric: explain and identify the Jablonski transition that proves it | 2 | MODEL Q (2024 Q1 style) | [ ] |
-| Confocal microscopy: how it achieves 3D sectioning (diagram required) | 4 | SHORT_ANSWER_BANK | [ ] |
-| 2PEF vs confocal: three advantages (intrinsic sectioning, no pinhole needed, depth penetration) | 4–6 | MODEL Q11 | [ ] |
-| IR vs Raman selection rules (both, not just one) | 2–4 | SHORT_ANSWER_BANK | [ ] |
-| Why vibrational transitions give chemical specificity but electronic transitions do not | 4 | SHORT_ANSWER_BANK / PAST_PAPER_SOLUTIONS | [ ] |
-| Phase matching: what it is, why normal dispersion prevents it, three methods to achieve it | 4–6 | SHORT_ANSWER_BANK | [ ] |
-| Gouy phase: why THG is interface-only but FWM occurs in bulk | 2 | MODEL Q18 | [ ] |
-| Parametric vs non-parametric: definitions with examples from each category | 4 | SHORT_ANSWER_BANK | [ ] |
-| CARS vs SRS: how each works, which has non-resonant background and why | 4 | SHORT_ANSWER_BANK | [ ] |
-| Why ps pulses are needed for CARS/SRS (not fs) | 2–3 | SHORT_ANSWER_BANK | [ ] |
-| KLM mode locking: mechanism and how aperture creates pulse selection | 6 | MODEL Q17 | [ ] |
-| SESAM mode locking: band diagram, fast recovery, why it gives ps pulses | 5 | PAST_PAPER_SOLUTIONS (2025 Q4) | [ ] |
-| Why CW excitation cannot produce NLO signals in imaging contexts | 2 | MODEL Q15 | [ ] |
+| Jablonski diagram: draw with all transitions labelled (radiative / non-radiative) | 4 | SHORT_ANSWER_BANK / MODEL Q (various) | [x] |
+| Fluorescence is non-parametric: explain and identify the Jablonski transition that proves it | 2 | MODEL Q (2024 Q1 style) | [x] |
+| Confocal microscopy: how it achieves 3D sectioning (diagram required) | 4 | SHORT_ANSWER_BANK | [x] |
+| 2PEF vs confocal: three advantages (intrinsic sectioning, no pinhole needed, depth penetration) | 4–6 | MODEL Q11 | [x] |
+| IR vs Raman selection rules (both, not just one) | 2–4 | SHORT_ANSWER_BANK | [x] |
+| Why vibrational transitions give chemical specificity but electronic transitions do not | 4 | SHORT_ANSWER_BANK / PAST_PAPER_SOLUTIONS | [x] |
+| Phase matching: what it is, why normal dispersion prevents it, three methods to achieve it | 4–6 | SHORT_ANSWER_BANK | [x] |
+| Gouy phase: why THG is interface-only but FWM occurs in bulk | 2 | MODEL Q18 | [x] |
+| Parametric vs non-parametric: definitions with examples from each category | 4 | SHORT_ANSWER_BANK | [x] |
+| CARS vs SRS: how each works, which has non-resonant background and why | 4 | SHORT_ANSWER_BANK | [x] |
+| Why ps pulses are needed for CARS/SRS (not fs) | 2–3 | SHORT_ANSWER_BANK | [x] |
+| KLM mode locking: mechanism and how aperture creates pulse selection | 6 | MODEL Q17 | [x] |
+| SESAM mode locking: band diagram, fast recovery, why it gives ps pulses | 5 | PAST_PAPER_SOLUTIONS (2025 Q4) | [x] |
+| Why CW excitation cannot produce NLO signals in imaging contexts | 2 | MODEL Q15 | [x] |
 
 ---
 
