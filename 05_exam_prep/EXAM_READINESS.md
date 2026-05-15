@@ -61,11 +61,11 @@ Before calculation drills, reproduce required equations from memory. No derivati
 
 | Formula group | Required recall | Done |
 |---------------|-----------------|------|
-| Resolution and NA | d = 0.61λ/NA; NA = n sin α; nonlinear squeeze FWHM/√n | [ ] |
-| Pulses and bandwidth | E_pulse = P_avg/f_rep; P_peak = E_pulse/τ; I = P/A; ΔνΔt = 0.441; Δλ = (λ²/c)Δν | [ ] |
-| Susceptibility estimates | χ⁽²⁾ ~ 1/E_at; χ⁽³⁾ ~ 1/E_at²; E_at ≈ 5×10¹¹ V/m | [ ] |
-| Vibrational spectroscopy | ν̃ = (1/2πc)√(k/μ_r); λ = 1/ν̃; Raman/Stokes frequency and wavenumber relations | [ ] |
-| Scattering and absorption | Rayleigh ratio ∝ 1/λ⁴; ΔE = hc/λ; square-well transition scaling | [ ] |
+| Resolution and NA | d = 0.61λ/NA; NA = n sin α; nonlinear squeeze FWHM/√n | [x] |
+| Pulses and bandwidth | E_pulse = P_avg/f_rep; P_peak = E_pulse/τ; I = P/A; ΔνΔt = 0.441; Δλ = (λ²/c)Δν | [x] |
+| Susceptibility estimates | χ⁽²⁾ ~ 1/E_at; χ⁽³⁾ ~ 1/E_at²; E_at ≈ 5×10¹¹ V/m | [x] |
+| Vibrational spectroscopy | ν̃ = (1/2πc)√(k/μ_r); λ = 1/ν̃; Raman/Stokes frequency and wavenumber relations | [x] |
+| Scattering and absorption | Rayleigh ratio ∝ 1/λ⁴; ΔE = hc/λ; square-well transition scaling | [x] |
 
 ### Calculation overlearning pass
 
